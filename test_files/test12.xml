@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 12</title>
+    <id>12</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">This time let's put some text between the two sets of angle brackets.<b>This text would be bold, and should be included.</b>This text would not be bold, and should also be included.</text>
+    </revision>
+  </page>
+</mediawiki>

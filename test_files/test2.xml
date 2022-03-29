@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 2</title>
+    <id>2</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">This file still just has basic text, no formatting, but now it has capitalization and punctuation.</text>
+    </revision>
+  </page>
+</mediawiki>

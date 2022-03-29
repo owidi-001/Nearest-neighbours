@@ -1,0 +1,463 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Florence Griffith Joyner</title>
+    <ns>0</ns>
+    <id>72650</id>
+    <revision>
+      <id>1035388387</id>
+      <parentid>1035388292</parentid>
+      <timestamp>2021-07-25T10:53:00Z</timestamp>
+      <contributor>
+        <ip>2A0A:A547:2536:0:BDC6:772E:5424:FB4C</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59472" xml:space="preserve">{{short description|American track and field athlete (1959–1998)}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox sportsperson
+| name = Florence Griffith-Joyner
+| image = Florence Griffith Joyner2.jpg
+| imagesize = 
+| caption = Griffith Joyner in 1988
+| fullname = 
+| nickname = Flo-Jo&lt;ref name="sports-reference.com"/&gt;
+| nationality = American
+| event = [[100 meters]], [[200 meters]]
+| club = Tiger World Class Athletic Club&lt;br/&gt;West Coast Athletic Club
+| collegeteam = 
+| birth_name = Florence Delorez Griffith&lt;ref name=AA&gt;{{cite book |url=https://books.google.com/books?id=iSxylfm58foC&amp;q=florence+delorez+griffith&amp;pg=PA91 |title=African-Jamaican Athletes |author=Nathan Aaseng |date=&lt;!--Not stated--&gt; |publisher=Infobase |isbn=9781438107783 |access-date=January 7, 2018 }}&lt;/ref&gt;
+| birth_date = {{birth date|1959|12|21}}&lt;ref name="sports-reference.com"/&gt;
+| birth_place = [[Los Angeles]], [[California]], U.S.&lt;ref name="sports-reference.com"/&gt;
+| residence = 
+| retired = 1988
+| death_date = {{death date and age|1998|9|21|1959|12|21}}&lt;ref name="sports-reference.com"/&gt;
+| death_place = [[Mission Viejo, California]], U.S.&lt;ref name="sports-reference.com"/&gt;
+| height = 5 ft 7 in&lt;ref name="sports-reference.com"&gt;{{cite Sports-Reference|title=Florence Griffith Joyner|url=https://www.sports-reference.com/olympics/athletes/gr/florence-griffith-joyner-1.html|archive-url=https://web.archive.org/web/20200417040709/https://www.sports-reference.com/olympics/athletes/gr/florence-griffith-joyner-1.html|url-status=dead|archive-date=April 17, 2020|work=sports-reference.com|access-date=October 28, 2020}}&lt;/ref&gt;
+| weight = 126 lb&lt;ref name="sports-reference.com"/&gt;
+| pb = '''100 m''': 10.49{{AthAbbr|w}} '''[[List of world records in athletics|WR]]'''{{refn|group=note|name=10.49|It is widely believed that the anemometer was faulty for the race in which Florence Griffith Joyner set the official world record for the women's 100 m of 10.49 s.&lt;ref name="Linthorne"&gt;{{cite web|url=http://www.brunel.ac.uk/~spstnpl/Publications/IAAFReport(Linthorne).pdf|title=The 100-m World Record by Florence Griffith-Joyner at the 1988 U.S. Olympic Trials|last=Linthorne|first=Nicholas P.|date=June 1995|publisher=Brunel University|access-date=March 24, 2012|archive-url=https://web.archive.org/web/20120916095446/http://www.brunel.ac.uk/~spstnpl/Publications/IAAFReport(Linthorne).pdf|archive-date=September 16, 2012|url-status=live}}&lt;/ref&gt; A 1995 report commissioned by the IAAF estimated the true wind speed was between +5.0&amp;nbsp;m/s and +7.0&amp;nbsp;m/s, rather than the 0.0 recorded.&lt;ref name="Linthorne"/&gt; If this time, recorded in the quarter-final of the 1988 U.S. Olympic trials, were excluded, the world record would be 10.61 s, recorded the next day at the same venue by the same athlete in the final.&lt;ref name="Linthorne"/&gt;&lt;wbr&gt;&lt;ref&gt;{{cite web|url=http://www.iaaf.org/statistics/toplists/inout=o/age=n/season=0/sex=W/all=y/legal=A/disc=100/detail.html|title=Women's outdoor 100m|date=September 17, 2011|work=All-time top lists|publisher=IAAF|access-date=March 24, 2012|archive-url=https://web.archive.org/web/20120407125204/http://www.iaaf.org/statistics/toplists/inout=o/age=n/season=0/sex=W/all=y/legal=A/disc=100/detail.html|archive-date=April 7, 2012|url-status=live}}&lt;/ref&gt;}}&lt;br&gt;'''200 m''': 21.34 '''[[List of world records in athletics|WR]]'''&lt;br&gt;'''400m''': 50.89&lt;br&gt;'''4 × 100m''': 41.55&lt;br&gt;'''4 × 400m''': 3:15.51 '''[[List of North American records in athletics#Women|AR]]'''
+| national_team = [[United States national athletics team|United States]]
+| medaltemplates = {{MedalCountry | the {{USA}} }}
+{{MedalOlympic}}
+{{MedalGold |[[1988 Summer Olympics|1988 Seoul]] | [[Athletics at the 1988 Summer Olympics – Women's 100 metres|100 m]]}}
+{{MedalGold |1988 Seoul | [[Athletics at the 1988 Summer Olympics – Women's 200 metres|200 m]]}}
+{{MedalGold |1988 Seoul | [[Athletics at the 1988 Summer Olympics – Women's 4 × 100 metres relay|4×100 m]]}}
+{{MedalSilver |[[1984 Summer Olympics|1984 Los Angeles]] | [[Athletics at the 1984 Summer Olympics – Women's 200 metres|200 m]]}}
+{{MedalSilver |1988 Seoul | [[Athletics at the 1988 Summer Olympics – Women's 4 × 400 metres relay|4×400 m]]}}
+{{MedalCompetition|[[IAAF World Championships in Athletics|World Championships]]}}
+{{MedalGold |[[1987 World Championships in Athletics|1987 Rome]]|[[1987 World Championships in Athletics – Women's 4 × 100 metres relay|4×100 m]]}}
+{{MedalSilver|1987 Rome|[[1987 World Championships in Athletics – Women's 200 metres|200 m]]}}
+}}
+'''Florence Delorez Griffith Joyner'''&lt;ref&gt;{{cite book|last=Whitaker|first=Matthew C. |title=Icons of Black America: Breaking Barriers and Crossing Boundaries, Volume 1|volume=1|year=2011|publisher=ABC-CLIO|isbn=978-0-313-37642-9|page=520}}&lt;/ref&gt; (born '''Florence Delorez Griffith''';&lt;ref name=AA/&gt; December 21, 1959 – September 21, 1998), also known as '''Flo-Jo''', was an American [[track and field]] athlete. She is  the fastest woman of all time;&lt;ref&gt;{{cite news| title=FloJo: World's Fastest Woman| url=http://sportsillustrated.cnn.com/olympics/features/joyner/gallery/| work=CNN| access-date=October 20, 2012| archive-url=https://web.archive.org/web/20120825133018/http://sportsillustrated.cnn.com/olympics/features/joyner/gallery/| archive-date=August 25, 2012| url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://usatoday30.usatoday.com/sports/olympics/2011-06-22-carmelita-jeter-womens-100_n.htm | work=USA Today | title=World's fastest woman Carmelita Jeter seeks Olympic gold | date=June 22, 2011 | access-date=October 20, 2012 | archive-url=https://web.archive.org/web/20140221065726/http://usatoday30.usatoday.com/sports/olympics/2011-06-22-carmelita-jeter-womens-100_n.htm | archive-date=February 21, 2014 | url-status=live }}&lt;/ref&gt;&lt;ref&gt;[http://www.legacy.com/ns/news-story.aspx?t=florence-griffith-joyner--the-fastest-woman-on-earth&amp;id=196 Florence Griffith Joyner: Fastest Woman on Earth]. Legacy.com. December 21, 2010.&lt;/ref&gt; the world records she set in 1988 for both the [[100 m]] and [[200 m]] still stand. 
+During the late 1980s she became a popular figure due to both her record-setting athleticism and eclectic personal style.
+
+Griffith-Joyner was born and raised in [[California]]. She was athletic from a young age and began running track meets as a child. While attending [[California State University, Northridge]] (CSUN) and [[University of California, Los Angeles]] (UCLA), she continued to compete in track and field. While still in college, Griffith-Joyner qualified for the 100 m [[1980 Summer Olympics|1980 Olympics]], although she did not actually compete due to the [[1980 Summer Olympics boycott|U.S. boycott]]. She made her Olympic debut four years later, winning a silver medal in the 200 meter distance at the [[1984 Summer Olympics|1984 Olympics]] held in Los Angeles. At the [[1988 United States Olympic Trials (track and field)|1988 U.S. Olympic trials]], Griffith set a new world record in the 100 meter sprint. She went on to win three gold medals at the [[1988 Summer Olympics|1988 Olympics]].
+
+In February 1989, she abruptly retired. After her retirement from athletics, Griffith-Joyner remained a pop culture figure through endorsement deals, acting, and designing. She died in her sleep as the result of an [[epileptic seizure]] in 1998 at the age of 38.
+
+== Early life ==
+Griffith was born in [[Los Angeles]], California, seventh of eleven children born to Robert, an electrician and Florence Griffith, a seamstress.&lt;ref name=AA/&gt;&lt;ref name=":6"&gt;{{Cite web|url=http://www.people.com/people/archive/article/0,,20099786,00.html|title=Flashy Florence Griffith Joyner Will Be the One to Watch—and Clock—in the Women's Sprints : People.com|date=August 29, 1988|website=www.people.com|access-date=July 22, 2016|volume=30|issue=9|archive-url=https://web.archive.org/web/20160914215523/http://www.people.com/people/archive/article/0,,20099786,00.html|archive-date=September 14, 2016|url-status=live}}&lt;/ref&gt; The family lived in [[Littlerock, California]] before Florence Griffith moved with her children to the [[Jordan Downs]] public housing complex located in the [[Watts, Los Angeles|Watts]] section of Los Angeles.&lt;ref name=":2"&gt;{{Cite news|url=https://articles.latimes.com/2000/jan/15/local/me-54154|title=School Renamed for Late Track Star Griffith Joyner|last=BRIGGS|first=JOHNATHON E.|date=January 15, 2000|work=Los Angeles Times|language=en-US|issn=0458-3035|access-date=July 24, 2016|archive-url=https://web.archive.org/web/20160819102144/http://articles.latimes.com/2000/jan/15/local/me-54154|archive-date=August 19, 2016|url-status=live}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cite web|url=http://lawattstimes.com/index.php?option=com_content&amp;view=article&amp;id=342:the-mother-behind-the-olympian-reveals-the-spirit-that-was-flo-jo&amp;catid=12&amp;Itemid=110|title=The mother behind the Olympian reveals the spirit that was Flo Jo|last=Childs|first=Joy|date=August 10, 2012|website=lawattstimes.com|access-date=July 24, 2016|archive-url=https://web.archive.org/web/20160705094757/http://lawattstimes.com/index.php?option=com_content&amp;view=article&amp;id=342:the-mother-behind-the-olympian-reveals-the-spirit-that-was-flo-jo&amp;catid=12&amp;Itemid=110|archive-date=July 5, 2016|url-status=live}}&lt;/ref&gt;
+
+When Griffith was in elementary school, she joined the Sugar Ray Robinson Organization, running in track meets on weekends.&lt;ref name=":3" /&gt; She won the Jesse Owens National Youth Games two years in a row, at the ages of 14 and 15.&lt;ref name=":4"&gt;{{Cite web|url=http://espn.go.com/classic/s/add_griffith_joyner_florence.html|title=ESPN Classic - FloJo sets 100 record at 1988 Olympic Trials|last=Schwartz|first=Kris|date=July 16, 1998|website=espn.go.com|access-date=July 24, 2016|archive-url=https://web.archive.org/web/20140521075523/http://espn.go.com/classic/s/add_griffith_joyner_florence.html|archive-date=May 21, 2014|url-status=live}}&lt;/ref&gt; Griffith ran track at [[Jordan High School (Los Angeles, California)|Jordan High School]] in Los Angeles.&lt;ref name=":3" /&gt;
+
+Showing an early interest in fashion, Griffith persuaded the members of the track team to wear tights with their uniforms.&lt;ref name=":4" /&gt; As a high school senior in 1978, she finished sixth at the [[CIF California State Meet]] behind future teammates [[Alice Brown (sprinter)|Alice Brown]] and [[Pam Marshall]].&lt;ref&gt;{{cite web |url=http://www.prepcaltrack.com/ATHLETICS/TRACK/stateres.htm |title=California State Meet Results – 1915 to present |publisher=prepcaltrack.com |access-date=December 25, 2012 |archive-url=https://web.archive.org/web/20141006092406/http://www.prepcaltrack.com/ATHLETICS/TRACK/stateres.htm |archive-date=October 6, 2014 |url-status=dead }}&lt;/ref&gt; Nevertheless, by the time Griffith graduated from Jordan High School in 1978, she set high school records in sprinting and long jump.&lt;ref name=":7"&gt;{{cite web|url=http://espn.go.com/classic/biography/s/Griffith_Joyner_Florence.html|title=FloJo Made Speed Fashionable|last=Schwartz|first=Kris|work=[[ESPN.com]]|access-date=June 24, 2011|archive-url=https://web.archive.org/web/20110606013739/http://espn.go.com/classic/biography/s/Griffith_Joyner_Florence.html|archive-date=June 6, 2011|url-status=live}}&lt;/ref&gt;
+
+== Career ==
+Griffith attended the [[California State University at Northridge]], and was on the track team coached by [[Bob Kersee]].&lt;ref&gt;{{Cite news|url=https://articles.latimes.com/1988-07-29/sports/sp-7928_1_al-joyner|title=Griffith-Joyner Leaves Kersee's Club; Times|language=en-US|issn=0458-3035|access-date=July 21, 2016|archive-url=https://web.archive.org/web/20160820034527/http://articles.latimes.com/1988-07-29/sports/sp-7928_1_al-joyner|archive-date=August 20, 2016|url-status=live}}&lt;/ref&gt;&lt;ref name=":0"&gt;{{Cite web|url=http://newsroom.ucla.edu/stories/980928fond|title=FOND MEMORIES OF GRIFFITH JOYNER|last=BENNETT|first=BILL|website=UCLA Newsroom|access-date=July 21, 2016|archive-url=https://web.archive.org/web/20160917005315/http://newsroom.ucla.edu/stories/980928fond|archive-date=September 17, 2016|url-status=dead}}&lt;/ref&gt; This team, which included Brown and [[Jeanette Bolden]],&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite web|url=http://www.pasadenasportshalloffame.org/alice-brown.html|title=Alice Brown|website=Pasadena Sports Hall of Fame, Inc.|language=en|archive-url=https://web.archive.org/web/20150614021922/http://www.pasadenasportshalloffame.org/alice-brown.html|archive-date=June 14, 2015|url-status=dead|access-date=June 24, 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://articles.latimes.com/1987-08-30/sports/sp-4971_1_quarterfinals|title=Brown, Howard Reach Semifinals in Sprint Events|date=August 30, 1987|work=Los Angeles Times|access-date=June 24, 2017|language=en-US|issn=0458-3035|archive-url=https://web.archive.org/web/20170305081443/http://articles.latimes.com/1987-08-30/sports/sp-4971_1_quarterfinals|archive-date=March 5, 2017|url-status=live}}&lt;/ref&gt; won the national championship during Griffith's first year of college.&lt;ref name=":7" /&gt; However, Griffith had to drop out to support her family, taking a job as a bank teller. Kersee found financial aid for Griffith and she returned to college in 1980, this time at [[University of California, Los Angeles|University of California at Los Angeles]] (UCLA) where Kersee was working as a coach.&lt;ref name=":3" /&gt;&lt;ref name=":0" /&gt;&lt;ref&gt;[http://sports.jrank.org/pages/1834/Griffith-Joyner-Florence-Olympic-Dreams.html Florence Griffith Joyner – Olympic Dreams – Kersee, Angeles, Olympics, and Coach] {{Webarchive|url=https://web.archive.org/web/20120623065925/http://sports.jrank.org/pages/1834/Griffith-Joyner-Florence-Olympic-Dreams.html |date=June 23, 2012 }}. Sports.jrank.org. Retrieved on May 11, 2014.&lt;/ref&gt;
+
+Brown, Bolden, and Griffith qualified for the 100-meter final at the trials for the [[1980 Summer Olympics]] (with Brown winning and Griffith finishing last in the final). Griffith also ran the 200 meters, narrowly finishing fourth, a foot out of a qualifying position.&lt;ref name=":4" /&gt; However, the [[U.S. Government]] had already decided to [[1980 Summer Olympics boycott|boycott]] those Olympic Games mooting those results.&lt;ref name="r1"&gt;Hymans, R. (2008) [http://www.legacy.usatf.org/statistics/champions/OlympicTrials/HistoryOfTheOlympicTrials.pdf The History of the United States Olympic Trials – Track &amp; Field] {{Webarchive|url=https://web.archive.org/web/20160327114422/http://www.usatf.org/statistics/champions/OlympicTrials/HistoryOfTheOlympicTrials.pdf |date=March 27, 2016 }}. USA Track &amp; Field. usatf.org&lt;/ref&gt; In 1983, Griffith graduated from [[UCLA]] with her [[bachelor's degree]] in [[psychology]].&lt;ref name=":7" /&gt;
+
+===Olympic runner===
+Griffith finished fourth in the 200-meter sprint at the first [[1983 World Championships in Athletics|World Championship in Athletics]] in 1983.&lt;ref&gt;{{Cite web|url=https://www.iaaf.org/competitions/iaaf-world-championships/1st-iaaf-world-championships-in-athletics-3/results/women/200-metres/final/result|title=IAAF: 200 Metres Result {{!}} 1st IAAF World Championships in Athletics {{!}} iaaf.org|website=iaaf.org|access-date=August 6, 2016|archive-url=https://web.archive.org/web/20160810023023/https://www.iaaf.org/competitions/iaaf-world-championships/1st-iaaf-world-championships-in-athletics-3/results/women/200-metres/final/result|archive-date=August 10, 2016|url-status=live}}&lt;/ref&gt; The following year, Griffith qualified for the Olympics in the 200-meter distance with the second fastest time at the [[1984 United States Olympic Trials (track and field)|United States Olympic Trials]], held in Los Angeles.&lt;ref name=":16"&gt;{{Cite news|url=https://www.si.com/vault/1984/07/02/620407/trials-and-jubilation|title=Trials And Jubilation|last=Moore|first=Kenny|date=July 2, 1984|work=SI.com|access-date=August 30, 2017|archive-url=https://web.archive.org/web/20170830104001/https://www.si.com/vault/1984/07/02/620407/trials-and-jubilation|archive-date=August 30, 2017|url-status=live}}&lt;/ref&gt; [[Evelyn Ashford]], another UCLA alumnus and early favorite to medal,&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/1983/02/23/sports/the-grueling-road-of-evelyn-ashford.html|title=THE GRUELING ROAD OF EVELYN ASHFORD|last=Shah|first=Diane K.|date=February 23, 1983|work=The New York Times|access-date=August 30, 2017|language=en-US|issn=0362-4331|archive-url=https://web.archive.org/web/20170830105123/http://www.nytimes.com/1983/02/23/sports/the-grueling-road-of-evelyn-ashford.html|archive-date=August 30, 2017|url-status=live}}&lt;/ref&gt; dropped out of the 200-meter due to injury.&lt;ref name=":16" /&gt; Griffith went on to win a [[silver medal]] in the [[1984 Summer Olympics]].&lt;ref name=":7" /&gt;
+
+After the 1984 Olympic Games, she spent less time running.&lt;ref name=":15" /&gt; Griffith continued to run part-time,&lt;ref name=":15" /&gt; winning the 100-meter [[IAAF Grand Prix Final]] with the time of 11.00 seconds.&lt;ref&gt;{{Cite web|url=http://www.gbrathletics.com/ic/gp.htm|title=IAAF Grand Prix, Combined Events Challenge and Golden Events|website=www.gbrathletics.com|access-date=May 25, 2017|archive-url=https://www.webcitation.org/67o9y7UoK?url=http://www.gbrathletics.com/ic/gp.htm|archive-date=May 20, 2012|url-status=live}}&lt;/ref&gt; She did not compete at the 1985 U.S. National Championship.&lt;ref&gt;{{Cite news|url=https://articles.latimes.com/1985-06-11/sports/sp-10472_1_dangerous-pole-vaulting-is|title=Track / Mal Florence : Pursley's Mishap Points Out How Dangerous Pole Vaulting Is|last=Florence|first=Mal|date=June 11, 1985|work=Los Angeles Times|access-date=August 30, 2017|language=en-US|issn=0458-3035|archive-url=https://web.archive.org/web/20151212131439/http://articles.latimes.com/1985-06-11/sports/sp-10472_1_dangerous-pole-vaulting-is|archive-date=December 12, 2015|url-status=live}}&lt;/ref&gt; That same year, she returned to working at a bank and styled hair and nails in her spare time.&lt;ref name=":7" /&gt; She married [[Al Joyner]], the Olympic [[triple jump]] champion of 1984, in 1987.&lt;ref name="Rowbottom, Mike" /&gt;
+
+She returned to athletics in April 1987.&lt;ref name=":14"&gt;{{Cite news|url=https://www.theguardian.com/sport/london-2012-olympics-blog/2012/apr/11/olympic-florence-griffith-joyner-seoul|title=50 stunning Olympic moments No22: Florence Griffith Joyner, Seoul 1988|last=Burnton|first=Simon|date=April 11, 2012|work=The Guardian|access-date=June 24, 2017|language=en-GB|issn=0261-3077|archive-url=https://web.archive.org/web/20170830154253/https://www.theguardian.com/sport/london-2012-olympics-blog/2012/apr/11/olympic-florence-griffith-joyner-seoul|archive-date=August 30, 2017|url-status=live}}&lt;/ref&gt; Four months later at the [[1987 World Championships in Athletics|1987 World Championships]] in [[Rome]], Griffith-Joyner finished second in the 200 meter sprint.&lt;ref name=":12"&gt;{{Cite news|url=https://articles.latimes.com/1988-02-05/sports/sp-27516_1_world-championship|title=Griffith-Joyner Ranked 2nd in World for 200 Meters|last=ORTEGA|first=JOHN|date=February 5, 1988|work=Los Angeles Times|language=en-US|issn=0458-3035|access-date=August 21, 2016|archive-url=https://web.archive.org/web/20160829050712/http://articles.latimes.com/1988-02-05/sports/sp-27516_1_world-championship|archive-date=August 29, 2016|url-status=live}}&lt;/ref&gt;&lt;ref name=":14" /&gt; Her success during the 1987 season resulted in being ranked second in [[Track &amp; Field News|Track and Field News]]' 1987 world rankings.&lt;ref name=":12" /&gt; The 200-meter remained a stronger event for Griffith-Joyner than the 100-meter, where she was ranked seventh in the United States.&lt;ref name=":12" /&gt;
+
+Before the [[1988 United States Olympic Trials (track and field)|1988 U.S. Olympic Trials]], Griffith-Joyner continued to work with her coach, and now brother in law, Kersee two days a week, but with her new husband coaching her three days a week.&lt;ref name=":1"&gt;{{Cite news|url=https://articles.latimes.com/1988-07-29/sports/sp-7928_1_al-joyner|title=Griffith-Joyner Leaves Kersee's Club; She'll Be Coached Solely by Husband|last=HARVEY|first=RANDY|date=July 29, 1988|work=Los Angeles Times|language=en-US|issn=0458-3035|access-date=July 23, 2016|archive-url=https://web.archive.org/web/20160820034527/http://articles.latimes.com/1988-07-29/sports/sp-7928_1_al-joyner|archive-date=August 20, 2016|url-status=live}}&lt;/ref&gt; She ran the 100 meter in 10.96-second at the 1987 [[Cologne]] Grand Prix Track and Field Meet, a personal best but the mark was not even in the top 40 of all time.&lt;ref&gt;{{Cite web|url=https://newspaperarchive.com/european-stars-and-stripes-aug-18-1987-p-25/|title=Canada's Johnson rips season's fastest 100|date=August 18, 1987|website=NewspaperArchive.com|publisher=European Stars And Stripes|page=25|language=en|access-date=January 31, 2019}}&lt;/ref&gt;&lt;ref name=":17" /&gt; She continued to improve, again setting a personal best in the 100 meters in [[San Diego]] on June 25, 1988, but still remained shy of then American record holder [[Evelyn Ashford|Evelyn Ashford's]] three best times.&lt;ref&gt;{{Cite news|url=https://articles.latimes.com/1988-06-26/sports/sp-8397_1_griffith-joyner|title=Kingdom, 13.17 Into Wind, Routs Foster : Joyner-Kersee Jumps 24-3, Griffith Joyner Runs 10.89 in San Diego|last=FLORENCE|first=MAL|date=June 26, 1988|work=Los Angeles Times|language=en-US|issn=0458-3035|access-date=August 4, 2016|archive-url=https://web.archive.org/web/20160513084801/http://articles.latimes.com/1988-06-26/sports/sp-8397_1_griffith-joyner|archive-date=May 13, 2016|url-status=live}}&lt;/ref&gt; A week before the trials she ran a tune-up race in 10.99 in [[Santa Monica]].&lt;ref&gt;{{Cite web |url=http://www.alltime-athletics.com/w_100ok.htm |title=All-time women's best 100m |website=alltime-athletics.com |access-date=July 27, 2016 |archive-url=https://web.archive.org/web/20160810125217/http://www.alltime-athletics.com/w_100ok.htm |archive-date=August 10, 2016 |url-status=live }}&lt;/ref&gt;
+
+In the first race of the quarterfinals of the [[1988 United States Olympic Trials (track and field)|U.S. Olympic Trials]], she stunned her colleagues when she sprinted 100 meters in 10.49 seconds, a new world record.{{efn|[[Evelyn Ashford]] held the previous record at the 100-meter distance with a time of 10.76 seconds.}} &lt;ref name=":4" /&gt; Over the two day trials, Griffith-Joyner recorded the three fastest times for a woman at 100 meters: 10.49 in the quarter-final, 10.70 in the semi-final, and 10.61 in the finals.&lt;ref name="Hersh, Phil" /&gt;&lt;ref name=":14" /&gt; At the same Olympic trials Griffith-Joyner also set an American record at the 200-meter distance with a time of 21.77 seconds.&lt;ref&gt;{{Cite web|url=https://www.legacy.usatf.org/statistics/champions/OlympicTrials/HistoryOfTheOlympicTrials.pdf|title=The History of the United States Olympic Trials -- Track and Field|last=Hymans|first=Richard|date=2008|publisher=USATF|page=30|access-date=August 22, 2016|archive-url=https://web.archive.org/web/20120620000346/http://usatf.org/statistics/champions/OlympicTrials/HistoryOfTheOlympicTrials.pdf|archive-date=June 20, 2012|url-status=dead}}&lt;/ref&gt;
+
+The extraordinary result raised the possibility of a technical malfunction with the wind gauge which read at 0.0&amp;nbsp;m/s - a reading which was at complete odds to the windy conditions on the day with high wind speeds being recorded in all other sprints before and after this race as well as the parallel long jump runway at the time of the Griffith-Joyner performance. All scientific studies commissioned by the IAAF and independent organisations have since confirmed there was an illegal tailwind of between 5&amp;nbsp;m/s – 7&amp;nbsp;m/s at the time. This should have annulled the legality of this result, although the IAAF has chosen not to take this course of action. The legitimate next best wind legal performance would therefore be Griffith-Joyner's 10.61s performance in the final the next day.&lt;ref&gt;Linthorne, N. (1995) The 100m World Record by Florence Griffith Joyner at the 1988 U.S Olympic Trials. Report for the International Amateur Athletic Federation Department of Physics, University of Western Australia&lt;/ref&gt;
+
+Since 1997 the International Athletics Annual of the [[Association of Track and Field Statisticians]] has listed this performance as "probably strongly wind assisted, but recognized as a world record".&lt;ref&gt;{{cite web|url=http://people.brunel.ac.uk/~spstnpl/BiomechanicsAthletics/WindAssistance.htm|title=Wind Assistance|date=March 2003|publisher=[[Brunel University]]|author=Linthorne, Nick|access-date=August 25, 2008|archive-url=https://www.webcitation.org/5jWCChh5E?url=http://people.brunel.ac.uk/~spstnpl/BiomechanicsAthletics/WindAssistance.htm|archive-date=September 3, 2009|url-status=live}}&lt;/ref&gt;{{efn|Griffith Joyner's next fastest wind-legal time at 100 meters is 10.61 seconds, which would also stand as the world record.&lt;ref name="Sully, Kevin"&gt;{{cite news|last1=Sully|first1=Kevin|title=The Wind Read Zero: An oral history of Florence Griffith-Joyner's 100-meter world record|url=http://dailyrelay.com/the-wind-read-zero-an-oral-history-of-florence-griffith-joyners-100-meter-world-record/|access-date=July 27, 2016|publisher=Daily Relay|date=March 24, 2014|archive-url=https://web.archive.org/web/20160807135743/http://dailyrelay.com/the-wind-read-zero-an-oral-history-of-florence-griffith-joyners-100-meter-world-record/|archive-date=August 7, 2016|url-status=live}}&lt;/ref&gt;}}
+
+Following the Olympic trials, in late July 1988, Griffith-Joyner left coach Kersee saying she wanted a coach able to provide more personal attention.&lt;!--&lt;ref name=":1" /&gt;--&gt; Another contributing factor was Griffith-Joyner's unhappiness with the lack of sponsorship and endorsement opportunities.&lt;ref name=":11"&gt;{{cite news|url=http://articles.chicagotribune.com/1988-08-07/sports/8801210104_1_al-joyner-bob-kersee-appearance-fees-and-bonuses|title=Kersee Still Waiting For Reason Griffith Joyner Dropped Him As|last=Hersh|first=Phil|date=August 7, 1988|work=Chicago Tribune|access-date=August 5, 2016|archive-url=https://web.archive.org/web/20160710204940/http://articles.chicagotribune.com/1988-08-07/sports/8801210104_1_al-joyner-bob-kersee-appearance-fees-and-bonuses|archive-date=July 10, 2016|url-status=live}}&lt;/ref&gt; In addition to serving as coach, Kersee was Griffith-Joyner's manager, as he required all the athletes he coached to use his management services too.&lt;ref name=":11" /&gt; Griffith-Joyner's decision to sign with personal manager Gordon Baskin therefore necessitated the coaching change.&lt;ref name=":11" /&gt;&lt;ref name=":8" /&gt; Griffith Joyner left UCLA for [[University of California, Irvine|UC Irvine]] with her husband serving as full-time coach.&lt;ref name=":1" /&gt;
+
+By now known to the world as "Flo-Jo", Griffith-Joyner was the big favorite for the titles in the sprint events at the [[1988 Summer Olympics]]. In the [[Athletics at the 1988 Summer Olympics – Women's 100 metres|100-meter final]], she ran a 10.54, beating her nearest rival, Evelyn Ashford, by 0.30 seconds. In the [[Athletics at the 1988 Summer Olympics – Women's 200 metres|200 meter semifinal]], she set the world record of 21.56 seconds and then broke this record, winning the final by 0.22 seconds with a time of 21.34 seconds.&lt;ref name="sr" /&gt;
+
+At the same Olympics, Griffith-Joyner also ran with the 4 × 100 m relay and the 4 × 400 m relay teams. Her team won the [[Athletics at the 1988 Summer Olympics – Women's 4 × 100 metres relay|4 × 100 m relay]] and finished second in the [[Athletics at the 1988 Summer Olympics – Women's 4 × 400 metres relay|4 × 400 m relay]].&lt;ref name=":15"&gt;{{Cite news|url=https://www.nytimes.com/1998/09/22/sports/florence-griffith-joyner-38-champion-sprinter-is-dead.html|title=Florence Griffith Joyner, 38, Champion Sprinter, Is Dead|last=Longman|first=Jere|date=September 22, 1998|work=The New York Times|access-date=August 30, 2017|language=en-US|issn=0362-4331|archive-url=https://web.archive.org/web/20170830111911/http://www.nytimes.com/1998/09/22/sports/florence-griffith-joyner-38-champion-sprinter-is-dead.html|archive-date=August 30, 2017|url-status=live}}&lt;/ref&gt; This was Griffith-Joyner's first internationally rated 4 × 400 m relay. Griffith-Joyner left the games having won four Olympic medals, three gold and one silver.&lt;ref name=":13"&gt;{{Cite news|url=https://www.nytimes.com/1988/10/02/sports/the-seoul-olympics-track-and-field-pride-and-frustration-for-the-americans.html|title=THE SEOUL OLYMPICS: Track and Field; Pride and Frustration for the Americans|last=Times|first=Frank Litsky, Special To The New York|date=October 2, 1988|work=The New York Times|issn=0362-4331|access-date=August 23, 2016|archive-url=https://web.archive.org/web/20160828092939/http://www.nytimes.com/1988/10/02/sports/the-seoul-olympics-track-and-field-pride-and-frustration-for-the-americans.html|archive-date=August 28, 2016|url-status=live}}&lt;/ref&gt; At the time, her medal haul was the second most for female track and field athlete in history, behind only [[Fanny Blankers-Koen]] who won four gold medals in 1948.&lt;ref name=":13" /&gt;
+
+In February 1989, Griffith-Joyner announced her retirement from racing.&lt;ref name=":8" /&gt;&lt;ref name=":9"&gt;{{Cite web|url=http://www.cnn.com/2008/SPORT/04/30/florencegriffithjoyner/|title=Florence Griffith-Joyner - CNN.com|date=July 8, 2008|website=www.cnn.com|access-date=July 31, 2016|archive-url=https://web.archive.org/web/20160818121513/http://www.cnn.com/2008/SPORT/04/30/florencegriffithjoyner/|archive-date=August 18, 2016|url-status=live}}&lt;/ref&gt; She cited her new business opportunities outside of sprinting.&lt;ref name=":7" /&gt;&lt;ref name=":9" /&gt;&lt;ref name=":10" /&gt; The month after announcing her retirement, Griffith-Joyner was selected as the winner of the [[James E. Sullivan Award]] of 1988 as the top amateur athlete in the United States.&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/1989/03/07/sports/sports-people-track-and-field-griffith-joyner-gets-sullivan-award.html|title=SPORTS PEOPLE: TRACK AND FIELD; Griffith Joyner Gets Sullivan Award|date=March 7, 1989|work=The New York Times|issn=0362-4331|access-date=August 2, 2016|archive-url=https://web.archive.org/web/20160819214338/http://www.nytimes.com/1989/03/07/sports/sports-people-track-and-field-griffith-joyner-gets-sullivan-award.html|archive-date=August 19, 2016|url-status=live}}&lt;/ref&gt;
+
+===Comeback attempt and other activities===
+Griffith-Joyner's success at the 1988 Olympics led to new opportunities.&lt;ref name=":8"&gt;{{cite magazine|url=https://www.si.com/vault/1989/04/10/119708/the-spoils-of-victory-for-florence-griffith-joyner-olympic-prowess-and-smashing-looks-have-been-lucrative-but-at-the-cost-of-her-running|title=The Spoils Of Victory|last=Moore|first=Kenny|date=April 10, 1989|magazine=Sports Illustrated|access-date=July 31, 2016|archive-url=https://web.archive.org/web/20160719145548/http://www.si.com/vault/1989/04/10/119708/the-spoils-of-victory-for-florence-griffith-joyner-olympic-prowess-and-smashing-looks-have-been-lucrative-but-at-the-cost-of-her-running|archive-date=July 19, 2016|url-status=live}}&lt;/ref&gt;&lt;ref name=":10"&gt;{{Cite web|url=http://articles.philly.com/1988-12-16/sports/26224251_1_american-olympians-florence-griffith-joyner-gordon-baskin|title=Cash Flo Griffith Joyner Leads The Pack In Cashing In On The Olympics|last=Macnow|first=Glen|date=December 16, 1988|website=Philly.com|access-date=July 31, 2016|archive-url=https://web.archive.org/web/20160817015350/http://articles.philly.com/1988-12-16/sports/26224251_1_american-olympians-florence-griffith-joyner-gordon-baskin|archive-date=August 17, 2016|url-status=live}}&lt;/ref&gt; In the weeks following the Olympics, Griffith-Joyner earned millions of dollars from endorsement deals, primarily in Japan. Griffith-Joyner also signed a deal with toy maker [[LJN|LJN Toys]] for a [[Barbie]]-like doll in her likeness.&lt;ref name=":8" /&gt;
+
+Among the things she did away from the track was to design the basketball uniforms for the [[Indiana Pacers]] [[NBA]] team in 1989.&lt;ref name=":7" /&gt; She served as co-chair of [[President's Council on Fitness, Sports, and Nutrition|President's Council on Physical Fitness]].&lt;ref name=":15" /&gt; She made a guest appearance as herself on a season 4 episode of ''[[227 (TV series)|227]]''. Griffith-Joyner appeared in the soap opera ''[[Santa Barbara (TV series)|Santa Barbara]]'' in 1992, as "Terry Holloway", a photographer similar to [[Annie Leibovitz]].&lt;ref&gt;{{Cite news|url=https://articles.latimes.com/1992-08-08/entertainment/ca-4411_1_santa-barbara|title=Flo Jo Hopes the Training Pays Off for Her Role on 'Santa Barbara'|last=Arkatov|first=Janice|date=August 8, 1992|work=Los Angeles Times|access-date=May 26, 2017|language=en-US|issn=0458-3035|archive-url=https://web.archive.org/web/20151018080303/http://articles.latimes.com/1992-08-08/entertainment/ca-4411_1_santa-barbara|archive-date=October 18, 2015|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://articles.chicagotribune.com/1992-08-13/features/9203130156_1_orson-welles-mercury-theatre-jack-benny/2|title=Backstage With Phoebe|last=Hart|first=Marla|date=August 13, 1992|work=tribunedigital-chicagotribune|access-date=June 24, 2017|language=en|archive-url=https://web.archive.org/web/20170830175431/http://articles.chicagotribune.com/1992-08-13/features/9203130156_1_orson-welles-mercury-theatre-jack-benny/2|archive-date=August 30, 2017|url-status=live}}&lt;/ref&gt;
+
+In 1996, Griffith-Joyner appeared on ''[[Charlie Rose (TV series)|Charlie Rose]]'' and announced her comeback to competitive athletics, concentrating on the 400-meter run.&lt;ref&gt;{{cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1996/05/29/SPORTS5156.dtl | work=The San Francisco Chronicle | title=Flo Jo may abort comeback | date=April 21, 1997}}&lt;/ref&gt; Her reason was that she had already set world marks in both the 100 m and 200 m events, with the 400 m world record being her goal. Griffith-Joyner trained steadily leading up to the U.S. Olympic trials in June. However, tendinitis in her right leg ended her hopes of becoming a triple-world-record holder. Al Joyner also attempted a comeback, but he was unable to compete due to an injured quadriceps muscle.&lt;ref&gt;[https://www.nytimes.com/1996/06/04/sports/sports-people-track-and-field-atlanta-out-for-joyners.html?ref=florencegriffithjoyner Atlanta Out for Joyners] {{Webarchive|url=https://web.archive.org/web/20170627131119/http://www.nytimes.com/1996/06/04/sports/sports-people-track-and-field-atlanta-out-for-joyners.html?ref=florencegriffithjoyner |date=June 27, 2017 }}. Nytimes.com (June 4, 1996). Retrieved on May 11, 2014.&lt;/ref&gt;
+
+==Style==
+Beyond her running prowess, Griffith-Joyner was known for her bold fashion choices.&lt;ref name="Hersh, Phil" /&gt;&lt;ref name="Bock, Hal;  Griffith-Joyner Just Getting Out"&gt;{{cite news|last1=Bock|first1=Hal|title=Griffith-Joyner Just Getting Out of the Blocks : She Says Weight Training, Faster Starts Pushed Her to World Record in 100|url=https://articles.latimes.com/1988-07-24/sports/sp-10191_1_world-record|access-date=August 24, 2016|publisher=Associated Press|date=July 24, 1988|archive-url=https://web.archive.org/web/20160813071618/http://articles.latimes.com/1988-07-24/sports/sp-10191_1_world-record|archive-date=August 13, 2016|url-status=live}}&lt;/ref&gt; Griffith-Joyner appeared at the World Championships in 1987 in Rome wearing a hooded speed skating body suit.&lt;ref name="Bock, Hal;  Griffith-Joyner Just Getting Out" /&gt;&lt;ref name="Rowbottom, Mike"&gt;{{cite news|url=https://www.independent.co.uk/sport/athletics-flo-jos-flamboyant-life-and-times-1199911.html|title=Athletics: Flo-Jo's flamboyant life and times|last=Rowbottom|first=Mike|date=September 21, 1998|work=Independent|language=en-GB|access-date=September 2, 2016|archive-url=https://web.archive.org/web/20160916100616/http://www.independent.co.uk/sport/athletics-flo-jos-flamboyant-life-and-times-1199911.html|archive-date=September 16, 2016|url-status=live}}&lt;/ref&gt; In April 1988 she started wearing a running suit with the right leg of the suit extending to the ankle and the left leg of the suit cut off, a style she called the "one-legger".&lt;ref name="Hersh, Phil"&gt;{{cite news|url=http://articles.chicagotribune.com/1988-07-18/sports/8801150917_1_one-legger-florence-griffith-joyner-stripes|title=Griffith-joyner Nails 100-meter Dash Final|last=Hersh|first=Phil|date=July 18, 1988|work=Chicago Tribune|access-date=September 2, 2016|archive-url=https://web.archive.org/web/20160914000010/http://articles.chicagotribune.com/1988-07-18/sports/8801150917_1_one-legger-florence-griffith-joyner-stripes|archive-date=September 14, 2016|url-status=live}}&lt;/ref&gt;&lt;ref name="Bock, Hal;  Griffith-Joyner Just Getting Out" /&gt;&lt;ref name="Rowbottom, Mike" /&gt; The running suits also had bold colors such as lime green or purple with white bikini bottoms and embellished with lightning bolts.&lt;ref name="Hersh, Phil" /&gt;
+
+Her nails also garnered attention for their length and designs.&lt;ref name="Hersh, Phil" /&gt;&lt;ref name="Rowbottom, Mike" /&gt; Her nails were four inches long with tiger stripes at the 1988 Olympic trials before switching to fuchsia.&lt;ref name="Hersh, Phil" /&gt; For the Olympic games themselves, Griffith-Joyner had six inch nails painted red, white, blue, and gold.&lt;ref name="Rowbottom, Mike" /&gt; Although many sprinters avoided accessories which might slow them down, Griffith-Joyner kept her hair long and wore jewelry while competing.&lt;ref name="Bock, Hal; Griffith-Joyner Just Getting Out" /&gt; She designed many of her outfits herself and preferred looks which were not conventional.&lt;ref name="Bock, Hal; Griffith-Joyner Just Getting Out" /&gt;
+
+== Allegations of performance-enhancing drug use ==
+
+{{Quote box|width=27%|align=right|quote=Florence Griffith Joyner is rarely mentioned without an invisible asterisk next to her name when the women's 100 and 200 meters comes around in Olympic year. Current runners bemoan the unreachable bench mark she set. Double Olympic 200 meter gold medalist Veronica Campbell Brown got nowhere near it, saying it was beyond her reach. Former 200 meter Olympic champion Gwen Torrence said that she "did not acknowledge those records ... To me they don't exist and women sprinters are suffering as a result of what she did to the times in the 100 and 200."|source=—James Montague, [[CNN]], August 2012.&lt;ref name="CNN Montague"&gt;{{cite news |title=Saving Flo Jo: Taking back a legacy |url=https://edition.cnn.com/2012/08/10/sport/olympics-flo-jo-seoul/index.html |last=Montague |first=James |access-date=October 4, 2019 |work=CNN |archive-url=https://web.archive.org/web/20190831082605/https://edition.cnn.com/2012/08/10/sport/olympics-flo-jo-seoul/index.html |archive-date=August 31, 2019 |url-status=live}}&lt;/ref&gt;}}
+After her record shattering performances at the 1988 U.S. Olympic Trials she became an object of suspicion when she arrived at the 1988 Olympic Games in Seoul.&lt;ref name="CNN Montague"/&gt; Athletes, including [[Joaquim Cruz]] and [[Ben Johnson (Canadian sprinter)|Ben Johnson]], expressed disbelief over Griffith-Joyner's dramatic improvement over a short period of time.&lt;ref&gt;{{cite news|url=http://veja.abril.com.br/160800/p_076.html|title=O doping está no auge|publisher=Veja Online|language=pt|date=August 16, 2000|access-date=February 19, 2009|archive-url=https://web.archive.org/web/20090203153757/http://veja.abril.com.br/160800/p_076.html|archive-date=February 3, 2009|url-status=live}}&lt;/ref&gt; Before the 1988 track and field season, Griffith-Joyner's best time in the 100-meter sprint was 10.96 seconds (set in 1987). In 1988, she improved that by 0.47 seconds.&lt;ref&gt;{{cite web |url=http://www.adriansprints.com/2011/12/tribute-florence-griffith-joyner-flo-jo.html |title=Tribute: Florence Griffith Joyner Flo-Jo (1959 - 1998) |website=adriansprints.com |archive-url=https://web.archive.org/web/20180303105943/http://www.adriansprints.com/2011/12/tribute-florence-griffith-joyner-flo-jo.html |archive-date=March 3, 2018 |url-status=live |access-date=July 21, 2021}} &lt;/ref&gt;
+
+Her best before 1988 at 200-meters was 21.96 seconds (also set in 1987). In 1988, she improved that by 0.62 seconds to 21.34 seconds, another time that has not been approached. Griffith-Joyner attributed the change in her physique to new health programs.&lt;ref name="speed-glamour-doubt"&gt;{{cite web |url=http://www.expressindia.com/news/ie/daily/19980923/26650594.html |title=Speed, glamour, doubt will be Flo-Jo's legacy |agency=[[Reuters]] |work=Express India |date=September 23, 1998 |url-status=live}}&lt;/ref&gt; [[Al Joyner]] replaced [[Bob Kersee]] as her coach, and he changed her training program to include more lower body strength training exercises such as squats and lunges.&lt;ref name="dreamchaser"&gt;{{cite web |url=http://sports.espn.go.com/espn/eticket/story?page=090826/flojo |title=Dream Chaser |archive-url=https://web.archive.org/web/20160130234945/http://sports.espn.go.com/espn/eticket/story?page=090826%2Fflojo |archive-date=January 30, 2016 |url-status=live |first=Tom |last=Friend |website=ESPN |series=Outside the Lines |access-date=July 21, 2021}}&lt;/ref&gt;
+
+In a 1989 story for which he was purportedly paid $25,000,&lt;ref name=tribune&gt;{{Cite web |url=http://articles.chicagotribune.com/1989-09-21/sports/8901150081_1_kersee-and-lewis-gordon-baskin-florence-griffith-joyner |title=Ex-Teammate: Flo-Jo, Lewis Used Drugs |last=Hersh |first=Phil |work=Chicago Tribune |access-date=July 7, 2015 |archive-url=https://web.archive.org/web/20150708055358/http://articles.chicagotribune.com/1989-09-21/sports/8901150081_1_kersee-and-lewis-gordon-baskin-florence-griffith-joyner |archive-date=July 8, 2015 |url-status=live}}&lt;/ref&gt; [[Darrell Robinson]], a former teammate of Griffith-Joyner, claimed that he sold her 10 c.c. of [[HGH]] for $2,000 in 1988. He said Joyner told him: "if you want to make $1 million, you've got to invest some thousands."&lt;ref name="speed-glamour-doubt"/&gt; Robinson also claimed to receive steroids from coach Bob Kersee, and said he saw [[Carl Lewis]] inject himself with drugs he believed to be testosterone.&lt;ref name=tribune/&gt;
+
+Robinson never provided any evidence for his allegations and was shunned by the athletics community, leading to the premature end of his career.&lt;ref&gt;{{Cite news|url=https://www.independent.co.uk/sport/athletics-downfall-of-a-man-quick-to-accuse-1200952.html|title=Athletics: Downfall of a man quick to accuse|last=Wright|first=Gerard|date=September 26, 1998|work=The Independent|access-date=June 24, 2017|language=en-GB|archive-url=https://web.archive.org/web/20170912013343/http://www.independent.co.uk/sport/athletics-downfall-of-a-man-quick-to-accuse-1200952.html|archive-date=September 12, 2017|url-status=live}}&lt;/ref&gt; After the 1988 Olympics Griffith-Joyner retired from competitive track and field, just before the introduction of mandatory random drug testing in 1989.&lt;ref name="CNN Montague"/&gt;&lt;ref name="uneasy"/&gt; She was repeatedly tested during competition, and she passed all of these drug tests.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/2/hi/sport/177433.stm |title=Suspicion surrounds Flo-Jo's death |archive-url=https://web.archive.org/web/20120622074633/http://news.bbc.co.uk/2/hi/sport/177433.stm |archive-date=June 22, 2012 |url-status=live |work=BBC News |date=September 23, 1998 |access-date=May 11, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://articles.latimes.com/1989-03-13/sports/sp-379_1_random-drug-testing |title=TAC Board Approves Random Drug Testing |url-status=dead |archive-url=https://web.archive.org/web/20150708072942/http://articles.latimes.com/1989-03-13/sports/sp-379_1_random-drug-testing |archive-date=July 8, 2015 |work=Los Angeles Times |date=March 13, 1989 |access-date=May 11, 2014}}&lt;/ref&gt;
+
+After her death in 1998, [[Prince Alexandre de Merode]], the Chairman of the International Olympic Committee's medical commission, claimed that Griffith-Joyner was singled out for extra, rigorous drug testing during the 1988 Olympic Games due to rumors of steroid use. De Merode told ''The New York Times'' that [[Manfred Donike]], who was at that time considered to be the foremost expert on drugs and sports, failed to discover any banned substances during that testing.&lt;ref&gt;{{cite web |url=https://www.nytimes.com/1998/09/24/sports/plus-track-and-field-official-defends-griffith-joyner.html?ref=florencegriffithjoyner |title=PLUS: TRACK AND FIELD; Official Defends Griffith Joyner |archive-url=https://web.archive.org/web/20170627142522/http://www.nytimes.com/1998/09/24/sports/plus-track-and-field-official-defends-griffith-joyner.html?ref=florencegriffithjoyner |archive-date=June 27, 2017 |work=The New York Times |agency=Associated Press |date=September 24, 1998 |access-date=May 11, 2014 |url-status=live |url-access=subscription}}&lt;/ref&gt; De Merode was not without controversy himself, having been accused of covering up drug tests at the 1984 Games, and following record shattering performances by Chinese swimmers in the 1990s, the [[World Anti-Doping Agency]] was created, effectively removing control of drug testing from the IOC and De Merode. On Flo-Jo, De Merode later said:
+
+&lt;blockquote&gt;We performed all possible and imaginable analyses on her. We never found anything. There should not be the slightest suspicion.&lt;ref name="CNN Montague"/&gt;&lt;/blockquote&gt;
+
+== Personal life ==
+Griffith's nickname among family was "Dee Dee".&lt;ref name=":6" /&gt;&lt;ref name=":3" /&gt; She was briefly engaged to hurdler [[Greg Foster (hurdler)|Greg Foster]].&lt;ref name=":6" /&gt; In 1987, Griffith married [[1984 Summer Olympics|1984 Olympic]] triple jump champion [[Al Joyner]], whom Griffith had first met at the 1980 Olympic Trials.&lt;ref name=":4" /&gt;&lt;ref name=":5" /&gt; Through her marriage to Joyner she was sister-in-law to track and field athlete [[Jackie Joyner-Kersee]].&lt;ref name=":5"&gt;{{Cite news|url=https://articles.latimes.com/1988-09-14/news/ss-1984_1_long-jump/2|title=OLYMPICS '88: A PREVIEW : THE FIRST FAMILY : Joyner and Kersee Got a Jump in Their Personal Relationship|last=HARVEY|first=RANDY|date=September 14, 1988|work=Los Angeles Times|language=en-US|issn=0458-3035|access-date=July 18, 2016|archive-url=https://web.archive.org/web/20160820091031/http://articles.latimes.com/1988-09-14/news/ss-1984_1_long-jump/2|archive-date=August 20, 2016|url-status=live}}&lt;/ref&gt; Griffith and Joyner had one daughter together, Mary Ruth Joyner, born November 15, 1990.&lt;ref name=":7" /&gt;&lt;ref name=":17"&gt;{{Cite web|url=https://www.latimes.com/local/obituaries/archives/la-me-florence-griffith-joyner-19980923-story.html|title=From the Archives: Track Olympian Florence Griffith Joyner Dies at 38|last=Penner|first=Mike|date=September 22, 1998|website=[[Los Angeles Times]]|access-date=July 18, 2016|archive-url=https://web.archive.org/web/20160817061956/http://www.latimes.com/local/obituaries/archives/la-me-florence-griffith-joyner-19980923-story.html|archive-date=August 17, 2016|url-status=live}}&lt;/ref&gt;
+
+== Death ==
+On September 21, 1998, Griffith-Joyner died in her sleep at home in the Canyon Crest neighborhood of [[Mission Viejo, California]], at the age of 38. The unexpected death was investigated by the Orange County Sheriff-[[Coroner]]'s office, which announced on September 22 that the cause of death was suffocation during a severe [[epilepsy|epileptic]] seizure.&lt;ref name="uneasy"&gt;{{cite web|url=http://www.salon.com/1998/12/04/cov_04newsa/|title=The Uneasy Death Of Florence Griffith Joyner|work=salon.com|first=Kristina Rebelo|last=Anderson|access-date=June 20, 2012|archive-url=https://web.archive.org/web/20120705004107/http://www.salon.com/1998/12/04/cov_04newsa/|archive-date=July 5, 2012|url-status=live}}&lt;/ref&gt;
+
+She was also found to have had a [[cavernous hemangioma]], a congenital vascular brain abnormality that made Joyner subject to seizures.&lt;ref&gt;{{Cite news|url=http://news.bbc.co.uk/1/hi/world/americas/199306.stm|title=Seizure was brought on by a congenital defect in Griffith Joyner's brain|work=BBC|date=October 23, 1998|access-date=January 4, 2010|archive-url=https://web.archive.org/web/20090103171814/http://news.bbc.co.uk/1/hi/world/americas/199306.stm|archive-date=January 3, 2009|url-status=live}}&lt;/ref&gt; According to a family attorney, she had suffered a [[Generalised tonic-clonic seizure|tonic-clonic seizure]] in 1990, and had also been treated for seizures in 1993 and 1994. According to the Sheriff-Coroner's office, the only drugs in her system when she died were small amounts of two common over-the-counter drugs, [[acetaminophen]] ([[paracetamol]]) and the antihistamine [[Benadryl]].&lt;ref&gt;{{Cite news | url=https://articles.latimes.com/1998/oct/23/sports/sp-35391 | title=Seizure Led to FloJo's Death | date=October 23, 1998 | author=Jeff Gottlieb | work=[[Los Angeles Times]] | access-date=December 26, 2016 | archive-url=https://web.archive.org/web/20170114232820/http://articles.latimes.com/1998/oct/23/sports/sp-35391 | archive-date=January 14, 2017 | url-status=live }}&lt;/ref&gt;
+
+== Legacy ==
+[[USA Track &amp; Field]] inducted her into its [[National Track and Field Hall of Fame|Hall of Fame]] in 1995.&lt;ref&gt;{{Cite web|url=http://www.legacy.usatf.org/halloffame/TF/showBio.asp?HOFIDs=63|title=USATF - Hall of Fame|website=www.usatf.org|access-date=July 24, 2016|archive-url=https://web.archive.org/web/20130921132057/http://www.usatf.org/HallOfFame/TF/showBio.asp?HOFIDs=63|archive-date=September 21, 2013|url-status=dead}}&lt;/ref&gt; In 2000, the 102nd Street School in Los Angeles was renamed Florence Griffith Joyner Elementary School. Griffith-Joyner had attended the school as a child.&lt;ref name=":2" /&gt; The city of Mission Viejo dedicated a park at the entrance to her neighborhood in her honor.&lt;ref&gt;[https://www.google.com/maps/place/Florence+Joyner+Olympiad+Park/@33.631868,-117.63505,628m/data=!3m2!1e3!4b1!4m2!3m1!1s0x80dcebd089200311:0xbb48948222aa9448 Florence Joyner Olympiad Park] {{Webarchive|url=https://web.archive.org/web/20180911055409/https://www.google.com/maps/place/Florence+Joyner+Olympiad+Park/@33.631868,-117.63505,628m/data=!3m2!1e3!4b1!4m2!3m1!1s0x80dcebd089200311:0xbb48948222aa9448 |date=September 11, 2018 }}. Google.com. Retrieved on June 30, 2014.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://cityofmissionviejo.org/parkpics/details_22.htm|title=(22) Florence Joyner Olympiad Park - CITY OF MISSION VIEJO|url-status=dead|archive-url=https://web.archive.org/web/20141203222320/http://cityofmissionviejo.org/parkpics/details_22.htm|archive-date=December 3, 2014}}&lt;/ref&gt; Griffith-Joyner was also an artist and painter. Her work has been on display as part the [[Art of the Olympians|Art of The Olympians]] (AOTO). She is one of two posthumous members of AOTO, the other being the founder and Olympian, [[Al Oerter]].&lt;ref&gt;{{Cite web|url=http://artoftheolympians.org/artists/florence-joyner/|title=Art of the Olympians {{!}} Florence Griffith-Joyner|website=artoftheolympians.org|access-date=December 22, 2015|archive-url=https://web.archive.org/web/20151222115356/http://artoftheolympians.org/artists/florence-joyner/|archive-date=December 22, 2015|url-status=live}}&lt;/ref&gt;  In ''[[Time (magazine)|TIME]]'''s 2020 list of the most influential women of the past century, she was named woman of the year for 1988.&lt;ref&gt;{{cite web |url=https://time.com/5793709/florence-griffith-joyner-100-women-of-the-year/ |title=1988: Florence Griffith Joyner |website=Time |date=5 March 2020 }}&lt;/ref&gt;
+
+== Statistics ==
+
+===Olympic Games and trials results===
+
+*Source:&lt;ref name=sr&gt;[https://www.sports-reference.com/olympics/athletes/gr/florence-griffith-joyner-1.html Florence Griffith Joyner] {{webarchive |url=https://web.archive.org/web/20110822140629/http://www.sports-reference.com/olympics/athletes/gr/florence-griffith-joyner-1.html |date=August 22, 2011 }}. sports-reference.com&lt;/ref&gt;&lt;ref&gt;[http://www.alltime-athletics.com/index.html Track &amp; Field all-time performances] {{Webarchive|url=https://web.archive.org/web/20130901001002/http://www.alltime-athletics.com/index.html |date=September 1, 2013 }}. Alltime-athletics.com. Retrieved on May 11, 2014.&lt;/ref&gt;
+{| class="wikitable"
+|-
+! Race
+! Venue
+! Date
+! Round
+! Time
+! Wind
+! WR
+|-
+| 100 m
+| Indianapolis
+| July 16, 1988
+| Qualifying heat
+| 10.60w
+| +3.2
+|
+|-
+| 100 m
+| Indianapolis
+| July 16, 1988
+| Quarter-final
+| 10.49
+| 0.0{{refn|group=note|name=10.49}}
+| WR
+|-
+| 100 m
+| Indianapolis
+| July 17, 1988
+| Semi-final
+| 10.70
+| +1.6
+|
+|-
+| 100 m
+| Indianapolis
+| July 17, 1988
+| Final
+| 10.61
+| +1.2
+|
+|-
+| 100 m
+| Seoul
+| September 24, 1988
+| Qualifying heat
+| 10.88
+| +1.0
+|
+|-
+| 100 m
+| Seoul
+| September 24, 1988
+| Quarter-final
+| 10.62
+| +1.0
+|
+|-
+| 100 m
+| Seoul
+| September 25, 1988
+| Semi-final
+| 10.70w
+| +2.6
+|
+|-
+| 100 m
+| Seoul
+| September 25, 1988
+| Final
+| 10.54w
+| +3.0
+|
+|-
+| 200 m
+| Indianapolis
+| July 22, 1988
+| Qualifying heat
+| 21.96
+| +0.6
+|
+|-
+| 200 m
+| Indianapolis
+| July 22, 1988
+| Quarter-final
+| 21.77
+| −0.1
+|
+|-
+| 200 m
+| Indianapolis
+| July 23, 1988
+| Semi-final
+| 21.90w
+| +2.4
+|
+|-
+| 200 m
+| Indianapolis
+| July 23, 1988
+| Final
+| 21.85
+| +1.3
+|
+|-
+| 200 m
+| Seoul
+| September 28, 1988
+| Qualifying heat
+| 22.51
+| ?
+|
+|-
+| 200 m
+| Seoul
+| September 28, 1988
+| Quarter-final
+| 21.76
+| +0.7
+|
+|-
+| 200 m
+| Seoul
+| September 29, 1988
+| Semi-final
+| 21.56
+| +1.7
+| WR
+|-
+| 200 m
+| Seoul
+| September 29, 1988
+| Final
+| 21.34
+| +1.3
+| WR
+|-
+| 100 m relay ( 4 × 100 m relay )
+| Seoul
+| October 1, 1988
+| Semi-Final
+| (team time 42.12)
+| 
+| 
+|-
+| 100 m relay ( 4 × 100 m relay )
+| Seoul
+| October 1, 1988
+| Final
+| (team time 41.98)
+| 
+| 
+|-
+| 400 m relay split ( 4 × 400 m relay )
+| Seoul
+| October 1, 1988
+| Final
+| 48.08&lt;br/&gt;(team time 3:15.51)
+|
+|
+|}
+
+===International competitions===
+{| class=wikitable style=text-align:center
+|-
+!Year!!Competition!!Venue!!Position!!Event!!Time!!Notes
+|-
+|1983
+|[[1983 World Championships in Athletics|World Championships]]
+|{{flagicon|FIN}} [[Helsinki]]
+|4th
+|[[1983 World Championships in Athletics – Women's 200 metres|200 m]]
+|22.46
+|&lt;small&gt; wind +1.5&lt;/small&gt;
+|}
+
+=== Season's bests ===
+{| class="wikitable" style="text-align: center"
+|-
+! Year
+! 100 metres
+! 200 metres
+! 400 metres
+|-
+| 1982 || — || 22.39 || —
+|-
+| 1983 || 11.06 || 22.23 || 50.94
+|-
+| 1984 || 10.99 || 22.04 || —
+|-
+| 1985 || 11.00 || 22.50 ||'''50.89'''
+|-
+| 1986 || 11.42 || 23.51 || —
+|-
+| 1987 || 10.96 || 21.96 || —
+|-
+| 1988 ||'''10.49'''||'''21.34'''|| 52.50
+|}
+
+==See also==
+* [[History of African Americans in Los Angeles]]
+
+==Notes==
+{{reflist|group=note}}
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Florence Griffith Joyner}}
+* [https://web.archive.org/web/20180522045151/http://www.florencegriffithjoyner.com/ Official website (archive)]
+* [https://llacademy.org/iconic-sports-moments-florence-griffith/ Iconic Sports Moments- Florence Griffith ]
+* {{iaaf name|id=60674}}
+* [https://web.archive.org/web/20130921132057/http://www.usatf.org/HallOfFame/TF/showBio.asp?HOFIDs=63 Florence Griffith Joyner] at [[USA Track &amp; Field|USATF]]
+* {{IMDb name|0431647}}
+* [http://artoftheolympians.org/artists/florence-joyner/ Florence Griffith Joyner] at [[Art of the Olympians|AOTO]]
+* {{find a Grave|6706|Florence Griffith Joyner}}
+* Videos:
+** {{cite web |url= http://www.sprintic.com/worldrecordsvideo/100m_women_1049_griffith_joyner/ |series= Track and Field Video |work= 100m Women's World Records |format= video |title= 10.49 sec - Florence Griffith-Joyner |date= July 16, 1988 |location= Indianapolis |publisher=SprintIC |url-status= dead |archive-date= September 27, 2007 |archive-url= https://web.archive.org/web/20070927050046/http://www.sprintic.com/worldrecordsvideo/100m_women_1049_griffith_joyner/ |access-date= April 4, 2007 |df= mdy-all }}
+** {{cite web |url= http://www.sprintic.com/worldrecordsvideo/200m_women_2134_griffith_joyner_1988/ |series= Track and Field Video |work= 200m Women's World Records |format= video |title= 21.34 sec - Florence Griffith-Joyner |date= September 29, 1988 |location= Seoul |publisher=SprintIC |url-status= dead |archive-date= September 27, 2007 |archive-url= https://web.archive.org/web/20070927051115/http://www.sprintic.com/worldrecordsvideo/200m_women_2134_griffith_joyner_1988/ |access-date= April 4, 2007 |df= mdy-all }}
+* {{cite web |url= http://sports.espn.go.com/espn/eticket/story?page=090826/flojo |date= August 26, 2009 |title= Dream Chaser |series= [[Outside the Lines]] |work= ESPN |first= Tom |last= Friend |quote= Al Joyner feels the presence of Florence Griffith 25 years after Olympic glory. Now, in their daughter, he sees a young Flo Jo}}
+
+{{s-start}}
+{{s-ach|rec}}
+{{s-bef|before={{flagicon|USA}} [[Evelyn Ashford]]}}
+{{s-ttl|title=[[World record progression 100 metres women|Women's 100 m world record holder]]|years=July 16, 1988 – present}}
+{{s-inc}}{{s-bef|before={{flagicon|GDR}} [[Marita Koch]]}}
+{{s-ttl|title=[[World record progression 200 metres women|Women's 200 m world record holder]]|years=September 29, 1988 – present}}
+{{s-inc}}
+{{s-ach}}
+{{s-bef|before={{flagicon|FRG}} [[Steffi Graf]]}}
+{{s-ttl|title=[[United Press International Athlete of the Year Award#Female winners|United Press International&lt;br /&gt;Athlete of the Year]]|years=1988}}
+{{s-aft|after={{flagicon|FRG}} [[Steffi Graf]]}}
+{{s-bef|before={{flagicon|USA}} [[Jackie Joyner-Kersee]]}}
+{{s-ttl|title=[[Track &amp; Field Athlete of the Year|Women's Track &amp; Field Athlete of the Year]]|years=1988}}
+{{s-aft|after={{flagicon|CUB}} [[Ana Fidelia Quirot]]}}
+{{s-bef|before=&lt;del&gt;''{{flagicon|CAN}} [[Ben Johnson (Canadian sprinter)|Ben Johnson]]''&lt;/del&gt;}}
+{{s-ttl|title=[[L'Équipe Champion of Champions]]|years=1988}}
+{{s-aft|after={{flagicon|USA}} [[Greg LeMond]]}}
+{{s-sports}}
+{{s-bef|before={{flagicon|GDR}} [[Silke Möller]]}}
+{{s-ttl|title=[[200 metres#Women's Seasons Best|Women's 200 m best year performance]]|years=1988}}
+{{s-aft|after={{flagicon|USA}} [[Dawn Sowell]]}}
+{{s-end}}
+
+{{Footer Olympic Champions 100 m Women}}
+{{Footer Olympic Champions 200 m Women}}
+{{Footer Olympic Champions 4x100 m Women}}
+{{IAAF World Athlete of the Year (women)}}
+{{Sullivan Award winners}}
+{{Footer USA Track &amp; Field 1984 Summer Olympics}}
+{{Footer USA Track &amp; Field 1988 Summer Olympics}}
+{{Associated Press Female Athlete of the Year navbox}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Joyner, Florence Griffith}}
+[[Category:American female sprinters]]
+[[Category:1959 births]]
+[[Category:1998 deaths]]
+[[Category:Sportspeople from Los Angeles]]
+[[Category:African-American female track and field athletes]]
+[[Category:Track and field athletes from California]]
+[[Category:Athletes (track and field) at the 1984 Summer Olympics]]
+[[Category:Athletes (track and field) at the 1988 Summer Olympics]]
+[[Category:Olympic gold medalists for the United States in track and field]]
+[[Category:Olympic silver medalists for the United States in track and field]]
+[[Category:World Athletics Championships medalists]]
+[[Category:World Athletics record holders]]
+[[Category:California State University, Northridge alumni]]
+[[Category:James E. Sullivan Award recipients]]
+[[Category:UCLA Bruins women's track and field athletes]]
+[[Category:Burials in Orange County, California]]
+[[Category:Deaths from epilepsy]]
+[[Category:Deaths from asphyxiation]]
+[[Category:Neurological disease deaths in the United States]]
+[[Category:People from Watts, Los Angeles]]
+[[Category:Medalists at the 1988 Summer Olympics]]
+[[Category:Medalists at the 1984 Summer Olympics]]
+[[Category:Track &amp; Field News Athlete of the Year winners]]
+[[Category:IAAF World Athlete of the Year]]
+[[Category:World Athletics Championships winners]]
+[[Category:20th-century American women]]
+[[Category:20th-century American people]]</text>
+      <sha1>a6ng88bsiytf52nkvfwt2zeukiz3hkv</sha1>
+    </revision>
+  </page>
+</mediawiki>

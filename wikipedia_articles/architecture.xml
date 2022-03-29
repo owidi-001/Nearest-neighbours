@@ -1,0 +1,398 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Architecture</title>
+    <ns>0</ns>
+    <id>21296224</id>
+    <revision>
+      <id>1030691450</id>
+      <parentid>1030532824</parentid>
+      <timestamp>2021-06-27T14:01:52Z</timestamp>
+      <contributor>
+        <username>Aza24</username>
+        <id>34452882</id>
+      </contributor>
+      <minor/>
+      <comment>clarify...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54676" xml:space="preserve">{{short description|The product and the process of planning, designing and constructing buildings and other structures.}}
+{{pp|small=yes}} 
+{{about||the profession|Architect|other uses}}
+{{Use dmy dates|date=February 2015}}
+[[File:View of Santa Maria del Fiore in Florence.jpg|thumb|upright=1.45|alt=View of Florence showing the dome, which dominates everything around it. It is octagonal in plan and ovoid in section. It has wide ribs rising to the apex with red tiles in between and a marble lantern on top.|In adding the dome to the  [[Florence Cathedral]] (Italy) in the early 15th century, the architect [[Filippo Brunelleschi]] not only transformed the building and the city, but also the role and status of the [[architect]].&lt;ref&gt;Museo Galileo, Museum and Institute of History and Science, ''[http://brunelleschi.imss.fi.it/itineraries/place/TheDomeOfSantaMariaFiore.html The Dome of Santa Maria del Fiore] {{webarchive |url=https://web.archive.org/web/20130401072804/http://brunelleschi.imss.fi.it/itineraries/place/TheDomeOfSantaMariaFiore.html |date=1 April 2013 }}'', (accessed 30 January 2013)&lt;/ref&gt;&lt;ref&gt;Giovanni Fanelli, ''Brunelleschi'', Becocci, Florence (1980), Chapter: ''The Dome'' pp. 10–41.&lt;/ref&gt;]]
+[[File:Plan d'exécution du second étage de l'hôtel de Brionne (dessin) De Cotte 2503c – Gallica 2011 (adjusted).jpg|thumb|upright=1.45|alt=Plan d'exécution du second étage de l'hôtel de Brionne (dessin) De Cotte 2503c – Gallica 2011 (adjusted)| [[Floor plan|Plan]] of the second floor (attic storey) of the Hôtel de Brionne in Paris – 1734.]]
+
+'''Architecture''' (Latin ''[[wikt:architectura#Latin|architectura]]'', from the Greek [[wikt:ἀρχιτέκτων|ἀρχιτέκτων]] ''arkhitekton'' "architect", from [[wikt:ἀρχι-|ἀρχι-]] "chief" and [[wikt:τέκτων|τέκτων]] "creator") is both the process and the product of [[planning]], [[design]]ing, and [[construction|constructing]] [[building]]s or other [[structure]]s.&lt;ref&gt;{{Cite news|url=https://www.britannica.com/topic/architecture|title=architecture|work=Encyclopedia Britannica|access-date=2017-10-27}}&lt;/ref&gt; Architectural works, in the material form of [[building]]s, are often perceived as cultural symbols and as [[work of art|works of art]]. Historical civilizations are often identified with their surviving architectural achievements.&lt;ref&gt;{{cite book|editor=Daniel Cilia|date=2004|first=Anthony|last=Pace|chapter=Tarxien|title=Malta before History – The World's Oldest Free Standing Stone Architecture|publisher=Miranda Publishers|isbn=978-9990985085}}&lt;/ref&gt;
+
+The practice, which began in the [[Prehistory|prehistoric era]], has been used as a way of expressing [[culture]] for civilizations on all seven [[Continent|continents]].&lt;ref&gt;{{Cite web|title=7 Things I Learned About "Home" from Talking to Architects on Every Continent|url=https://www.apartmenttherapy.com/cultural-architecture-homes-36642082|access-date=2020-12-05|website=Apartment Therapy|language=en}}&lt;/ref&gt; For this reason, architecture is considered to be a form of [[art]]. Texts on architecture have been written since ancient time. The earliest surviving text on [[architectural theory]] is the 1st century AD treatise ''[[De architectura]]'' by the Roman architect [[Vitruvius]], according to whom a good building embodies {{lang|la|firmitas, utilitas}}, and {{lang|la|venustas}} (durability, utility, and beauty). Centuries later, [[Leon Battista Alberti]] developed his ideas further, seeing beauty as an objective quality of buildings to be found in their proportions. [[Giorgio Vasari]] wrote ''[[Lives of the Most Excellent Painters, Sculptors, and Architects]]'' and put forward the idea of style in the Western arts in the 16th century. In the 19th century, [[Louis Sullivan]] declared that "[[form follows function]]". "Function" began to replace the classical "utility" and was understood to include not only practical but also aesthetic, psychological and cultural dimensions. The idea of [[sustainable architecture]] was introduced in the late 20th century.
+
+Architecture began as rural, oral [[vernacular architecture]] that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues. [[Indian architecture|Indian]] and [[Chinese architecture]] influenced forms all over Asia and [[Buddhist architecture]] in particular took diverse local flavors. During the [[European Middle Ages]], pan-European styles of [[Romanesque architecture|Romanesque]] and [[Gothic architecture|Gothic]] cathedrals and abbeys emerged while the [[Renaissance architecture|Renaissance]] favored Classical forms implemented by [[architects]] known by name. Later, the roles of architects and [[engineers]] became separated. [[Modern architecture]] began after [[World War I]] as an [[avant-garde]] movement that sought to develop a completely new style appropriate for a new post-war social and economic order focused on meeting the needs of the middle and working classes. Emphasis was put on modern techniques, materials, and simplified geometric forms, paving the way for high-rise superstructures. Many architects became disillusioned with modernism which they perceived as ahistorical and anti-aesthetic, and [[postmodern architecture|postmodern]] and [[contemporary architecture]] developed.
+
+Over the years, the field of architectural construction has branched out to include everything from ship design to interior decorating.
+
+== Definitions ==
+
+Architecture can mean:
+* A general term to describe buildings and other physical structures.&lt;ref name=OED&gt;''Shorter Oxford English Dictionary'' (1993), Oxford, {{ISBN|0 19 860575 7}}&lt;/ref&gt;
+* The art and science of [[design]]ing [[building]]s and (some) [[nonbuilding structure]]s.&lt;ref name=OED/&gt;
+* The style of design and method of construction of buildings and other physical structures.&lt;ref name=OED/&gt;
+* A unifying or coherent form or structure.&lt;ref&gt;Merriam–Webster's Dictionary of English Usage, {{ISBN|0-87779-132-5}} or {{ISBN|978-0-87779-132-4}}&lt;/ref&gt;
+* Knowledge of art, science, technology, and humanity.&lt;ref name=OED/&gt;
+* The design activity of the architect,&lt;ref name=OED/&gt; from the macro-level ([[urban design]], [[landscape architecture]]) to the micro-level (construction details and furniture). The practice of the [[architect]], where architecture means offering or rendering professional services in connection with the design and construction of buildings, or built environments.&lt;ref&gt;{{cite web|url=http://www.gov.ns.ca/legislature/legc/bills/60th_1st/3rd_read/b115.htm |title=Gov.ns.ca |publisher=Gov.ns.ca |access-date=2 July 2011 |archive-url=https://web.archive.org/web/20110721200353/http://www.gov.ns.ca/legislature/legc/bills/60th_1st/3rd_read/b115.htm |archive-date=21 July 2011 |url-status=dead |df=dmy }}&lt;/ref&gt;
+
+==Theory of architecture==
+{{Main|Architectural theory|Philosophy of architecture}}
+[[Image:Yingzao Fashi 1 desmear.JPG|thumb|Illustration of [[Bracket (architecture)|bracket]] arm clusters containing [[cantilever]]s from ''[[Yingzao Fashi]]'', a text on architecture by [[Li Jie (author)|Li Jue]] (1065–1110)]]
+The philosophy of architecture is a branch of [[philosophy of art]], dealing with aesthetic value of architecture, its [[semantics]] and relations with development of [[culture]]. Many philosophers and theoreticians from [[Plato]] to [[Michel Foucault]], [[Gilles Deleuze]],&lt;ref&gt;{{cite book|last=Deleuze|first=Gilles|title=Pourparlers|location=Paris|publisher=Minuit|date=1990|page=219|quote=It is not the line that is between two points, but the point that is at the intersection of several lines.}}&lt;/ref&gt; [[Robert Venturi]] and [[Ludwig Wittgenstein]] have concerned themselves with the nature of architecture and whether or not architecture is distinguished from building.
+
+===Historic treatises===
+The earliest surviving written work on the subject of architecture is ''[[De architectura]]'' by the Roman architect [[Vitruvius]] in the early 1st century AD.&lt;ref name="Vitruvius"&gt;D. Rowland – T.N. Howe: Vitruvius. Ten Books on Architecture. Cambridge University Press, Cambridge 1999, {{ISBN|0-521-00292-3}}&lt;/ref&gt; According to Vitruvius, a good building should satisfy the three principles of {{lang|la|firmitas, utilitas, venustas}},&lt;ref&gt;{{cite web|url=http://www.gardenvisit.com/landscape/LIH/history/vitruvius.htm#ch1-3|title=Vitruvius Ten Books on Architecture, with regard to landscape and garden design|work=gardenvisit.com|access-date=14 November 2005|archive-url=https://web.archive.org/web/20071012035458/http://gardenvisit.com/landscape/LIH/history/vitruvius.htm#ch1-3|archive-date=12 October 2007|url-status=dead}}&lt;/ref&gt;&lt;ref name="elements"&gt;{{cite web|url=https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Vitruvius/home.html |title=Vitruvius |publisher=Penelope.uchicago.edu |access-date=2 July 2011}}&lt;/ref&gt; commonly known by the original translation – ''firmness, commodity and delight''. An equivalent in modern English would be:
+* Durability – a building should stand up robustly and remain in good condition
+* Utility – it should be suitable for the purposes for which it is used
+* Beauty – it should be aesthetically pleasing
+According to Vitruvius, the architect should strive to fulfill each of these three attributes as well as possible. [[Leon Battista Alberti]], who elaborates on the ideas of Vitruvius in his treatise, ''[[De re aedificatoria]]'', saw beauty primarily as a matter of proportion, although ornament also played a part. For Alberti, the rules of proportion were those that governed the idealised human figure, the [[Golden ratio|Golden mean]]. The most important aspect of beauty was, therefore, an inherent part of an object, rather than something applied superficially, and was based on universal, recognisable truths. The notion of style in the arts was not developed until the 16th century, with the writing of [[Giorgio Vasari]].&lt;ref&gt;Françoise Choay, ''Alberti and Vitruvius'', editor, Joseph Rykwert, Profile 21, Architectural Design, Vol. 49 No. 5–6&lt;/ref&gt; By the 18th century, his ''[[Lives of the Most Excellent Painters, Sculptors, and Architects]]'' had been translated into Italian, French, Spanish, and English.
+
+In the 16th century, Italian Mannerist architect, painter and theorist [[Sebastiano Serlio]] wrote ''Tutte L’Opere D’Architettura et Prospetiva'' (''Complete Works on Architecture and Perspective''). This treatise exerted immense influence throughout Europe, being the first handbook that emphasized the practical rather than the theoretical aspects of architecture, and it was the first to catalog the five orders.&lt;ref&gt;[https://dlc.library.columbia.edu/serlio Sebastiano Serlio -- On domestic architecture], Columbia University Libraries, accessed February 5, 2021&lt;/ref&gt;
+
+In the early 19th century, [[Augustus Welby Northmore Pugin]] wrote ''Contrasts'' (1836) that, as the titled suggested, contrasted the modern, industrial world, which he disparaged, with an idealized image of neo-medieval world. [[Gothic architecture]], Pugin believed, was the only "true Christian form of architecture."&lt;ref&gt;{{cite journal|last=D'Anjou|first=Philippe|title=An Ethics of Freedom for Architectural Design Practice|jstor=41318789|volume=64|date=2011|journal=Journal of Architectural Education|pages=141–147|number=2}}&lt;/ref&gt; The 19th-century English art critic, [[John Ruskin]], in his ''[[Seven Lamps of Architecture]]'', published 1849, was much narrower in his view of what constituted architecture. Architecture was the "art which so disposes and adorns the edifices raised by men ... that the sight of them" contributes "to his mental health, power, and pleasure".&lt;ref name=Ruskin&gt;John Ruskin, ''The Seven Lamps of Architecture'', G. Allen (1880), reprinted Dover, (1989) {{ISBN|0-486-26145-X}}&lt;/ref&gt; For Ruskin, the aesthetic was of overriding significance. His work goes on to state that a building is not truly a work of architecture unless it is in some way "adorned". For Ruskin, a well-constructed, well-proportioned, functional building needed string [[Course (architecture)|courses]] or [[Rustication (architecture)|rustication]], at the very least.&lt;ref name=Ruskin/&gt;
+
+On the difference between the ideals of ''architecture'' and mere ''[[construction]]'', the renowned 20th-century architect [[Le Corbusier]] wrote: "You employ stone, wood, and concrete, and with these materials you build houses and palaces: that is construction. Ingenuity is at work. But suddenly you touch my heart, you do me good. I am happy and I say: This is beautiful. That is Architecture".&lt;ref&gt;Le Corbusier, ''Towards a New Architecture'', Dover Publications(1985). {{ISBN|0-486-25023-7}}&lt;/ref&gt; Le Corbusier's contemporary [[Ludwig Mies van der Rohe]] said "Architecture starts when you carefully put two bricks together. There it begins."&lt;ref&gt;{{cite web|url=http://www.brainyquote.com/quotes/quotes/l/ludwigmies116040.html|title=Architecture starts when you carefully put two bricks together. There it begins. - Ludwig Mies van der Rohe at BrainyQuote|work=BrainyQuote}}&lt;/ref&gt;
+
+[[File:Congresso do Brasil.jpg|thumb|alt= The view shows a 20th-century building with two identical towers very close to each other rising from a low building which has a dome at one end, and an inverted dome, like a saucer, at the other.|The [[National Congress of Brazil]], designed by [[Oscar Niemeyer]]]]
+
+===Modern concepts===
+The notable 19th-century architect of skyscrapers, [[Louis Sullivan]], promoted an overriding precept to architectural design: "[[Form follows function]]". While the notion that structural and aesthetic considerations should be entirely subject to functionality was met with both popularity and skepticism, it had the effect of introducing the concept of "function" in place of [[Vitruvius]]' "utility". "Function" came to be seen as encompassing all criteria of the use, perception and enjoyment of a [[building]], not only practical but also aesthetic, psychological and cultural.
+
+[[Nunzia Rondanini]] stated, "Through its aesthetic dimension architecture goes beyond the functional aspects that it has in common with other human sciences. Through its own particular way of expressing [[Architectural design values|values]], architecture can stimulate and influence social life without presuming that, in and of itself, it will promote social development.... To restrict the meaning of (architectural) formalism to art for art's sake is not only reactionary; it can also be a purposeless quest for perfection or originality which degrades form into a mere instrumentality".&lt;ref&gt;Rondanini, Nunzia ''Architecture and Social Change'' Heresies II, Vol. 3, No. 3, New York, Neresies Collective Inc., 1981.&lt;/ref&gt;
+
+Among the philosophies that have influenced modern architects and their approach to building design are [[Rationalism]], [[Empiricism]], [[Structuralism]], [[Poststructuralism]], [[deconstructivism|Deconstruction]] and [[Phenomenology (architecture)|Phenomenology]].
+
+In the late 20th century a new concept was added to those included in the compass of both structure and function, the consideration of [[sustainability]], hence [[sustainable architecture]]. To satisfy the contemporary ethos a building should be constructed in a manner which is environmentally friendly in terms of the production of its materials, its impact upon the natural and built environment of its surrounding area and the demands that it makes upon non-sustainable power sources for heating, cooling, water and waste management, and [[lighting]].
+{{clear}}
+
+==History==
+{{Main|History of architecture}}
+
+===Origins and vernacular architecture===
+{{main|Vernacular architecture}}
+&lt;gallery mode="packed"&gt;
+File:Stærnes Søndre Loft, Rollag.jpg|In [[Norway]]: wood and elevated-level
+File:Lesotho Slide Show (294).JPG|In [[Lesotho]]: rondavel stones
+File:Yola hut -Tagoat Co. Wexford.JPG|In [[Ireland]]: Yola hut 
+
+Muzeul Satului Bucuresti 02.jpg|In [[Romania]]: peasant houses in the [[Dimitrie Gusti National Village Museum]] ([[Bucharest]])
+&lt;/gallery&gt;
+Building first evolved out of the dynamics between needs (shelter, security, worship, etc.) and means (available [[building material]]s and attendant skills). As human cultures developed and knowledge began to be formalized through oral traditions and practices, building became a [[craft]], and "architecture" is the name given to the most highly formalized and respected versions of that craft. It is widely assumed that architectural success was the product of a process of trial and error, with progressively less trial and more replication as the results of the process proved increasingly satisfactory. What is termed [[vernacular architecture]] continues to be produced in many parts of the world.
+
+===Prehistoric architecture=== 
+
+&lt;gallery mode="packed"&gt;
+
+File:Göbekli Tepe, Urfa.jpg|[[Göbekli Tepe]] from [[Turkey]], founded in 10th millennium BC and abandoned in 8th millennium BC
+File:Trypillian house2.jpg|Pottery miniature of a [[Cucuteni-Trypillian culture|Cucuteni-Trypillian]] house
+File:Cucuteni MNIR IMG 7622.JPG|Miniature of a regular Cucuteni-Trypillian house, full of ceramic vessels
+File:Orkney Skara Brae.jpg|Excavated dwellings at [[Skara Brae]] ([[Mainland, Orkney]], [[Scotland]], UK)
+
+&lt;/gallery&gt;
+
+Early human settlements were mostly [[rural]]. Expending economies resulted in the creation of [[urban area]]s which in some cases grew and evolved very rapidly, such as that of [[Çatal Höyük]] in [[Anatolia]] and [[Mohenjo-daro|Mohenjo Daro]] of the Indus Valley Civilization in modern-day [[Pakistan]].
+
+Neolithic [[List of archaeological sites|settlements and "cities"]] include [[Göbekli Tepe]] and [[Çatalhöyük]] in Turkey, [[Jericho]] in the Levant, [[Mehrgarh]] in Pakistan, [[Knap of Howar]] and [[Skara Brae]], [[Orkney Islands]], [[Prehistoric Scotland|Scotland]], and the  [[Cucuteni-Trypillian culture]] settlements in [[Romania]], [[Moldova]] and [[Ukraine]].
+
+===Ancient architecture===
+&lt;gallery mode="packed"&gt;
+File:Ishtar gate in Pergamon museum in Berlin..jpg|[[Mesopotamian architecture]]: [[Reconstruction (architecture)|Reconstruction]] of the [[Ishtar Gate]] in the [[Pergamon Museum]] ([[Berlin]], [[Germany]]), circa 575 BC
+
+Kheops-Pyramid.jpg|[[Ancient Egyptian architecture]]: The [[Great Pyramid of Giza]] ([[Giza]], Egypt), circa 2589-2566 BC, by [[Hemiunu]]
+
+File:Parthenon (30276156187).jpg|[[Ancient Greek architecture]]: The [[Parthenon]] on the [[Athenian Acropolis]], made of marble and limestone, 460-406 BC
+
+Maison Carree in Nimes (16).jpg|[[Ancient Roman architecture]]: The [[Maison Carrée]] from [[Nîmes]] (France), one of the best-preserved Roman temples, circa 2 AD
+&lt;/gallery&gt;
+
+In many ancient civilizations such as those of [[Ancient Egypt|Egypt]] and [[Mesopotamia]], architecture and urbanism reflected the constant engagement with the divine and the [[supernatural]], and many ancient cultures resorted to monumentality in architecture to represent symbolically the political power of the ruler, the ruling elite, or the state itself.
+
+The architecture and [[urbanism]] of the [[Classical antiquity|Classical civilizations]] such as the [[Ancient Greece|Greek]] and the [[Ancient Rome|Roman]] evolved from civic ideals rather than religious or empirical ones and new building types emerged. Architectural "style" developed in the form of the [[Classical orders]]. Roman architecture was influenced by Greek architecture as they incorporated many Greek elements into their building practices.&lt;ref&gt;{{Cite web|url=https://www.khanacademy.org/humanities/ancient-art-civilizations/greek-art/beginners-guide-greece/a/introduction-to-greek-architecture|title=Introduction to Greek architecture|website=Khan Academy|language=en|archive-url=https://web.archive.org/web/20141014123040/http://www.khanacademy.org/humanities/ancient-art-civilizations/greek-art/beginners-guide-greece/a/introduction-to-greek-architecture|archive-date=2014-10-14|url-status=dead|access-date=2017-06-23}}&lt;/ref&gt;
+
+Texts on architecture have been written since ancient time. These texts provided both general advice and specific formal prescriptions or canons. Some examples of canons are found in the writings of the 1st-century BCE Roman Architect [[Vitruvius]]. Some of the most important early examples of canonic architecture are religious.
+
+===Asian architecture===
+&lt;gallery mode="packed"&gt;
+
+Beauty of khajuraho temple.jpg|[[Indian architecture]]: The [[Kandariya Mahadeva Temple]] ([[Khajuraho]], [[Madhya Pradesh]], [[India]]), circa 1030
+
+File:11 Temple of Heaven.jpg|[[Chinese architecture]]: The Hall of Prayer for Good Harvests, the main building of the [[Temple of Heaven]] ([[Beijing]], China), 1703-1790
+
+Himeji Castle The Keep Towers.jpg|[[Japanese architecture]]: The [[Himeji Castle]] ([[Himeji]], [[Hyōgo Prefecture]], [[Japan]]), 1609
+
+File:Roulos Group - 005 Bakong (8587796725).jpg|[[Khmer architecture]]: The [[Bakong]] (near [[Siem Reap]], [[Cambodia]]), earliest surviving Temple Mountain at Angkor, completed in 881 AD
+&lt;/gallery&gt;
+The architecture of different parts of [[Asia]] developed along different lines from that of Europe; Buddhist, Hindu and Sikh architecture each having different characteristics. [[Indian architecture|Indian]] and [[Chinese architecture|Chinese]] architecture have had great influence on the surrounding regions, while [[Japanese architecture]] has not.  [[Buddhist architecture]], in particular, showed great regional diversity. [[Hindu temple architecture]], which developed from around the 5th century CE, is in theory governed by concepts laid down in the [[Shastra]]s, and is concerned with expressing the macrocosm and the microcosm. In many Asian countries, pantheistic religion led to architectural forms that were designed specifically to enhance the [[natural landscape]].
+
+In many parts of Asia, even the grandest houses were relatively lightweight structures mainly using wood until recent times, and there are few survivals of great age.  Buddhism was associated with a move to stone and brick religious structures, probably beginning as [[rock-cut architecture]], which has often survived very well.  
+
+Early Asian writings on architecture include the ''Kao Gong Ji'' of China from the 7th–5th centuries BCE; the [[Shilpa Shastras]] of ancient India;  [[Manjusri Vasthu Vidya Sastra]] of [[Sri Lanka]] and [[Araniko]] of [[Nepal]] .
+
+===Islamic architecture===
+{{Main|Islamic architecture}}
+&lt;gallery mode="packed"&gt;
+
+File:Córdoba (5157827355).jpg|[[Moorish architecture]]: Grand arches of the [[Mosque–Cathedral of Córdoba]] ([[Córdoba, Spain|Córdoba]], [[Spain]])
+
+File:20180301124354 IMG 4179And6more Interior 3.jpg|[[Persian architecture]]: The [[Jameh Mosque of Isfahan|Jameh Mosque]] in [[Isfahan]] ([[Iran]])
+
+File:Badshahi Mosque July 1 2005 pic32 by Ali Imran (1).jpg|[[Mughal architecture]]: The [[Badshahi Mosque]] in [[Lahore]] ([[Pakistan]])
+
+Selimiye Mosque, Dome.jpg|[[Ottoman architecture]]: The interior side view of the main dome of the [[Selimiye Mosque (Edirne)|Selimiye Mosque]] in [[Edirne]] ([[Turkey]]) 
+
+&lt;/gallery&gt;
+Islamic architecture began in the 7th century [[Common Era|CE]], incorporating architectural forms from the ancient [[Middle East]] and [[Byzantium]], but also developing features to suit the religious and social needs of the society. Examples can be found throughout the Middle East, Turkey, North Africa, the Indian Sub-continent  and in parts of Europe, such as Spain, Albania, and the Balkan States, as the result of the expansion of the [[Ottoman Empire]].
+&lt;ref name="metmuseum.org-ottoman-europe"&gt;{{cite web |author1=Marika Sardar |title=Essay: The Later Ottomans and the Impact of Europe |url=https://www.metmuseum.org/toah/hd/otto3/hd_otto3.htm |website=www.metmuseum.org |publisher=The Met |access-date=12 February 2019 |language=en |date=October 2004}}&lt;/ref&gt;&lt;ref name="brill.com-book-Lory"&gt;{{cite book |last1=Lory |first1=Bernard |title=Entangled Histories of the Balkans - Volume Three |chapter=The Ottoman Legacy in the Balkans |chapter-url=https://brill.com/configurable/contentpage/book$002fedcoll$002f9789004290365$002fB9789004290365_006.xml |website=Entangled Histories of the Balkans - Volume Three |access-date=12 February 2019 |pages=355–405 |language=en |chapter-format=html / pdf |doi=10.1163/9789004290365_006 |date=1 January 2015|isbn=9789004290365 }}&lt;/ref&gt;
+
+===Middle Ages===
+&lt;gallery mode="packed"&gt;
+File:Basilica di Santa Maria Maggiore abside a Roma.jpg|[[Byzantine architecture]]: [[Apse]] of [[Santa Maria Maggiore]] ([[Rome]]), decorated in the 5th century with this glamorous mosaic
+
+File:Durham Cathedral Nave.jpg|[[Romanesque architecture]]: Interior of the [[Durham Cathedral]] ([[Durham, England|Durham]], [[UK]]), 1093-1133
+
+File:Sainte Chapelle Interior Stained Glass.jpg|[[Gothic architecture]]: Stained glass windows of the [[Sainte-Chapelle]] in Paris, completed in 1248, mostly constructed between 1194 and 1220
+
+File:4, Strada Stavropoleos, Bucharest (Romania).jpg|[[Brâncovenesc architecture]]: The [[Stavropoleos Monastery|Stavropoleos Church]] (downtown [[Bucharest]], [[Romania]]), with elaborate paintings on the façade, 1724
+
+&lt;/gallery&gt;
+In [[Europe]] during the [[Medieval]] period, [[guild]]s were formed by craftsmen to organize their trades and written contracts have survived, particularly in relation to ecclesiastical buildings. The role of architect was usually one with that of master mason, or ''Magister lathomorum'' as they are sometimes described in contemporary documents.
+
+The major architectural undertakings were the buildings of abbeys and [[cathedral]]s. From about 900 CE onward, the movements of both clerics and tradesmen carried architectural knowledge across Europe, resulting in the pan-European styles [[Romanesque architecture|Romanesque]] and [[Gothic architecture|Gothic]].
+
+Also, a significant part of the Middle Ages architectural heritage is numerous [[fortifications]] across the continent. From Balkans to Spain, and from Malta to Estonia, these buildings represent an important part of European heritage.
+
+===Renaissance and the architect===
+{{Main|Renaissance architecture}}
+&lt;gallery mode="packed"&gt;
+Tempietto del Bramante Vorderseite.jpg|[[San Pietro in Montorio#The Tempietto|The Tempietto]] (Rome), by [[Donato Bramante]], 1444-1514
+
+Le salon des Perspectives (Villa Farnesina, Rome) (34242676046).jpg|The Hall of Perspective from [[Villa Farnesina]] (Rome), by [[Baldassare Peruzzi]], 1505-1510
+
+Schloss Chenonceau.JPG|The [[Château de Chenonceau]] (France), by [[Philibert de l'Orme]], 1576
+
+Paris PlaceDesVosges Ouest.JPG|The [[Place des Vosges]] (Paris), and example of [[Henry IV style]] architecture, by [[Claude Chastillon]], 1612
+
+Pavillon Sully Louvre 2007 06 23.jpg|The [[Pavillon de l'Horloge]], Part of the [[Louvre Palace]] (Paris), by [[Jacques Lemercier]], circa 1640
+
+&lt;/gallery&gt;
+
+In [[Renaissance]] Europe, from about 1400 onwards, there was a revival of Classical learning accompanied by the development of [[Renaissance humanism]], which placed greater emphasis on the role of the individual in society than had been the case during the Medieval period. Buildings were ascribed to specific architects – [[Filippo Brunelleschi|Brunelleschi]], [[Leone Battista Alberti|Alberti]], [[Michelangelo]], [[Palladio]] – and the cult of the individual had begun. There was still no dividing line between [[artist]], [[architect]] and [[engineer]], or any of the related vocations, and the appellation was often one of regional preference.
+
+A revival of the [[Classical architecture|Classical style]] in architecture was accompanied by a burgeoning of science and engineering, which affected the proportions and structure of buildings. At this stage, it was still possible for an artist to design a bridge as the level of structural calculations involved was within the scope of the generalist.
+
+===Early modern and the industrial age===
+&lt;gallery mode="packed"&gt;
+
+Château de Maisons-Laffitte 001.jpg|[[Baroque architecture]]: The [[Château de Maisons]] (France), by [[François Mansart]], 1630–1651
+
+Petit appartement du roi - Pièce de la vaisselle d'or (3).jpg|[[Rococo|Rococo architecture]]: The pièce de la vaisselle d'or ([[Palace of Versailles]], [[Versailles]], France)
+
+West facade of Petit Trianon 002.JPG|[[Neoclassical architecture]]: The west facade of the [[Petit Trianon]] (Versailles), 1764, by [[Ange-Jacques Gabriel]]
+
+All Saints Margaret Street Interior 2, London, UK - Diliff.jpg|[[Historicism|Historicist architecture]] (in this case [[Gothic Revival Architecture|Gothic Revival]]): Interior of the [[All Saints, Margaret Street|All Saints]] (London), 1850–1859, by [[William Butterfield]]
+
+The Museum of Ages.jpg|[[History of architecture#Classicist Eclecticism|19th century Eclectic Classicist architecture]]: The [[Museum of Ages]] on [[Victory Avenue]] ([[Bucharest]], [[Romania]]), late 19th century, unknown architect
+
+Vedere a Halelor din Paris de pe Biserica Saint Eustache.jpg|19th century [[industrial architecture]]: [[Les Halles]] (Paris), 1850s-destroyed in 1971, by [[Victor Baltard]]
+
+Éden-Théâtre 1876 Paris - Chauveau 1999 after p96.jpg|[[Orientalism|Orientalist architecture]]: The [[Éden-Théâtre]] (Paris), early 1880s-demolished in 1895, by [[William Klein (architect)|William Klein]] and [[Albert Duclos]]
+
+56, Bulevardul Dacia, Bucharest (Romania).jpg|[[Revivalism (architecture)|Revivalist architecture]] of a national style (in this case [[Romanian Revival architecture|Romanian Revival]]): The [https://commons.wikimedia.org/wiki/Category:Cihoski_House Cihoski House] on Bulevardul Dacia (Bucharest), late 19th-early 20th century, unknown architect
+
+Palacio CEC, Bucarest, Rumanía, 2016-05-29, DD 91-93 HDR.jpg|[[Beaux-Arts architecture]]: The [[CEC Palace]] on [[Calea Victoriei|Victory Avenue]] (Bucharest), 8 June 1897 – 1900, by [[Paul Gottereau]]&lt;ref&gt;{{cite book|last1=Marinache|first1=Oana|title=Paul Gottereau - Un Regal în Arhitectură|date=2017|publisher=Editura Istoria Artei|isbn=978-606-8839-09-7|page=184|url=|language=ro}}&lt;/ref&gt;
+
+File:Castel Béranger, February 16, 2013.jpg|[[Art Nouveau#Architecture and ornamentation|Art Nouveau architecture]]: The Entrance of the [[Castel Béranger]] (Paris), 1895–1898, by [[Hector Guimard]]
+
+&lt;/gallery&gt;
+With the emerging knowledge in scientific fields and the rise of new materials and technology, architecture and [[engineering]] began to separate, and the architect began to concentrate on [[aesthetics]] and the humanist aspects, often at the expense of technical aspects of building design. There was also the rise of the "gentleman architect" who usually dealt with wealthy clients and concentrated predominantly on visual qualities derived usually from historical prototypes, typified by the many country houses of Great Britain that were created in the [[Gothic Revival architecture|Neo Gothic]] or [[Scottish baronial]] styles.
+Formal architectural training in the 19th century, for example at [[École des Beaux-Arts]] in France, gave much emphasis to the production of beautiful drawings and little to context and feasibility.
+
+Meanwhile, the [[Industrial Revolution]] laid open the door for mass production and consumption. Aesthetics became a criterion for the middle class as ornamented products, once within the province of expensive craftsmanship, became cheaper under machine production.
+
+[[Vernacular architecture]] became increasingly ornamental. Housebuilders could use current architectural design in their work by combining features found in pattern books and architectural journals.
+
+===Modernism===
+{{Main|Modern architecture}}
+&lt;gallery mode="packed"&gt;
+
+Alfeld Fagus 08JUL15.JPG|[[Modern architecture#Early modernism in Europe (1900–1914)|Early Modern architecture]]: The [[Fagus Factory]] ([[Alfeld]], Germany), 1911, by [[Walter Gropius]]
+
+Einsteinturm 7443a.jpg|[[Expressionist architecture]]: The [[Einstein Tower]] ([[Potsdam]], near [[Berlin]], Germany), 1919–1922, by [[Erich Mendelsohn]]
+
+Théâtre des Champs-Élysées, 21 April 2013.jpg|[[Art Deco#Architecture|Art Deco architecture]]: The [[Théâtre des Champs-Élysées]] (Paris), 1910–1913, by [[Auguste Perret]]
+
+Overzicht voorgevel - Heerlen - 20349660 - RCE.jpg|[[International Style (architecture)|International Style]]: The [[Glaspaleis]] ([[Heerlen]], the Netherlands), 1934–1935, by [[Frits Peutz]] and [[Philip Johnson]]
+
+&lt;/gallery&gt;
+Around the beginning of the 20th century, general dissatisfaction with the emphasis on [[Revivalism (architecture)|revivalist architecture]] and elaborate decoration gave rise to many new lines of thought that served as precursors to Modern architecture. Notable among these is the [[Deutscher Werkbund]], formed in 1907 to produce better quality machine-made objects. The rise of the profession of industrial design is usually placed here. Following this lead, the [[Bauhaus]] school, founded in [[Weimar]], Germany in 1919, redefined the architectural bounds prior set throughout history, viewing the creation of a building as the ultimate synthesis—the apex—of art, craft, and technology.
+
+When [[modern architecture]] was first practised, it was an [[avant-garde]] movement with moral, philosophical, and aesthetic underpinnings. Immediately after [[World War I]], pioneering modernist architects sought to develop a completely new style appropriate for a new post-war social and economic order, focused on meeting the needs of the middle and working classes. They rejected the architectural practice of the academic refinement of historical styles which served the rapidly declining aristocratic order. The approach of the Modernist architects was to reduce buildings to pure forms, removing historical references and ornament in favor of functional details. Buildings displayed their functional and structural elements, exposing steel beams and concrete surfaces instead of hiding them behind decorative forms. Architects such as [[Frank Lloyd Wright]] developed [[organic architecture]], in which the form was defined by its environment and purpose, with an aim to promote harmony between human habitation and the natural world with prime examples being [[Robie House]] and [[Fallingwater]].
+
+Architects such as [[Mies van der Rohe]], [[Philip Johnson]] and [[Marcel Breuer]] worked to create beauty based on the inherent qualities of building materials and modern construction techniques, trading traditional historic forms for simplified geometric forms, celebrating the new means and methods made possible by the [[Industrial Revolution]], including steel-frame construction, which gave birth to high-rise superstructures. [[Fazlur Rahman Khan]]'s development of the [[Tube (structure)|tube structure]] was a technological break-through in building ever higher.  By mid-century, Modernism had morphed into the [[International style (architecture)|International Style]], an aesthetic epitomized in many ways by the Twin Towers of New York's [[World Trade Center (1973–2001)|World Trade Center]] designed by [[Minoru Yamasaki]].
+
+===Postmodernism===
+{{main|Postmodern architecture}}
+&lt;gallery mode="packed"&gt;
+PiazzaDItalia1990.jpg|[[Piazza d'Italia (New Orleans)|Piazza d'Italia]] ([[New Orleans]], USA), 1978, by [[Charles Moore (architect)|Charles Moore]]
+
+The Walt Disney Company office.jpg|[[Team Disney]] Building ([[Los Angeles]], USA), 1990, by [[Michael Graves]]
+
+Cambridge University Judge Business School interior.jpg|Multicolour interior of the [[Cambridge Judge Business School]] ([[Cambridge]], the UK), 1995, by [[John Outram]]
+
+Case danzanti.jpg|The [[Dancing House]] ([[Prague]], [[Czech Republic]]), 1996, by [[Vlado Milunić]] and [[Frank Gehry]]
+
+
+&lt;/gallery&gt;
+
+Many architects resisted [[modernism]], finding it devoid of the decorative richness of historical styles. As the first generation of modernists began to die after [[World War II]], the second generation of architects including [[Paul Rudolph (architect)|Paul Rudolph]], [[Marcel Breuer]], and [[Eero Saarinen]] tried to expand the aesthetics of modernism with [[Brutalism]], buildings with expressive sculptural façades made of unfinished concrete. But an even new younger postwar generation critiqued modernism and Brutalism for being too austere, standardized, monotone, and not taking into account the richness of human experience offered in historical buildings across time and in different places and cultures.
+
+One such reaction to the cold aesthetic of modernism and Brutalism is the school of [[metaphoric architecture]], which includes such things as [[biomorphism]] and [[zoomorphic architecture]], both using nature as the primary source of inspiration and design.  While it is considered by some to be merely an aspect of [[postmodernism]], others consider it to be a school in its own right and a later development of [[expressionist architecture]].&lt;ref name=metaphor&gt;
+{{Cite book
+| last      = Fez-Barringten
+| first     = Barie
+| title     = Architecture: The Making of Metaphors
+| publisher = Cambridge Scholars Publishing
+| year      = 2012
+| location  = Newcastle upon Tyne
+| isbn      = 978-1-4438-3517-6}}&lt;/ref&gt;
+
+Beginning in the late 1950s and 1960s, [[architectural phenomenology]] emerged as an important movement in the early reaction against modernism, with architects like [[Charles Moore (architect)|Charles Moore]] in the United States, [[Christian Norberg-Schulz]] in Norway, and [[Ernesto Nathan Rogers]] and [[Vittorio Gregotti]], [[Michele Valori]], [[Bruno Zevi]] in Italy, who collectively popularized an interest in a new contemporary architecture aimed at expanding human experience using historical buildings as models and precedents.&lt;ref&gt;{{cite book  | last =Otero-Pailos  | first =Jorge  | title =Architecture's Historical Turn: Phenomenology and the Rise of the Postmodern  | publisher =University of Minnesota Press| year =2010 | location = Minneapolis| url =https://books.google.com/books?id=3WDOQgAACAAJ&amp;q=architecture's%20historical%20turn  | isbn=9780816666041}}&lt;/ref&gt; Postmodernism produced a style that combined contemporary building technology and cheap materials, with the aesthetics of older pre-modern and non-modern styles, from high classical architecture to popular or vernacular regional building styles. [[Robert Venturi]] famously defined postmodern architecture as a "decorated shed" (an ordinary building which is functionally designed inside and embellished on the outside) and upheld it against modernist and brutalist "ducks" (buildings with unnecessarily expressive tectonic forms).&lt;ref&gt;{{cite book  | last =Venturi  | first =Robert  | title =Complexity and Contradiction in Architecture  | publisher =Museum of Modern Art| year =1966 | location = New York| url =https://archive.org/details/complexitycontra00vent | url-access =registration  | quote =complexity and contradiction in architecture.  }}&lt;/ref&gt;
+
+===Architecture today===
+{{Main|Contemporary architecture}}
+&lt;gallery mode="packed"&gt;
+
+Dallas Meadows Museum 1.jpg|The [[Meadows Museum]] ([[Dallas]], [[Texas]], USA), 2001, by [[Thomas H. Beeby|HBRA architects]] 
+
+File:Beijing national stadium.jpg|The [[Beijing National Stadium]] ([[Beijing]], [[China]]), 2003-2007, by [[Herzog &amp; de Meuron]] 
+
+Campus WU LC D1 TC DSC 1440w.jpg|The Library and Learning Center of the [[University of Vienna]] ([[Vienna]], [[Austria]]), 2008, by [[Zaha Hadid]]
+
+File:Isbjerget.jpg|The [[Isbjerget]] housing project ([[Aarhus]], Denmark), inspired by form and color of icebergs, 2013, by [[CEBRA]], [[Julien De Smedt|JDS Architects]], Louis Paillard, and SeARCH
+&lt;/gallery&gt;
+Since the 1980s, as the complexity of buildings began to increase (in terms of structural systems, services, energy and technologies), the field of architecture became multi-disciplinary with specializations for each project type, technological expertise or project delivery methods. Moreover, there has been an increased separation of the 'design' architect &lt;ref group="Notes"&gt;A design architect is one who is responsible for the design.&lt;/ref&gt; from the 'project' architect who ensures that the project meets the required standards and deals with matters of liability.&lt;ref group="Notes"&gt;A project architect is one who is responsible for ensuring the design is built correctly and who administers building contracts – in non-specialist architectural practices the project architect is also the design architect and the term refers to the differing roles the architect plays at differing stages of the process.&lt;/ref&gt; The preparatory processes for the design of any large building have become increasingly complicated, and require preliminary studies of such matters as durability, sustainability, quality, money, and compliance with local laws. A large structure can no longer be the design of one person but must be the work of many.
+[[Modern architecture|Modernism]] and [[Postmodern architecture|Postmodernism]] have been criticised by some members of the architectural profession who feel that successful architecture is not a personal, philosophical, or aesthetic pursuit by individualists; rather it has to consider everyday needs of people and use technology to create liveable environments, with the design process being informed by studies of behavioral, environmental, and social sciences.
+
+Environmental [[sustainability]] has become a mainstream issue, with a profound effect on the architectural profession. Many developers, those who support the financing of buildings, have become educated to encourage the facilitation of environmentally sustainable design, rather than solutions based primarily on immediate cost. Major examples of this can be found in [[passive solar building design]], [[Green roof|greener roof designs]], [[Biodegradation|biodegradable]] materials, and more attention to a structure's energy usage. This major shift in architecture has also changed architecture schools to focus more on the environment. There has been an acceleration in the number of buildings that seek to meet [[green building]] [[sustainable design]] principles. Sustainable practices that were at the core of vernacular architecture increasingly provide inspiration for environmentally and socially sustainable contemporary techniques.&lt;ref&gt;{{cite web|author=OneWorld.net |url=http://el.doccentre.info/eldoc/0411/dwvernacular_architecture.html |title=Vernacular Architecture in India |publisher=El.doccentre.info |date=31 March 2004 |access-date=2 July 2011}}&lt;/ref&gt; The U.S. Green Building Council's [[Leadership in Energy and Environmental Design|LEED]] (Leadership in Energy and Environmental Design) rating system has been instrumental in this.&lt;ref&gt;Other [[Efficient energy use|energy efficiency]] and green building rating systems include Energy Star, Green Globes, and CHPS ([[Collaborative for High Performance Schools]]).&lt;/ref&gt;{{Quantify|date=July 2016}}
+
+Concurrently, the recent movements of [[New Urbanism]], [[Metaphoric architecture]], [[Complementary architecture]] and [[New Classical architecture]] promote a sustainable approach towards construction that appreciates and develops [[smart growth]], [[Vernacular architecture|architectural tradition]] and [[Classical architecture|classical design]].&lt;ref&gt;{{cite web|url=http://www.cnu.org/charter|title=The Charter of the New Urbanism|work=cnu.org|date=2015-04-20}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Beauty, Humanism, Continuity between Past and Future|url=http://www.traditionalarchitecture.co.uk/aims.html|publisher=Traditional Architecture Group|access-date=23 March 2014|archive-url=https://web.archive.org/web/20180305215635/http://www.traditionalarchitecture.co.uk/aims.html|archive-date=5 March 2018|url-status=dead}}&lt;/ref&gt; This in contrast to [[Modern architecture|modernist]] and [[International Style (architecture)|globally uniform]] architecture, as well as leaning against solitary [[housing estate]]s and [[Urban sprawl|suburban sprawl]].&lt;ref&gt;[http://www.aia.org/SiteObjects/files/smartgrowth05.pdf Issue Brief: Smart-Growth: Building Livable Communities]. American Institute of Architects. Retrieved on 23 March 2014.&lt;/ref&gt; Glass curtain walls, which were the hallmark of the ultra modern urban life in many countries surfaced even in developing countries like Nigeria where international styles had been represented since the mid 20th Century mostly because of the leanings of foreign-trained architects.&lt;ref&gt;{{Cite news|url=https://litcaf.com/architecture/|title=Architecture|date=2016-02-10|work=Litcaf|access-date=2017-06-04|language=en-US}}&lt;/ref&gt;
+
+==Other types of architecture==
+[[File:Stourhead Pantheon.jpg|thumb|[[Stourhead]] in [[Wiltshire]], England, designed by [[Henry Hoare]] (1705–1785)]]
+===Landscape architecture===
+{{main|Landscape architecture}}
+Landscape architecture is the design of outdoor public areas, landmarks, and structures to achieve environmental, social-behavioral, or aesthetic outcomes.&lt;ref&gt;Sir Geoffrey Jellicoe, Susan Jellicoe, The Landscape of Man: Shaping the Environment from Prehistory to the Present Day {{ISBN|9780500274316}}&lt;/ref&gt; It involves the systematic investigation of existing social, ecological, and soil conditions and processes in the landscape, and the design of interventions that will produce the desired outcome.  The scope of the profession includes [[landscape design]]; [[site planning]]; [[Stormwater#Stormwater management|stormwater management]]; [[natural environment|environmental]] [[ecological restoration|restoration]]; [[park]]s and recreation planning; visual resource management; [[green infrastructure]] planning and provision; and private [[estate (land)|estate]] and [[house|residence]] landscape master planning and design; all at varying scales of design, planning and management. A practitioner in the profession of landscape architecture is called a [[landscape architect]].
+
+===Interior architecture===
+{{main|Interior architecture}}
+[[File:Charles Rennie Mackintosh - Music Room 1901.jpg|thumb|left|Charles Rennie Mackintosh – Music Room 1901]]
+Interior architecture is the design of a space which has been created by structural boundaries and the human interaction within these boundaries.  It can also be the initial design and plan for use, then later redesign to accommodate a changed purpose, or a significantly revised design for [[adaptive reuse]] of the building shell.&lt;ref name="intar.risd"&gt;{{cite web|url=http://intar.risd.edu/|title=Interior Architecture|work=RISD Interior Architecture Graduate Department}}&lt;/ref&gt; The latter is often part of [[sustainable architecture]] practices, conserving resources through "recycling" a structure by adaptive redesign.  Generally referred to as the spatial art of environmental design, form and practice, interior architecture is the process through which the interiors of buildings are designed, concerned with all aspects of the human uses of structural spaces.  Put simply, interior architecture is the design of an interior in architectural terms.
+
+===Naval architecture===
+{{main|Naval architecture}}
+
+[[File:Lines plan en.svg|thumb|left|upright=0.9|Body plan of a ship showing the hull form]]
+Naval architecture, also known as naval engineering, is an [[engineering]] discipline dealing with the [[engineering design process]], [[shipbuilding]], maintenance, and operation of [[watercraft|marine vessels]] and structures.&lt;ref&gt;{{cite web|url=http://www.rina.org.uk/careers_in_naval_architecture.html|title=Careers in Naval Architecture|last=RINA|website=www.rina.org.uk}}&lt;/ref&gt;&lt;ref&gt;Biran, Adrian; (2003). Ship hydrostatics and stability (1st Ed.) – [[Butterworth-Heinemann]]. {{ISBN|0-7506-4988-7}}&lt;/ref&gt; Naval architecture involves basic and applied research, design, development, design evaluation and calculations during all stages of the life of a marine vehicle. Preliminary design of the vessel, its detailed design, [[Shipbuilding|construction]], [[Sea trial|trials]], operation and maintenance, launching and [[dry-docking]] are the main activities involved. Ship design calculations are also required for ships being [[Ship#Repair and conversion|modified]] (by means of conversion, rebuilding, modernization, or repair). Naval architecture also involves the formulation of safety regulations and damage control rules and the approval and certification of ship designs to meet [[statutory]] and non-statutory requirements.
+
+===Urban design===
+{{main|Urban design}}
+Urban design is the process of designing and shaping the physical features of cities, towns, and villages. In contrast to architecture, which focuses on the design of individual buildings, urban design deals with the larger scale of groups of buildings, streets and public spaces, whole neighborhoods and districts, and entire cities, with the goal of making urban areas functional, attractive, and sustainable.&lt;ref name="berkeley"&gt;{{cite journal|url=https://escholarship.org/uc/item/49f234rd|author=Boeing|title=LEED-ND and Livability Revisited|journal=Berkeley Planning Journal|date=2014|volume=27|pages=31–55|doi=10.5070/BP327120808|access-date=2015-04-15|display-authors=etal|doi-access=free}}&lt;/ref&gt;
+
+Urban design is an interdisciplinary field that utilizes elements of many built environment professions, including [[landscape architecture]], [[urban planning]], architecture, [[civil engineering]] and [[municipal engineering]].&lt;ref&gt;Van Assche, K., Beunen, R., Duineveld, M., &amp; de Jong, H. (2013). [http://plt.sagepub.com/content/12/2/177.short Co-evolutions of planning and design: Risks and benefits of design perspectives in planning systems]. Planning Theory, 12(2), 177-198.&lt;/ref&gt; It is common for professionals in all these disciplines to practice urban design. In more recent times different sub-subfields of urban design have emerged such as strategic urban design, [[landscape urbanism]], [[water-sensitive urban design]], and [[sustainable urbanism]].
+
+===Metaphorical "architectures"===
+"Architecture" is used as a metaphor for many modern techniques or fields for structuring abstractions.  These include:
+* [[Computer architecture]], a set of rules and methods that describe the functionality, organization, and implementation of [[computer systems]], with [[software architecture]], [[hardware architecture]] and [[network architecture]] covering more specific aspects. 
+* [[Business architecture]], defined as "a blueprint of the enterprise that provides a common understanding of the organization and is used to align strategic objectives and tactical demands",&lt;ref name="OMG BAWG, Definition"&gt;[[OMG Business Architecture Special Interest Group]] "[http://www.omg.org/bawg/ What Is Business Architecture?]" at ''bawg.omg.org,'' 2008 ([https://web.archive.org/web/20080429224109/http://bawg.omg.org/ archive.org]). Accessed 04-03-2015; Cited in: [[William M. Ulrich]], [[Philip Newcomb]] ''Information Systems Transformation: Architecture-Driven Modernization Case Studies.'' (2010), p. 4.&lt;/ref&gt;  [[Enterprise architecture]] is another term.
+*[[Cognitive architecture]] theories about the structure of the [[human mind]]
+*[[System architecture]] a [[conceptual model]] that defines the [[structure]], [[behavior]], and more [[view model|views]] of any type of [[system]].&lt;ref&gt;Hannu Jaakkola and Bernhard Thalheim. (2011) "Architecture-driven modelling methodologies." In: ''Proceedings of the 2011 conference on Information Modelling and Knowledge Bases XXII''. Anneli Heimbürger et al. (eds). IOS Press. p. 98&lt;/ref&gt;
+
+===Seismic architecture===
+
+The term 'seismic architecture' or 'earthquake architecture' was first introduced in 1985 by Robert Reitherman.&lt;ref&gt;{{cite paper|last=Reitherman|first=Robert|title=Earthquake Engineering and Earthquake Architecture. Part of the AIA Workshop for Architects and Related Building Professionals on Designing for Earthquakes in the Western Mountain Statess|year=1985}}&lt;/ref&gt; The phrase “earthquake architecture” is used to describe a degree of architectural expression of earthquake resistance or implication of architectural configuration, form or style in earthquake resistance. It is also used to describe buildings in which seismic design considerations impacted its architecture. It may be considered a new aesthetic approach in designing structures in seismic prone areas.&lt;ref&gt;{{cite book|last=Llunji|first=Mentor|title=Seismic Architecture - The architecture of earthquake resistant structures|year=2016|publisher=Msproject|isbn=9789940979409}}&lt;/ref&gt;  The wide breadth of expressive possibilities ranges from metaphorical uses of seismic issues, to the more straightforward exposure of seismic
+technology. While outcomes of an earthquake architecture can be very diverse in their physical manifestations, architectural expression of seismic principles can also take many forms and levels of sophistication.&lt;ref&gt;{{cite paper|last=Charleson|first=Andrew|title=Towards An Earthquake Architecture. 12 WCEE-12th World Conference on Earthquake Engineering|year=2000}}&lt;/ref&gt;
+
+==See also==
+{{portal|Architecture}}
+* [[Architectural engineering]]
+* [[Architectural technology]]
+* [[Index of architecture articles]]
+* [[Outline of architecture]]
+* [[Philosophy of architecture]]
+* [[Timeline of architecture]]
+
+==Notes==
+{{Reflist|group=Notes}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Sisterlinks}}
+{{Wikivoyage|Architecture}}
+* [http://www.worldarchitecture.org World Architecture Community]
+* [http://www.architecture.com Architecture.com], published by [[Royal Institute of British Architects]]
+* [https://web.archive.org/web/20091009095018/http://www.uia-architectes.org/texte/england/Menu-7/1-musees.html Architectural centers and museums in the world], list of links from the [[International Union of Architects|UIA]]
+* [https://www.aia.org/ American Institute of Architects]
+* [https://architecturaltrust.org/outreach/education/glossary-of-architectural-terms/ Glossary of Architectural Terms] 
+* [http://content.lib.washington.edu/buildingsweb/index.html Cities and Buildings Database] – Collection of digitized images of buildings and cities drawn from across time and throughout the world from the University of Washington Library
+* [http://www.bbc.co.uk/programmes/p00548k0 "Architecture and Power"], BBC Radio 4 discussion with Adrian Tinniswood, Gillian Darley and Gavin Stamp (''In Our Time'', Oct. 31, 2002)
+
+{{Aesthetics}}
+{{Design}}
+{{Room}}
+{{Branches of the visual arts}}
+{{Glossaries of science and engineering}}
+
+{{Authority control}}
+
+[[Category:Architecture| ]]
+[[Category:Architectural design]]</text>
+      <sha1>jgrqppbdfsrpempnq3t3gm61o16zouh</sha1>
+    </revision>
+  </page>
+</mediawiki>

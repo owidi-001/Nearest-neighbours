@@ -1,0 +1,703 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rice University</title>
+    <ns>0</ns>
+    <id>25813</id>
+    <revision>
+      <id>1033503179</id>
+      <parentid>1033464233</parentid>
+      <timestamp>2021-07-14T02:44:56Z</timestamp>
+      <contributor>
+        <username>ElKevbo</username>
+        <id>217538</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107152" xml:space="preserve">{{Short description|University in Houston, Texas, USA}}
+{{use mdy dates|date=July 2021}}
+
+{{Infobox university
+| name = William Marsh Rice University
+| native_name = 
+| image = Rice University seal.svg
+| image_upright = .65
+| image_alt = The academic seal of Rice University. A shield divided by a chevron, carrying three owls as charges, with scrollwork saying &lt;small&gt;LETTERS, SCIENCE, ART&lt;/small&gt;
+| motto = ''Letters, Science, Art''
+| established = {{start date and age|1912}}
+| type = [[Private university|Private]] [[research university]]
+| endowment = $6.16 billion (2020)&lt;ref name=endowment&gt;As of June 30, 2020. {{cite report |url=https://www.nacubo.org/-/media/Documents/Research/2020-NTSE-Public-Tables--Endowment-Market-Values--FINAL-FEBRUARY-19-2021.ashx |title=U.S. and Canadian Institutions Listed by Fiscal Year 2020 Endowment Market Value and Change in Endowment Market Value from FY19 to FY20 |publisher=National Association of College and University Business Officers and [[TIAA]] |date=February 19, 2021 |access-date=February 19, 2021}}&lt;/ref&gt;
+| president = [[David Leebron]]
+| provost = [[Reginald DesRoches]]
+| students = 7,282 (Fall 2019)&lt;ref name = Students&gt;{{Cite web |url=https://oir.rice.edu/fall-2019-enrollment |title=Fall 2019 Enrollment |website = The Office of Institutional Research|publisher = Rice University}}&lt;/ref&gt;
+| undergrad = 3,989 (Fall 2019)&lt;ref name="Students"/&gt;
+| postgrad = 3,293 (Fall 2019)&lt;ref name="Students"/&gt;
+| faculty = 680 full time&lt;ref name="At a Glance"&gt;{{cite web|url=http://oir.rice.edu/At_a_Glance/Rice_University/|title=Rice at a Glance | website = The Office of Institutional Research|publisher=Rice University | date= Fall 2018 |access-date=12 February 2019}}&lt;/ref&gt;
+| staff = 2,152&lt;ref name="RF-Faculty"/&gt;
+| city = [[Houston]]
+| state = [[Texas]]
+| country = United States
+| coordinates = {{coord|29|43|1|N|95|24|10|W|region:US-TX_type:edu|display=inline,title}}
+| campus = [[Urban area|Urban]], {{convert|300|acre|ha}}&lt;ref name="About"/&gt;
+| former_names = William M. Rice Institute for the Advancement of Literature, Science and Art {{small|(1912–1960)}}&lt;ref name="William Marsh Rice and the Founding of Rice Institute"/&gt;
+| colors = [[Blue]] and [[gray]]&lt;ref&gt;{{cite web|title=Color palette|url=http://staff.rice.edu/Template_RiceBrand.aspx?id=4718|publisher=Rice University|access-date=April 13, 2017}}&lt;/ref&gt;&lt;br /&gt;{{color box|#002469}}&amp;nbsp;{{color box|#5E6062}}
+| academic_affiliations = [[Association of American Universities|AAU]]&lt;br /&gt;[[Oak Ridge Associated Universities|ORAU]]&lt;br /&gt;[[National Association of Independent Colleges and Universities|NAICU]]&lt;br /&gt;[[Universities Research Association|URA]]&lt;br /&gt;[[Consortium for North American Higher Education Collaboration|CONAHEC]]&lt;br /&gt;[[Southeastern Universities Research Association|SURA]]&lt;br /&gt;[[National Space Grant College and Fellowship Program|Space-grant]]
+| nickname = [[Rice Owls|Owls]]
+| mascot = [[Sammy the Owl]]
+| sporting_affiliations = [[NCAA Division I]] – [[Conference USA|C-USA]]
+| website = {{url|www.rice.edu}}
+| logo = Rice University logo.png
+| logo_upright = .8
+}}
+
+'''William Marsh Rice University''' ('''Rice University''') is a [[Private university|private]] [[research university]] in [[Houston|Houston, Texas]]. It is situated on a 300-acre campus near the [[Houston Museum District]] and is adjacent to the [[Texas Medical Center]].
+
+Opened in 1912 after the murder of its namesake [[William Marsh Rice]], Rice is a research university with an undergraduate focus. Its emphasis on education is demonstrated by a small student body and 6:1 student-faculty ratio.&lt;ref name="At a Glance"/&gt;&lt;ref&gt;{{Cite web|url=https://www.usnews.com/best-colleges/rankings/national-universities/undergraduate-teaching|title=Best Undergraduate Teaching, National Universities|archive-url=https://web.archive.org/web/20170308200745/https://www.usnews.com/best-colleges/rankings/national-universities/undergraduate-teaching|archive-date=2017-03-08|url-status=dead}}&lt;/ref&gt; The university has a [[Research I university|very high level of research activity]], with $156 million in sponsored research funding in 2019.&lt;ref&gt;http://news.rice.edu/2020/01/21/rice-on-pace-to-double-research-spending-by-2027/&lt;/ref&gt; Rice is noted for its [[applied science]] programs in the fields of [[artificial heart]] research, structural chemical analysis, signal processing, space science, and [[nanotechnology]]. In 2010, it was ranked first in the world in [[materials science]] research by [[Times Higher Education]] (THE).&lt;ref name="THE - Materials Science"/&gt; Rice has been a member of the [[Association of American Universities]] since 1985 and is [[Carnegie Classification of Institutions of Higher Education|classified]] among "R1: Doctoral Universities – Very high research activity".&lt;ref&gt;{{cite news |title=Rice’s AAU membership important to mission |url=https://news.rice.edu/2002/10/31/rices-aau-membership-important-to-mission/ |access-date=19 July 2020 |work=news.rice.edu |date=October 31, 2002}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Carnegie Classifications Institution Lookup |url=https://carnegieclassifications.iu.edu/lookup/view_institution.php?unit_id=227757 |publisher=Center for Postsecondary Education |website=carnegieclassifications.iu.edu |access-date=19 July 2020}}&lt;/ref&gt;
+
+The university is organized into eleven [[Residential colleges of Rice University|residential colleges]] and eight schools of academic study, including the [[Wiess School of Natural Sciences]], the [[George R. Brown School of Engineering]], the [[Rice University School of Social Sciences|School of Social Sciences]], [[Rice University School of Architecture|School of Architecture]], [[Shepherd School of Music]] and the [[Rice University School of Humanities|School of Humanities]]. Rice's undergraduate program offers more than fifty majors and two dozen minors, and allows a high level of flexibility in pursuing multiple degree programs.&lt;ref name = "Majors"/&gt; Additional graduate programs are offered through the [[Jesse H. Jones Graduate School of Business]] and the [[Susanne M. Glasscock School of Continuing Studies]].&lt;ref name="Majors"/&gt;&lt;ref name="Degrees"/&gt;&lt;ref name="Schools"/&gt; Rice students are bound by the strict Honor Code, which is enforced by a student-run Honor Council.&lt;ref name="autogenerated1"/&gt;
+
+Rice competes in 14 [[NCAA Division I]] varsity sports and is a part of [[Conference USA]], often competing with its cross-town rival the [[Houston–Rice rivalry|University of Houston]]. Intramural and club sports are offered in a wide variety of activities such as [[Brazilian Jiu-Jitsu|jiu jitsu]], [[water polo]], and [[Rowing (sport)|crew]].
+
+The university's alumni include more than two dozen [[Marshall Scholarship|Marshall Scholars]] and a dozen [[Rhodes Scholarship|Rhodes Scholars]].&lt;ref&gt;{{Cite web|url=http://www.marshallscholarship.org/about/statistics|title=Marshall Scholarship Statistics}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.rhodesscholar.org/winners/college-and-university-winners/|title=Colleges and Universities with U.S. Rhodes Scholarship Winners|website=The Rhodes Scholarships}}&lt;/ref&gt; Given the university's close links to [[NASA]], it has produced a significant number of astronauts and space scientists.&lt;ref&gt;{{Cite web|url=https://rsi.rice.edu/welcome-rsi|title=Welcome to RSI|access-date=9 September 2020}}&lt;/ref&gt; In business, Rice graduates include CEOs, founders of [[Fortune 500]] companies and 3 billionaires;&lt;ref&gt;{{Cite web|url=https://www.timeshighereducation.com/student/news/how-become-billionaire-where-worlds-super-rich-went-university/|title=How to become a billionaire: where the world’s super-rich went to university|website=Times Higher Education}}&lt;/ref&gt; in politics, alumni include congressmen, cabinet secretaries, judges, and mayors.{{how many|date=August 2020}} Two alumni have won the [[Nobel Prize]].&lt;ref&gt;(See page "10 of 38" and page "37 of 38", at:) {{Cite news|url=http://www.chron.com/entertainment/celebrities/slideshow/Famous-Rice-University-alumni-85814.php |title=Famous Rice University alumni|work=Houston Chronicle|last = Boyd|first = John|date = 15 May 2014 |url-status = dead |archive-url = https://web.archive.org/web/20140604073907/http://www.chron.com/entertainment/celebrities/slideshow/Famous-Rice-University-alumni-85814/photo-6306658.php |archive-date = June 4, 2014 }}&lt;/ref&gt;
+
+==History==
+
+===Background===
+[[File:William Marsh Rice.gif|thumb|left|upright|[[William Marsh Rice]]'s estate funded the establishment of the Rice Institute]]
+Rice University's history began with the demise of Massachusetts businessman [[William Marsh Rice]], who had made his fortune in real estate, railroad development and cotton trading in the state of [[Texas]]. In 1891, Rice decided to charter a free-tuition educational institute in Houston, bearing his name, to be created upon his death, earmarking most of his estate towards funding the project. Rice's will specified the institution was to be "a competitive institution of the highest grade" and that only white students would be permitted to attend.&lt;ref&gt;{{cite journal|title=The Short History of Race-Based Affirmative Action at Rice University|journal=The Journal of Blacks in Higher Education|date=Autumn 1996|issue=13|pages=36–38|publisher=The JBHE Foundation|jstor=2963155}}&lt;/ref&gt; On the morning of September 23, 1900, Rice, age 84, was found dead by his valet, Charles F. Jones, and was presumed to have died in his sleep. Shortly thereafter, a large check made out to Rice's New York City lawyer, signed by the late Rice, aroused the suspicion of a bank teller, due to the misspelling of the recipient's name. The lawyer, [[Albert T. Patrick]], then announced that Rice had changed his will to leave the bulk of his fortune to Patrick, rather than to the creation of Rice's educational institute. A subsequent investigation led by the District Attorney of New York resulted in the arrests of Patrick and of Rice's butler and valet Charles F. Jones, who had been persuaded to administer [[chloroform]] to Rice while he slept. Rice's friend and personal lawyer in Houston, [[James A. Baker (born 1857)|Captain James A. Baker]], aided in the discovery of what turned out to be a fake will with a forged signature. Jones was not prosecuted since he cooperated with the district attorney, and testified against Patrick. Patrick was found guilty of conspiring to steal Rice's fortune and he was convicted of murder in 1901 (he was pardoned in 1912 due to conflicting medical testimony).&lt;ref name="poisoner"/&gt; Baker helped Rice's estate direct the fortune, worth $4.6 million in 1904 (${{inflation|US|4.6|1904}} million today), towards the founding of what was to be called the Rice Institute, later to become Rice University. The board took control of the assets on April 29 of that year.
+In 1907, the Board of Trustees selected the head of the Department of Mathematics and Astronomy at [[Princeton University]], [[Edgar Odell Lovett]], to head the Institute, which was still in the planning stages. He came recommended by Princeton's president, [[Woodrow Wilson]]. In 1908, Lovett accepted the challenge, and was formally inaugurated as the Institute's first president on October 12, 1912. Lovett undertook extensive research before formalizing plans for the new Institute, including visits to 78 institutions of higher learning across the world on a long tour between 1908 and 1909. Lovett was impressed by such things as the aesthetic beauty of the uniformity of the architecture at the [[University of Pennsylvania]], a theme which was adopted by the Institute, as well as the [[residential college]] system at [[Cambridge University]] in [[England]], which was added to the Institute several decades later. Lovett called for the establishment of a university "of the highest grade," "an institution of liberal and technical learning" devoted "quite as much to investigation as to instruction." [We must] "keep the standards up and the numbers down," declared Lovett. "The most distinguished teachers must take their part in undergraduate teaching, and their spirit should dominate it all." [[File:Rice University Texas.jpg|thumb|Rice University]]
+
+===Establishment and growth===
+[[File:RiceInstitute1913.png|thumb|An illustration of the Administration Building of Rice University in 1913]]
+
+In 1911, the cornerstone was laid for the Institute's first building, the Administration Building, now known as Lovett Hall in honor of the founding president. On September 23, 1912, the 12th anniversary of William Marsh Rice's murder, the ''William Marsh Rice Institute for the Advancement of Letters, Science, and Art'' began course work with 59 enrolled students, who were known as the "59 immortals," and about a dozen faculty. After 18 additional students joined later, Rice's initial class numbered 77,&lt;ref&gt;{{Cite news|url=https://scholarship.rice.edu/bitstream/handle/1911/64903/thr19160612.pdf?sequence=1 |title=Graduating Class Has 35 Members|work=Rice Thresher|access-date= 26 September 2019 |date = 12 June 1916}}&lt;/ref&gt; 48 male and 29 female. Unusual for the time, Rice accepted coeducational admissions from its beginning, but on-campus housing would not become co-ed until 1957.&lt;ref name="Jones College, Rice University"&gt;{{cite web |title=Jones College, Rice University. |url=http://jones.rice.edu/history/ |access-date=21 July 2018}}&lt;/ref&gt;
+
+[[File:Administration Building, Rice Institute, Houston, Texas.jpg|thumb|Administration Building, Rice Institute, Houston, Texas (postcard, circa 1912–1924)]] Three weeks after opening, a spectacular international academic festival was held, bringing Rice to the attention of the entire academic world.
+Per William Marsh Rice's will and Rice Institute's initial charter, the students paid no tuition. Classes were difficult, however, and about half of Rice's students had failed after the first 1912 term.&lt;ref&gt;{{Cite news|url=https://scholarship.rice.edu/bitstream/handle/1911/99377/sallyport-vol-09-no04.pdf |title=McCants Recalls Earliest Days |last = McCants|first = J.T.|work=Sallyport|access-date= 26 September 2019|date = June 1953}}&lt;/ref&gt; At its first commencement ceremony, held on June 12, 1916, Rice awarded 35 bachelor's degrees and one master's degree.&lt;ref&gt;{{Cite news|url=https://scholarship.rice.edu/bitstream/handle/1911/64903/thr19160612.pdf?sequence=1 |title=Splendid Celebration Marks First Commencement|work=Rice Thresher|access-date= 26 September 2019 |date = 12 June 1916}}&lt;/ref&gt; That year, the student body also voted to adopt the Honor System, which still exists today. Rice's first doctorate was conferred in 1918 on mathematician [[Hubert Evelyn Bray]].
+
+The Founder's Memorial Statue, a bronze statue of a seated William Marsh Rice, holding the original plans for the campus, was dedicated in 1930, and installed in the central academic quad, facing Lovett Hall. The statue was crafted by [[John Angel (sculptor)|John Angel]].&lt;ref name="Little"/&gt; In 2020, Rice students petitioned the university to take down the statue due to the founder's history as slave owner.&lt;ref&gt;{{Cite web|title=Monumental changes require removing monuments to the Confederacy|url=https://kinder.rice.edu/urbanedge/2020/07/08/racism-confederate-monuments-protests-Houston|access-date=2020-08-10|website=The Kinder Institute for Urban Research|language=en}}&lt;/ref&gt;
+
+During [[World War II]], Rice Institute was one of 131 colleges and universities nationally that took part in the [[V-12 Navy College Training Program]], which offered students a path to a Navy commission.&lt;ref name="list-of-v-12"/&gt;
+
+The [[residential college]] system proposed by President Lovett was adopted in 1958, with the East Hall residence becoming [[Baker College (Rice University)|Baker College]], South Hall residence becoming [[Will Rice College]], West Hall becoming [[Hanszen College]], and the temporary Wiess Hall becoming [[Wiess College]].
+
+[[File:JFK at Rice University.jpg|thumb|upright|[[John F. Kennedy]] speaking at [[Rice Stadium (Rice University)|Rice Stadium]] in 1962]]
+
+In 1959, the [[Rice Institute Computer]] went online. 1960 saw Rice Institute formally renamed William Marsh Rice University. Rice acted as a temporary intermediary in the transfer of land between Humble Oil and Refining Company and [[NASA]],&lt;ref name="multiple"/&gt; for the creation of [[NASA]]'s Manned Spacecraft Center (now called [[Johnson Space Center]]) in 1962. [[John F. Kennedy|President John F. Kennedy]] then made a [[We choose to go to the Moon|speech]]&lt;ref name="nasa"/&gt; at [[Rice Stadium (Rice University)|Rice Stadium]] reiterating that the United States intended to reach the moon before the end of the decade of the 1960s, and "to become the world's leading space-faring nation". The relationship of [[NASA]] with Rice University and the city of Houston has remained strong {{as of | 2011 | alt = to the present day}}.
+
+The original charter of Rice Institute dictated that the university admit and educate, tuition-free, "the white inhabitants of Houston, and the state of Texas". In 1963, the governing board of Rice University filed a lawsuit to allow the university to modify its charter to admit students of all races and to charge tuition. Ph.D. student Raymond Johnson became the first black Rice student when he was admitted that year.&lt;ref&gt;{{cite web |title=Black History at Rice Timeline |url=http://alumni.rice.edu/black-history-at-rice-timeline |publisher=Rice Alumni |access-date=21 July 2018}}&lt;/ref&gt; In 1964, Rice officially amended the university charter to desegregate its graduate and undergraduate divisions.&lt;ref name="rice1"/&gt; The Trustees of Rice University prevailed in a lawsuit to void the racial language in the trust in 1966.&lt;ref name="university"/&gt; Rice began charging tuition for the first time in 1965. In the same year, Rice launched a $33 million (${{inflation|US|33|1965}} million) development campaign. $43 million (${{inflation|US|43|1970}} million) was raised by its conclusion in 1970. In 1974, two new schools were founded at Rice, the [[Jesse H. Jones Graduate School of Management]] and the [[Shepherd School of Music]]. The Brown Foundation Challenge, a fund-raising program designed to encourage annual gifts, was launched in 1976 and ended in 1996 having raised $185 million (${{inflation|US|185|1996}} million). The [[Rice School of Social Sciences]] was founded in 1979.
+
+On-campus housing was exclusively for men for the first forty years, until 1957.&lt;ref name="Jones College, Rice University"/&gt; [[Jones College (Rice University)|Jones College]] was the first women's residence on the Rice campus, followed by [[Brown College (Rice University)#Brown College|Brown College]]. According to legend, the women's colleges were purposefully situated at the opposite end of campus from the existing men's colleges as a way of preserving campus propriety, which was greatly valued by Edgar Odell Lovett, who did not even allow benches to be installed on campus, fearing that they "might lead to co-fraternization of the sexes".&lt;ref name="multiple"/&gt; The path linking the north colleges to the center of campus was given the tongue-in-cheek name of "Virgin's Walk". Individual colleges became coeducational between 1973 and 1987, with the single-sex floors of colleges that had them becoming co-ed by 2006. By then, several new residential colleges had been built on campus to handle the university's growth, including [[Lovett College]], [[Sid Richardson College]], and [[Martel College]].
+
+===Late twentieth and early twenty-first century===
+[[File:Vladimir Putin in the United States 13-16 November 2001-25.jpg|thumb|right|[[George H.W. Bush]] meeting [[Vladimir Putin]] at Rice in 2001]]
+The [[G8|Economic Summit of Industrialized Nations]] was held at Rice in 1990. Three years later, in 1993, the [[James Baker Institute|James A. Baker III Institute for Public Policy]] was created. In 1997, the Edythe Bates Old Grand Organ and Recital Hall and the Center for Nanoscale Science and Technology, renamed in 2005 for the late Nobel Prize winner and Rice professor [[Richard E. Smalley]], were dedicated at Rice. In 1999, the Center for Biological and Environmental Nanotechnology was created. The [[Rice Owls baseball]] team was ranked #1 in the nation for the first time in that year (1999), holding the top spot for eight weeks.
+
+In 2003, the Owls won their first national championship in baseball, which was the first for the university in any team sport, beating Southwest Missouri State in the opening game and then the University of Texas and Stanford University twice each en route to the title. In 2008, President [[David Leebron]] issued a ten-point plan titled "Vision for the Second Century" outlining plans to increase research funding, strengthen existing programs, and increase collaboration.&lt;ref name="Vision for the Second Century - Ten Points"/&gt; The plan has brought about another wave of campus constructions, including the erection the newly renamed [[BioScience Research Collaborative]]&lt;ref name="rice3"/&gt; building (intended to foster collaboration with the adjacent [[Texas Medical Center]]), a new recreational center and the renovated [[Autry Court]] basketball stadium, and the addition of two new residential colleges, [[Duncan College]] and [[McMurtry College]].
+
+Beginning in late 2008, the university considered a merger with [[Baylor College of Medicine]], though the merger was ultimately rejected in 2010.&lt;ref name="ricethresher"/&gt; Select Rice undergraduates are currently guaranteed admission to Baylor College of Medicine upon graduation as part of the Rice/Baylor Medical Scholars program. According to History Professor John Boles' recent book ''University Builder: Edgar Odell Lovett and the Founding of the Rice Institute,'' the first president's original vision for the university included hopes for future medical and law schools.
+
+In 2018, the university added an online MBA program, MBA@Rice.&lt;ref&gt;{{Cite web|url=https://campustechnology.com/articles/2018/05/21/rice-to-work-with-2u-on-launch-of-online-business-short-courses.aspx|title=Rice to Work with 2U on Launch of Online Business 'Short Courses' -- Campus Technology|website=Campus Technology|language=en|access-date=2018-06-20}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://business.rice.edu/online-mba-rice-business|title=MBA@Rice: Hybrid Online Degree|date=2017-12-07|work=Jones Graduate School of Business at Rice University|access-date=2018-06-20|language=en}}&lt;/ref&gt;
+
+In June 2019, the university's president announced plans for a task force on Rice's "past in relation to slave history and racial injustice", stating that "Rice has some historical connections to that terrible part of American history and the segregation and racial disparities that resulted directly from it".&lt;ref&gt;{{Cite web|last=Britto|first=Brittany|date=2019-06-14|title=Rice's reckoning: University to launch task force to address its segregationist history|url=https://www.houstonchronicle.com/news/education/article/Rice-s-reckoning-University-to-launch-task-14061581.php|access-date=2020-06-22|website=HoustonChronicle.com|language=en-US}}&lt;/ref&gt;
+
+==Campus==
+{{Main|Campus of Rice University}}[[File:Rice University Mechanical Laboratory and Power House.jpg|210px|thumb|Rice University Mechanical Laboratory and Power House. The second building on campus.]]
+
+Rice's campus is a heavily wooded {{convert|285|acre|ha|abbr=off|adj=on}} tract of land in the museum district of [[Houston]], located close to the city of [[West University Place]].
+
+Five streets demarcate the campus: Greenbriar Street, Rice Boulevard, Sunset Boulevard, Main Street, and University Boulevard. For most of its history, all of Rice's buildings have been contained within this "outer loop". In recent years, new facilities have been built close to campus, but the bulk of administrative, academic, and residential buildings are still located within the original pentagonal plot of land. The new Collaborative Research Center, all graduate student housing, the Greenbriar building, and the Wiess President's House are located off-campus.[[File:Founders bench.jpg|thumb|upright|A stone bench in the Academic Quad]]
+
+Rice prides itself on the amount of green space available on campus; there are only about 50 buildings spread between the main entrance at its easternmost corner, and the parking lots and [[Rice Stadium (Rice University)|Rice Stadium]] at the West end. The [[Lynn R. Lowrey Arboretum]], consisting of more than 4000 trees and shrubs (giving birth to the legend that Rice has a tree for every student), is spread throughout the campus.
+
+The university's first president, [[Edgar Odell Lovett]], intended for the campus to have a uniform architecture style to improve its aesthetic appeal. To that end, nearly every building on campus is noticeably [[Byzantine architecture|Byzantine]] in style, with sand and pink-colored bricks, large archways and columns being a common theme among many campus buildings. Noteworthy exceptions include the glass-walled Brochstein Pavilion, [[Lovett College]] with its [[Brutalism|Brutalist]]-style concrete gratings, Moody Center for the Arts with its contemporary design, and the eclectic-Mediterranean Duncan Hall. In September 2011, [[Travel+Leisure]] listed Rice's campus as one of the most beautiful in the United States.&lt;ref&gt;[http://www.travelandleisure.com/articles/americas-most-beautiful-college-campuses/10 "America's most beautiful college campuses", ''Travel+Leisure'' (September 2011)]&lt;/ref&gt;
+
+Lovett Hall, named for Rice's first president, is the university's most iconic campus building. Through its Sallyport arch, new students symbolically enter the university during matriculation and depart as graduates at commencement. Duncan Hall, Rice's computational engineering building, was designed to encourage collaboration between the four different departments situated there. The building's foyer, drawn from many world cultures, was designed by the architect to symbolically express this collaborative purpose.
+
+The campus is organized in a number of [[quadrangle (architecture)|quadrangles]]. The Academic Quad, anchored by a statue of founder [[William Marsh Rice]], includes [[Ralph Adams Cram]]'s masterpiece, the asymmetrical Lovett Hall, the original administrative building; [[Fondren Library]]; Herzstein Hall, the original physics building and home to the largest [[amphitheater]] on campus; Sewall Hall for the social sciences and arts; Rayzor Hall for the languages; and Anderson Hall of the Architecture department. The Humanities Building, winner of several architectural awards, is immediately adjacent to the main quad. Further west lies a quad surrounded by McNair Hall of the [[Jesse H. Jones Graduate School of Business|Jones Business School]], the [[James Baker Institute|Baker Institute]], and Alice Pratt Brown Hall of the [[Shepherd School of Music]]. These two quads are surrounded by the university's main access road, a one-way loop referred to as the "inner loop". In the Engineering Quad, a trinity of sculptures by [[Michael Heizer]], collectively entitled ''45 Degrees, 90 Degrees, 180 Degrees'', are flanked by Abercrombie Laboratory, the Cox Building, and the Mechanical Laboratory, housing the Electrical, Mechanical, and Earth Science/Civil Engineering departments, respectively. Duncan Hall is the latest addition to this quad, providing new offices for the Computer Science, Computational and Applied Math, Electrical and Computer Engineering, and Statistics departments.
+
+Roughly three-quarters of Rice's undergraduate population lives on campus. Housing is divided among eleven [[residential colleges]], which form an integral part of student life at the university (see [[Residential colleges of Rice University]]). The colleges are named for university historical figures and benefactors, and while there is wide variation in their appearance, facilities, and dates of founding, are an important source of identity for Rice students, functioning as dining halls, residence halls, sports teams, among other roles. Rice does not have or endorse a [[Greek system]], with the residential college system taking its place. Five colleges, McMurtry, Duncan, Martel, Jones, and Brown are located on the north side of campus, across from the "South Colleges", Baker, Will Rice, Lovett, Hanszen, Sid Richardson, and Wiess, on the other side of the Academic Quadrangle. Of the eleven colleges, Baker is the oldest, originally built in 1912, and the twin Duncan and McMurtry colleges are the newest, and opened for the first time for the 2009–10 school year. Will Rice, Baker, and Lovett colleges are undergoing renovation to expand their dining facilities as well as the number of rooms available for students.
+
+[[File:McNairHall 1.jpg|right|thumb|McNair Hall, home to the Jones School of Business]]
+
+The on-campus football facility, [[Rice Stadium (Rice University)|Rice Stadium]], opened in 1950 with a capacity of 70,000 seats. After improvements in 2006, the stadium is currently configured to seat 47,000 for football but can readily be reconfigured to its original capacity of 70,000, more than the total number of Rice alumni, living and deceased.&lt;ref name="Rice Official Athletic Site - Facilities"/&gt; The stadium was the site of [[Super Bowl VIII]] and a [[We choose to go to the Moon|speech]] by [[John F. Kennedy]] on September 12, 1962 in which he challenged the nation to send a man to the moon by the end of the decade.&lt;ref name="rice4"/&gt; The recently renovated [[Tudor Fieldhouse]], formerly known as Autry Court, is home to the basketball and volleyball teams. Other stadia include the [[Rice Track/Soccer Stadium]] and the [[Jake Hess Tennis Stadium]]. A new Rec Center now houses the intramural sports offices and provide an outdoor pool, training and exercise facilities for all Rice students, while athletics training will solely be held at Tudor Fieldhouse and the Rice Football Stadium.
+
+The university and [[Houston Independent School District]] jointly established [[The Rice School]], a [[kindergarten]] through 8th grade public magnet school in Houston.&lt;ref name="houstonisd"/&gt; The school opened in August 1994. Through Cy-Fair ISD Rice University offers a credit course based summer school for grades 8 through 12. They also have skills based classes during the summer in the Rice Summer School.
+
+===Innovation District===
+{{Main|Rice Innovation District}}
+
+[[File:Ion Construcion December 2020.jpg|right|thumb|The Ion building under construction in the [[Rice Innovation District]] ]]
+In early 2019, Rice announced the site where the abandoned [[Sears]] building in [[Midtown Houston]] stood, along with its surrounding area, would be transformed into the "The Ion," the hub of the 16-acre South Main Innovation District.&lt;ref name=":2" /&gt; President of Rice, [[David Leebron]] stated "We chose the name Ion because it's from the Greek ienai, which means 'go'. We see it as embodying the ever-forward motion of discovery, the spark at the center of a truly original idea."&lt;ref&gt;{{Cite news|url=https://houston.culturemap.com/news/innovation/01-30-19-rice-university-innovation-the-ion-sears-building-midtown-construction/|title=Rice University transforms iconic Sears building into innovation hub|last=Harms|first=Natalie|date=August 19, 2020|work=Culture Map|access-date=August 19, 2020}}&lt;/ref&gt;
+
+Students of Rice and other Houston-area colleges and universities making up the Student Coalition for a Just and Equitable Innovation Corridor are advocating for a [[Community Benefits Agreement]] (CBA), a contractual agreement between a developer and a community coalition.&lt;ref name=":2"&gt;{{Cite web|date=2019-07-19|title=Rice University-led Ion innovation district breaks ground|url=https://www.houstonchronicle.com/business/article/Rice-University-led-Ion-innovation-district-14109401.php|access-date=2020-12-28|website=HoustonChronicle.com|language=en-US}}&lt;/ref&gt; Residents of neighboring [[Third Ward, Houston|Third Ward]] and other members of the Houston Coalition for Equitable Development Without Displacement (HCEDD) have faced consistent opposition from the City of Houston and Rice Management Company to a CBA as traditionally defined, in favor of an agreement between the latter two entities without a community coalition signatory.&lt;ref name=":3" /&gt;
+
+==Organization==
+[[File:Sallyport.JPG|thumb|upright|Students walk through the Sallyport upon matriculation and commencement]]
+Rice University is chartered as a non-profit organization and is governed by a privately appointed [[Board of directors|board of trustees]]. The board consists of a maximum of 25 voting members who serve four-year terms.&lt;ref name="Handbook"&gt;{{cite web|url=http://fachandbook.rice.edu/University_Governance_and_Structure/#A|title=Faculty Handbook: University Governance and Structure|publisher=Rice University|access-date=November 9, 2015|archive-url=https://web.archive.org/web/20150906080846/http://fachandbook.rice.edu/University_Governance_and_Structure/#A|archive-date=2015-09-06|url-status=dead}}&lt;/ref&gt; The trustees serve without compensation and a simple majority of trustees must reside in Texas, including at least four within the greater Houston area.&lt;ref name="Handbook"/&gt; The board of trustees delegates its power by appointing a president to serve as the chief executive of the university. [[David W. Leebron]] was appointed president in 2004 and succeeded [[S. Malcolm Gillis|Malcolm Gillis]] who served since 1993. The provost, six vice presidents, and other university officials report to the president. The president is advised by a University Council composed of the provost, eight members of the Faculty Council, two staff members, one graduate student, and two undergraduate students. The president presides over a Faculty Council which has the authority to alter curricular requirements, establish new degree programs, and approve candidates for degrees.&lt;ref name="Handbook"/&gt;
+
+The university's academics are organized into several schools. Schools that have undergraduate and graduate programs include:
+* The [[Rice University School of Architecture]]
+* The [[George R. Brown School of Engineering]]
+* The [[Rice University School of Humanities|School of Humanities]]
+* The [[Shepherd School of Music]]
+* The [[Wiess School of Natural Sciences]]
+* The [[Rice University School of Social Sciences]]
+
+Two schools have only graduate programs:
+* The [[Jesse H. Jones Graduate School of Management]]
+* The [[Susanne M. Glasscock School of Continuing Studies]]
+
+Rice's undergraduate students benefit from a centralized admissions process, which admits new students to the university as a whole, rather than a specific school (the schools of Music and Architecture are decentralized). Students are encouraged to select the major path that best suits their desires; a student can later decide that they would rather pursue study in another field, or continue their current coursework and add a second or third major. These transitions are designed to be simple at Rice, with students not required to decide on a specific major until their sophomore year of study.
+
+Rice's academics are organized into six schools which offer courses of study at the graduate and undergraduate level, with two more being primarily focused on graduate education, while offering select opportunities for undergraduate students. Rice offers 360 degrees in over 60 departments. There are 40 undergraduate degree programs, 51 masters programs, and 29 doctoral programs.&lt;ref name="Majors"/&gt;&lt;ref name="Degrees"/&gt;
+
+Undergraduate tuition for the 2011–2012 school year was $34,900. $651 was charged for fees, and Rice projected an $800 budget for books and $1550 for personal expenses. Rice students were charged $12,270 for room and board. Per year, the total cost of a Rice University education was $50,171.&lt;ref name="RF-Students"/&gt;
+
+Faculty members of each of the departments elect chairs to represent the department to each School's dean and the deans report to the Provost who serves as the chief officer for academic affairs.&lt;ref name="Handbook"/&gt;
+
+=== Rice Management Company ===
+The Rice Management Company manages the $6.5 billion Rice University endowment (June 2019) and $957 million debt.&lt;ref&gt;{{Cite web|title=About Us|url=https://investments.rice.edu/about-us|access-date=2020-12-28|website=Rice Management Company {{!}} Rice University|language=en}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cite web|date=2020-11-18|title=In Houston’s Third Ward, Community Groups are Fighting for Equitable Development|url=https://www.texasobserver.org/in-houstons-third-ward-community-groups-are-fighting-for-equitable-development/|access-date=2020-12-28|website=The Texas Observer|language=en-US}}&lt;/ref&gt; The endowment provides 40% of Rice's operating revenues. Allison Thacker is the President and Chief Investment Officer of the Rice Management Company, having joined the university in 2011.&lt;ref&gt;{{Cite web|title=Allison K. Thacker {{!}} Rice Management Company {{!}} Rice University|url=https://investments.rice.edu/people/allison-k-thacker|access-date=2020-12-28|website=investments.rice.edu|language=en}}&lt;/ref&gt;
+
+==Academics==
+[[File:Lovett Hall.jpg|thumb|Lovett Hall, formerly known as the Administration Building, was the first building on campus]]
+Rice is a medium-sized, highly residential research university.&lt;ref name="Carnegie"/&gt; The majority of enrollments are in the full-time, four-year undergraduate program emphasizing arts &amp; sciences and professions. There is a high graduate coexistence with the comprehensive graduate program and a very high level of research activity.&lt;ref name="Carnegie"/&gt; It is accredited by the [[Southern Association of Colleges and Schools]] as well as the professional accreditation agencies for engineering, management, and architecture.&lt;ref name="Rice Facts - University Accreditation"/&gt;
+
+Each of Rice's departments is organized into one of three distribution groups, and students whose major lies within the scope of one group must take at least 3 courses of at least 3 credit hours each of approved distribution classes in each of the other two groups, as well as completing one physical education course as part of the LPAP (Lifetime Physical Activity Program) requirement. All new students must take a Freshman Writing Intensive Seminar (FWIS) class, and for students who do not pass the university's writing composition examination (administered during the summer before matriculation), FWIS 100, a writing class, becomes an additional requirement.&lt;ref&gt;{{cite web|url=http://compexam.rice.edu/|title=Rice Composition Exam|year=2012|publisher=Rice University|access-date=6 March 2013}}&lt;/ref&gt;
+
+The majority of Rice's undergraduate degree programs grant B.S. or B.A. degrees. Rice has recently begun to offer minors in areas such as [[Jesse H. Jones Graduate School of Management|business]],&lt;ref name="rice5"/&gt; energy and water sustainability,&lt;ref name="Rice University Department of Sociology"/&gt; and global health.&lt;ref name="Beyond Traditional Borders"/&gt;
+
+===Student body===
+{|  style="text-align:center; font-size:85%; float:right; margin-left:2em; margin:right;"  class="wikitable"
+|+ ''Demographics of undergraduates (fall 2019)''&lt;ref&gt;https://oir.rice.edu/sites/g/files/bxs1496/f/CDS_2019-20_WEBSITE.pdf&lt;/ref&gt;
+! !! Undergraduate  !! Texas !! U.S. Census&lt;ref name="demographics"/&gt;
+|-
+! [[African American]]
+| 7%  || 12.3% || 13%
+|-
+! [[Asian American]]
+| 26%  || 5.0% || 4%
+|-
+! [[Non-Hispanic White American]]
+| 32%  || 41.4% || 65%
+|-
+! [[Hispanics in the United States|Hispanic-Latino American]]
+| 16%  || 39.6% || 15%
+|-
+! [[Native Americans in the United States|Native American]]
+| &lt;0.1% || 0.5% || 1%
+|-
+! [[International student]]
+| 12% || (N/A) || (N/A)
+|-
+! Two or more races
+| 5% || 2.7% || (N/A)
+|-
+! Unknown
+| 1% || 6.0% || (N/A)
+|}
+
+As of fall 2014, men make up 52% of the undergraduate body and 64% of the professional and post-graduate student body.&lt;ref name="CDS2014-B"&gt;{{cite web|url=http://www.oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/4.%20CDS_2014-2015_Website.pdf |title=Rice University Common Data Set 2014-2015, Part B |publisher=Rice University}}&lt;/ref&gt; The student body consists of students from all 50 states, including the [[District of Columbia]], two [[Incorporated territory#Classification of current U.S. territories|U.S. Territories]], and 83 foreign countries.&lt;ref&gt;The Insider's Guide to the Colleges, 2014: Students on Campus Tell You What You Really Want to Know, 40th Edition Page. 807&lt;/ref&gt; Forty percent of degree-seeking students are from Texas.&lt;ref&gt;{{cite web |url=http://oir.rice.edu/Factbook/Students/Enrollment/Geographic_Origin/ |title=Students &amp; Scholars - Geographic Origin |publisher=Rice University |access-date=2015-11-10 |archive-url=https://web.archive.org/web/20151209205417/http://oir.rice.edu/Factbook/Students/Enrollment/Geographic_Origin/ |archive-date=2015-12-09 |url-status=dead }}&lt;/ref&gt;
+
+===Honor Code===
+The Rice Honor Code plays an integral role in academic affairs. Almost all Rice exams are unproctored and professors give timed, closed-book exams that students take home and complete at their own convenience. Potential infractions are reported to the student Honor Council, elected by popular vote. The penalty structure is established every year by Council consensus; typically, penalties have ranged from a letter of reprimand to an 'F' in the course and a two semester suspension.&lt;ref name="Rice Honor Council"/&gt; During Orientation Week, students must take and pass a test demonstrating that they understand the Honor System's requirements and sign a Matriculation Pledge. On assignments, Rice students affirm their commitment to the Honor Code by writing ''On my honor, I have neither given nor received any unauthorized aid on this (examination, quiz or paper).''&lt;ref name="autogenerated1"/&gt;
+
+===Research centers and resources===
+Rice is noted for its [[applied science]] programs in the fields of [[nanotechnology]], [[artificial heart]] research, structural chemical analysis, [[signal processing]] and [[Outline of space science|space science]], being ranked 1st in the world in [[materials science]] research by the Times Higher Education (THE) in 2010.&lt;ref&gt;{{cite web|url=http://news.rice.edu/2010/04/15/the-material-fact-rice-leads-the-world/|title=The material fact: Rice leads the world|access-date=29 March 2020|date=2010-04-15}}&lt;/ref&gt;
+
+* [[Rice Alliance for Technology and Entrepreneurship]] - supports entrepreneurs and early-stage technology ventures in Houston and Texas through education, collaboration, and research, ranked No. 1 among university business incubators.&lt;ref&gt;{{cite web|url=http://www.yourhoustonnews.com/ranch/living/rice-alliance-for-technology-and-entrepreneurship-named-no-university-business/article_642d56f0-de72-5bac-83da-f884a1483a0a.html|title=Rice Alliance for Technology and Entrepreneurship named No. 1 university business incubator in the world|work=www.yourkatynews.com|access-date=25 December 2014|date=2014-06-24}}&lt;/ref&gt;
+* [[Baker Institute for Public Policy]] - a leading nonpartisan public policy think-tank
+* BioScience Research Collaborative (BRC) - interdisciplinary, cross-campus, and inter-institutional resource between Rice University and [[Texas Medical Center]]&lt;ref&gt;{{cite web|url=https://brc.rice.edu|title=BioScience Research Collaborative Leading Research. Infinite Possibilities. Rice University|website=brc.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Boniuk Institute - dedicated to religious tolerance and advancing religious literacy, respect and mutual understanding&lt;ref&gt;{{cite web|url=https://boniuk.rice.edu|title=Boniuk Institute Rice University|website=boniuk.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+*Center for African and African American Studies - fosters conversations on topics such as critical approaches to race and racism, the nature of diasporic histories and identities, and the complexity of Africa’s past, present and future&lt;ref&gt;https://www.houstonchronicle.com/local/education/campus-chronicles/article/Rice-launches-new-center-for-African-American-14561109.php&lt;/ref&gt;
+* Chao Center for Asian Studies - research hub for faculty, students and post-doctoral scholars working in Asian studies&lt;ref&gt;{{cite web|url=https://chaocenter.rice.edu/|title=Chao Center for Asian Studies Rice University|website=chaocenter.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Center for the Study of Women, Gender, and Sexuality (CSWGS) - interdisciplinary academic programs and research opportunities, including the journal ''Feminist Economics''&lt;ref&gt;{{cite web|url=https://cswgs.rice.edu|title=Rice University Center for the Study of Women, Gender, and Sexuality|website=cswgs.rice.edu|access-date=11 June 2017}}&lt;/ref&gt;
+* Data to Knowledge Lab (D2K) - campus hub for experiential learning in data science&lt;ref&gt;{{cite web|url=https://d2k.rice.edu|title=Center for Transforming Data to Knowledge (D2K) Rice University|website=d2k.rice.edu|access-date=16 April 2020}}&lt;/ref&gt;
+* Digital Signal Processing (DSP) - center for education and research in the field of digital signal processing&lt;ref&gt;{{cite web|url=https://dsp.rice.edu|title=Rice University Digital Signal Processing (DSP)|website=dsp.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Humanities Research Center (HRC) - identifies, encourages, and funds innovative research projects by faculty, visiting scholars, graduate, and undergraduate students in the School of Humanities and beyond&lt;ref&gt;{{cite web|url=http://hrc.rice.edu|title=Welcome - Humanities Research Center|website=hrc.rice.edu|access-date=11 June 2017}}&lt;/ref&gt;
+* Institute of Biosciences and Bioengineering (IBB) - facilitates the translation of interdisciplinary research and education in biosciences and bioengineering&lt;ref&gt;{{cite web|url=https://ibb.rice.edu|title=Rice University Institute of Biosciences and Bioengineering (IBB)|website=ibb.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Ken Kennedy Institute for Information Technology - advances applied interdisciplinary research in the areas of computation and information technology&lt;ref&gt;{{cite web|url=https://kenkennedy.rice.edu|title=Rice University Ken Kennedy Institute for Information Technology|website=kenkennedy.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Kinder Institute for Urban Research - conducts the Houston Area Survey, "the nation's longest running study of any metropolitan region's economy, population, life experiences, beliefs and attitudes"&lt;ref&gt;{{cite web|url=http://kinder.rice.edu/about/|title=About : Kinder Institute for Urban Research|access-date=25 December 2014}}&lt;/ref&gt;
+* Laboratory for Nanophotonics (LANP) - a resource for education and research breakthroughs and advances in the broad, multidisciplinary field of nanophotonics&lt;ref&gt;{{cite web|url=http://lanp.blogs.rice.edu|title=Rice University Laboratory for Nanophotonics (LANP)|website=lanp.blogs.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Moody Center for the Arts - experimental arts space featuring studio classrooms, maker space, audiovisual editing booths, and a gallery and office space for visiting national and international artists&lt;ref&gt;{{cite web|url=http://moody.rice.edu|title=Moody Center for the Arts|website=moody.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* [[OpenStax CNX]] (formerly ''Connexions'') and [[OpenStax]] - an [[open-source model|open source]] platform and [[open access]] publisher, respectively, of [[open educational resources]]
+* Oshman Engineering Design Kitchen (OEDK) - space for undergraduate students to design, prototype and deploy solutions to real-world engineering challenges&lt;ref&gt;{{cite web|url=http://oedk.rice.edu/|title=Oshman Engineering Design Kitchen|website=oedk.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Rice Cinema - an independent theater run by the Visual and Dramatic Arts department at Rice which screens documentaries, foreign films, and experimental cinema and hosts film festivals and lectures since 1970&lt;ref&gt;{{cite web|url=https://vada.rice.edu/rice-cinema|title=Rice Cinema|website=vada.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Rice Center for Engineering Leadership (RCEL)&lt;ref&gt;{{cite web|url=https://rcel.rice.edu|title=Rice Center for Engineering Leadership|website=rcel.rice.edu|access-date=23 June 2020}}&lt;/ref&gt;
+* Religion and Public Life Program (RPLP) - a research, training and outreach program working to advance understandings of the role of religion in public life&lt;ref&gt;{{cite web|url=https://rplp.rice.edu/|title=Religion and Public Life Program}}&lt;/ref&gt;
+* Rice Design Alliance (RDA) - outreach and public programs of the Rice School of Architecture&lt;ref&gt;{{cite web|url=https://www.ricedesignalliance.org|title=Rice Design Alliance|website=ricedesignalliance.org|access-date=29 March 2020}}&lt;/ref&gt;
+* Rice Center for Quantum Materials (RCQM) - organization dedicated to research and higher education in areas relating to quantum phenomena&lt;ref&gt;{{cite web|url=https://rcqm.rice.edu|title=Rice Center for Quantum Materials|website=rcqm.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Rice Neuroengineering Initiative (NEI) - fosters research collaborations in neural engineering topics&lt;ref&gt;{{Cite web|title=Neuroengineering|url=https://neuroengineering.rice.edu/|website=Neuroengineering {{!}} Rice University|language=en|access-date=2020-04-30}}&lt;/ref&gt;
+*Rice Space Institute (RSI) - fosters programs in all areas of space research&lt;ref&gt;{{cite web|url=https://rsi.rice.edu|title=Rice Space Institute|website=rsi.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Smalley-Curl Institute for Nanoscale Science and Technology (SCI) - the nation's first nanotechnology center&lt;ref&gt;{{cite web|url=https://sci.rice.edu|title=Rice Smalley-Curl Institute|website=sci.rice.edu|access-date=29 March 2020}}&lt;/ref&gt;
+* Welch Institute for Advanced Materials - collaborative research institute to support the foundational research for discoveries in [[materials science]], similar to the model of [[Salk Institute for Biological Studies|Salk Institute]] and [[Broad Institute]]&lt;ref&gt;{{cite web|url=https://welchinstitute.org|title=The Welch Institute for Advanced Materials|website=welchinstitute.org|access-date=13 September 2020}}&lt;/ref&gt;
+* [[Woodson Research Center|Woodson Research Center Special Collections &amp; Archives]] - publisher of print and web-based materials highlighting the department's primary source collections such as the Houston African American, Asian American, and Jewish History Archives, University Archives, rare books, and hip hop/rap music-related materials from the [[Swishahouse]] record label and Houston Folk Music Archive, etc.
+
+===Admissions===
+{| style="float:right; font-size:85%; margin:10px" "text-align:center; font-size:85%; margin:auto;" class="wikitable"
+|+ ''Fall Freshman Statistics''
+|-
+! &amp;nbsp; 
+!2019&lt;ref name=":1"&gt;{{Cite web|url=https://admission.rice.edu/apply/freshman/admission-statistics|title=Admission Statistics {{!}} Undergraduate Admission {{!}} Rice University|website=admission.rice.edu|access-date=2020-01-03}}&lt;/ref&gt;
+!2018
+!2017!! 2016&lt;ref&gt;{{Cite web|url=https://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/3.%20CDS_2016-2017_WEBSITE(1).pdf|title=Common Data Set 2016-2017|archive-url=https://web.archive.org/web/20170809172933/https://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/3.%20CDS_2016-2017_WEBSITE(1).pdf|archive-date=2017-08-09|url-status=dead}}&lt;/ref&gt;!! 2015&lt;ref name="CDS2015"&gt;{{cite web|url=https://oir.rice.edu/students-scholars/admissions/undergraduate/selectivity|title=Rice University Office of Institutional Research|publisher=Rice University}}&lt;/ref&gt;!! 2014&lt;ref&gt;{{cite web |url=http://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/4.%20CDS_2014-2015_Website.pdf |title=Common Data Set 2014-2015 |publisher=Rice University |access-date=2016-07-31 |archive-url=https://web.archive.org/web/20161011092311/http://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/4.%20CDS_2014-2015_Website.pdf |archive-date=2016-10-11 |url-status=dead }}&lt;/ref&gt;!! 2013&lt;ref&gt;{{cite web |url=http://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/CDS_2013-14_draft%207_web%20version.pdf |title=Common Data Set 2013-2014 |publisher=Rice University |access-date=2016-07-31 |archive-url=https://web.archive.org/web/20150905213040/http://oir.rice.edu/uploadedFiles/Office_of_Institutional_Research/Content/Common_Data_Set/CDS_2013-14_draft%207_web%20version.pdf |archive-date=2015-09-05 |url-status=dead }}&lt;/ref&gt;
+|-align="center"
+! Applicants
+|27,087
+|20,923
+|18,063
+| 18,236 || 17,951 || 17,728 || 15,415
+|-align="center"
+! Admits
+|2,361
+|2,328
+|2,864
+| 2,785 || 2,865 || 2,677 || 2,581
+|-align="center"
+! Admit rate
+|8.7%
+|11.1%
+|15.8%
+| 15.3% || 16.0% || 15.1% || 16.7% 
+|-align="center"
+! Enrolled
+|964
+|960
+|1,048
+| 981 || 969 || 949 ||978
+|-align="center"
+! SAT range
+|1470–1560
+|1460–1550
+|1490–1580
+| 2090–2340 || 2070–2330 || 2060–2320 || 2040–2320
+|-align="center"
+! ACT range
+|33–35
+|33–35
+|33–35
+| 32–35 || 32–35 || 31–34 || 31–34 
+|}
+
+Admission to Rice is rated as "most selective" by ''[[U.S. News &amp; World Report]]''.&lt;ref&gt;{{cite web|url=http://colleges.usnews.rankingsandreviews.com/best-colleges/rice-3604 |title=Rice University |year=2017 |work=U.S. News &amp; World Report}}&lt;/ref&gt;
+
+For fall 2020, Rice received 23,443 freshmen applications of which 2,346 were admitted (10.0%) up from a record-low 8.7% acceptance rate in 2019.&lt;ref&gt;{{Cite web|url=https://www.ricethresher.org/article/2020/03/2024-admissions|title=Rice accepts 10 percent of applicants for the Class of 2024|website=The Rice Thresher|access-date=2020-04-14}}&lt;/ref&gt; The middle 50% range of [[SAT]] scores for the class of 2023 were 1470–1560; the middle 50% range of the [[ACT (test)|ACT]] Composite score was 33–35.&lt;ref name=":1" /&gt;
+
+===Rankings===
+{{col-begin}}
+{{col-break}}
+{{Infobox US university ranking
+| Forbes   = 21
+| ARWU_W   = 101–150
+| ARWU_N   = 42–56
+| THE_WSJ  = 16
+| THES_W   = 124
+| QS_W     = 94
+| USNWR_NU = 16
+| USNWR_W  = 128
+| Wamo_NU  = 95
+}}
+{{col-break}}
+{| class="wikitable sortable collapsible collapsed" style="float:right" "text-align:center"
+|-
+! colspan=4 style="{{CollegePrimaryStyle|Rice Owls|color=white}}" |National Program Rankings&lt;ref name="USNWR Grad School Rankings"&gt;{{cite magazine|title=Rice University&amp;nbsp;– U.S. News Best Grad School Rankings|magazine=U.S. News &amp; World Report|access-date=September 26, 2020|url=https://www.usnews.com/best-graduate-schools/rice-university-227757/overall-rankings}}&lt;/ref&gt;
+|-
+! Program
+! Ranking
+|-
+| Biological Sciences || 39
+|-
+| Business || 25
+|-
+| Chemistry || 32
+|-
+| Computer Science || 20
+|-
+| Earth Sciences || 24
+|-
+| Economics || 42
+|-
+| Engineering || 33
+|-
+| English || 35
+|-
+| History || 34
+|-
+| Mathematics || 26
+|-
+| Physics || 28
+|-
+| Political Science || 33
+|-
+| Psychology || 50
+|-
+| Statistics || 43
+|}
+{{col-break}}
+{| class="wikitable sortable collapsible collapsed" style="float:right" "text-align:center"
+|-
+! colspan=4 style="{{CollegePrimaryStyle|Rice Owls|color=white}}" |Global Subject Rankings&lt;ref name="USNWR Global Univ Rankings"&gt;{{cite magazine|title=Rice University&amp;nbsp;– U.S. News Best Global University Rankings|magazine=U.S. News &amp; World Report|access-date=September 26, 2020|url=https://www.usnews.com/education/best-global-universities/rice-university-227757}}&lt;/ref&gt;
+|-
+! Program
+! Ranking
+|-
+| Arts &amp; Humanities || 194
+|-
+| Biology &amp; Biochemistry || 222
+|-
+| Chemistry || 119
+|-
+| Clinical Medicine || 684
+|-
+| Engineering || 224
+|-
+| Environment/Ecology || 248
+|-
+| Geosciences || 163
+|-
+| Materials Science || 14
+|-
+| Mathematics || 87
+|-
+| Molecular Biology &amp; Genetics || 333
+|-
+| Physics || 82
+|-
+| Social Sciences &amp; Public Health || 386
+|}
+{{col-end}}
+
+Rice was ranked tied at 16th among national universities and 108th among global universities, 6th for "best undergraduate teaching", 8th for "Best Value", and tied for 18th "Most Innovative" among national universities in the U.S. by ''[[U.S. News &amp; World Report]]'' in its 2021 edition.&lt;ref name=USNWR&gt;{{cite web |url=https://www.usnews.com/best-colleges/rice-3604/overall-rankings |title=Rice University Rankings |work= U.S. News &amp; World Report |year=2021 |access-date=September 26, 2020}}&lt;/ref&gt; ''[[Forbes]]'' magazine ranked Rice University 21st nationally among 650 liberal arts colleges, universities and service academies in 2019, 19th among research universities and 2nd in the South.&lt;ref&gt;{{cite web |url=https://www.forbes.com/colleges/rice-university/?list=top-colleges |title= America's Best Colleges |magazine=Forbes |date=August 15, 2019}}&lt;/ref&gt; ''[[Kiplinger's Personal Finance]]'' places Rice 7th in its 2019 ranking of best value private universities in the United States.&lt;ref&gt;{{cite web| url=https://www.kiplinger.com/tool/college/T014-S001-best-college-values-college-finder/index.php#Table |work=Kiplinger's Personal Finance| title=Kiplinger's Best College Values |date=July 2019}}&lt;/ref&gt;
+
+In 2020, Rice was ranked 105th in the world by the ''[[Times Higher Education World University Rankings]]''. In 2020, Rice was ranked tied for 95th internationally (41st nationally) by the ''[[Academic Ranking of World Universities]]''. Rice University was also ranked 85th globally in 2020 by ''[[QS World University Rankings]]''. Rice is noted for its entrepreneurial activity, and has been recognized as the top ranked [[business incubator]] in the world by the [[Stockholm]]-based UBI Index for both 2013 and 2014.&lt;ref&gt;{{cite news|url=http://www.bizjournals.com/houston/morning_call/2014/06/on-top-of-the-world-again-rice-alliance-named-no-1.html |title=On top of the world again: Rice Alliance named No. 1 university business incubator |newspaper=Houston Business Journal |date=June 24, 2014 |access-date=June 7, 2017}}&lt;/ref&gt;
+
+The ''[[Princeton Review]]'' ranked Rice 4th for "Best Quality of Life", 8th for "Happiest Students",&lt;ref name="Rice University - Rankings &amp; Lists"/&gt; 10th among the most [[LGBT]] friendliest colleges,&lt;ref&gt;{{cite web |url= http://transgriot.blogspot.com/2014/08/rice-university-makes-princeton-review.html |title= TransGriot |author= Monica Roberts |access-date= 25 December 2014|date= 2014-08-06 }}&lt;/ref&gt; and one of the top 50 best value private colleges in its 2020 edition.&lt;ref name="Rice University - Rankings &amp; Lists8"/&gt; Rice was ranked 41st among research universities by the Center for Measuring University Performance in 2007.&lt;ref name="The Top American Research Universities"/&gt; ''[[Consumer's Digest]]'' ranked Rice 3rd on the list of top 5 values in private colleges in its June 2011 issue.&lt;ref name="rice9"/&gt; ''Fiske Guide to Colleges'' ranked Rice as one of the top 25 private "best buy" schools in its 2012 edition.&lt;ref name="Rice a best buy in 2012 Fiske college guide"/&gt;
+In 2011 the [[CWTS Leiden Ranking|Leiden Ranking]], which measures the performance of 500 major research universities worldwide, using metrics designed to measure research impact ranked Rice 4th Globally, for effectiveness and contribution of research.&lt;ref name="rice10"/&gt;&lt;ref name="Leiden Ranking"/&gt;&lt;ref name="leidenranking"/&gt; In 2013 the university was again ranked first globally for quality of research in natural sciences and engineering, and 6th globally for all sciences.&lt;ref&gt;[http://news.rice.edu/2013/04/19/leiden-ranks-rice-no-1-for-natural-sciences-and-engineering-no-6-for-all-sciences/ Leiden ranks Rice No. 1 for natural sciences and engineering, No. 6 for all sciences]. News.rice.edu (2013-04-24). Retrieved on 2013-09-06.&lt;/ref&gt; In 2014, ''[[The Daily Beast]]'' ranked Rice 14th out of nearly 2,000 schools it evaluated.&lt;ref&gt;{{cite news|url=http://www.thedailybeast.com/articles/2014/11/06/the-daily-beast-s-down-and-dirty-guide-to-the-best-colleges-2014.html|title=The Daily Beast's Colleges Rankings 2014|newspaper=The Daily Beast|date=2014-11-06|last1=Zadrozny|first1=Brandy}}&lt;/ref&gt; In 2019, ''[[Money Magazine]]'' ranked Rice 24th in the nation.&lt;ref&gt;{{cite web|url=https://money.com/best-colleges/|title=Money's Best Colleges}}&lt;/ref&gt;
+
+==Student life==
+[[File:Rice University - Arboretum.JPG|thumb|A view along the inner loop, with three of the university service personnel's traditional golf carts in view]]
+Situated on nearly {{convert|300|acre|ha}} in the center of Houston's Museum District and across the street from the city's [[Hermann Park]], Rice is a green and leafy refuge; an oasis of learning convenient to the amenities of the nation's fourth-largest city. Rice's campus adjoins Hermann Park, the [[Texas Medical Center]], and a neighborhood commercial center called [[Rice Village]]. Hermann Park includes the [[Houston Museum of Natural Science]], the [[Houston Zoo]], [[Miller Outdoor Theatre]] and an 18-hole municipal golf course. [[NRG Park]], home of [[NRG Stadium]] and the [[Astrodome]], is two miles (3&amp;nbsp;km) south of the campus. Among the dozen or so museums in the [[Houston Museum District|Museum District]] was (until May 14, 2017)&lt;ref name="Rice-U.-Art-Gallery-closed-May-14,-2017"&gt;(See [the web page for the] {{cite web 
+| title          = Rice University Art Gallery 1995-2017 
+| url            = http://www.ricegallery.org/ 
+| publisher      = Rice University 
+| quote          = Rice University Art Gallery closed May 14, 2017, ending its exhibition program. For more than twenty years, Rice Gallery was the only university gallery in the nation devoted to commissioning site-specific installation art.}})&lt;/ref&gt; the Rice University Art Gallery,&lt;ref name="Rice-U.-Art-Gallery-closed-May-14,-2017"/&gt; open during the school year from 1995 until it closed in 2017. Easy access to downtown's theater and nightlife district and to Reliant Park is provided by the Houston [[METRORail]] system, with a station adjacent to the campus's main gate. The campus recently joined the [[Zipcar]] program with two vehicles to increase the transportation options for students and staff who need but currently don't utilize a vehicle.&lt;ref name="rice11"/&gt;
+
+===Residential colleges===
+{{Main|Residential colleges of Rice University}}
+In 1957, Rice University implemented a [[residential college]] system, which was proposed by the university's first president, [[Edgar Odell Lovett]]. The system was inspired by existing systems in place at [[Oxbridge|Oxford and Cambridge]] in England and at several other universities in the United States, most notably [[Residential colleges of Yale University|Yale University]]. The existing residences known as East, South, West, and Wiess Halls became Baker, Will Rice, Hanszen, and Wiess Colleges, respectively.
+
+====List of residential colleges ====
+Below is a list of residential colleges in order of founding:&lt;ref name="rice12"/&gt;
+* [[Baker College (Rice University)|Baker College]], named in honor of [[Captain James A. Baker]], friend and attorney of [[William Marsh Rice]], and first chair of the Rice Board of Governors.
+* [[Will Rice College (Rice University)|Will Rice College]], named for William M. Rice, Jr., the nephew of the university's founder, [[William Marsh Rice]].
+* [[Hanszen College (Rice University)|Hanszen College]], named for Harry Clay Hanszen, benefactor to the university and chairman of the Rice Board of Governors from 1946 to 1950.
+* [[Wiess College (Rice University)|Wiess College]], named for Harry Carothers Wiess (1887–1948), one of the founders and one-time president of [[Humble Oil]], now [[ExxonMobil]].
+* [[Jones College (Rice University)|Jones College]], named for Mary Gibbs Jones, wife of prominent Houston philanthropist [[Jesse Holman Jones]].
+* [[Brown College (Rice University)|Brown College]], named for Margarett Root Brown by her in-laws, [[George R. Brown]].
+* [[Lovett College (Rice University)|Lovett College]], named after the university's first president, Edgar Odell Lovett.
+* [[Sid Richardson College (Rice University)|Sid Richardson College]], named for the Sid Richardson Foundation, which was established by Texas oilman, cattleman, and philanthropist [[Sid W. Richardson]].
+* [[Martel College (Rice University)|Martel College]], named for Marian and Speros P. Martel, was built in 2002.
+* [[McMurtry College (Rice University)|McMurtry College]], named for Rice alumni Burt and Deedee McMurtry, [[Silicon Valley]] venture capitalists.
+* [[Duncan College (Rice University)|Duncan College]], named for [[Charles Duncan, Jr.]], Secretary of Energy.
+
+Much of the social and academic life as an undergraduate student at Rice is centered around residential colleges. Each residential college has its own cafeteria (serveries) and each residential college has study groups and its own social practices.
+
+Although each college is composed of a full cross-section of students at Rice, they have over time developed their own traditions and "personalities". When students [[matriculation|matriculate]] they are randomly assigned to one of the eleven colleges, although "legacy" exceptions are made for students whose siblings or parents have attended Rice.&lt;ref&gt;{{cite web|url=http://students.rice.edu/students/College_Assignments.asp |title=College Assignments |publisher=Rice.edu |date=2015-05-11 |access-date=2017-05-09}}&lt;/ref&gt; Students generally remain members of the college that they are assigned to for the duration of their undergraduate careers, even if they move off-campus at any point. Students are guaranteed on-campus housing for freshman year and two of the next three years; each college has its own system for determining allocation of the remaining spaces, collectively known as "Room Jacking". Students develop strong loyalties to their college and maintain friendly rivalry with other colleges, especially during events such as [[#Beer Bike Race|Beer Bike Race]] and [[Orientation week|O-Week]]. Colleges keep their rivalries alive by performing "jacks," or pranks, on each other, especially during O-Week and [[#Beer Bike Race|Willy Week]]. During Matriculation, Commencement, and other formal academic ceremonies, the colleges process in the order in which they were established.
+
+====Baker 13====
+
+The Baker 13 is a tradition in which students run around campus wearing nothing but shoes and [[shaving cream]] at 10 p.m. on the 13th and the 31st of every month, as well as the 26th on months with fewer than 31 days. The event, long sponsored by [[Baker College (Rice University)|Baker College]], usually attracts a small number of students, but [[Halloween]] night and the first and last relevant days of the school year both attract large numbers of revelers.&lt;ref name="Rice undergrads share a sense of community"/&gt;
+[[File:Rice Sallyport during Beer Bike Water Balloon Fight.jpg|thumb|Rice University students participating in the Beer Bike water balloon fight in front of the [[Campus of Rice University|Sallyport]].]]
+
+====Beer Bike Race====
+According to the official website, "Beer Bike is a combination intramural bicycle race and drinking competition dating back to 1957. Ten riders and ten chuggers make up a team. Elaborate rules include details such as a prohibition of "bulky or wet clothing articles designed to absorb beer/water or prevent spilled beer/water from being seen" and regulations for chug can design. Each residential college as well as the Graduate Student Association participates with a men's team, a women's team, and alumni (co-ed) team. Each leg of the race is a relay in which a team's "chugger" must chug {{convert|24|USfloz|ml}} of beer or water for the men's division and {{convert|12|USfloz|ml}} for women before the team's "rider" may begin to ride.&lt;ref name="Beer Bike's 50th bash lets good time roll at Rice: tradition that began in 1957 now integral part of school's social scene"/&gt; Participants who both ride and chug are referred to as "Ironmen". Willy Week is a term coined in the 1990s to refer to the week preceding Beer-Bike, a time of general energy and excitement on campus. Jacks (pranks) are especially common during Willy Week; some examples in the past include removing showerheads and encasing the Hanszen guardian."
+The morning of the Beer Bike race itself begins with what is by some estimations the largest annual water balloon fight in the world. Beer-Bike is Rice's most prominent student event, and for younger alumni it serves as an unofficial reunion weekend on par with Homecoming. The 2009 Beer Bike race was dedicated to the memory of [[William L. Wilson (Rice University)|Dr. Bill Wilson]], a popular professor and long-time resident associate of Wiess College who died earlier that year.
+
+In the event of inclement weather, Beer Bike becomes a Beer Run. The rules are nearly identical, except that the Bikers must instead run the length of the track.
+
+===Campus institutions===
+A number of on-campus institutions form an integral part of student life at Rice. Many of these organizations have been operating for several decades.
+
+====Rice Coffeehouse====
+Rice Coffeehouse finds its beginnings in Hanszen College, where students would serve coffee in the Weenie Loft, a study room in the old section's fourth floor. Later, the coffee house moved to the Hanszen basement to accommodate more student patrons. That coffeehouse became known as Breadsticks and Pomegranates. Due to flooding, an unfortunate effect of 1) its location in the basement and 2) the Houston climate, this coffee house closed. Demand for an on-campus Coffeehouse grew and in 1990, the Rice Coffeehouse was founded.
+
+The Rice Coffeehouse is a not-for-profit student-run organization serving Rice University and the greater Houston community.&lt;ref name="Coffeehouse: 16 Years of Providing Rice with Society's Most Acceptable Drug"/&gt; Over the past few years,{{when|date=October 2010}} it has introduced fair-trade and organic coffee and loose-leaf teas.&lt;ref&gt;{{Cite web|url=http://riceuniversitys.blogspot.com/2016/06/residential-colleges.html|title=Rice University: Residential colleges|last=University|first=Cornell|date=2016-06-10|website=Rice University|access-date=2016-10-21}}&lt;/ref&gt;
+
+Coffeehouse baristas are referred to as K.O.C.'s, or Keepers of the Coffee. Rice Coffeehouse has also adopted an unofficial mascot, the squirrel, which can be found on T-shirts, mugs, and bumper stickers stuck on laptops across campus. The logo pays tribute to Rice's unusually plump and frighteningly tame squirrel population.
+
+====Willy's Pub====
+Willy's Pub is Rice's graduate pub run by students located in the basement of the Rice Memorial Center. It opened on April 11, 1975, with Rice President Norman Hackerman pouring the first beer. The name was chosen by students in tribute to the university's founder, [[William Marsh Rice]]. After the drinking age in Texas was raised in 1986, the pub entered a period of financial difficulties and in April 1995, was destroyed in a fire. The space was gutted but renovated and remains open.&lt;ref name="Willy's Pub"/&gt;&lt;ref name="Willy's Pub, 1975 - 1995"/&gt;
+
+====Rice Bikes====
+Rice Bikes is a full-service on-campus bicycle sale, rental, and repair shop.&lt;ref&gt;{{cite web|url=http://bikes.rice.edu/|title=Rice Bikes|work=rice.edu}}&lt;/ref&gt; It originated in the basement of [[Residential colleges of Rice University|Sid Richardson College]] in February 2011. In 2012, Rice Bikes officially became the university's third student-run business. Rice Bikes merged with a student-run bicycle rental business in 2013, and operations moved to the Rice Memorial Center in 2014.&lt;ref name=":0"&gt;{{cite web|url=http://bikes.rice.edu/history/|title=History|publisher=Rice Bikes|work=rice.edu}}&lt;/ref&gt; In 2017, the business moved to the garage of the Rice Housing and Dining department's headquarters.&lt;ref name=":0" /&gt;
+
+Rice Bikes sells refurbished bicycles bought from students and functions as a full bicycle repair shop.
+
+====Student-run media====
+Rice has a weekly [[student newspaper]] (''[[Rice Thresher|The Rice Thresher]]''), a yearbook ([https://ricecampanile.com/ The Campanile]), [[college radio]] station ([[KTRU Rice Radio]]), and now defunct, campus-wide [[student television station]] (RTV5). They are based out of the RMC student center. In addition, Rice hosts several student magazines dedicated to a range of different topics; in fact, the spring semester of 2008 saw the birth of two such magazines, a literary sex journal called ''Open'' and an undergraduate science research magazine entitled ''Catalyst''.
+&lt;!--TO THOSE EDITING THIS SECTION: There have been some "EDIT WARS" in this section of the article, with sections for "Rice Standard" and "Open" being persistently deleted and reinstated. BEFORE doing anything about this material, PLEASE see the discussion which can be found on the talk page, where it is being decided what to do about these sections. Simply changing the article without participating in the discussion is counterproductive and causes more work for other editors --&gt;
+
+''[[Rice Thresher|The Rice Thresher]]''&lt;ref name="ricethresher13"/&gt; is published every Wednesday and is ranked by Princeton Review as one of the top campus newspapers nationally for student readership. It is distributed around campus, and at a few other local businesses and has a website. The ''Thresher'' has a small, dedicated staff and is known for its coverage of campus news, open submission opinion page, and the satirical Backpage, which has often been the center of controversy. The newspaper has won several awards from the College Media Association, Associated Collegiate Press and Texas Intercollegiate Press Association.
+
+The Rice Campanile was first published in 1916 celebrating Rice's first graduating class. It has published continuously since then, publishing two volumes in 1944 since the university had two graduating classes due to World War II. The website was created sometime in the early to mid 2000s. The 2015 won the first place Pinnacle for best yearbook from College Media Association.
+
+[[KTRU Rice Radio]] is the student-run radio station. Though most DJs are Rice students, anyone is allowed to apply. It is known for playing genres and artists of music and sound unavailable on other radio stations in Houston, and often, the US. The station takes requests over the phone or [https://web.archive.org/web/20140424125136/http://ktru.org/e-quest online]. In 2000 and 2006, KTRU won Houston Press' Best Radio Station in Houston.&lt;ref name="Houston Best of Houston - Best Radio Station - page 1"/&gt;&lt;ref name="Houston - Best of Houston - Houston"/&gt; In 2003, Rice alum and active KTRU DJ DL's hip-hip show won Houston Press' Best Hip-hop Radio Show.&lt;ref name="Houston Best of Houston - Best Hip-hop Radio Show - page 1"/&gt; On August 17, 2010, it was announced that Rice University had been in negotiations to sell the station's broadcast tower, FM frequency and license to the [[University of Houston System]] to become a full-time [[classical music]] and fine arts programming station. The new station, [[KXNG|KUHA]], would be operated as a not-for-profit outlet with listener supporters.&lt;ref name="sale1"/&gt; The FCC approved the sale and granted the transfer of license to the University of Houston System on April 15, 2011,&lt;ref name="Correspondence for KTRU"/&gt; however, KUHA proved to be an even larger failure and so after four and a half years of operation, The University of Houston System announced that KUHA's broadcast tower, FM frequency and license were once again up for sale in August 2015. KTRU continued to operate much as it did previously, streaming live on the Internet, via apps, and on HD2 radio using the 90.1 signal. Under student leadership, KTRU explored the possibility of returning to FM radio for a number of years. In spring 2015, KTRU was granted permission by the FCC to begin development of a new broadcast signal via LPFM radio. On October 1, 2015, KTRU made its official return to FM radio on the 96.1 signal. While broadcasting on HD2 radio has been discontinued, KTRU continues to broadcast via internet in addition to its LPFM signal.
+
+RTV5 is a student-run television network available as channel 5 on campus. RTV5 was created initially as Rice Broadcast Television in 1997; RBT began to broadcast the following year in 1998, and aired its first live show across campus in 1999. It experienced much growth and exposure over the years with successful programs like "Drinking with Phil”, “The Meg &amp; Maggie Show”, which was a variety and call-in show, a weekly news show, and extensive live coverage in December 2000 of the shut down of KTRU by the administration. In spring 2001, the Rice undergraduate community voted in the general elections to support RBT as a blanket tax organization, effectively providing a yearly income of $10,000 to purchase new equipment and provide the campus with a variety of new programming. In the spring of 2005, RBT members decided the station needed a new image and a new name: Rice Television 5. One of RTV5's most popular shows was the 24-hour show, where a camera and couch placed in the RMC stayed on air for 24 hours. One such show is held in fall and another in spring, usually during a weekend allocated for visits by prospective students. RTV5 has a video on demand site at rtv5.rice.edu.&lt;ref name="rice14"/&gt; The station went off the air in 2014 and changed its name to Rice Video Productions. In 2015 the group's funding was threatened, but ultimately maintained. In 2016 the small student staff requested to no longer be a blanket-tax organization. In the fall of 2017, the club did not register as a club.
+
+''The Rice Review'', also known as R2, is a yearly student-run literary journal at Rice University that publishes prose, poetry, and creative nonfiction written by undergraduate students, as well as interviews. The journal was founded in 2004 by creative writing professor and author [[Justin Cronin]].&lt;ref name="rice15"/&gt;
+
+''The Rice Standard'' was an independent, student-run variety magazine modeled after such publications as ''The New Yorker'' and ''Harper's''. Prior to fall 2009, it was regularly published three times a semester with a wide array of content, running from analyses of current events and philosophical pieces to personal essays, short fiction and poetry. In August 2009, the ''Standard'' transitioned to a completely online format with the launch of their redesigned website, ricestandard.org. The first website of its kind on Rice's campus, the ''Standard'' featured blog-style content written by and for Rice students. ''The Rice Standard'' had around 20 regular contributors, and the site features new content every day (including holidays). In 2017 no one registered The Rice Standard as a club within the university.
+
+''Open'', a magazine dedicated to "literary sex content," predictably caused a stir on campus with its initial publication in spring 2008. A mixture of essays, editorials, stories and artistic photography brought Open attention both on campus and in the [[Houston Chronicle]].&lt;ref name="chron"/&gt; The third and last annual edition of ''Open'' was released in spring of 2010.
+
+Vahalla is the Graduate Student Association on-campus bar under the steps of the chemistry building.
+
+==Athletics==
+{{Main|Rice Owls}}
+[[File:Rice University Stadium.jpg|thumb|upright|Rice Stadium]]
+Rice plays in [[NCAA Division I]] athletics and is part of [[Conference USA]]. Rice was a member of the [[Western Athletic Conference]] before joining Conference USA in 2005.&lt;ref name="WSJ1"&gt;{{cite news|url=https://www.wsj.com/articles/SB109535777163619827|title=Another Money-Losing Season|last=Merrick|first=Amy|date=20 September 2004|newspaper=Wall Street Journal|access-date=15 February 2013}}&lt;/ref&gt; Rice is the second-smallest school, measured by undergraduate enrollment, competing in NCAA [[Football Bowl Subdivision|Division I FBS]] [[American football|football]], only ahead of [[University of Tulsa|Tulsa]].&lt;ref name="WSJ1"/&gt;
+
+The [[Rice Owls baseball|Rice baseball team]] won the [[2003 College World Series]], defeating [[Stanford University|Stanford]], giving Rice its only national championship in a team sport. The victory made Rice University the smallest school in 51 years to win a national championship at the highest collegiate level of the sport. The Rice baseball team has played on campus at [[Reckling Park]] since the 2000 season. As of 2010, the baseball team has won 14 consecutive conference championships in three different conferences: the final championship of the defunct [[Southwest Conference]], all nine championships while a member of the [[Western Athletic Conference]], and five more championships in its first five years as a member of [[Conference USA]]. Additionally, Rice's baseball team has finished third in both the [[2006 College World Series|2006]] and [[2007 College World Series]] tournaments. Rice now has made six trips to Omaha for the CWS. In 2004, Rice became the first school ever to have three players selected in the first eight picks of the [[MLB draft]] when [[Philip Humber]], [[Jeff Niemann]], and [[Wade Townsend]] were selected third, fourth, and eighth, respectively. In 2007, [[Joe Savery]] was selected as the 19th overall pick.
+[[File:College football - Rice Owls vs Texas Longhorns.jpg|right|thumb|The Owls in a game against the [[Texas Longhorns]]]]
+
+Rice has been very successful in women's sports in recent years. In 2004–05, Rice sent its women's volleyball, soccer, and basketball teams to their respective NCAA tournaments. The women's swim team has consistently brought at least one member of their team to the NCAA championships since 2013. In 2005–06, the women's soccer, basketball, and tennis teams advanced, with five individuals competing in track and field. In 2006–07, the Rice women's basketball team made the NCAA tournament, while again five Rice track and field athletes received individual NCAA berths. In 2008, the women's volleyball team again made the NCAA tournament. 
+In 2011 the Women's Swim team won their first conference championship in the history of the university. This was an impressive feat considering they won without having a diving team. The team repeated their C-USA success in 2013 and 2014. 
+In 2017, the women's basketball team, led by second-year head coach Tina Langley, won the [[Women's Basketball Invitational]], defeating [[University of North Carolina at Greensboro|UNC-Greensboro]] 74–62 in the championship game at Tudor Fieldhouse. 
+Though not a varsity sport, Rice's ultimate frisbee women's team, named Torque, won consecutive Division III national championships in 2014 and 2015.&lt;ref&gt;{{cite web|url=http://www.usaultimate.org/news/2015-d-iii-college-championships--womens-day-two-recap/|title=News|website=www.usaultimate.org|access-date=11 June 2017}}&lt;/ref&gt;
+
+In 2006, the [[Rice Owls football|football team]] qualified for its first bowl game since 1961, ending the second-longest bowl drought in the country at the time. On December 22, 2006, Rice played in the [[New Orleans Bowl]] in [[New Orleans, Louisiana]] against the [[Sun Belt Conference]] champion, Troy. The Owls lost 41–17. The bowl appearance came after Rice had a 14-game losing streak from 2004–05 and went 1–10 in 2005. The streak followed an internally authorized 2003 McKinsey report that stated football alone was responsible for a $4 million deficit in 2002. Tensions remained high between the athletic department and faculty, as a few professors who chose to voice their opinion were in favor of abandoning the football program. The program success in 2006, the "Rice Renaissance," proved to be a revival of the Owl football program, quelling those tensions. [[David Bailiff]] took over the program in 2007 and has remained head coach. [[Jarett Dillard]] set an NCAA record in 2006 by catching a touchdown pass in 13 consecutive games and took a 15-game overall streak into the 2007 season.
+ 
+In 2008, the football team posted a 9-3 regular season, capping off the year with a 38–14 victory over Western Michigan University in the Texas Bowl. The win over Western Michigan marked the Owls' first bowl win in 45 years.
+
+Rice Stadium also serves as the performance venue for the university's [[Marching Owl Band]], or "MOB." Despite its name, the MOB is a [[scatter band]] that focuses on performing humorous skits and routines rather than traditional formation marching.
+
+[[Rice Owls men's basketball]] won 10 conference titles in the former Southwest Conference (1918, 1935*, 1940, 1942*, 1943*, 1944*, 1945, 1949*, 1954*, 1970; * denotes shared title). Most recently, guard Morris Almond was drafted in the first round of the [[2007 NBA Draft]] by the [[Utah Jazz]]. Rice named former [[Cal Bears]] head coach [[Ben Braun]] as head basketball coach to succeed Willis Wilson, fired after Rice finished the 2007–2008 season with a winless (0-16) conference record and overall record of 3-27.
+
+Rice's mascot is [[Sammy the Owl]]. In previous decades, the university kept several live owls on campus in front of [[Lovett College]], but this practice has been discontinued, due to public concern regarding [[animal welfare]].
+
+Rice also has a 12-member coed cheerleading squad and a coed dance team, both of which perform at football and basketball games throughout the year.
+
+==Notable people==
+{{unreferenced section|date=October 2020}}
+{{Main|List of Rice University people}}
+
+As of 2011, Rice has graduated 98 classes of students consisting of 51,961 living alumni. Over 100 students at Rice have been [[Fulbright Scholars]], 25 [[Marshall Scholars]], 25 Mellon Fellows, 12 [[Rhodes Scholars]], 6 Udall Scholars, and 65 [[Watson Fellowship|Watson Fellows]], among several other honors and awards.
+
+Rice's distinguished faculty and alumni consists of five [[Nobel laureates]], two [[Pulitzer Prize]] award winners, six [[Fulbright Scholars]], 29 Alexander von Humboldt Foundation Recipients, 14 members of the [[American Academy of Arts and Sciences]], 3 members of the [[American Philosophical Society]], 35 [[Guggenheim Fellowships]], 12 members of the [[National Academy of Engineering]], 2 members of the [[National Academy of Medicine]], 10 members of the [[United States National Academy of Sciences|National Academy of Sciences]], five fellows of the [[National Humanities Center]], and 86 fellows of the [[National Science Foundation]].&lt;ref&gt;{{Cite web|url=https://oir.rice.edu/faculty-staff/faculty-achievements|title=Rice University Faculty Achievements|access-date=1 July 2021}}&lt;/ref&gt;
+
+Alumni of Rice have occupied top positions in business, including [[Thomas H. Cruikshank]], the former CEO of [[Halliburton]]; [[John Doerr]], billionaire and venture capitalist; [[Howard Hughes]]; and [[Fred C. Koch]].
+
+In government and politics, Rice alumni include [[Alberto Gonzales]], former Attorney General; [[Charles Duncan, Jr.|Charles Duncan]], former Secretary of Energy; [[William P. Hobby, Jr.]]; [[John Kline (politician)|John Kline]]; [[George P. Bush]]; [[Josh Earnest]], White House Press Secretary for President Obama; [[Ben Rhodes (White House staffer)|Ben Rhodes]], Deputy National Security Advisor for President Obama and [[Annise Parker]], the 61st Mayor of Houston.
+
+Rice alumni who became prominent writers include [[Larry McMurtry]], [[Pulitzer Prize]]–winning author and [[Academy Award|Oscar]]-winning writer of the screenplay for ''[[Brokeback Mountain]]''; [[Joyce Carol Oates]], who was once a doctoral candidate in English; [[John Graves (author)|John Graves]], author of ''[[Goodbye to a River]]''; and [[Candace Bushnell]], author of ''[[Sex and the City (book)|Sex and the City]]'', who attended for three semesters.&lt;ref name="Big Apple Babe: Candace Bushnell"/&gt;
+
+Notable entrepreneurs from Rice include [[Elizabeth Avellán]], co-founder of [[Troublemaker Studios]], [[Tim League|Tim]] and Karrie League, founders of the [[Alamo Drafthouse Cinema]] and [[Drafthouse Films]], [[Gus Sorola]], one of the founders of [[Rooster Teeth]], [[Brian Armstrong (CEO)|Brian Armstrong]], founder and CEO of [[Coinbase]], and Brock Wagner and Kevin Bartol, founders of [[Saint Arnold Brewing Company]].
+
+In science and technology, Rice alumni include 14 [[NASA]] [[astronaut]]s; [[Robert Curl]], [[Nobel Prize]]–winning discoverer of [[fullerene]]; [[Robert Woodrow Wilson]], winner of the Nobel Prize in Physics for the discovery of [[cosmic microwave background radiation]]; [[David Eagleman]], celebrity neuroscientist and ''NYT'' bestselling author; and NASA former Apollo 11 and 13 warning systems engineer and motivational speaker Jerry Woodfill.&lt;ref name="Jerry-Woodfill"/&gt;
+
+Rice athletes include [[Lance Berkman]], [[Brock Holt]], [[Bubba Crosby]], [[Harold Solomon]], [[Frank Ryan (American football)|Frank Ryan]], [[Tommy Kramer]], [[Jose Cruz, Jr.]], [[O.J. Brigance]], [[Larry Izzo]], [[James Casey (American football)|James Casey]], [[Courtney Hall]], [[Bert Emanuel]], [[Luke Willson]], [[Tony Cingrani]], [[Anthony Rendon]], and [[Leo Rucka]], as well as three [[Olympic Games|Olympians]]&lt;ref&gt;{{Cite web|url=https://futureowls.rice.edu/futureowls/Professional_Olympic_Athletes.asp|title=Future Owls|publisher=futureowls.rice.edu|access-date=2017-05-09}}&lt;/ref&gt; ([[Funmi Jimoh]] '06, [[Allison Beckford]] '04, and [[William Fred Hansen]] '63).
+
+&lt;gallery class="center" caption="Notable Rice University alumni"&gt;
+File:L to R- Howard Huges, Jesse Jones, Rene St. Quentin LCCN2016873814 (cropped).jpg|[[Howard Hughes]], aviator, engineer, industrialist, film producer and director
+File:20190831SM1635 (48684515583) (cropped).jpg|[[Joyce Carol Oates]], noted author and Professor Emerita at [[Princeton University]]
+File:Annise Parker.JPG|[[Annise Parker]] (1978), 61st [[Mayor of Houston]]
+File:Alberto Gonzales - official DoJ photograph.jpg|[[Alberto Gonzales]] (1979), former [[U.S. Attorney General]]
+File:PeggyWhitson-NASA.jpg|[[Peggy Whitson]] (1986), NASA astronaut
+File:Josh Earnest 2011 (cropped).jpg|[[Josh Earnest]] (1997), 29th [[White House Press Secretary]]
+File:He Jiankui (cropped closer).jpg|[[He Jiankui]] (Ph.D. 2010), Chinese biophysicist
+File:TechCrunch SF 2013 SJP2372 (9727140956).jpg|thumb|[[John Doerr]] (BS 1973, MEng 1974), billionaire venture capitalist at [[Kleiner Perkins]]
+File:George P. Bush crop.jpg|[[George P. Bush]] (1998), Commissioner of the [[Texas General Land Office]]
+File:NASA Administrator Jim Bridenstine Official Portrait (NHQ201907240001).jpg|[[Jim Bridenstine]] (1998), thirteenth [[List of administrators and deputy administrators of NASA|NASA Administrator]]
+&lt;/gallery&gt;
+
+==References==
+
+{{reflist|refs=
+
+&lt;ref name="autogenerated1"&gt;{{cite web | url=https://oaa.rice.edu/honor-code |title=Honor Code |publisher=Rice University |website = Office of Academic Advising}}&lt;/ref&gt;
+
+&lt;ref name="Beer Bike's 50th bash lets good time roll at Rice: tradition that began in 1957 now integral part of school's social scene"&gt;{{cite news|title=Beer Bike's 50th bash lets good time roll at Rice: tradition that began in 1957 now integral part of school's social scene |newspaper=Houston Chronicle |date=April 14, 2007 |last=Viren |first=Sarah}}&lt;/ref&gt;
+
+&lt;ref name="Beyond Traditional Borders"&gt;{{cite web |url=http://beyondtraditionalborders.rice.edu/programs.cfm?doc_id=9254 |title=Beyond Traditional Borders |publisher=Beyondtraditionalborders.rice.edu |access-date=2010-01-22 |archive-url=https://web.archive.org/web/20070701073802/http://beyondtraditionalborders.rice.edu/programs.cfm?doc_id=9254 |archive-date=2007-07-01 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="Big Apple Babe: Candace Bushnell"&gt;{{cite news |url=http://www.nypost.com/pagesixmag/issues/20080921/Big+Apple+Babe+Candace+Bushnell |title=Big Apple Babe: Candace Bushnell |publisher=Page Six Magazine |last=Adams |first=Patty |date=September 21, 2008 |access-date=May 10, 2012 |archive-url=https://web.archive.org/web/20120911014520/http://www.nypost.com/pagesixmag/issues/20080921/Big+Apple+Babe+Candace+Bushnell |archive-date=September 11, 2012 |url-status=dead |df=mdy-all }}&lt;/ref&gt;
+
+&lt;ref name="Carnegie"&gt;{{cite web|url=http://www.carnegiefoundation.org/classifications/sub.asp?key=748&amp;subkey=16396&amp;start=782 |title=Carnegie Classifications - Rice University |publisher=Carnegie Foundation for the Advancement of Teaching |access-date=2008-11-22}}&lt;/ref&gt;
+
+&lt;ref name="chron"&gt;[http://www.chron.com/disp/story.mpl/front/5740119.html Rice sex magazine makes its virgin launch], chron.com&lt;/ref&gt;
+
+&lt;ref name="Coffeehouse: 16 Years of Providing Rice with Society's Most Acceptable Drug"&gt;{{Cite news|publisher=The Rice Thresher |title=Coffeehouse: 16 Years of Providing Rice with Society's Most Acceptable Drug |date=November 17, 2006}}&lt;/ref&gt;
+
+&lt;ref name="Correspondence for KTRU"&gt;{{cite web|last=FCC|title=Correspondence for KTRU|url=http://licensing.fcc.gov/cgi-bin/prod/cdbs/forms/prod/getimportletter_exh.cgi?import_letter_id=25488|access-date=18 April 2011}}&lt;/ref&gt;
+
+&lt;ref name="Degrees"&gt;{{cite web|url=http://www.rice.edu/catalog/2008_2009/PDF/08_GraduateInfo.pdf |title=Information for Graduate Students |publisher=Rice University |access-date=2008-11-22}}&lt;/ref&gt;
+
+&lt;ref name="demographics"&gt;See [[Demographics of the United States]] for references.&lt;/ref&gt;
+
+&lt;ref name="Houston - Best of Houston - Houston"&gt;{{cite web |url=http://bestof.houstonpress.com/bestof/section.php?section=oid:28912&amp;year=2006 |title=Houston - Best of Houston - Houston |publisher=Bestof.houstonpress.com |access-date=2010-01-22 |archive-url=https://web.archive.org/web/20070930180527/http://bestof.houstonpress.com/bestof/section.php?section=oid:28912&amp;year=2006 |archive-date=2007-09-30 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="Houston Best of Houston - Best Hip-hop Radio Show - page 1"&gt;{{cite web|url=http://www.houston-press.com/2003-09-25/best-of-houston/best-hip-hop-radio-show/ |title=Houston Best of Houston - Best Hip-hop Radio Show - page 1 |publisher=Houston-press.com |date=2003-09-25 |access-date=2010-01-22}}&lt;/ref&gt;
+
+&lt;ref name="Houston Best of Houston - Best Radio Station - page 1"&gt;{{cite web|url=http://www.houston-press.com/2000-09-21/best-of-houston/best-radio-station/ |title=Houston Best of Houston - Best Radio Station - page 1 |publisher=Houston-press.com |date=2000-09-21 |access-date=2010-01-22}}&lt;/ref&gt;
+
+&lt;ref name="houstonisd"&gt;[http://es.houstonisd.org/rice/j_history_of_trs.html Es.Houstonisd.org] {{webarchive |url=https://web.archive.org/web/20070228233543/http://es.houstonisd.org/rice/j_history_of_trs.html |date=February 28, 2007 }}&lt;/ref&gt;
+
+&lt;ref name="Leiden Ranking"&gt;{{cite web |url=http://www.leidenranking.com/default.aspx |title=Leiden Ranking |publisher=Leiden Ranking |access-date=2012-09-28 |archive-url=https://web.archive.org/web/20120619022004/http://www.leidenranking.com/default.aspx |archive-date=2012-06-19 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="leidenranking"&gt;{{cite web |url=http://www.leidenranking.com/ranking.aspx |title=2011/2012 |publisher=Leiden Ranking |access-date=2012-09-28 |url-status=dead |archive-url=https://web.archive.org/web/20120619011025/http://www.leidenranking.com/ranking.aspx |archive-date=2012-06-19 }}&lt;/ref&gt;
+
+&lt;ref name="list-of-v-12"&gt;{{cite web |url=http://www.ibiblio.org/hyperwar/USN/Admin-Hist/115-8thND/115-8ND-23.html |title=U.S. Naval Administration in World War II |publisher=HyperWar Foundation |access-date=September 29, 2011 |year=2011}}&lt;/ref&gt;
+
+&lt;ref name="Little"&gt;{{cite book |url=http://www.utexas.edu/utpress/excerpts/exlitcom.html |title=A Comprehensive Guide to Outdoor Sculpture in Texas |first1=Carol Morris |last1=Little |publisher=[[University of Texas Press]] |year=1996 |page=248 |location=Austin, Texas |isbn=978-0292-76034-9 |access-date=September 6, 2012}}&lt;/ref&gt;
+
+&lt;ref name="Majors"&gt;{{cite web |url=https://www.rice.edu/majors-programs.shtml |title=Majors, Minors, Programs |publisher=Rice University |access-date=31 October 2018 |url-status=live|archive-url=https://web.archive.org/web/20180105225147/http://www.rice.edu/majors-programs.shtml |archive-date=5 January 2018 }}&lt;/ref&gt;
+
+&lt;ref name="multiple"&gt;{{cite web|url = http://www.rice.edu/sallyport/2006/winter/features/Fact_Fiction2.html |publisher= Rice University |work= Sallyport Online |url-status = dead |archive-url=https://web.archive.org/web/20120211125551/http://www.rice.edu/sallyport/2006/winter/features/Fact_Fiction2.html |archive-date=February 11, 2012|title =Rice Fact and Fiction: What's Your Rice Historical IQ?|last = Adcock |first = Catherine|date = Winter 2006|volume = 62|number =2 }}&lt;/ref&gt;
+
+&lt;ref name="nasa"&gt;{{cite web|url=http://er.jsc.nasa.gov/seh/ricetalk.htm |title=John F. Kennedy, "Moon" Speech - Rice Stadium, Houston, Texas, September 12, 1962 |publisher=Er.jsc.nasa.gov |date=1962-09-12 |access-date=2012-10-28}}&lt;/ref&gt;
+
+&lt;ref name="poisoner"&gt;{{cite book |last= Blum |first= Deborah |title= The Poisoner's Handbook: Murder and the Birth of Forensic Medicie in Jazz Age New York |url= https://archive.org/details/poisonershandboo00blum |url-access= registration |publisher= [[Penguin Books]] |year= 2010 |pages= [https://archive.org/details/poisonershandboo00blum/page/14 14]–6 |isbn= 978-0-14-311882-4}}&lt;/ref&gt;
+
+&lt;!--unused&lt;ref name="RF - Research"&gt;{{cite web|url=http://www.professor.rice.edu/professor/Research_Revenues.asp |title=Rice Facts - Sponsored Research and Other Sponsored Program Revenues by Funding Source |publisher=Rice University |access-date=2011-11-12}}&lt;/ref&gt;--&gt;
+
+&lt;ref name="About"&gt;{{cite web |url=https://www.rice.edu/about |title=About Rice |publisher=Rice University |access-date=2020-09-28}}&lt;/ref&gt;
+
+&lt;ref name="RF-Faculty"&gt;{{cite web |url=http://professor.rice.edu/professor/Faculty_and_Staff.asp |title=Rice Facts - Faculty and Staff |publisher=Rice University |access-date=2011-01-19 |url-status=dead |archive-url=https://web.archive.org/web/20110225125033/http://professor.rice.edu/professor/Faculty_and_Staff.asp |archive-date=2011-02-25 }}&lt;/ref&gt;
+
+&lt;ref name="RF-Students"&gt;{{cite web|url=http://www.oir.rice.edu/At_a_Glance/Rice_University/ |title=Rice Students Enrollment and Demographics |publisher=Rice University |access-date=2014-10-22}}&lt;/ref&gt;
+
+&lt;ref name="Rice a best buy in 2012 Fiske college guide"&gt;{{cite web|url=http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=16001|year=2011|access-date=2011-08-01|title=Rice a best buy in 2012 Fiske college guide|publisher=Rice University|archive-url=https://web.archive.org/web/20110822175313/http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=16001|archive-date=2011-08-22|url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name="Rice Facts - University Accreditation"&gt;{{cite web |url=http://www.professor.rice.edu/professor/Accreditation.asp |title=Rice Facts - University Accreditation |publisher=Rice University |access-date=2008-11-22 |archive-url=https://web.archive.org/web/20090111215014/http://www.professor.rice.edu/professor/Accreditation.asp |archive-date=2009-01-11 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="Rice Honor Council"&gt;{{cite web | url=http://honor.rice.edu | title=Rice Honor Council |publisher=Rice University |access-date=2011-02-06}}&lt;/ref&gt;
+
+&lt;ref name="Rice Official Athletic Site - Facilities"&gt;{{cite web|url=http://riceowls.cstv.com/facilities/rice-stadium.html |title=Rice Official Athletic Site - Facilities |publisher=Riceowls.cstv.com |access-date=2010-01-22}}&lt;/ref&gt;
+
+&lt;ref name="Rice undergrads share a sense of community"&gt;{{cite news|title=Rice undergrads share a sense of community |newspaper=Houston Chronicle |last=Garza |first=Cynthia Leonor |date=March 15, 2007}}&lt;/ref&gt;
+
+&lt;ref name="Rice University - Rankings &amp; Lists"&gt;{{cite web|url=http://www.princetonreview.com/schools/college/CollegeRankings.aspx?iid=1023709|title=Rice University - Rankings &amp; Lists|publisher=The Princeton Review|year=2012|access-date=2011-08-01}}&lt;/ref&gt;
+
+&lt;ref name="Rice University - Rankings &amp; Lists8"&gt;{{cite web|url=http://www.princetonreview.com/SchoolList.aspx?id=789&amp;page=2|title=Rice University - Rankings &amp; Lists|publisher=The Princeton Review|year=2011|access-date=2011-08-01}}&lt;/ref&gt;
+
+&lt;ref name="Rice University Department of Sociology"&gt;{{cite web|url=https://sociology.rice.edu/degree-requirements |title = Degree Requirements|publisher=Rice University |website =Department of Sociology}}&lt;/ref&gt;
+
+&lt;ref name="rice1"&gt;{{cite web|url =http://www.rice.edu/sallyport/2007/Summer/features/Diversity.html|url-status = dead|archive-url= https://web.archive.org/web/20120508152316/http://www.rice.edu/sallyport/2007/Summer/features/Diversity.html |archive-date=May 8, 2012 |title = Diversity: That Was Then, This Is Now|last = Dow|first = Christopher|work = Sallyport Online|publisher = Rice University|date = Summer 2007}}&lt;/ref&gt;
+
+&lt;ref name="rice10"&gt;{{cite web |url=http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=16553 |title=Rice University News &amp; Media &amp;#124; Rice University News &amp; Media |publisher=Media.rice.edu |access-date=2012-09-28 |archive-url=https://web.archive.org/web/20120206180824/http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW |archive-date=2012-02-06 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="rice11"&gt;{{cite web |url=http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=11382 |title=Zipcars offer campus a new transportation option |publisher=Media.rice.edu |access-date=2012-10-28 |url-status=dead |archive-url=https://web.archive.org/web/20110607145910/http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=11382 |archive-date=2011-06-07 }}&lt;/ref&gt;
+
+&lt;ref name="rice12"&gt;Rice University: [http://students.rice.edu/students/Colleges.asp "About the residential college system."]. Retrieved April 23, 2011.&lt;/ref&gt;
+
+&lt;ref name="rice14"&gt;[http://rtv5.rice.edu/watch RTV5 - Rice Student Television&lt;!-- Bot generated title --&gt;], rtv5.rice.edu&lt;/ref&gt;
+
+&lt;ref name="rice15"&gt;[http://r2mag.rice.edu/r2.cfm R2 The Rice Review&lt;!-- Bot generated title --&gt;], r2mag.rice.edu&lt;/ref&gt;
+
+&lt;ref name="rice3"&gt;{{cite web |url=http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=12460 |title=Rice University &amp;#124; News &amp; Media |publisher=Media.rice.edu |access-date=2010-01-22 |archive-url=https://web.archive.org/web/20110607150744/http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=12460 |archive-date=2011-06-07 |url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="rice4"&gt;The speech, "Why the Moon" is available on the [http://webcast.rice.edu/webcast.php?action=details&amp;event=1166 Rice Webcast Archive]&lt;/ref&gt;
+
+&lt;ref name="rice5"&gt;{{cite web|url = https://business.rice.edu/academic-program/undergraduate-business-minor|title = Undergraduate Business Minor|website = Jones Graduate School of Business at Rice University |date = 2016-02-09}}&lt;/ref&gt;
+
+&lt;ref name="rice9"&gt;{{cite web|url=http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW&amp;ID=15767|year=2011|access-date=2011-06-19|title=Rice No. 3 on Consumer Digest's top values among private schools|publisher=Rice University|archive-url=https://web.archive.org/web/20110908021948/http://www.media.rice.edu/media/NewsBot.asp?MODE=VIEW|archive-date=2011-09-08|url-status=dead}}&lt;/ref&gt;
+
+&lt;ref name="ricethresher"&gt;[http://media.www.ricethresher.org/media/storage/paper1290/news/2008/10/31/News/Rice-To.Consider.Merger.With.Baylor.College.Of.Medicine-3516841.shtml Rice to consider merger with Baylor College of Medicine - The Rice Thresher] {{webarchive |url=https://web.archive.org/web/20110303031310/http://media.www.ricethresher.org/media/storage/paper1290/news/2008/10/31/News/Rice-To.Consider.Merger.With.Baylor.College.Of.Medicine-3516841.shtml |date=March 3, 2011 }}&lt;/ref&gt;
+
+&lt;ref name="ricethresher13"&gt;{{cite web|url=http://www.ricethresher.org |title=The Rice Thresher |publisher=The Rice Thresher |access-date=2012-10-28}}&lt;/ref&gt;
+
+&lt;ref name="sale1"&gt;{{cite news |first=Jeannie |last=Kever |work=[[Houston Chronicle]] |title=UH System board considers plan to buy Rice radio station |url=http://www.chron.com/disp/story.mpl/metropolitan/7156105.html |date=August 16, 2010}}&lt;/ref&gt;
+
+&lt;ref name="Schools"&gt;{{cite web|url=http://www.professor.rice.edu/professor/Academic_Schools.asp |title= Academic Schools |publisher=Rice University |date = 16 June 2009}}&lt;/ref&gt;
+
+&lt;ref name="THE - Materials Science"&gt;{{cite magazine|url=http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&amp;storycode=410831|title=Top institutions in materials science|magazine=Times Higher Education|date=2010-03-11|url-access=subscription }}&lt;/ref&gt;
+
+&lt;ref name="The Top American Research Universities"&gt;{{cite web |url=http://mup.asu.edu/research2007.pdf |year=2007 |access-date=2008-11-22 |title=The Top American Research Universities |publisher=The Center for Measuring University Performance |url-status=dead |archive-url=https://web.archive.org/web/20150505134008/https://mup.asu.edu/research2007.pdf |archive-date=2015-05-05 }}&lt;/ref&gt;
+
+&lt;ref name="university"&gt;[https://www.courtlistener.com/opinion/1573794/coffee-v-william-marsh-rice-university/ Coffee v. William Marsh Rice University, 408 S.W.2d 269]&lt;/ref&gt;
+
+&lt;ref name="Vision for the Second Century - Ten Points"&gt;{{cite web|url=http://www.professor.rice.edu/professor/10_Points.asp | title=A Vision For Rice University's Second Century - 10-Point Plan |publisher=Rice University }}&lt;/ref&gt;
+
+&lt;ref name="William Marsh Rice and the Founding of Rice Institute"&gt;{{cite web | url=https://exhibits.library.rice.edu/exhibits/show/founding/houston | title= William Marsh Rice and the Founding of Rice Institute | publisher=Rice University - Fondren Library | access-date=31 October 2018 | url-status=live| archive-url=https://web.archive.org/web/20170819090121/http://exhibits.library.rice.edu:80/exhibits/show/founding/houston | archive-date=19 August 2017}}&lt;/ref&gt;
+
+&lt;ref name="Willy's Pub, 1975 - 1995"&gt;{{cite news |url=http://www.rice.edu/projects/thresher/issues/82/950421/News/Story12.html |title=Willy's Pub, 1975 - 1995 |publisher=The Thresher Online |date=April 21, 1995 |access-date=December 31, 2006 |archive-url=https://web.archive.org/web/20070710000242/http://www.rice.edu/projects/thresher/issues/82/950421/News/Story12.html |archive-date=July 10, 2007 |url-status=dead |df=mdy-all }}&lt;/ref&gt;
+
+&lt;ref name="Willy's Pub"&gt;{{cite web|url=http://www.ruf.rice.edu/~willypub/ |title=Willy's Pub |publisher=Rice University |access-date=2008-11-22}}&lt;/ref&gt;
+
+&lt;ref name="Jerry-Woodfill"&gt;{{cite web |url= http://www.spaceacts.com/Jerry_Woodfill1.htm |title=Jerry Woodfill - Biological Background|year=2012 |publisher=SpaceActs.com |access-date=2013-08-04}}&lt;/ref&gt;
+}}
+
+==External links==
+{{commons category}}
+* {{Official website}}
+* [http://www.riceowls.com Rice University Athletics website]
+
+{{Rice University}}
+{{Navboxes
+| title = Articles related to Rice University
+| titlestyle = background:#002469; color:#FFFFFF; border:2px solid #5E6062;
+| list =
+{{Association of American Universities}}
+{{Universities Research Association}}
+{{Southeastern Universities Research Association}}
+{{Conference USA navbox}}
+{{Houston}}
+{{Education in Harris County, Texas}}
+{{Tertiary education in Greater Houston}}
+{{Private colleges and universities in Texas}}
+| state = autocollapse
+}}
+
+{{authority control}}
+
+[[Category:Rice University| ]]
+[[Category:Educational institutions established in 1891]]
+[[Category:Universities and colleges accredited by the Southern Association of Colleges and Schools]]
+[[Category:Universities and colleges in Houston]]
+[[Category:Private universities and colleges in Texas]]
+[[Category:1891 establishments in Texas]]</text>
+      <sha1>flt1hbf0eb4haneo7ayupmhm2tzf99o</sha1>
+    </revision>
+  </page>
+</mediawiki>

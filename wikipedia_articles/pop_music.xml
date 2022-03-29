@@ -1,0 +1,278 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pop music</title>
+    <ns>0</ns>
+    <id>24624</id>
+    <revision>
+      <id>1034725994</id>
+      <parentid>1034724779</parentid>
+      <timestamp>2021-07-21T13:24:02Z</timestamp>
+      <contributor>
+        <username>GogoLion</username>
+        <id>20140935</id>
+      </contributor>
+      <comment>On [[synth-pop]] article, it says "is a subgenre of new wave music". 
+
+Electropop should be subgenre because on its article, it says "is a hybrid music genre combining elements of electronic and pop genres" so it's like a pop music with electronic instrumental.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34763" xml:space="preserve">{{about|a specific music genre|popular music in general|Popular music|other uses|Pop music (disambiguation)}}
+{{redirect|Pop song|other uses|Pop Song (disambiguation){{!}}Pop Song}}
+{{Short description|genre of music}}
+{{Infobox music genre
+| name              = Pop
+| bgcolor           = skyblue
+| stylistic_origins = * [[Traditional pop]]&lt;ref&gt;[http://www.allmusic.com/subgenre/traditional-pop-ma0000002961/artists  Traditional Pop, ''Allmusic.com''].  Retrieved 25 August 2016&lt;/ref&gt;
+* [[rock and roll]]&lt;ref name=Grove/&gt;
+* [[Contemporary folk music|folk]]&lt;ref name=pc1/&gt;
+| cultural_origins  = Mid-1950s,&lt;ref name=Firth2001/&gt; United States and United Kingdom
+| image             = 
+| caption           = 
+| derivatives       = * [[Disco]]
+* [[contemporary R&amp;B]]
+* [[new wave music|new wave]]
+| subgenrelist      = 
+| subgenres         = * [[Art pop]]
+* [[Brill Building (genre)|Brill Building]]
+* [[bubblegum music|bubblegum]]
+* [[dance-pop]]
+* [[electropop]]
+* [[experimental pop]]
+* [[hypnagogic pop]]
+* [[operatic pop]]
+* [[orchestral pop]]
+* [[progressive pop]]
+* [[sophisti-pop]]
+* [[space age pop]]
+* [[sunshine pop]]
+* [[teen pop]]
+| fusiongenres      = * [[Baroque pop]]
+* [[country pop]]
+* [[folk-pop]]
+* [[indie pop]]
+* [[noise pop]]
+* [[pop punk]]
+* [[pop-rap]]  
+* [[pop rock]]
+* [[psychedelic pop]]
+* [[synth-pop]]
+| regional_scenes   = * [[C-pop|China]]
+* [[Cantopop|Hong Kong]]
+* [[Indian pop|India]]
+* [[Indo pop|Indonesia]]
+* [[Italian popular music#Contemporary Music|Italy]]
+* [[J-pop|Japan]]
+* [[Malaysian pop|Malaysia]]
+* [[Mexican pop music|Mexico]]
+* [[Arabic pop music|Middle East]]
+* [[Moroccan pop|Morocco]]
+* [[Pakistani pop music|Pakistan]]
+* [[Pinoy pop|Philippines]]
+* [[Russian pop|Russia]]
+* [[Nordic popular music|Scandinavia]]
+* [[K-pop|South Korea]]
+* [[Latin pop|South America]]
+* [[Swedish pop music|Sweden]]
+* [[Hokkien pop|Taiwan]]
+* [[Thai pop music|Thailand]]
+* [[Turkish pop music|Turkey]]
+* [[British pop music|United Kingdom]]
+* [[American pop|United States]]
+* [[V-pop|Vietnam]]
+* [[Europop|Western Europe]]
+| local_scenes      = 
+| other_topics      = * [[Avant-pop]]
+* [[New Pop]]
+* [[pop music automation]]
+* [[poptimism]]
+* [[rock music]]
+}}
+'''Pop''' is a genre of [[popular music]] that originated in its modern form during the mid-1950s in the [[United States]] and the [[United Kingdom]].&lt;ref name=Firth2001/&gt; The terms ''popular music'' and ''pop music'' are often used interchangeably, although the former describes all music that is popular and includes many disparate styles. During the 1950s and 1960s, pop music encompassed [[rock and roll]] and the youth-oriented styles it influenced. ''Rock'' and ''pop'' remained roughly synonymous until the late 1960s, after which ''pop'' became associated with music that was more commercial, ephemeral, and accessible.
+
+Although much of the music that appears on [[record chart]]s is seen as pop music, the genre is distinguished from chart music. Identifying factors usually include repeated choruses and [[Hook (music)|hooks]], short to medium-length songs written in a basic format (often the [[verse–chorus form|verse-chorus structure]]), and rhythms or tempos that can be easily danced to. Much pop music also borrows elements from other styles such as rock, [[urban contemporary|urban]], [[dance music|dance]], [[Latin music (genre)|Latin]], and [[country music|country]].
+
+==Definitions and etymology{{anchor|Etymology}}==
+
+David Hatch and Stephen Millward define pop music as "a body of music which is distinguishable from popular, jazz, and folk musics".&lt;ref&gt;D. Hatch and S. Millward, ''From Blues to Rock: an Analytical History of Pop Music'' (Manchester: Manchester University Press, 1987), {{ISBN|0-7190-1489-1}}, p. 1.&lt;/ref&gt;
+According to [[Pete Seeger]], pop music is "professional music which draws upon both folk music and fine arts music".&lt;ref name=pc1&gt;{{Gilliland |url=https://digital.library.unt.edu/ark:/67531/metadc19745/m1/ |title=Show 1 – Play A Simple Melody: Pete Seeger on the origins of pop music}}&lt;/ref&gt;
+David Boyle, a music researcher, states pop music as any type a music that a person has been exposed to by the mass media. &lt;ref&gt;{{Cite journal|last1=Boyle|first1=J. David|last2=Hosterman|first2=Glenn L.|last3=Ramsey|first3=Darhyl S.|date=1981-04-01|title=Factors Influencing Pop Music Preferences of Young People|url=https://doi.org/10.2307/3344679|journal=Journal of Research in Music Education|language=en|volume=29|issue=1|pages=47–55|doi=10.2307/3344679|jstor=3344679|s2cid=145122624|issn=0022-4294}}&lt;/ref&gt; Most individuals think that pop music is just the [[record chart|singles charts]] and not the sum of all chart music. The music charts contain songs from a variety of sources, including [[classical music|classical]], [[jazz]], [[rock music|rock]], and [[novelty song]]s. As a genre, pop music is seen to exist and develop separately.&lt;ref&gt;R. Serge Denisoff and William L. Schurk, ''Tarnished Gold: the Record Industry Revisited'' (New Brunswick, NJ: Transaction Publishers, 3rd edn., 1986), {{ISBN|0-88738-618-0}}, pp. 2–3.&lt;/ref&gt; Therefore, the term "pop music" may be used to describe a distinct genre, designed to appeal to all, often characterized as "instant singles-based music aimed at teenagers" in contrast to rock music as "album-based music for adults".&lt;ref name=Firth2001/&gt;{{refn|Musicologist Allan Moore surmises that the term "pop music" itself may have been popularized by [[Pop art]].&lt;ref&gt;{{cite book|last=Moore|first=Allan F.|title=Song Means: Analysing and Interpreting Recorded Popular Song|url=https://books.google.com/books?id=S6DeCwAAQBAJ|year=2016|publisher=[[Routledge]]|isbn=978-1-317-05265-4}}&lt;/ref&gt;}}
+
+Pop music continuously evolves along with the term's definition. According to music writer Bill Lamb, popular music is defined as "the music since industrialization in the 1800s that is most in line with the tastes and interests of the urban middle class."&lt;ref name="What Is Pop Music"&gt;{{Cite web |url=https://www.thoughtco.com/what-is-pop-music-3246980|title=What Is Pop Music?|last = Lamb |first =Bill|website = ThoughtCo.|date = 29 September 2018 }}&lt;/ref&gt; The term "pop song" was first used in 1926, in the sense of a piece of music "having popular appeal".&lt;ref name=OED&gt;J. Simpson and E. Weiner, ''Oxford English Dictionary''(Oxford: Oxford University Press, 1989). {{ISBN|0-19-861186-2}}, cf. pop.&lt;/ref&gt; Hatch and Millward indicate that many events in the history of recording in the 1920s can be seen as the birth of the modern pop music industry, including in [[country music|country]], [[blues]], and [[hillbilly music]].&lt;ref&gt;D. Hatch and S. Millward, ''From Blues to Rock: an Analytical History of Pop Music'', {{ISBN|0-7190-1489-1}}, p. 49.&lt;/ref&gt;
+
+[[File: Rolling stones - 11 luglio 2006 - san siro.jpg|thumb|left|''The Oxford Dictionary of Music'' states that the term "pop" refers to music performed by such artists as  [[the Rolling Stones]] (pictured here in a 2006 performance).]]
+
+According to the website of ''[[The New Grove Dictionary of Music and Musicians]]'', the term "pop music" "originated in [[United Kingdom|Britain]] in the mid-1950s as a description for [[rock and roll]] and the new youth music styles that it influenced".&lt;ref name=Grove&gt;R. Middleton, et al., [http://www.oxfordmusiconline.com/public/book/omo_gmo "Pop"], ''Grove music online'', retrieved 14 March 2010. {{Subscription required}} {{Webarchive|url=https://web.archive.org/web/20110113160329/http://www.oxfordmusiconline.com/public/book/omo_gmo |date=13 January 2011 }}&lt;/ref&gt; ''The Oxford Dictionary of Music'' states that while pop's "earlier meaning meant concerts appealing to a wide audience [...] since the late 1950s, however, pop has had the special meaning of non-classical mus[ic], usually in the form of songs, performed by such artists as [[The Beatles]], [[The Rolling Stones]], [[ABBA]], etc."&lt;ref&gt;"Pop", [http://www.oxfordmusiconline.com/public/book/omo_t237 ''The Oxford Dictionary of Music''], retrieved 9 March 2010.{{Subscription required}} {{Webarchive|url=https://web.archive.org/web/20171112170116/http://www.oxfordmusiconline.com/public/book/omo_t237 |date=12 November 2017 }}&lt;/ref&gt; ''Grove Music Online'' also states that "[...] in the early 1960s, [the term] 'pop music' competed terminologically with [[beat music]] [in England], while in the US its coverage overlapped (as it still does) with that of 'rock and roll'".&lt;ref name=Grove/&gt;
+
+From about 1967, the term “pop music” was increasingly used in opposition to the term [[rock music]], a division that gave generic significance to both terms.&lt;ref name=Gloag983&gt;Kenneth Gloag in ''The Oxford Companion to Music'' (Oxford: Oxford University Press, 2001), {{ISBN|0-19-866212-2}}, p. 983.&lt;/ref&gt; While rock aspired to [[authenticity (philosophy)|authenticity]] and an expansion of the possibilities of popular music,&lt;ref name=Gloag983/&gt; pop was more commercial, ephemeral, and accessible.&lt;ref name=Warner2003&gt;T. Warner, ''Pop Music: Technology and Creativity: Trevor Horn and the Digital Revolution'' (Aldershot: Ashgate, 2003), {{ISBN|0-7546-3132-X}}, pp.&amp;nbsp;3–4.&lt;/ref&gt; According to British musicologist [[Simon Frith]], pop music is produced "as a matter of [[business|enterprise]] not art", and is "designed to appeal to everyone" but "doesn't come from any particular place or mark off any particular taste". Frith adds that it is "not driven by any significant ambition except profit and commercial reward [...] and, in musical terms, it is essentially conservative". It is, "provided from on high (by record companies, radio programmers, and concert promoters) rather than being made from below&amp;nbsp;... Pop is not a [[DIY|do-it-yourself]] music but is professionally produced and packaged".&lt;ref name="Firth2001"/&gt; {{clear}}
+
+==Characteristics==
+{{listen
+ | filename    = Righteous Brothers - You've Lost That Lovin' Feelin'.ogg
+ | title       = The Righteous Brothers – "You've Lost That Lovin' Feelin'" (1965)
+ | pos         = right
+ | description ={{As of|2011}}, "[[You've Lost That Lovin' Feelin']]" ranks as the most frequently played song in US radio history.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/news/uk-northern-ireland-15186967 |title=Van's Brown Eyed Girl hits the 10 million mark in US|date=5 October 2011 |work=BBC }}&lt;/ref&gt; It is described by music writers [[Nick Logan]] and [[Bob Woffinden]] as "the ultimate pop record".&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=QWBPAQAAQBAJ&amp;pg=PA101 |title=Encyclopedia of Great Popular Song Recordings, Volume 2|author=Steve Sullivan|pages=101–103 |publisher=Scarecrow Press |year=2013 |isbn= 978-0-8108-8296-6 }}&lt;/ref&gt;
+}}
+
+According to Frith, characteristics of pop music include an aim of appealing to a general audience, rather than to a particular sub-culture or ideology, and an emphasis on craftsmanship rather than formal "artistic" qualities.&lt;ref name=Firth2001/&gt; Music scholar Timothy Warner said pop music typically has an emphasis on recording, production, and technology, rather than live performance; a tendency to reflect existing trends rather than [[progressive music|progressive developments]]; and seeks to encourage dancing or uses dance-oriented rhythms.&lt;ref name=Warner2003/&gt;
+
+The main medium of pop music is the song, often between two and a half and three and a half minutes in length, generally marked by a consistent and noticeable [[rhythm|rhythmic element]], a mainstream style and a simple traditional [[song structure (popular music)|structure]].&lt;ref&gt;W. Everett, ''Expression in Pop-rock Music: A Collection of Critical and Analytical Essays'' (London: Taylor &amp; Francis, 2000), p. 272.&lt;/ref&gt; The structure of many popular songs is that of a verse and a chorus, the chorus serving as the portion of the track that is designed to stick in the ear through simple repetition both musically and lyrically. The chorus is often where the music builds towards and is often preceded by "the drop" where the base and drum parts "drop out".&lt;ref&gt;{{Cite web|url=https://www.cmuse.org/characteristics-of-pop-music|title=Characteristics of Pop Music: An Introduction|access-date=2020-07-07|website=Cmuse.org}}&lt;/ref&gt; Common variants include the verse-chorus form and the [[thirty-two-bar form]], with a focus on [[melody|melodies]] and catchy [[hook (music)|hooks]], and a [[refrain|chorus]] that contrasts melodically, rhythmically and [[harmony|harmonically]] with the [[Verse (music)|verse]].&lt;ref&gt;J. Shepherd, ''Continuum Encyclopedia of Popular Music of the World: Performance and production'' (Continuum, 2003), p. 508.&lt;/ref&gt; The beat and the melodies tend to be simple, with limited harmonic accompaniment.&lt;ref&gt;V. Kramarz, ''The Pop Formulas: Harmonic Tools of the Hit Makers'' (Mel Bay Publications, 2007), p. 61.&lt;/ref&gt; The lyrics of modern pop songs typically focus on simple themes&amp;nbsp;– often love and romantic relationships&amp;nbsp;– although there are notable exceptions.&lt;ref name=Firth2001/&gt;
+
+[[Harmony (music)|Harmony]] and [[chord progression]]s in pop music are often "that of [[Classical music|classical]] European [[tonality]], only more simple-minded."&lt;ref&gt;Winkler, Peter (1978). "Toward a theory of pop harmony", ''In Theory Only'', 4, pp.&amp;nbsp;3–26.&lt;/ref&gt; Clichés include the [[close and open harmony|barbershop quartet-style harmony]] (i.e. ii – V – I) and [[blues scale]]-influenced harmony.&lt;ref&gt;Sargeant, p. 198. cited in Winkler (1978), p. 4.&lt;/ref&gt; There was a lessening of the influence of traditional views of the [[circle of fifths]] between the mid-1950s and the late 1970s, including less predominance for the [[dominant (music)|dominant]] [[diatonic function|function]].&lt;ref&gt;Winkler (1978), p. 22.&lt;/ref&gt;
+{{clear}}
+
+==Development and influence==
+===Technology and media===
+
+[[File:Bing Crosby 1930s.jpg|thumb|upright|[[Bing Crosby]] was one of the first artists to be nicknamed "King of Song" or "King of Popular Music".&lt;ref&gt;Gilliland, John (1994). ''Pop Chronicles the 40s: The Lively Story of Pop Music in the 40s.''&lt;/ref&gt;{{verification needed|date=September 2020}}]]
+
+In the 1940s, improved [[microphone]] design allowed a more intimate singing style and, ten or twenty years later, inexpensive and more durable 45 rpm records for singles "revolutionized the manner in which pop has been disseminated", which helped to move pop music to "a record/radio/film star system".&lt;ref name="Buckley"&gt;D. Buckley, "Pop" "II. Implications of technology", ''Grove Music Online'', retrieved 15 March 2010.&lt;/ref&gt; Another technological change was the widespread availability of television in the 1950s with televised performances, forcing "pop stars had to have a visual presence".&lt;ref name="Buckley" /&gt; In the 1960s, the introduction of inexpensive, portable [[transistor radio]]s meant that teenagers in the developed world could listen to music outside of the home.&lt;ref name="Buckley" /&gt; By the early 1980s, the promotion of pop music had been greatly affected by the rise of music television channels like [[MTV]], which "favoured those artists such as [[Michael Jackson]] and [[Madonna]] who had a strong visual appeal".&lt;ref name="Buckley" /&gt;
+
+[[Multi-track recording]] (from the 1960s) and [[sampling (music)|digital sampling]] (from the 1980s) have also been utilized as methods for the creation and elaboration of pop music.&lt;ref name=Firth2001/&gt; During the mid-1960s, pop music made repeated forays into new sounds, styles, and techniques that inspired public discourse among its listeners. The word "progressive" was frequently used, and it was thought that every song and single was to be a "progression" from the last.&lt;ref&gt;{{cite book|last1=Hewitt|first1=Paolo|last2=Hellier|first2=John|title=Steve Marriott: All Too Beautiful|url=https://books.google.com/books?id=CxhzCgAAQBAJ&amp;pg=PT162|year=2015|publisher=Dean Street Press|isbn=978-1-910570-69-2|page=162}}&lt;/ref&gt; [[Music journalism|Music critic]] [[Simon Reynolds]] writes that beginning with 1967, a divide would exist between "progressive" pop and "mass/chart" pop, a separation which was "also, broadly, one between boys and girls, middle-class and working-class."&lt;ref&gt;{{Cite book|last=Reynolds|first=Simon|author-link=Simon Reynolds|title=On Record: Rock, Pop and the Written Word|chapter-url=https://books.google.com/books?id=lauJAgAAQBAJ|year=2006|publisher=Routledge|isbn=978-1-134-93951-0|chapter=New Pop and its Aftermath|page=398}}&lt;/ref&gt;
+
+The latter half of the 20th-century included a large-scale trend in American culture in which the boundaries between art and pop music were increasingly blurred.&lt;ref&gt;{{cite book|pages=317, 1233|editor-last=Edmondson|editor-first=Jacqueline|title=Music in American Life: An Encyclopedia of the Songs, Styles, Stars, and Stories that Shaped our Culture|url=https://books.google.com/books?id=TQPXAQAAQBAJ|year=2013|publisher=ABC-CLIO|isbn=978-0-313-39348-8}}&lt;/ref&gt; Between 1950 and 1970, there was a debate of pop versus art.&lt;ref name="PMLoss2015"/&gt; Since then, certain music publications have embraced the music's legitimacy, a trend referred to as "[[poptimism]]".&lt;ref name="PMLoss2015"&gt;{{cite web|last1=Loss|first1=Robert|title=No Apologies: A Critique of the Rockist v. Poptimist Paradigm|url=http://www.popmatters.com/column/196122-no-apologies-a-critique-of-the-rockist-v.-poptimist-paradigm/|website=[[PopMatters]]|date=August 10, 2015}}&lt;/ref&gt;
+
+===Stylistic evolution===
+[[File:The Beatles in America.JPG|thumb|left|The 1960s [[British Invasion]] marked a period when the US charts were inundated with British acts such as [[the Beatles]] (pictured 1964).]]
+
+Throughout its development, pop music has absorbed influences from other genres of popular music. Early pop music drew on the [[sentimental ballad]] for its form, gained its use of vocal harmonies from [[gospel music|gospel]] and [[soul music]], instrumentation from [[jazz]] and [[rock music]], orchestration from [[classical music]], tempo from [[dance music]], backing from [[electronic music]], rhythmic elements from [[hip-hop music]], and spoken passages from [[rap music|rap]].&lt;ref name=Firth2001&gt;S. Frith, W. Straw, and J. Street, eds, ''[[Cambridge Companions to Music|The Cambridge Companion to Pop and Rock]]'' (Cambridge: Cambridge University Press), {{ISBN|0-521-55660-0}}, pp.&amp;nbsp;95–105.&lt;/ref&gt;{{verification needed|date=February 2017}} In 2016, a ''[[Scientific Reports]]'' study that examined over 464,000 recordings of popular music recorded between 1955 and 2010 found that, compared to 1960s pop music, contemporary pop music uses a smaller variety of pitch progressions, greater average volume,&lt;ref&gt;{{cite journal|doi=10.1038/srep00521|pmid=22837813|pmc=3405292|title=Measuring the Evolution of Contemporary Western Popular Music|journal=Scientific Reports|volume=2|pages=521|year=2012|last1=Serrà|first1=Joan|last2=Corral|first2=Álvaro|last3=Boguñá|first3=Marián|last4=Haro|first4=Martín|last5=Arcos|first5=Josep Ll.|arxiv=1205.5651|bibcode=2012NatSR...2E.521S}}&lt;/ref&gt; less diverse instrumentation and recording techniques, and less timbral variety.&lt;ref name="Matson"/&gt; ''[[Scientific American]]''{{'}}s John Matson reported that this "seems to support the popular anecdotal observation that pop music of yore was "better", or at least more varied, than today's top-40 stuff". However, he also noted that the study may not have been entirely representative of pop in each generation.&lt;ref name="Matson"&gt;[http://blogs.scientificamerican.com/observations/is-pop-music-evolving-or-is-it-just-getting-louder/ John Matson, "Is Pop Music Evolving, or Is It Just Getting Louder?", ''Scientific American'', 26 July 2012]. Retrieved 30 March 2016&lt;/ref&gt;
+
+In the 1960s,  the majority of mainstream pop music fell in two categories: guitar, drum and bass groups or singers backed by a traditional orchestra.&lt;ref&gt;{{cite web|title=Making Arrangements—A Rough Guide To Song Construction &amp; Arrangement, Part 1 |url=http://www.soundonsound.com/sos/1997_articles/oct97/arranging1.html |work=Sound on Sound |access-date=8 May 2014 |date=October 1997 |url-status=dead |archive-url=https://web.archive.org/web/20140508082609/http://www.soundonsound.com/sos/1997_articles/oct97/arranging1.html |archive-date=8 May 2014 }}&lt;/ref&gt; Since early in the decade, it was common for pop producers, songwriters, and engineers to freely experiment with musical form, [[orchestration]], [[reverb effect|unnatural reverb]], and other sound effects. Some of the best known examples are [[Phil Spector]]'s [[Wall of Sound]] and [[Joe Meek]]'s use of homemade electronic sound effects for acts like [[the Tornados]].&lt;ref&gt;{{cite book|last=Blake|first=Andrew|editor-last1=Cook|editor-first1=Nicholas|editor-last2=Clarke|editor-first2=Eric|editor-last3=Leech-Wilkinson|editor-first3=Daniel|title=The Cambridge Companion to Recorded Music|chapter=Recording practices and the role of the producer|chapter-url=https://books.google.com/books?id=Xb0hAwAAQBAJ&amp;pg=PA45|date=2009|publisher=Cambridge University Press|isbn=978-1-139-82796-6|page=45}}&lt;/ref&gt; At the same time, pop music on radio and in both American and British film moved away from refined [[Tin Pan Alley]] to more eccentric songwriting and incorporated reverb-drenched rock guitar, symphonic strings, and horns played by groups of properly arranged and rehearsed studio musicians.&lt;ref&gt;{{cite news|last=Pareles|first=Jon|author-link=Jon Pareles|date=October 31, 2008|url=https://www.nytimes.com/2008/11/01/arts/music/01pupp.html?_r=0|title=Orchestral Pop, the Way It Was (More or Less)|newspaper=[[The New York Times]]|access-date=July 4, 2013}}&lt;/ref&gt;  A 2019 study held by [[New York University]] in which 643 participants had to rank how familiar a pop song is to them, songs from the 1960s turned out to be the most memorable, significantly more than songs from recent years 2000 to 2015.&lt;ref&gt;{{Cite web|url=https://www.smoothradio.com/news/music/best-decade-pop-music/|title=The greatest decade for pop music has been revealed (according to science)|website=Smooth|language=en|access-date=2019-03-31}}&lt;/ref&gt;
+
+Before the [[progressive pop]] of the late 1960s, performers were typically unable to decide on the artistic content of their music.&lt;ref&gt;{{cite book|last=Willis|first=Paul E.|author-link=Paul Willis|title=Profane Culture|url=https://books.google.com/books?id=Y7oWBAAAQBAJ&amp;pg=PA219|year=2014|publisher=Princeton University Press|isbn=978-1-4008-6514-7|page=217}}&lt;/ref&gt; Assisted by the mid-1960s economic boom, record labels began investing in artists, giving them the freedom to experiment, and offering them limited control over their content and marketing.{{sfn|Moore|2016|p=202}} This situation declined after the late 1970s and would not reemerge until the rise of [[Internet]] stars.{{sfn|Moore|2016|p=202}} [[Indie pop]], which developed in the late 1970s, marked another departure from the glamour of contemporary pop music, with guitar bands formed on the then-novel premise that one could record and release their own music without having to procure a [[record contract]] from a major label.&lt;ref&gt;{{Citation|title=Twee as Fuck: The Story of Indie Pop |first=Nitsuh |last=Abebe |work=Pitchfork Media |date=24 October 2005 |url=http://pitchfork.com/features/articles/6176-twee-as-fuck/ |url-status=dead |archive-url=https://www.webcitation.org/5wjlLnVho?url=http://pitchfork.com/features/articles/6176-twee-as-fuck/ |archive-date=24 February 2011 }}&lt;/ref&gt;
+
+{{multiple image
+| total_width = 230
+| align = right
+| image1 = Michael Jackson in 1988.jpg
+| width1 = 
+| alt1 = 
+| caption1 = 
+| image2 = Madonna, Rotterdam, 26-8-1987.jpg
+| width2 = 
+| alt2 = 
+| caption2 = 
+| footer = [[Michael Jackson]] (left) and [[Madonna]] (right), known respectively as the "[[Honorific nicknames in popular music|King and Queen of Pop]]" since the 1980s.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/music/musicblog/2008/oct/28/madonna-pop-art|first=Alan|last=McGee|author-link=Alan McGee|work=[[The Guardian]]|date=August 20, 2008|access-date=April 17, 2013|title=Madonna Pop Art}}&lt;/ref&gt;
+| direction = 
+}}
+
+The 1980s are commonly remembered for an increase in the use of [[digital recording]], associated with the usage of [[synthesizer]]s, with [[synth-pop]] music and other [[electronic music|electronic]] genres featuring non-traditional instruments increasing in popularity.&lt;ref&gt;{{cite news| url=https://www.nytimes.com/1988/08/29/arts/rap-music-brash-and-swaggering-enters-mainstream.html | work=The New York Times | first=Glenn | last=Collins | title=Rap Music, Brash And Swaggering, Enters Mainstream | date=1988-08-29}}&lt;/ref&gt; By 2014, pop music worldwide had been permeated by [[electronic dance music]].&lt;ref name="Christgau"/&gt; In 2018, researchers at the [[University of California, Irvine]], concluded that pop music has become 'sadder' since the 1980s. The elements of [[happiness]] and brightness have eventually been replaced with the electronic beats making the pop music more 'sad yet danceable'.&lt;ref&gt;{{Cite news|url=http://www.thefader.com/2018/05/16/sadness-in-pop-music-study|title=New study finds pop music has gotten extremely depressing but also more fun to dance to|work=The FADER|access-date=2018-05-21|language=en}}&lt;/ref&gt;
+
+===International spread and crosspollination===
+
+{{Quote box
+ |quote = The story of pop music is largely the story of the intertwining pop culture of the United States and the United Kingdom in the postwar era.
+ |source =&amp;nbsp;— [[Bob Stanley (musician)|Bob Stanley]]&lt;ref name="Christgau"&gt;{{cite web|last=Christgau|first=Robert|author-link=Robert Christgau|year=2014|url=http://www.robertchristgau.com/xg/bn/bn2014-07.php|title=Anti-Rockism's Hall of Fame|work=[[The Barnes &amp; Noble Review]]|access-date=August 18, 2015}}&lt;/ref&gt;
+ |quoted = true
+ |bgcolor =
+ |width = 22%
+ |salign = right
+ |align = right
+ |border = 1px
+ |fontsize = 89%
+}}
+
+Pop music has been dominated by the American and (from the mid-1960s) British [[music industry|music industries]], whose influence has made pop music something of an international monoculture, but most regions and countries have their own form of pop music, sometimes producing local versions of wider trends, and lending them local characteristics.&lt;ref&gt;J. Kun, ''Audiotopia: Music, Race, and America'' (Berkeley, CA: University of California Press, 2005), {{ISBN|0-520-24424-9}}, p. 201.&lt;/ref&gt; Some of these trends (for example [[Europop]]) have had a significant impact of the development of the genre.&lt;ref name=Firth2002&gt;"Star profiles" in S. Frith, W. Stray and J. Street, ''The Cambridge Companion to Pop and Rock'' (Cambridge University Press, 2001), {{ISBN|0-521-55660-0}}, pp. 199–200.&lt;/ref&gt;
+
+According to ''Grove Music Online'', "Western-derived pop styles, whether coexisting with or marginalizing distinctively local genres, have spread throughout the world and have come to constitute stylistic common denominators in global commercial music cultures".&lt;ref name=PManuel&gt;P. Manuel, "Pop. Non-Western cultures 1. Global dissemination", ''Grove Music Online'', retrieved 14 March 2010.&lt;/ref&gt; Some non-Western countries, such as Japan, have developed a thriving pop music industry, most of which is devoted to Western-style pop. Japan has for several years produced a greater quantity of music than everywhere except the US.{{Clarify|reason=vague|date=April 2017}}&lt;ref name=PManuel/&gt; The spread of Western-style pop music has been interpreted variously as representing processes of Americanization, [[Radio Homogenization|homogenization]], modernization, creative appropriation, [[cultural imperialism]], or a more general process of [[globalization]].&lt;ref name=PManuel/&gt;
+
+One of the pop music styles that developed alongside other music styles is [[Latin pop]], which rose in popularity in the US during the 1950s with early rock and roll success [[Ritchie Valens]].&lt;ref name="Strachwitz Frontera Collection 2017"&gt;{{cite web | title=Los Lobos, Ritchie Valens, and the Day the Music Died | website=Strachwitz Frontera Collection | date=February 16, 2017 | url=http://frontera.library.ucla.edu/blog/2017/02/los-lobos-ritchie-valens-and-day-music-died | access-date=November 18, 2020}}&lt;/ref&gt; Later, as [[Los Lobos]] garnered major [[Chicano rock]] popularity during the 1970s and 1980s, musician [[Selena]] saw large-scale pop music presence as the 1980s and 1990s progressed, along with crossover appeal with fans of [[Tejano music]] pioneers [[Lydia Mendoza]] and [[Little Joe (singer)|Little Joe]].&lt;ref name="Lucero"&gt;{{cite web | last=Lucero | first=Mario J. | title=The problem with how the music streaming industry handles data | website=Quartz | url=https://qz.com/1773480/the-problem-with-how-the-music-streaming-industry-handles-data/ | access-date=November 18, 2020}}&lt;/ref&gt; With later [[Hispanic and Latino Americans]] seeing success within pop music charts, 1990s pop successes stayed popular in both their original genres and in broader pop music.&lt;ref&gt;{{cite book | last1=Aldama | first1=A.J. | last2=Sandoval | first2=C. | last3=García | first3=P.J. | title=Performing the US Latina and Latino Borderlands | publisher=Indiana University Press | year=2012 | isbn=978-0-253-00295-2 | url=https://books.google.com/books?id=a7KXaqig1YwC&amp;pg=PA224 | access-date=February 14, 2020 | page=224}}&lt;/ref&gt; Latin pop hit singles, such as "[[Macarena]]" by [[Los del Río]] and "[[Despacito]]" by [[Luis Fonsi]], have seen record-breaking success on worldwide pop music charts.&lt;ref name="Villafañe 2017"&gt;{{cite web | last=Villafañe | first=Veronica | title=Still No.1, Record-Breaking 'Despacito' Ties 'Macarena' Streak On Hot 100, But Is Snubbed By MTV | website=Forbes | date=August 14, 2017 | url=https://www.forbes.com/sites/veronicavillafane/2017/08/14/still-no-1-record-breaking-despacito-ties-macarena-streak-on-hot-100-but-is-snubbed-by-mtv/ | access-date=February 14, 2020}}&lt;/ref&gt;
+
+As part of the [[Korean Wave]], hit singles such as "[[Gangnam Style]]" by [[Psy|PSY]] have achieved global success.&lt;ref&gt;{{Cite web|last=Michel|first=Patrick St|title=PSY's "Gangnam Style" Changed Pop Music, Whether You Like It Or Not|url=https://pitchfork.com/thepitch/psys-gangnam-style-changed-pop-music-whether-you-like-it-or-not/|access-date=2020-08-15|website=Pitchfork|language=en-us}}&lt;/ref&gt; More recently, Korean [[boy bands]] such as [[BTS]] and [[girl groups]] such as [[Blackpink|BLACKPINK]] are among the most successful music acts worldwide.&lt;ref&gt;{{Cite web|last=Rolli|first=Bryan|title=BTS Now Has The Bestselling Album Of 2020 In The United States, South Korea, Japan And Worldwide|url=https://www.forbes.com/sites/bryanrolli/2020/07/21/bts-bestselling-album-2020-united-states-south-korea-japan-worldwide/|access-date=2020-08-15|website=Forbes|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|last=McDermott|first=Maeve|title=Blackpink proves BTS isn't the only K-pop group that can find success in US|url=https://www.usatoday.com/story/life/music/2019/04/16/blackpink-can-k-pop-girl-group-become-next-spice-girls/3482394002/|access-date=2020-08-15|website=USA TODAY|language=en-US}}&lt;/ref&gt; Korean [[co-ed groups]] (mixed gender groups) have not been as successful.&lt;ref&gt;{{cite web|url=http://www.sbs.com.au/popasia/blog/2016/08/25/why-arent-there-many-mixed-gender-k-pop-groups|title=Why aren't there many mixed gender K-pop groups?|website=SBS PopAsia}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Pop music|Music}}
+* [[Honorific nicknames in popular music]]
+* [[Origins of rock and roll]]
+* [[Popular music pedagogy]]
+* [[List of popular music genres]]
+* [[History of music]]
+* [[Public domain music]]
+* [[List of largest recorded music markets]]
+* [[Music genre]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin|30em}}
+* [[Theodor W. Adorno|Adorno, Theodor W.]], (1942) "On Popular Music", Institute of Social Research.
+* Bell, John L., (2000) ''The Singing Thing: A Case for Congregational Song'', GIA Publications, {{ISBN|1-57999-100-9}}
+* Bindas, Kenneth J., (1992) ''America's Musical Pulse: Popular Music in Twentieth-Century Society'', Praeger.
+* [[Donald Clarke (writer)|Clarke, Donald]], (1995) ''The Rise and Fall of Popular Music'', St Martin's Press. [https://web.archive.org/web/20071231045026/http://www.musicweb.uk.net/RiseandFall/index.htm ]
+* Dolfsma, Wilfred, (1999) ''Valuing Pop Music: Institutions, Values and Economics'', Eburon.
+* Dolfsma, Wilfred, (2004) ''Institutional Economics and the Formation of Preferences: The Advent of Pop Music'', Edward Elgar Publishing.
+* [[Simon Frith|Frith, Simon]], Straw, Will, Street, John, eds, (2001), ''The Cambridge Companion to Pop and Rock'', Cambridge University Press,
+* [[Simon Frith|Frith, Simon]] (2004) ''Popular Music: Critical Concepts in Media and Cultural Studies'', Routledge.
+* [[Charlie Gillett|Gillett, Charlie]], (1970) ''The Sound of the City. The Rise of Rock and Roll'', Outerbridge &amp; Dienstfrey.
+* Hatch, David and Stephen Millward, (1987), ''From Blues to Rock: an Analytical History of Pop Music'', Manchester University Press, {{ISBN|0-7190-1489-1}}
+* Johnson, Julian, (2002) ''Who Needs Classical Music?: Cultural Choice and Musical Value'', Oxford University Press, {{ISBN|0-19-514681-6}}.
+* [[Jeff Kent (author)|Kent, Jeff]], (1983) ''The Rise and Fall of Rock'', Witan Books, {{ISBN|0-9508981-0-4}}.
+* Lonergan, David F., (2004) ''Hit Records, 1950–1975'', Scarecrow Press, {{ISBN|0-8108-5129-6}}.
+* Maultsby, Portia K., (7907) ''Intra- and International Identities in American Popular Music'', Trading Culture.
+* [[Richard Middleton (musicologist)|Middleton, Richard]], (1990) ''Studying Popular Music'', Open University Press.
+* Negus, Bob, (1999) ''Music Genres and Corporate Cultures'', Routledge, {{ISBN|0-415-17399-X}}.
+* [[Henry Pleasants (music critic)|Pleasants, Henry]] (1969) ''Serious Music and All That Jazz'', Simon &amp; Schuster.
+* [[Lillian Roxon|Roxon, Lillian]], (1969) ''Rock Encyclopedia'', Grosset &amp; Dunlap.
+* Shuker, Roy, (2002) ''Popular Music: The Key Concepts'', Routledge, (2nd edn.) {{ISBN|0-415-28425-2}}.
+* Starr, Larry &amp; Waterman, Christopher, (2002) ''American Popular Music: From Minstrelsy to MTV'', Oxford University Press.
+* Watkins, S. Craig, (2005) ''Hip Hop Matters: Politics, Pop Culture, and the Struggle for the Soul of a Movement'', Beacon Press, {{ISBN|0-8070-0982-2}}.
+{{refend}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category|Pop music}}
+* [https://web.archive.org/web/20170407053620/http://musiclife.mobi/filelist/1017/sabrang_%282017%29_mp3/new2old/1 The Consumption of Music and the Expression of Values: A Social Economic Explanation for the Advent of Pop Music], Wilfred Dolfsma, ''[[American Journal of Economics and Sociology]]'', October 1999.
+
+{{Pop music}}
+{{Media culture}}
+{{Western world}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pop Music}}
+[[Category:Pop music| ]]
+[[Category:Western culture]]
+[[Category:1920s neologisms]]</text>
+      <sha1>am5wvbatfeqjask3dw6s7fonsuefx5d</sha1>
+    </revision>
+  </page>
+</mediawiki>

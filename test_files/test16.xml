@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 16</title>
+    <id>16</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">This is going to be a more complicated {{skip me}} test that includes all of the different types [[skip me]] of formatting that we want to skip, [skip me] to make sure you combined your regular expressions {|skip me|} properly. A file:| to skip. <skipme> More valid text. &lt;Skip me.&gt; Let's even include duplicates of some {{skip me too}} to make sure we still include what we should [[last, skip me]].</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,186 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alex Puccio</title>
+    <ns>0</ns>
+    <id>38849134</id>
+    <revision>
+      <id>1034883657</id>
+      <parentid>981716532</parentid>
+      <timestamp>2021-07-22T10:36:12Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: title. | [[WP:UCB|Use this bot]]. [[WP:DBUG|Report bugs]]. | Suggested by BrownHairedGirl | Linked from User:BrownHairedGirl/Articles_with_bare_links | #UCB_webform_linked 346/1629</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15921" xml:space="preserve">{{short description|American rock climber}}
+{{Infobox climber
+| image = Alex Puccio USA 2017-08-19 2319.jpg
+| caption = Alex Puccio at the Boulder Worldcup Finals 2017 in Munich, Germany
+| name = Alex Puccio
+| nickname = 
+| nationality = [[United States|American]]
+| birth_date = {{birth date and age|1989|06|15}}
+| birth_place = [[McKinney, Texas]]
+| death_date = &lt;!-- {{death date and age|yyyy|mm|dd|yyyy|mm|dd}} --&gt;
+| death_place = 
+| residence = 
+| height = {{convert|5|ft|2|in|m}} (2013)&lt;ref name=2013-interview&gt;{{Cite web|url=http://archclimbingwall.com/alex-puccio-interview-2/ |title=Alex Puccio Interview |publisher=The Arch Climbing Wall |date=31 January 2013 |accessdate=17 April 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20130913043302/http://archclimbingwall.com/alex-puccio-interview-2/ |archivedate=13 September 2013 }}&lt;/ref&gt;
+| weight = {{convert|117|lbs|kg}} (2015)&lt;ref name="2015-interview: TrainingBeta Podcast"&gt;{{cite web|title=TBP 021:: Alex Puccio on Training, Bodyweight, and Crowdfunding|url=https://www.trainingbeta.com/media/tbp-021-alex-puccio/|website=TrainingBeta Podcast|accessdate=27 February 2018|date=20 May 2015|quote=I’m going to step on a scale and see what I’m at now.’ I think I went from 129 to 117 within a month and a half, probably.}}&lt;/ref&gt;
+| typeofclimber = [[Bouldering]]
+| highestgrade =
+| highestredpoint = 
+| highestonsight = 
+| highestboulder = {{Boulder grade|V14}}
+| knownfor = 
+| firstascents = 
+| namedroutes = 
+| majorascents = 
+| medaltemplates  =
+{{MedalCompetition|[[Climbing World Cup]]}}
+{{MedalBronze|2011|Bouldering}}
+{{MedalBronze|2013|Bouldering}}
+{{MedalCompetition|[[Climbing World Championships]]}}
+{{MedalSilver|2014 Munich|Bouldering}}
+{{MedalCompetition|[[Rock Master]]}}
+{{MedalGold|2012|Bouldering}}
+{{MedalGold|2013|Bouldering}}
+{{MedalGold|2014|Bouldering}}
+| show-medals = yes
+| website = &lt;!-- {{URL|www.example.com}} --&gt;
+| updated = 18 March 2013
+}}
+[[File:Alex Puccio USA 2017-08-19 2207.jpg|thumb|Alex Puccio climbing at the Boulder Worldcup 2017]]
+
+'''Alex Puccio''' (born '''Alexandrea Elizabeth Cocca''' on June 15, 1989 in [[McKinney, Texas]]) is a professional climber specializing in [[bouldering]]. She competes in [[climbing competitions]] and splits her time between climbing outdoor and indoor. She regularly participates in United States national championships and the [[International Federation of Sport Climbing|IFSC]] world cups. She finished 3rd overall in the World Cup bouldering competition in 2011 and has won the [[American Bouldering Series]] eleven times.&lt;ref&gt;{{Cite news|url=http://onbouldering.com/2017-usa-nationals-puccio-and-woods-go-for-their-10th-victory-against-defending-champions-mascarenas-and-coleman/|title=2017 USA Nationals: Puccio and Woods go for their 10th victory against defending champions Mascarenas and Coleman|date=2017-02-03|newspaper=OnBouldering.com|access-date=2017-02-05|language=en-US}}&lt;/ref&gt;
+
+==Biography==
+Puccio started climbing in 2002 at age thirteen with her mother.&lt;ref&gt;{{cite web|url=http://www.outsideonline.com/photo-galleries/Climber-Alex-Puccio.html#slide-1/|title=Climber Alex Puccio|publisher=Outside Magazine|author=Outside Online|accessdate=24 August 2014}}&lt;/ref&gt; In 2006, she participated for the first time in the U.S. Bouldering Championships, and won the title.&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/usboulderchamps/ |title=U.S. Bouldering Championships |publisher=climbing.com |author=Dougald MacDonald |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20080705051253/http://www.climbing.com/news/hotflashes/usboulderchamps |archivedate=5 July 2008 }}&lt;/ref&gt; She later won in 2007,&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/abs8boulderchamps07/ |title=U.S. National Bouldering Championships |publisher=climbing.com |author=Dougald MacDonald |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20090215083646/http://www.climbing.com/news/hotflashes/abs8boulderchamps07/ |archivedate=15 February 2009 }}&lt;/ref&gt; 2008,&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/robinsonpuccionbc08/ |title=Robinson, Puccio Are National Bouldering Champs |publisher=climbing.com |author=Dougald MacDonald |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20120312045637/http://www.climbing.com/news/hotflashes/robinsonpuccionbc08/ |archivedate=12 March 2012 }}&lt;/ref&gt; 2010,&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/puccio_woods_are_bouldering_champs/ |title=Puccio, Woods Are Bouldering Champs |publisher=climbing.com |author=Dougald MacDonald |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20100317112534/http://www.climbing.com/news/hotflashes/puccio_woods_are_bouldering_champs/ |archivedate=17 March 2010 }}&lt;/ref&gt; 2011,&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/mccoll_puccio_win_abs_12_nationals/ |title=McColl, Puccio Win ABS 12 Nationals |publisher=climbing.com |author=Amanda Fox |date=13 February 2011 |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20110425092015/http://www.climbing.com/news/hotflashes/mccoll_puccio_win_abs_12_nationals/ |archivedate=25 April 2011 }}&lt;/ref&gt; 2012,&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/woods_puccio_take_gold_at_abs_nationals/ |title=Woods, Puccio Take Gold at ABS Nationals |publisher=climbing.com |author=Amanda Fox |date=27 February 2012 |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20120906083017/http://www.climbing.com/news/hotflashes/woods_puccio_take_gold_at_abs_nationals/ |archivedate=6 September 2012 }}&lt;/ref&gt; and 2013.&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/woods-puccio-reigning-champions-at-abs-14/|title=Woods, Puccio Reigning Champions at ABS 14|publisher=climbing.com|author=Amanda Fox|date=22 February 2013|accessdate=18 March 2013}}&lt;/ref&gt; In 2008, 2009 and 2010 she competed in the World Cup bouldering climbing but only at the stage of Vail finishing sixth respectively, before and fourth.&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/hotflashes/americans_shine_at_vail_world_cup/ |title=Americans Shine at Vail World Cup |publisher=climbing.com |author=Dougald MacDonald |accessdate=18 March 2013 |url-status = dead|archiveurl=https://web.archive.org/web/20090813224936/http://www.climbing.com/news/hotflashes/americans_shine_at_vail_world_cup/ |archivedate=13 August 2009 }}&lt;/ref&gt; In 2011, she took part in all the steps going up to the podium five times, with three second places and two third places.  Since then she has been a fixture on the [[International Federation of Sport Climbing|IFSC]] Bouldering World Cup circuit where she is constantly a finalist.
+
+She has ascended over two dozen boulders graded {{Boulder grade|V12}} between the United States and Europe.&lt;ref&gt;https://www.8a.nu/&lt;/ref&gt; On July 2, 2014, Puccio ascended ''Top Notch'' in [[Rocky Mountain National Park]].  This was her first V13(8B) graded boulder.&lt;ref&gt;{{cite web |url=http://www.climbing.com/news/alex-puccio-breaks-into-v13-with-top-notch-in-rmnp/ |title=Alex Puccio Breaks Into V13 With Top Notch In RMNP |author=Leslie Hittmeier |publisher=climbing.com |date=3 July 2014 |accessdate=7 July 2014}}&lt;/ref&gt; A month later, she ascended ''Jade'' becoming the fourth woman to climb V14.&lt;ref&gt;{{cite web |url=http://cruxcrush.com/2014/08/04/big-weekend-sends-for-payne-and-puccio |title=Big Weekend Sends for Payne and Puccio |date=4 August 2014 |author=Missy Rae |accessdate=4 August 2014}}&lt;/ref&gt;
+
+She placed second in the Boulder World Championship in Munich, Germany on 23 August 2014.&lt;ref&gt;{{cite web |url=http://www.ifsc-climbing.org/index.php/news/latest-news/item/509-results-of-the-ifsc-world-championships-munich-2014-boulder |title=Results of the IFSC World Championships Munich 2014 - Boulder |date=24 August 2014 |website=ifsc-climbing.org |accessdate=24 August 2014 |archive-url=https://web.archive.org/web/20140826073749/http://www.ifsc-climbing.org/index.php/news/latest-news/item/509-results-of-the-ifsc-world-championships-munich-2014-boulder |archive-date=26 August 2014 |url-status=dead }}&lt;/ref&gt;
+
+On June 5, 2015, she sustained a season ending knee injury while warming up her dynos during the IFSC World Cup competition in [[Vail, Colorado]].  She required surgery to repair the torn ACL, MCL, and meniscus ligaments in her left knee which could have resulted in months of inactivity during the recovery.  Despite a six-month inactivity prediction she was back climbing V13 (8B) by October 2015 with an ascent of ''Free Range'' in [[Boulder Canyon (Colorado River)|Boulder Canyon]], Colorado.&lt;ref&gt;{{cite web|url=http://www.climbing.com/news/puccio-back-in-top-form-after-knee-injury/|title=Puccio Back in Top Form After Serious Knee Injury|first=Dougald|last=MacDonald|date=23 October 2015|website=Climbing.com|publisher=Cruz Bay Publishing|accessdate=28 June 2017}}&lt;/ref&gt;
+
+In February 2016, she won the [[Hueco Tanks]] 'Rock Rodeo' amid world class competitors proving that she was still in top form.  Puccio also had the most productive week-long bouldering trip by any female in history by completing three V13 (8B) boulders among many other double-digit (V-scale)  boulders.&lt;ref name="two-more"&gt;{{cite web|url=http://www.dpmclimbing.com/articles/view/two-more-v13%E2%80%99s-alex-puccio-hueco|archiveurl=https://web.archive.org/web/20160226095220/http://www.dpmclimbing.com/articles/view/two-more-v13%E2%80%99s-alex-puccio-hueco|archivedate=26 February 2016|url-status = dead|title=Two More V13's for Alex Puccio in Hueco|date=21 February 2016|accessdate=28 June 2017|work=DPM Climbing}}&lt;/ref&gt;
+
+On June 19, 2016, Puccio underwent a spinal fusion surgery after doctors discovered a herniated disk between the C5 and C6 vertebrae.&lt;ref name="instagram.com"&gt;{{cite web|url=https://www.instagram.com/alex_puccio89/|title=Alex Puccio (@alex_puccio89)|website=Instagram|accessdate=28 June 2017}}&lt;/ref&gt;  She first noticed the serious nature of the injury during the finals of the 2016 bouldering World Cup in Vail, CO when she felt shooting pain and weakness in her arms.  Despite the pain she still climbed in the finals.&lt;ref name="instagram.com"/&gt;
+
+On December 19, 2016, she climbed the iconic razor blade climb ''Terre De Sienne'' V13 (8B) at [[Hueco Tanks]].  This achievement marked her 15th climb of that difficulty,&lt;ref&gt;8a.nu&lt;/ref&gt; performed just six months after a serious injury.
+
+==Competition==
+Puccio is America's most accomplished female bouldering competitor.  She has won the ABS National Championship eleven times and is the top American female bouldering competitor at the IFSC world competitions.  She has earned numerous medals in the bouldering World Cup events including gold medals at the 2009 Vail World Cup and the 2018 Vail World Cup.&lt;ref name="ifsc-climbing.org"&gt;{{cite web|url=http://www.ifsc-climbing.org/index.php/world-competition/calendar#!person=7286&amp;cat=5|title=Alex Puccio: USA|website=ISFC Climbing|publisher=Signé Bluette|accessdate=28 June 2017}}&lt;/ref&gt;  In 2014, she earned a gold medal at the Arco Rockmaster event and a silver medal in the World Championships for bouldering.&lt;ref name="ifsc-climbing.org"/&gt;
+
+=== Number of medals in the World Cup ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "65" | Season
+! width = "65" style="background: gold;" | Gold
+! width = "65" style="background: silver;"| Silver
+! width = "65" style="background: #cc9966;"| Bronze
+! width = "65" | Total
+|-
+| 2009 || 1 ||  || || 1
+|-
+| 2011 ||  || 3 || 2 || 5
+|-
+| 2012 ||  ||  || 1 || 1
+|-
+| 2013 ||  || 1 || 4 || 5
+|-
+| 2014 ||  ||  || 1 || 1
+|-
+| 2018 || 1 ||  || || 1
+|-
+| '''Total''' || '''2''' || '''4''' || '''8''' || '''14'''
+|}
+&lt;ref name="ifsc-climbing.org"/&gt;
+
+==Notable ascents==
+
+*'''8B+(V14)'''
+**''Penrose Step -'' [[Leavenworth, Washington|Leavenworth]] (USA) - 3 April 2018&lt;ref&gt;{{Cite web|url=https://rockandice.com/climbing-news/fourth-v14-for-alex-puccio-penrose-step-in-leavenworth-wa/|title=Fourth V14 for Alex Puccio: Penrose Step in Leavenworth, WA|website=Rock and Ice|language=en-US|access-date=2020-01-20}}&lt;/ref&gt;
+**''New'' Bas''e Line'' - {{Interlanguage link|Magic Wood (Switzerland)|it|Magic Wood}}, Switzerland - September 2017&lt;ref&gt;{{cite web|url=https://gripped.com/news/alex-puccio-tops-new-base-line-v14/|title=Alex Puccio Tops New Base Line V14|publisher=Gripped|access-date=March 24, 2018}}&lt;/ref&gt;
+**''The Wheel of Chaos'' - [[Rocky Mountain National Park]] (USA) - 20 September 2014 - First female ascent&lt;ref name="8a.nu"&gt;[http://www.8a.nu/]&lt;/ref&gt;
+**''Jade'' - [[Rocky Mountain National Park]] (USA) - 3 August 2014 - First female ascent&lt;ref name="8a.nu"/&gt;
+*'''8B(V13)'''
+**''Dead Meadow'' - [[Wild Basin, Colorado|Wild Basin]] (USA) - 2 June 2017 &lt;ref name="instagram2"&gt;{{cite web|url=https://www.instagram.com/p/BS_k0vnjd98/|title=Alex Puccio on Instagram|date=17 April 2014|website=Instagram|accessdate=28 June 2017}}&lt;/ref&gt;
+**''The Tea Cup'' - [[Leavenworth, Washington|Leavenworth]] (USA) - 16 April 2017 &lt;ref name="instagram2"/&gt;&lt;ref&gt;{{cite web|url=https://gripped.com/news/alex-puccio-sends-hard-problems-first-day-leavenworth/ |title=Alex Puccio Sends Hard Problems on First Day in Leavenworth |publisher=Gripped |access-date=March 24, 2018}}&lt;/ref&gt;
+**''Luther'' - [[Hueco Tanks, Texas|Hueco]] (USA) - 22 February 2017 - This is the low start to Chablanke (V11)&lt;ref name="8a.nu"/&gt;
+**''Terre De Sienne'' - [[Hueco Tanks, Texas|Hueco]] (USA) - 19 December 2016 &lt;ref name="8a.nu"/&gt;
+** ''Nagual'' - [[Hueco Tanks, Texas|Hueco]] (USA) - 21 February 2016 - FFA&lt;ref name="8a.nu"/&gt;
+** ''Slashface'' - [[Hueco Tanks, Texas|Hueco]] (USA) - 20 February 2016 - FFA of this historic [[Fred Nicole]] climb that was once considered the most difficult boulder problem in the world and originally graded V14(8B+).&lt;ref name="two-more"/&gt;
+** ''Crown of Aragorn'' - [[Hueco Tanks, Texas|Hueco]] (USA) - 18 February 2016&lt;ref name="8a.nu"/&gt;
+** ''Dark Waters'' - [[Rocky Mountain National Park]] (USA)  - 9 November 2015&lt;ref name="8a.nu"/&gt;
+** ''Free Range (aka cage free assis)'' - [[Boulder Canyon (Colorado River)|Boulder Canyon]] (USA)  - 21 October 2015&lt;ref name="8a.nu"/&gt;
+** ''Don't get too greedy'' - [[Rocky Mountain National Park]] (USA)  - 14 October 2015&lt;ref name="8a.nu"/&gt;
+** ''Irreversible'' - [[Rocky Mountain National Park]] (USA)  - 26 September 2015&lt;ref name="8a.nu"/&gt;
+** ''Direction'' - [[Bishop, California|Bishop]] (USA) - 4 March 2015&lt;ref name="8a.nu"/&gt;
+** ''The Swarm'' - [[Bishop, California|Bishop]] (USA) - 23 November 2014 - Some say it may be 8B+(V14)&lt;ref&gt;{{cite web|url=http://climbingnarc.com/2015/02/alex-puccio-sends-the-swarm/|title=Alex Puccio Sends The Swarm|date=24 February 2015|website=Climbing Narc|publisher=Climbing Narcissist|accessdate=28 June 2017}}&lt;/ref&gt;
+** ''Black Lung'' - [[Joe's Valley]] (USA) - 25 November 2014 - First female ascent&lt;ref name="8a.nu"/&gt;
+** ''Freaks of the Industry'' - [[Rocky Mountain National Park]] (USA) - 7 September 2014&lt;ref name="8a.nu"/&gt;
+** ''The Automator'' - [[Rocky Mountain National Park]] (USA) - 18 August 2014&lt;ref name="8a.nu"/&gt;
+** ''Nuthin But Sunshine'' - [[Rocky Mountain National Park]] (USA) - 7 July 2014&lt;ref name="8a.nu"/&gt;
+** ''Top Notch'' - [[Rocky Mountain National Park]] (USA) - 2 July 2014 - First female ascent&lt;ref name="8a.nu"/&gt;
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+{{Climber links |ifsc=7286 |ifsccat=5 |8a=16483 }}
+* [https://www.instagram.com/alex_puccio89/ Instagram]
+* [http://www.outsideonline.com/photo-galleries/Climber-Alex-Puccio.html Outside Magazine photo gallery]
+
+{{DEFAULTSORT:Puccio, Alex}}
+[[Category:American rock climbers]]
+[[Category:American female climbers]]
+[[Category:Living people]]
+[[Category:1989 births]]
+[[Category:American sportswomen]]
+[[Category:People from McKinney, Texas]]</text>
+      <sha1>hme8vjtd6flcfugojq2tg6ulqwhgbdi</sha1>
+    </revision>
+  </page>
+</mediawiki>

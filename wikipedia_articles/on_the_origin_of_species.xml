@@ -1,0 +1,1128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>On the Origin of Species</title>
+    <ns>0</ns>
+    <id>29932</id>
+    <revision>
+      <id>1034561140</id>
+      <parentid>1034559382</parentid>
+      <timestamp>2021-07-20T15:42:01Z</timestamp>
+      <contributor>
+        <username>Wham2001</username>
+        <id>915833</id>
+      </contributor>
+      <comment>Convert quote to postscript note</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161566" xml:space="preserve">{{Use dmy dates|date=October 2019}}
+{{Redirect2|Origin of Species|Origin of the species}}
+{{pp-move-indef}}
+{{short description|1859 book on evolutionary biology by Charles Darwin}}
+{{Use British English|date=June 2011}}
+{{Infobox book
+| name          = On the Origin of Species
+| title_orig    =
+| translator    =
+| image         = Origin of Species title page.jpg
+| caption       = The title page of the 1859 edition&lt;br /&gt;of ''On the Origin of Species''&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=side&amp;itemID=F373&amp;pageseq=8 iii]}}&lt;/ref&gt;
+| author        = [[Charles Darwin]]
+| illustrator   =
+| cover_artist  = 
+| country       = [[United Kingdom of Great Britain and Ireland]]
+| language      = English
+| series        =
+| subject       = [[Natural selection]]&lt;br /&gt;[[Evolutionary biology]]
+| published     = 24 November 1859&lt;ref name="Freeman 1977" /&gt; ([[John Murray (publishing house)|John Murray]])
+| media_type    = Print ([[Hardcover|Hardback]])
+| pages         = 502
+| oclc          = 352242
+| preceded_by   = [[On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection]]
+| followed_by   = [[Fertilisation of Orchids]]
+}}
+{{Evolutionary biology}}
+'''''On the Origin of Species''''' (or, more completely, '''''On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life'''''),&lt;ref name="titles"&gt;The book's full original title was ''On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life''. In the 1872 sixth edition "On" was omitted, so the full title is ''The origin of species by means of natural selection, or the preservation of favoured races in the struggle for life.'' This edition is usually known as ''The Origin of Species.'' The 6th is Darwin's final edition; there were minor modifications in the text of certain subsequent issues. See Freeman, R. B. "[http://darwin-online.org.uk/EditorialIntroductions/Freeman_OntheOriginofSpecies.html The works of Charles Darwin: an annotated bibliographical handlist.]" In Van Wyhe, John, ed. ''Darwin Online: On the Origin of Species'', 2002.&lt;/ref&gt; published on 24 November 1859, is a work of [[scientific literature]] by [[Charles Darwin]] that is considered to be the foundation of [[evolutionary biology]].{{sfn|Desmond|Moore|1991|p=477}} Darwin's book introduced the [[scientific theory]] that populations [[evolution|evolve]] over the course of generations through a process of [[natural selection]]. The book presented a body of evidence that [[biodiversity|the diversity of life]] arose by [[common descent]] through a [[tree of life (science)|branching pattern of evolution]]. Darwin included evidence that he had collected on [[Second voyage of HMS Beagle|the ''Beagle'' expedition]] in the 1830s and his subsequent findings from research, correspondence, and experimentation.&lt;ref&gt;{{cite web|title=Darwin Manuscripts (Digitised notes on Origin)|url=http://cudl.lib.cam.ac.uk/collections/darwin_mss|publisher=Cambridge Digital Library|access-date=24 November 2014}}&lt;/ref&gt;
+
+[[History of evolutionary thought|Various evolutionary ideas]] had already been proposed to explain [[History of biology|new findings in biology]]. There was growing support for such ideas among dissident anatomists and the general public, but during the first half of the 19th century the English scientific establishment was closely tied to the [[Church of England]], while science was part of [[natural theology]]. Ideas about the [[transmutation of species]] were controversial as they conflicted with the beliefs that species were unchanging parts of a designed hierarchy and that humans were unique, unrelated to other animals. The political and theological implications were intensely debated, but transmutation was not accepted by the scientific mainstream.
+
+The book was written for non-specialist readers and attracted widespread interest upon its publication. As Darwin was an eminent scientist, his findings were taken seriously and the evidence he presented generated scientific, philosophical, and religious discussion. The debate over the book contributed to the campaign by [[Thomas Henry Huxley|T.&amp;nbsp;H. Huxley]] and his fellow members of the [[X Club]] to [[Secularization|secularise]] science by promoting [[Naturalism (philosophy)|scientific naturalism]]. Within two decades there was widespread scientific agreement that evolution, with a branching pattern of common descent, had occurred, but scientists were slow to give natural selection the significance that Darwin thought appropriate. During "[[the eclipse of Darwinism]]" from the 1880s to the 1930s, various other mechanisms of evolution were given more credit. With the development of the [[Extended evolutionary synthesis|modern evolutionary synthesis]] in the 1930s and 1940s, Darwin's concept of evolutionary [[adaptation]] through natural selection became central to modern evolutionary theory, and it has now become the unifying concept of the [[life science]]s.
+
+==Summary of Darwin's theory==
+[[File:Charles Darwin seated.jpg|thumb|upright|Darwin pictured shortly before publication]]
+
+Darwin's theory of evolution is based on key [[fact]]s and the [[inference]]s drawn from them, which biologist [[Ernst Mayr]] summarised as follows:&lt;ref&gt;{{harvnb|Mayr|1982|pp=479–480}}&lt;/ref&gt;
+
+:* Every [[species]] is fertile enough that if all offspring survived to reproduce, the population would grow (fact).
+:* Despite periodic fluctuations, populations remain roughly the same size (fact).
+:* Resources such as food are limited and are relatively stable over time (fact).
+:* A [[struggle for existence|struggle for survival]] ensues (inference).
+:* Individuals in a population vary significantly from one another (fact).
+:* Much of this variation is [[heredity|heritable]] (fact).
+:* Individuals less suited to the environment are less likely to survive and less likely to reproduce; individuals more suited to the environment are more likely to survive and more likely to reproduce and leave their heritable traits to future generations, which produces the process of [[natural selection]] (fact).
+:* This slowly effected process results in populations changing to adapt to their environments, and ultimately, these variations accumulate over time to form new species (inference).
+
+==Background==
+{{See also|History of evolutionary thought|History of biology}}
+
+===Developments before Darwin's theory===
+In later editions of the book, Darwin traced evolutionary ideas as far back as [[Aristotle]];&lt;ref&gt;{{harvnb|Darwin|1872|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F391&amp;pageseq=18 xiii]}}&lt;/ref&gt; the text he cites is a summary by Aristotle of the ideas of the earlier Greek philosopher [[Empedocles]].&lt;ref&gt;{{Citation|author=Aristotle|title=Physics|url=http://classics.mit.edu/Aristotle/physics.2.ii.html|access-date=23 April 2009|publisher=translated by Hardie, R. P. and Gayle, R. K. and hosted by MIT's Internet Classics Archive}}&lt;/ref&gt; Early [[Christianity|Christian]] [[Church Fathers]] and [[Medieval Europe]]an scholars interpreted the [[Genesis creation narrative]] allegorically rather than as a literal historical account;&lt;ref&gt;{{harvnb|Forster|Marston|1999|pp=26–27}}&lt;/ref&gt; organisms were described by their mythological and heraldic significance as well as by their physical form. Nature was widely believed to be unstable and capricious, with monstrous births from union between species, and [[spontaneous generation]] of life.&lt;ref&gt;{{Harvnb|Bowler|2003|pp=27, 43, 45}}&lt;/ref&gt;
+
+[[File:Georges Cuvier - Elephant jaw.png|thumb|left|Cuvier's 1799 paper on living and fossil elephants helped establish the reality of [[extinction]].]]
+The [[Protestant Reformation]] inspired [[Biblical literalism|a literal interpretation of the Bible]], with concepts of creation that conflicted with the findings of an [[Scientific Revolution|emerging science]] seeking explanations congruent with the [[Mechanism (philosophy)|mechanical philosophy]] of [[René Descartes]] and the [[empiricism]] of the [[Baconian method]]. After the turmoil of the [[English Civil War]], the [[Royal Society]] wanted to show that science did not threaten religious and political stability. [[John Ray]] developed an influential [[natural theology]] of rational order; in his [[Taxonomy (biology)|taxonomy]], [[species]] were static and fixed, their adaptation and complexity designed by God, and [[Subspecies|varieties]] showed minor differences caused by local conditions. In God's benevolent design, carnivores caused mercifully swift death, but the suffering caused by [[parasitism]] was a [[problem of evil|puzzling problem]]. The [[biological classification]] introduced by [[Carl Linnaeus]] in 1735 also viewed species as fixed according to the divine plan. In 1766, [[Georges Buffon]] suggested that some similar species, such as horses and asses, or lions, tigers, and leopards, might be varieties descended from a common ancestor. The [[Ussher chronology]] of the 1650s had calculated creation at 4004&amp;nbsp;BC, but by the 1780s geologists assumed a much older world. [[Abraham Gottlob Werner|Werner]]ians thought [[stratum|strata]] were [[Neptunism|deposits from shrinking seas]], but [[James Hutton]] proposed a self-maintaining infinite cycle, anticipating [[Uniformitarianism (science)|uniformitarianism]].&lt;ref&gt;{{Harvnb|Bowler|2003|pp=27–36, 39–42, 57–62, 67, 70, 77–80}}&lt;/ref&gt;
+
+Charles Darwin's grandfather [[Erasmus Darwin]] outlined a hypothesis of [[transmutation of species]] in the 1790s, and French naturalist [[Jean-Baptiste Lamarck]] published a more developed theory in 1809. Both envisaged that spontaneous generation produced simple forms of life that progressively developed greater complexity, adapting to the environment by inheriting changes in adults caused by use or disuse. This process was later called [[Lamarckism]]. Lamarck thought there was an inherent progressive tendency driving organisms continuously towards greater complexity, in parallel but separate lineages with no extinction.&lt;ref&gt;{{Harvnb|Bowler|2003|pp=84–90}}&lt;/ref&gt; [[Étienne Geoffroy Saint-Hilaire|Geoffroy]] contended that [[recapitulation theory|embryonic development recapitulated]] transformations of organisms in past [[era]]s when the environment acted on embryos, and that animal structures were determined by a constant plan as demonstrated by [[Homology (biology)|homologies]]. [[Georges Cuvier]] strongly disputed such ideas, holding that unrelated, fixed species showed similarities that reflected a design for functional needs.&lt;ref&gt;{{Harvnb|Desmond|1989|pp=47–54}}&lt;/ref&gt; His [[history of paleontology|palæontological work]] in the 1790s had established the reality of extinction, which he explained by local [[catastrophism|catastrophes]], followed by repopulation of the affected areas by other species.&lt;ref&gt;{{Harvnb|Bowler|2003|pp=111–114}}&lt;/ref&gt;
+
+In Britain, [[William Paley]]'s ''Natural Theology'' saw adaptation as evidence of beneficial [[Teleological argument|"design" by the Creator]] acting through natural laws. All naturalists in the two English universities ([[University of Oxford|Oxford]] and [[University of Cambridge|Cambridge]]) were [[Church of England]] clergymen, and science became a search for these laws.&lt;ref&gt;{{Harvnb|Browne|1995|pp=91, 129}}&lt;/ref&gt; Geologists adapted catastrophism to show repeated worldwide annihilation and creation of new fixed species adapted to a changed environment, initially identifying the most recent catastrophe as the [[Deluge (mythology)|biblical flood]].&lt;ref&gt;{{Harvnb|Bowler|2003|pp=115–117}}&lt;/ref&gt; Some anatomists such as [[Robert Edmond Grant|Robert Grant]] were influenced by Lamarck and Geoffroy, but most naturalists regarded their ideas of transmutation as a threat to divinely appointed social order.&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|pp=34–35}}&lt;/ref&gt;
+{{Clear}}
+
+===Inception of Darwin's theory===
+{{See also|Charles Darwin's education|Inception of Darwin's theory}}
+Darwin went to [[University of Edinburgh|Edinburgh University]] in 1825 to study medicine. In his second year he neglected his medical studies for [[natural history]] and spent four months assisting [[Robert Edmund Grant|Robert Grant]]'s research into [[marine invertebrate]]s. Grant revealed his enthusiasm for the transmutation of species, but Darwin rejected it.&lt;ref&gt;{{Harvnb|Browne|1995|pp=80–88}}&lt;/ref&gt; Starting in 1827, at [[University of Cambridge|Cambridge University]], Darwin learnt science as [[natural theology]] from botanist [[John Stevens Henslow]], and read [[William Paley|Paley]], [[John Herschel]] and [[Alexander von Humboldt]]. Filled with zeal for science, he studied [[catastrophism|catastrophist]] [[geology]] with [[Adam Sedgwick]].&lt;ref&gt;{{Harvnb|Bowler|2003|pp=148–149}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Browne|1995|pp=133–140}}&lt;/ref&gt;
+
+[[File:Darwin tree.png|right|thumb|In mid-July 1837 Darwin started his "B" notebook on ''Transmutation of Species'', and on page 36 wrote "I think" above his first [[Tree of life (science)|evolutionary tree]].]]
+In December 1831, he joined the [[Second voyage of HMS Beagle|''Beagle'' expedition]] as a gentleman naturalist and geologist. He read [[Charles Lyell]]'s ''[[Principles of Geology]]'' and from the first stop ashore, at [[Santiago, Cape Verde|St. Jago]], found [[Uniformitarianism (science)|Lyell's uniformitarianism]] a key to the geological history of landscapes. Darwin discovered fossils resembling [[Glyptodon|huge armadillo]]s, and noted the geographical distribution of modern species in hope of finding their "centre of creation".&lt;ref&gt;{{Harvnb|Larson|2004|pp=56–62}}&lt;/ref&gt; The three [[Fuegians|Fuegian]] missionaries the expedition returned to [[Tierra del Fuego]] were friendly and civilised, yet to Darwin their relatives on the island seemed "miserable, degraded savages",&lt;ref&gt;{{Harvnb|Darwin|1845|pp=[http://darwin-online.org.uk/content/frameset?itemID=F14&amp;viewtype=text&amp;pageseq=218 205–208]}}&lt;/ref&gt; and he no longer saw an unbridgeable gap between humans and animals.&lt;ref&gt;{{Harvnb|Browne|1995|pp=244–250}}&lt;/ref&gt; As the ''Beagle'' neared England in 1836, he noted that species might not be fixed.&lt;ref name=xix&gt;{{Harvnb|Keynes|2000|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=22 xix–xx]}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Eldredge|2006}}&lt;/ref&gt;
+
+[[Richard Owen]] showed that fossils of extinct species Darwin found in South America were allied to living species on the same continent. In March 1837, ornithologist [[John Gould]] announced that [[Darwin's rhea]] was a separate species from the previously described [[Rhea (bird)|rhea]] (though their territories overlapped), that [[mockingbird]]s collected on the [[Galápagos Islands]] represented three separate species each [[Endemism|unique to]] a particular island, and that several distinct birds from those islands were all classified as [[Darwin's finch|finches]].&lt;ref&gt;{{Harvnb|Quammen|2006|pp=24–25}}&lt;/ref&gt; Darwin began speculating, in a series of notebooks, on the possibility that "one species does change into another" to explain these findings, and around July sketched a [[genealogy|genealogical]] branching of a single [[Tree of life (science)|evolutionary tree]], discarding Lamarck's independent [[Lineage (evolution)|lineages]] progressing to higher forms.&lt;ref&gt;{{harvnb|Herbert|1980|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1583e&amp;pageseq=9 7–10]}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|van Wyhe|2008|p=44}}&lt;/ref&gt;&lt;ref&gt;{{Citation | url=http://darwin-online.org.uk/content/frameset?viewtype=side&amp;itemID=CUL-DAR121.-&amp;pageseq=1|title=Darwin's Notebook B: Transmutation of species. pp. 1–13, 26, 36, 74|access-date=16 March 2009}}&lt;/ref&gt; Unconventionally, Darwin asked questions of [[fancy pigeon]] and [[animal husbandry|animal breeders]] as well as established scientists. At the zoo he had his first sight of an ape, and was profoundly impressed by how human the [[orangutan]] seemed.&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|pp=240–244}}&lt;/ref&gt;
+
+In late September 1838, he started reading [[Thomas Malthus]]'s ''[[An Essay on the Principle of Population]]'' with [[Malthusian trap|its statistical argument]] that human populations, if unrestrained, breed beyond their means and [[struggle for existence|struggle to survive]]. Darwin related this to the struggle for existence among wildlife and botanist [[Augustin Pyramus de Candolle|de Candolle's]] "warring of the species" in plants; he immediately envisioned "a force like a hundred thousand wedges" pushing well-adapted variations into "gaps in the economy of nature", so that the survivors would pass on their form and abilities, and unfavourable variations would be destroyed.&lt;ref name=wyhe/&gt;&lt;ref&gt;{{Harvnb|Larson|2004|pp=66–70}}&lt;/ref&gt;&lt;ref&gt;{{Citation|url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=CUL-DAR123.-&amp;pageseq=112|title=Darwin's Notebook D: Transmutation of species. pp. 134–135|access-date=8 April 2009}}&lt;/ref&gt; By December 1838, he had noted a similarity between the act of breeders selecting traits and a Malthusian Nature selecting among variants thrown up by "chance" so that "every part of newly acquired structure is fully practical and perfected".&lt;ref&gt;{{Citation |url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=CUL-DAR124.-&amp;pageseq=63|title=Darwin's Notebook E: Transmutation of species. p. 75|access-date=14 March 2009}}&lt;/ref&gt;
+
+Darwin now had the basic framework of his theory of natural selection, but he was fully occupied with his career as a geologist and held back from compiling it until his book on ''[[The Structure and Distribution of Coral Reefs]]'' was completed.&lt;ref name=vw186&gt;{{Harvnb|van Wyhe|2007|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A544&amp;pageseq=10 186–187]}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Browne|1995|p=436}}&lt;/ref&gt; As he recalled in his autobiography, he had "at last got a theory by which to work", but it was only in June 1842 that he allowed himself "the satisfaction of writing a very brief abstract of my theory in pencil".&lt;ref name="AB 120"&gt;{{Harvnb|Darwin|1958|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1497&amp;pageseq=124 120]}}&lt;/ref&gt;
+
+===Further development===
+{{See also|Development of Darwin's theory}}
+
+Darwin continued to research and extensively revise his theory while focusing on his main work of publishing the scientific results of the ''Beagle'' voyage.&lt;ref name=vw186/&gt; He tentatively wrote of his ideas to Lyell in January 1842;&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|p=292}}&lt;/ref&gt; then in June he roughed out a 35-page "Pencil Sketch" of his theory.&lt;ref&gt;{{harvnb|Browne|1995|pp=436–437}}&lt;/ref&gt; Darwin began correspondence about his theorising with the botanist [[Joseph Dalton Hooker]] in January 1844, and by July had rounded out his "sketch" into a 230-page "Essay", to be expanded with his research results and published if he died prematurely.&lt;ref&gt;{{Harvnb|van Wyhe|2007|p=188}}&lt;/ref&gt;
+
+[[File:Charles Darwin - Pigeon skulls.png|thumb|left|Darwin researched how the skulls of different pigeon breeds varied, as shown in his ''Variation of Plants and Animals Under Domestication'' of 1868.]]
+In November 1844, the anonymously published [[popular science]] book ''[[Vestiges of the Natural History of Creation]]'', written by Scottish journalist [[Robert Chambers (journalist)|Robert Chambers]], widened public interest in the concept of transmutation of species. ''Vestiges'' used evidence from the fossil record and embryology to support the claim that living things had progressed from the simple to the more complex over time. But it proposed a linear progression rather than the branching common descent theory behind Darwin's work in progress, and it ignored [[adaptation]]. Darwin read it soon after publication, and scorned its amateurish geology and zoology,&lt;ref&gt;{{Citation|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-814.html#back-mark-814.f5|title=Darwin Correspondence Project – Letter 814—Darwin, C. R. to Hooker, J. D., (7 January 1845)|access-date=24 November 2008}}&lt;/ref&gt; but he carefully reviewed his own arguments after leading scientists, including Adam Sedgwick, attacked its morality and scientific errors.&lt;ref&gt;{{harvnb|Browne|1995|pp=461–465}}&lt;/ref&gt; ''Vestiges'' had significant influence on public opinion, and the intense debate helped to pave the way for the acceptance of the more scientifically sophisticated ''Origin'' by moving evolutionary speculation into the mainstream. While few naturalists were willing to consider transmutation, [[Herbert Spencer]] became an active proponent of Lamarckism and progressive development in the 1850s.&lt;ref&gt;{{Harvnb|Bowler|2003|pp=135–140}}&lt;/ref&gt;
+
+Hooker was persuaded to take away a copy of the "Essay" in January 1847, and eventually sent a page of notes giving Darwin much-needed feedback. Reminded of his lack of expertise in [[Taxonomy (biology)|taxonomy]], Darwin began an eight-year study of [[barnacle]]s, becoming the leading expert on their classification. Using his theory, he discovered [[homology (biology)|homologies]] showing that slightly changed body parts served different functions to meet new conditions, and he found an [[Androdioecy|intermediate stage]] in the evolution of [[Gonochorism|distinct sexes]].&lt;ref name=bowl169&gt;{{Harvnb|Bowler|2003|pp=169–173}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Darwin|1958|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1497&amp;pageseq=121 117–121]}}&lt;/ref&gt;
+
+Darwin's barnacle studies convinced him that variation arose constantly and not just in response to changed circumstances. In 1854, he completed the last part of his ''Beagle''-related writing and began working full-time on evolution. He now realised that the branching pattern of [[Genetic divergence|evolutionary divergence]] was explained by natural selection working constantly to improve adaptation. His thinking changed from the view that [[Allopatric speciation|species formed in isolated populations only]], as on islands, to an emphasis on [[Sympatric speciation|speciation without isolation]]; that is, he saw increasing specialisation within large stable populations as continuously exploiting new [[ecological niche]]s. He conducted empirical research focusing on difficulties with his theory. He studied the developmental and anatomical differences between different breeds of many domestic animals, became actively involved in [[fancy pigeon]] breeding, and experimented (with the help of his son [[Francis Darwin|Francis]]) on ways that plant seeds and animals might disperse across oceans to colonise distant islands. By 1856, his theory was much more sophisticated, with a mass of supporting evidence.&lt;ref name=bowl169/&gt;&lt;ref&gt;{{harvnb|Quammen|2006|pp=138–142}}&lt;/ref&gt;
+{{Clear}}
+
+==Publication==
+{{Main|Publication of Darwin's theory}}
+
+===Time taken to publish===
+In his autobiography, Darwin said he had "gained much by my delay in publishing from about 1839, when the theory was clearly conceived, to 1859; and I lost nothing by it".&lt;ref&gt;{{Harvnb|Darwin|1958|p=[http://darwin-online.org.uk/content/frameset?pageseq=128&amp;itemID=F1497&amp;viewtype=text 124]}}&lt;/ref&gt; On the first page of his 1859 book he noted that, having begun work on the topic in 1837, he had drawn up "some short notes" after five years, had enlarged these into a sketch in 1844, and "from that period to the present day I have steadily pursued the same object."&lt;ref name="vW time to publish" /&gt;{{sfn|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?pageseq=16&amp;itemID=F373&amp;viewtype=text 1]}}
+
+Various biographers have proposed that Darwin avoided or delayed making his ideas public for personal reasons. Reasons suggested have included fear of religious persecution or social disgrace if his views were revealed, and concern about upsetting his clergymen naturalist friends or his pious wife Emma. [[Charles Darwin's illness]] caused repeated delays. His paper on [[Glen Roy]] had proved embarrassingly wrong, and he may have wanted to be sure he was correct. [[David Quammen]] has suggested all these factors may have contributed, and notes Darwin's large output of books and busy family life during that time.&lt;ref&gt;{{harvnb|Quammen|2006|pp=84–92}}&lt;/ref&gt;
+
+A more recent study by science historian [[John van Wyhe]] has determined that the idea that Darwin delayed publication only dates back to the 1940s, and Darwin's contemporaries thought the time he took was reasonable. Darwin always finished one book before starting another. While he was researching, he told many people about his interest in transmutation without causing outrage. He firmly intended to publish, but it was not until September 1854 that he could work on it full-time. His 1846 estimate that writing his "big book" would take five years proved optimistic.&lt;ref name="vW time to publish"&gt;{{harvnb|van Wyhe|2007}}&lt;/ref&gt;
+
+===Events leading to publication: "big book" manuscript===
+[[File:Alfred Russel Wallace 1862 - Project Gutenberg eText 15997.png|thumb|upright|A photograph of [[Alfred Russel Wallace]] (1823–1913) taken in [[Singapore]] in 1862]]
+An 1855 paper on the "introduction" of species, written by [[Alfred Russel Wallace]], claimed that patterns in the geographical distribution of living and fossil species could be explained if every new species always came into existence near an already existing, closely related species.&lt;ref&gt;{{citation | last=Wallace | first=Alfred R. | title=On the law which has regulated the introduction of new species |journal=Annals and Magazine of Natural History | year=1855 | volume=16 | issue=93 | pages=184–196 | url= http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A11&amp;pageseq=1 | doi=10.1080/037454809495509}}&lt;/ref&gt; [[Charles Lyell]] recognised the implications of Wallace's paper and its possible connection to Darwin's work, although Darwin did not, and in a letter written on 1–2 May 1856 Lyell urged Darwin to publish his theory to establish priority. Darwin was torn between the desire to set out a full and convincing account and the pressure to quickly produce a short paper. He met Lyell, and in correspondence with [[Joseph Dalton Hooker]] affirmed that he did not want to expose his ideas to review by an editor as would have been required to publish in an academic journal. He began a "sketch" account on 14 May 1856, and by July had decided to produce a full technical treatise on species as his "big book" on ''[[Natural Selection (manuscript)|Natural Selection]]''. His theory including the principle of [[Genetic divergence|divergence]] was complete by 5 September 1857 when he sent [[Asa Gray]] a brief but detailed abstract of his ideas.&lt;ref name=Quammen135-158&gt;{{Harvnb|Quammen|2006|pp=135–158}}&lt;/ref&gt;&lt;ref name="letters: Big Book"&gt;{{cite web | title=Darwin in letters, 1856–1857: the 'Big Book' | website=Darwin Correspondence Project | date=12 June 2015 | url=https://www.darwinproject.ac.uk/letters/darwins-life-letters/darwin-letters-1856-1857-big-book | access-date=21 March 2016}}&lt;br&gt;{{cite web |url= http://www.darwinproject.ac.uk/DCP-LETT-1870 |title= Letter 1870 – Darwin, C. R., to Hooker, J.D., 9 May (1856) |publisher=Darwin Correspondence Project | access-date=21 March 2016 }}&lt;/ref&gt;
+
+===Joint publication of papers by Wallace and Darwin===
+Darwin was hard at work on the manuscript for his "big book" on ''[[Natural Selection (manuscript)|Natural Selection]]'', when on 18 June 1858 he received a parcel from Wallace, who stayed on the [[Maluku Islands]] ([[Ternate]] and Gilolo). It enclosed twenty pages describing an evolutionary mechanism, a response to Darwin's recent encouragement, with a request to send it on to Lyell if Darwin thought it worthwhile. The mechanism was similar to Darwin's own theory.&lt;ref name=Quammen135-158/&gt; Darwin wrote to Lyell that "your words have come true with a vengeance, ... forestalled" and he would "of course, at once write and offer to send [it] to any journal" that Wallace chose, adding that "all my originality, whatever it may amount to, will be smashed".&lt;ref&gt;{{Citation|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2285.html|title=Darwin Correspondence Project – Letter 2285—Darwin to Lyell (June 1858)|access-date=15 March 2008|url-status=dead|archive-url=https://web.archive.org/web/20070828144842/http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2285.html|archive-date=28 August 2007}}&lt;/ref&gt; Lyell and Hooker agreed that a joint publication putting together Wallace's pages with extracts from Darwin's 1844 Essay and his 1857 letter to Gray should be presented at the [[Linnean Society of London|Linnean Society]], and on 1 July 1858, the papers entitled  ''[[On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection]]'', by Wallace and Darwin respectively, were read out but drew little reaction. While Darwin considered Wallace's idea to be identical to his concept of natural selection, historians have pointed out differences. Darwin described natural selection as being analogous to the [[artificial selection]] practised by animal breeders, and emphasised competition between individuals; Wallace drew no comparison to [[selective breeding]], and focused on ecological pressures that kept different varieties adapted to local conditions.&lt;ref&gt;{{Harvnb|Larson|2004|pp=74–75}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Quammen|2006|pp=162–163}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Bowler|2003|pp=175–176}}&lt;/ref&gt; Some historians have suggested that Wallace was actually discussing [[group selection]] rather than selection acting on individual variation.&lt;ref&gt;{{Harvnb|Bowler|2013|pp=61–63}}&lt;/ref&gt;
+
+===Abstract of Species book===
+Soon after the meeting, Darwin decided to write "an abstract of my whole work" in the form of one or more papers to be published by the [[Linnean Society of London|Linnean Society]], but was concerned about "how it can be made scientific for a Journal, without giving facts, which would be impossible." He asked Hooker how many pages would be available, but "If the Referees were to reject it as not strictly scientific I would, perhaps publish it as pamphlet."&lt;ref name="Correspondence 1858-1859: Origin" /&gt;&lt;ref name="Letter 2303"&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-2303 |title=Letter 2303 — Darwin, C. R. to Hooker, J. D., 5 July (1858) |publisher=Darwin Correspondence Project |access-date=7 September 2010}}&lt;/ref&gt; He began his "abstract of Species book" on 20 July 1858, while on holiday at [[Sandown]],&lt;ref name="Journal 36v"&gt;{{Harvnb|Darwin|2006|pp=[http://darwin-online.org.uk/content/frameset?pageseq=70&amp;itemID=CUL-DAR158.1–76&amp;viewtype=text 36 verso]}}&lt;/ref&gt; and wrote parts of it from memory, while sending the manuscripts to his friends for checking.&lt;ref name="Letter 2432"&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-2432 |title=Letter 2432 — Darwin, C. R. to Hooker, J. D., 15 March (1859) |publisher=Darwin Correspondence Project |quote= It [geographical distribution] was nearly all written from memory |access-date=7 September 2010}}&lt;/ref&gt;
+
+By early October, he began to "expect my abstract will run into a small volume, which will have to be published separately."&lt;ref name="Letter 2339"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2339 |title=Letter 2339 — Darwin, C. R. to Hooker, J. D., 12 (October 1858) |publisher=Darwin Correspondence Project |quote= See letter to T. C. Eyton, 4 October (1858), in which CD first mentioned the possibility that his 'abstract' would form a small volume. |access-date=17 January 2017}}&lt;/ref&gt; Over the same period, he continued to collect information and write large fully detailed sections of the manuscript for his "big book" on Species, ''[[Natural Selection (manuscript)|Natural Selection]]''.&lt;ref name="Correspondence 1858-1859: Origin" /&gt;
+
+===Murray as publisher; choice of title===
+[[File:On the origin of species by means of natural selection OR the preservation of favoured races in the struggle for life, 2nd edition. By Chalres Darwin, John Murray, London, 1860. National Museum of Scotland.jpg|thumb|On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life, 2nd edition. By Charles Darwin, John Murray, London, 1860. National Museum of Scotland]]
+By mid-March 1859 Darwin's abstract had reached the stage where he was thinking of early publication; Lyell suggested the publisher [[John Murray III|John Murray]], and met with him to find if he would be willing to publish. On 28 March Darwin wrote to Lyell asking about progress, and offering to give Murray assurances "that my Book is not more ''un''-orthodox, than the subject makes inevitable." He enclosed a draft title sheet proposing ''An abstract of an Essay on the Origin of Species and Varieties Through natural selection'', with the year shown as "&lt;u&gt;1859&lt;/u&gt;".&lt;ref name="Letter 2437"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2437 |title=Letter 2437 — Darwin, C. R. to Lyell, Charles, 28 March (1859) |publisher=Darwin Correspondence Project |quote=Would you advise me to tell Murray that my Book is not more ''un''-orthodox, than the subject makes inevitable. That I do not discuss origin of man.— That I do not bring in any discussions about Genesis &amp;c, &amp; only give facts, &amp; such conclusions from them, as seem to me fair. |access-date=16 January 2017}}&lt;br&gt;Darwin, C. R. [http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=APS-B%20D25.L%5B.38%5D&amp;viewtype=side proposed title page for ''Origin of species'' draft]. (1859) APS-B-D25.L[.38] Transcribed by Kees Rookmaaker, edited by John van Wyhe&lt;/ref&gt;{{sfn|Desmond|Moore|2009|p=306}}
+
+Murray's response was favourable, and a very pleased Darwin told Lyell on 30 March that he would "send shortly a large bundle of M.S. but unfortunately I cannot for a week, as the three first chapters are in three copyists' hands". He bowed to Murray's objection to "abstract" in the title, though he felt it excused the lack of references, but wanted to keep "natural selection" which was "constantly used in all works on Breeding", and hoped "to retain it with Explanation, somewhat as thus",— ''Through Natural Selection or the preservation of favoured races''.{{sfn|Desmond|Moore|2009|p=306}}&lt;ref name="Letter 2439"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2439 |title=Letter 2439 — Darwin, C. R. to Lyell, Charles, 30 March (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt;
+On 31 March Darwin wrote to Murray in confirmation, and listed headings of the 12 chapters in progress: he had drafted all except "XII. Recapitulation &amp; Conclusion".&lt;ref name="Letter 2441"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2441 |title=Letter 2441 — Darwin, C. R. to Murray, John (b), 31 March (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; Murray responded immediately with an agreement to publish the book on the same terms as he published Lyell, without even seeing the manuscript: he offered Darwin ⅔ of the profits.&lt;ref name="Letter 2443"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2443 |title=Letter 2443 — Murray, John (b) to Darwin, C. R., 1 April 1859 |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; Darwin promptly accepted with pleasure, insisting that Murray would be free to withdraw the offer if, having read the chapter manuscripts, he felt the book would not sell well&lt;ref name="Letter 2445"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2445 |title=Letter 2445 — Darwin, C. R. to Murray, John (b), 2 April (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; (eventually Murray paid £180 to Darwin for the first edition and by Darwin's death in 1882 the book was in its sixth edition, earning Darwin nearly £3000&lt;ref name="Darwin and his publisher"&gt;{{cite web |url=http://www.darwinproject.ac.uk/charles-darwin-and-john-murray |title=Charles Darwin and his publisher |year=2010 |publisher=Darwin Correspondence Project |access-date=7 September 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101007052027/http://www.darwinproject.ac.uk/charles-darwin-and-john-murray |archive-date=7 October 2010  }}&lt;/ref&gt;).
+
+On 5 April, Darwin sent Murray the first three chapters, and a proposal for the book's title.&lt;ref name="Letter 2447"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2447 |title=Letter 2447 — Darwin, C. R. to Murray, John (b), 5 April (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; An early draft title page suggests ''On the Mutability of Species''.&lt;ref&gt;Darwin, C. R. [early draft title of Origin] ''[http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=CUL-DAR205.1.70&amp;viewtype=side On the mutability of species]'' [&amp; other notes] CUL-DAR205.1.70 Transcribed by Kees Rookmaaker, edited by John van Wyhe&lt;/ref&gt; Murray cautiously asked [[Whitwell Elwin]] to review the chapters.&lt;ref name="Correspondence 1858-1859: Origin"&gt;{{cite web | title=Darwin in letters, 1858–1859: Origin | website=Darwin Correspondence Project | date=2 June 2015 | url=https://www.darwinproject.ac.uk/letters/darwins-life-letters/darwin-letters-1858-1859-origin | access-date=17 January 2017}}&lt;/ref&gt; At Lyell's suggestion, Elwin recommended that, rather than "put forth the theory without the evidence", the book should focus on observations upon [[pigeon]]s, briefly stating how these illustrated Darwin's general principles and preparing the way for the larger work expected shortly: "Every body is interested in pigeons."&lt;ref name="Letter 2457A"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2457A |title=Letter 2457A — Elwin, Whitwell, to Murray, John (b), 3 May 1859 |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; Darwin responded that this was impractical: he had only the last chapter still to write.&lt;ref name="Letter 2459"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2459 |title=Letter 2459 — Darwin, C. R. to Murray, John (b), 6 May (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt; In September the main title still included "''An essay on the origin of species and varieties''", but Darwin now proposed dropping "varieties".&lt;ref name="Letter 2448"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2488 |title=Letter 2448 — Darwin, C. R. to Murray, John (b), 10 September (1859) |publisher=Darwin Correspondence Project |access-date=16 January 2017}}&lt;/ref&gt;
+
+With Murray's persuasion, the title was eventually agreed as ''On the Origin of Species'', with the title page adding ''by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life''.&lt;ref name="titles" /&gt; In this extended title (and elsewhere in the book) Darwin used the biological term ''"[[Race (biology)|races]]"'' interchangeably with ''"[[Variety (botany)|varieties]]"'', meaning varieties within a [[species]].&lt;ref name="NCSE define evo"&gt;{{cite web | title=Defining Evolution | website=[[National Center for Science Education]] | date=24 August 2000 | url=https://ncse.com/library-resource/defining-evolution-0 | access-date=27 June 2016}}&lt;/ref&gt;&lt;ref name="BernasconiLott2000"&gt;{{cite book|author1=Robert Bernasconi|author2=Tommy Lee Lott|title=The Idea of Race|url=https://books.google.com/books?id=di2YVLKgIC8C&amp;pg=PA54|year=2000|publisher=Hackett Publishing|isbn=0-87220-458-8|page=54|quote=The full title [of the book] employs the term 'race' only in the broad biological use of the word, which refers to varieties throughout organic life; however, speculation about the implications of his views specifically for the question of the human races began almost as soon as the book was published.}}&lt;/ref&gt; He used the term broadly,&lt;ref name=Sober45&gt;{{Harvnb|Sober|2011|p=[https://books.google.ca/books?id=nHEGJY9soYMC&amp;lpg=PP1&amp;pg=PT38#v=onepage&amp;q&amp;f=false 45]}}, Quote: "There nonetheless are a few cases in which Darwin does discuss selection processes in which groups are the units, and these will be the focus of the present chapter. But even here it does not matter whether the groups are from different 'races' or from the same race. It is nests of honeybees that compete with each other, and human tribes that compete with other human tribes. For Darwin, the question of group selection had nothing ''special'' to do with 'race.' Still, writing in the heyday of empire, Darwin saw European nations outcompeting the nations, kingdoms, and tribes that occupy the rest of the globe. In this one very salient example, Darwin did see races struggling with each other. In any event, the word ''race'' in Darwin’s subtitle needs to be understood very broadly; it encompasses competition among individuals, competition among groups in the same 'race,' and competition from groups from different 'races.' This is a much broader meaning than the word 'race' tends to have today."&lt;/ref&gt; and as well as discussions of "the several races, for instance, of the cabbage" and "the hereditary varieties or races of our domestic animals and plants",&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=30 15]}}&lt;/ref&gt; there are three instances in the book where the phrase "races of man" is used, referring to [[Race (human classification)|races]] of humans.&lt;ref&gt;the three instances of the phrase "races of man" are found on {{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?pageseq=217&amp;itemID=F373&amp;viewtype=text 199], [http://darwin-online.org.uk/content/frameset?pageseq=400&amp;itemID=F373&amp;viewtype=text 382], [http://darwin-online.org.uk/content/frameset?pageseq=440&amp;itemID=F373&amp;viewtype=text 422]}}&lt;/ref&gt;
+
+===Publication and subsequent editions===
+''On the Origin of Species'' was first published on Thursday 24 November 1859, priced at fifteen [[shilling]]s with a first printing of 1250 copies.&lt;ref name="dupree"&gt;{{cite book|last=Dupree|first=A. Hunter|year=1988|title=Asa Gray, American Botanist, Friend of Darwin|publisher=Johns Hopkins University Press|location=Baltimore, MD|isbn=978-0-801-83741-8|page=267}}&lt;/ref&gt; The book had been offered to booksellers at Murray's autumn sale on Tuesday 22 November, and all available copies had been taken up immediately. In total, 1,250 copies were printed but after deducting presentation and review copies, and five for [[Stationers' Hall]] copyright, around 1,170 copies were available for sale.&lt;ref name="Freeman 1977"&gt;{{harvnb|Freeman|1977}}&lt;/ref&gt; Significantly, 500 were taken by [[Charles Edward Mudie|Mudie's Library]], ensuring that the book promptly reached a large number of subscribers to the library.&lt;ref&gt;{{harvnb|Browne|2002|p=89}}&lt;/ref&gt; The second edition of 3,000 copies was quickly brought out on 7 January 1860,&lt;ref&gt;{{harvnb|Darwin|1958|p=[http://darwin-online.org.uk/content/frameset?itemID=F1497&amp;viewtype=text&amp;pageseq=126 122]}}&lt;/ref&gt; and incorporated numerous corrections as well as a response to religious objections by the addition of a new epigraph on page ii, a quotation from [[Charles Kingsley]], and the phrase "by the Creator" added to the closing sentence.&lt;ref name=b95/&gt; During Darwin's lifetime the book went through six editions, with cumulative changes and revisions to deal with counter-arguments raised. The third edition came out in 1861, with a number of sentences rewritten or added and an introductory appendix, ''An Historical Sketch of the Recent Progress of Opinion on the Origin of Species'',&lt;ref&gt;{{harvnb|Darwin|1861|p=[http://darwin-online.org.uk/content/frameset?itemID=F381&amp;viewtype=text&amp;pageseq=20 xiii]}}&lt;/ref&gt; while the fourth in 1866 had further revisions. The fifth edition, published on 10 February 1869, incorporated more changes and for the first time included the phrase "[[survival of the fittest]]", which had been coined by the philosopher [[Herbert Spencer]] in his ''Principles of Biology'' (1864).&lt;ref name=sotf&gt;"This survival of the fittest, which I have here sought to express in mechanical terms, is that which Mr. Darwin has called 'natural selection', or the preservation of favoured races in the struggle for life." {{harvnb|Spencer|1864|pp=[https://books.google.com/books?id=SRkRAAAAYAAJ&amp;pg=PA444&amp;ci=84,1345,817,57&amp;source=bookclip 444–445]}}&lt;/ref&gt;
+
+In January 1871, [[George Jackson Mivart]]'s ''On the Genesis of Species'' listed detailed arguments against natural selection, and claimed it included false [[metaphysics]].&lt;ref name=miv&gt;{{harvnb|Mivart|1871}}&lt;/ref&gt; Darwin made extensive revisions to the sixth edition of the ''Origin'' (this was the first edition in which he used the word "[[evolution]]" which had commonly been associated with [[Prenatal development (biology)|embryological development]], though all editions concluded with the word "evolved"&lt;ref&gt;{{harvnb|Browne|2002|p=59}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Freeman|1977|pp=[http://darwin-online.org.uk/content/frameset?pageseq=80&amp;itemID=A1&amp;viewtype=text 79–80]}}. "Evolution" in the transformist sense had been used by [[Charles Lyell]] in 1832, ''[[Principles of Geology]]'' vol 2, [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A505.2&amp;pageseq=24 p. 11]; and was used by Darwin in ''[[The Descent of Man]]'' in 1871, [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F937.1&amp;pageseq=15 p. 2] onwards.&lt;/ref&gt;), and added a new chapter VII, ''Miscellaneous objections'', to address Mivart's arguments.&lt;ref name="Freeman 1977"/&gt;&lt;ref name=6th&gt;{{harvnb|Desmond|Moore|1991|pp=577, 582, 590, 592–593}}&lt;/ref&gt;
+
+The sixth edition was published by Murray on 19 February 1872 as ''The Origin of Species'', with "On" dropped from the title. Darwin had told Murray of working men in [[Lancashire]] clubbing together to buy the fifth edition at 15 shillings and wanted it made more widely available; the price was halved to 7[[Shilling|s]] 6[[Old pence|d]] by printing in a smaller [[font]]. It includes a glossary compiled by W.S. Dallas. Book sales increased from 60 to 250 per month.&lt;ref name="titles" /&gt;&lt;ref name=6th/&gt;
+
+===Publication outside Great Britain===
+[[File:Asa Gray (1867).jpg|thumb|left|upright|American botanist Asa Gray (1810–1888)]]
+In the United States, botanist [[Asa Gray]], an American colleague of Darwin, negotiated with a Boston publisher for publication of an authorised American version, but learnt that two New York publishing firms were already planning to exploit the absence of international [[copyright]] to print ''Origin''.&lt;ref name=Letter2592&gt;{{Citation|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2592.html#mark-2592.f3|title=Darwin Correspondence Project – Letter 2592—Darwin, C. R. to Gray, Asa, 21 December (1859)|access-date=6 December 2008|url-status=dead|archive-url=https://web.archive.org/web/20090213042956/http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2592.html#mark-2592.f3|archive-date=13 February 2009}}&lt;/ref&gt; Darwin was delighted by the popularity of the book, and asked Gray to keep any profits.&lt;ref name=Letter2665&gt;{{Citation |url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2665.html#back-mark-2665.f9 |title=Darwin Correspondence Project – Letter 2665—Darwin, C. R. to Gray, Asa, 28 January (1860) |access-date=6 December 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090213042959/http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2665.html#back-mark-2665.f9 |archive-date=13 February 2009  }}&lt;/ref&gt; Gray managed to negotiate a 5% royalty with [[D. Appleton &amp; Company|Appleton's]] of New York,&lt;ref name=Letter2706&gt;{{Citation |url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2706.html |title=Darwin Correspondence Project – Letter 2706—Gray, Asa to Darwin, C. R., 20 February 1860 |access-date=6 December 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090213043349/http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2706.html |archive-date=13 February 2009  }}&lt;/ref&gt; who got their edition out in mid-January 1860, and the other two withdrew. In a May letter, Darwin mentioned a print run of 2,500 copies, but it is not clear if this referred to the first printing only, as there were four that year.&lt;ref name="Freeman 1977"/&gt;&lt;ref&gt;{{harvnb|Desmond|Moore|1991|p=492}}&lt;/ref&gt;
+
+The book was widely translated in Darwin's lifetime, but problems arose with translating concepts and metaphors, and some translations were biased by the translator's own agenda.&lt;ref name=browne256/&gt; Darwin distributed presentation copies in France and Germany, hoping that suitable applicants would come forward, as translators were expected to make their own arrangements with a local publisher. He welcomed the distinguished elderly naturalist and geologist [[Heinrich Georg Bronn]], but the German translation published in 1860 imposed Bronn's own ideas, adding controversial themes that Darwin had deliberately omitted. Bronn translated "favoured races" as "perfected races", and added essays on issues including the origin of life, as well as a final chapter on religious implications partly inspired by Bronn's adherence to ''[[Naturphilosophie]]''.&lt;ref name=browne140&gt;{{harvnb|Browne|2002|pp=140–142}}&lt;/ref&gt; In 1862, Bronn produced a second edition based on the third English edition and Darwin's suggested additions, but then died of a heart attack.&lt;ref name=correspondence1862/&gt; Darwin corresponded closely with [[Julius Victor Carus]], who published an improved translation in 1867.&lt;ref name=correspondence1866&gt;{{Citation |url=http://www.darwinproject.ac.uk/correspondence-volume-14 |title=Darwin Correspondence Project – The correspondence of Charles Darwin, volume 14: 1866 |access-date=6 March 2009}}&lt;/ref&gt; Darwin's attempts to find a translator in France fell through, and the translation by [[Clémence Royer]] published in 1862 added an introduction praising Darwin's ideas as an alternative to religious revelation and promoting ideas anticipating [[social Darwinism]] and [[eugenics]], as well as numerous explanatory notes giving her own answers to doubts that Darwin expressed. Darwin corresponded with Royer about a second edition published in 1866 and a third in 1870, but he had difficulty getting her to remove her notes and was troubled by these editions.&lt;ref name=correspondence1862&gt;{{Citation |url=http://www.darwinproject.ac.uk/correspondence-volume-10 |title=Darwin Correspondence Project – The correspondence of Charles Darwin, volume 10: 1862 |access-date=6 March 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100605110829/http://www.darwinproject.ac.uk/correspondence-volume-10 |archive-date=5 June 2010  }}&lt;/ref&gt;&lt;ref name=browne142&gt;{{harvnb|Browne|2002|pp=142–144}}&lt;/ref&gt; He remained unsatisfied until a translation by Edmond Barbier was published in 1876.&lt;ref name="Freeman 1977"/&gt; A Dutch translation by [[Tiberius Cornelis Winkler]] was published in 1860.&lt;ref&gt;Ch. Darwin, ''Het ontstaan der soorten van dieren en planten door middel van de natuurkeus of het bewaard blijven van bevoorregte rassen in de strijd des levens'', transl. by [[Tiberius Cornelis Winkler|T.C. Winkler]] (Haarlem 1860) Source: ''[http://api.ning.com/files/aT0Fpi7QEAJXZty6RRr0*ayjT5aN-CLIR1HAnom7DRBt*Z64Ko2B*I88LPx*h2otwLvz5Vp*IKVqHQunTD*sItKN3P7MUMve/TeylerWinklerDarwin.doc Teyler, Winkler, Darwin] {{Webarchive|url=https://web.archive.org/web/20111202091528/http://api.ning.com/files/aT0Fpi7QEAJXZty6RRr0*ayjT5aN-CLIR1HAnom7DRBt*Z64Ko2B*I88LPx*h2otwLvz5Vp*IKVqHQunTD*sItKN3P7MUMve/TeylerWinklerDarwin.doc |date=2 December 2011 }}'' Lecture by [http://teylersmuseum.ning.com/profiles/blogs/142-teyler-winkler-darwin Marijn van Hoorn] MA at the Congress of the European Botanical and Horticultural Libraries Group, Prague, 23 April 2009&lt;/ref&gt; By 1864, additional translations had appeared in Italian and Russian.&lt;ref name=browne256&gt;{{harvnb|Browne|2002|pp=256–259}}&lt;/ref&gt; In Darwin's lifetime, ''Origin'' was published in Swedish in 1871,&lt;ref&gt;{{cite web|title=Freeman Bibliographic Database|url=http://darwin-online.org.uk/content/record?itemID=F793}}&lt;/ref&gt; Danish in 1872, Polish in 1873, Hungarian in 1873–1874, Spanish in 1877 and Serbian in 1878. By 1977, ''Origin'' had appeared in an additional 18 languages,&lt;ref name=free83&gt;{{harvnb|Freeman|1977|pp=[http://darwin-online.org.uk/content/frameset?pageseq=84&amp;itemID=A1&amp;viewtype=text 83, 100–111]}}&lt;/ref&gt; including Chinese by Ma Chün-wu who added non-Darwinian ideas; he published the preliminaries and chapters 1–5 in 1902–1904, and his complete translation in 1920.&lt;ref name=free101&gt;{{harvnb|Freeman|1977|p=[http://darwin-online.org.uk/content/frameset?pageseq=101&amp;itemID=A1&amp;viewtype=text 100]}}&lt;/ref&gt;&lt;ref name="Jin 2018"&gt;{{cite journal | last=Jin | first=Xiaoxing | title=Translation and transmutation: the Origin of Species in China | journal=The British Journal for the History of Science | volume=52 | issue=1 | date=2018 | doi=10.1017/s0007087418000808 | pmid=30587253 | pages=117–141| s2cid=58605626 }}&lt;/ref&gt;
+
+==Content==
+
+===Title pages and introduction===
+[[File:Image-Rhea Darwinii1.jpg|thumb|right|[[John Gould]]'s illustration of [[Darwin's rhea]] was published in 1841. The existence of two rhea species with overlapping ranges influenced Darwin.]]
+
+Page ii contains quotations by [[William Whewell]] and [[Francis Bacon]] on the theology of [[Physical law|natural laws]],&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=side&amp;pageseq=7 ii]}}&lt;/ref&gt; harmonising science and religion in accordance with [[Isaac Newton]]'s belief in a rational God who established a law-abiding cosmos.&lt;ref name=scicreate&gt;{{harvnb|Phipps|1983}}&lt;/ref&gt; In the second edition, Darwin added an epigraph from [[Joseph Butler]] affirming that God could work through scientific laws as much as through [[miracles]], in a nod to the religious concerns of his oldest friends.&lt;ref name=b95&gt;{{harvnb|Browne|2002|pp=95–96}}&lt;/ref&gt; The ''Introduction'' establishes Darwin's credentials as a naturalist and author,&lt;ref&gt;{{harvnb|Secord|2000|p=510}}&lt;/ref&gt; then refers to [[John Herschel]]'s letter suggesting that the origin of species "would be found to be a natural in contradistinction to a miraculous process":&lt;ref&gt;{{harvnb|van Wyhe|2007|p=197}}&lt;/ref&gt;
+
+&lt;blockquote&gt;
+WHEN on board HMS ''Beagle'', as naturalist, I was much struck with certain facts in the distribution of the inhabitants of South America, and in the geological relations of the present to the past inhabitants of that continent. These facts seemed to me to throw some light on the origin of species—that mystery of mysteries, as it has been called by one of our greatest philosophers.&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=16 1]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Darwin refers specifically to the distribution of the species [[rheas]], and to that of the [[Galápagos tortoise]]s and [[mockingbird]]s. He mentions his years of work on his theory, and the arrival of Wallace at the same conclusion, which led him to "publish this Abstract" of his incomplete work. He outlines his ideas, and sets out the essence of his theory:
+&lt;blockquote&gt;
+As many more individuals of each species are born than can possibly survive; and as, consequently, there is a frequently recurring struggle for existence, it follows that any being, if it vary however slightly in any manner profitable to itself, under the complex and sometimes varying conditions of life, will have a better chance of surviving, and thus be naturally selected. From the strong principle of inheritance, any selected variety will tend to propagate its new and modified form.&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=20 5]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Starting with the third edition, Darwin prefaced the introduction with a sketch of the historical development of evolutionary ideas.&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=1}}&lt;/ref&gt; In that sketch he acknowledged that [[Patrick Matthew]] had, unknown to Wallace or himself, anticipated the concept of natural selection in an appendix to a book published in 1831;&lt;ref&gt;{{harvnb|Darwin|1861|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F381&amp;pageseq=20 xiii]}}&lt;/ref&gt; in the fourth edition he mentioned that [[William Charles Wells]] had done so as early as 1813.&lt;ref&gt;{{harvnb|Darwin|1866|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F385&amp;pageseq=21 xiv–xv]}}&lt;/ref&gt;
+
+===Variation under domestication and under nature===
+Chapter I covers [[animal husbandry]] and [[plant breeding]], going back to [[ancient Egypt]]. Darwin discusses contemporary opinions on the origins of different breeds under cultivation to argue that many have been produced from common ancestors by [[selective breeding]].&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=7}}&lt;/ref&gt; As an illustration of [[artificial selection]], he describes [[fancy pigeon]] breeding,&lt;ref name=q184/&gt; noting that "[t]he diversity of the breeds is something astonishing", yet all were descended from one species of [[rock pigeon]].&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=35 20–28]}}&lt;/ref&gt; Darwin saw two distinct kinds of variation: (1) rare abrupt changes he called "sports" or "monstrosities" (example: [[Ancon sheep]] with short legs), and (2) ubiquitous small differences (example: slightly shorter or longer bill of pigeons).&lt;ref name=rez&gt;David Reznick (2009) ''The Origin Then and Now'', Princeton University Press, p.49.&lt;/ref&gt; Both types of hereditary changes can be used by breeders. However, for Darwin the small changes were most important in evolution. In this chapter Darwin expresses his erroneous belief that environmental change is necessary to generate variation.&lt;ref&gt;Winther, Rasmus G. (2000), "Darwin on Variation and heredity", Journal of the History of Biology" '''33''', pp. 425-455&lt;/ref&gt;
+
+In Chapter II, Darwin specifies that the distinction between [[species]] and [[Variety (biology)|varieties]] is arbitrary, with experts disagreeing and changing their decisions when new forms were found. He concludes that "a well-marked variety may be justly called an incipient species" and that "species are only strongly marked and permanent varieties".&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=59 44–59 Chap. II]}}&lt;/ref&gt; He argues for the ubiquity of variation in nature.&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=44}}&lt;/ref&gt; Historians have noted that naturalists had long been aware that the individuals of a species differed from one another, but had generally considered such variations to be limited and unimportant deviations from the [[archetype]] of each species, that archetype being a fixed ideal in the mind of God. Darwin and Wallace made variation among individuals of the same species central to understanding the natural world.&lt;ref name=q184&gt;{{harvnb|Quammen|2006|pp=184–186}}&lt;/ref&gt;
+
+===Struggle for existence, natural selection, and divergence===
+In Chapter III, Darwin asks how varieties "which I have called incipient species" become distinct species, and in answer introduces the key concept he calls "[[natural selection]]";&lt;ref name=dar5960&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=75 60–61 Chap. III]}}&lt;/ref&gt; in the fifth edition he adds, "But the expression often used by Mr. [[Herbert Spencer]], of the [[Survival of the Fittest]], is more accurate, and is sometimes equally convenient."&lt;ref&gt;{{harvnb|Darwin|1869|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F387&amp;pageseq=101 72]}}&lt;/ref&gt;
+&lt;blockquote&gt;
+Owing to this struggle for life, any variation, however slight and from whatever cause proceeding, if it be in any degree profitable to an individual of any species, in its infinitely complex relations to other organic beings and to external nature, will tend to the preservation of that individual, and will generally be inherited by its offspring ... I have called this principle, by which each slight variation, if useful, is preserved, by the term of Natural Selection, in order to mark its relation to man's power of selection.&lt;ref name=dar5960/&gt;
+&lt;/blockquote&gt;
+
+He notes that both [[Augustin Pyramus de Candolle|A. P. de Candolle]] and [[Charles Lyell]] had stated that all organisms are exposed to severe competition. Darwin emphasizes that he used the phrase "[[The struggle for existence|struggle for existence]]" in "a large and metaphorical sense, including dependence of one being on another"; he gives examples ranging from plants struggling against drought to plants competing for birds to eat their fruit and disseminate their seeds. He describes the struggle resulting from population growth: "It is the doctrine of Malthus applied with manifold force to the whole animal and vegetable kingdoms." He discusses checks to such increase including complex [[ecology|ecological]] interdependencies, and notes that competition is most severe between closely related forms "which fill nearly the same place in the economy of nature".&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=77 62–76]}}&lt;/ref&gt;
+
+Chapter IV details natural selection under the "infinitely complex and close-fitting&amp;nbsp;... mutual relations of all organic beings to each other and to their physical conditions of life".&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=95 80]}}&lt;/ref&gt; Darwin takes as an example a country where a change in conditions led to extinction of some species, immigration of others and, where suitable variations occurred, descendants of some species became adapted to new conditions. He remarks that the artificial selection practised by animal breeders frequently produced sharp divergence in character between breeds, and suggests that natural selection might do the same, saying:
+&lt;blockquote&gt;
+But how, it may be asked, can any analogous principle apply in nature? I believe it can and does apply most efficiently, from the simple circumstance that the more diversified the descendants from any one species become in structure, constitution, and habits, by so much will they be better enabled to seize on many and widely diversified places in the polity of nature, and so be enabled to increase in numbers.&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=127 112]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+Historians have remarked that here Darwin anticipated the modern concept of an [[ecological niche]].&lt;ref&gt;{{harvnb|Quammen|2006|p=189}}&lt;/ref&gt; He did not suggest that every favourable variation must be selected, nor that the favoured animals were better or higher, but merely more adapted to their surroundings.
+
+[[File:Darwin divergence.jpg|thumb|350px|This tree diagram, used to show the divergence of species, is the only illustration in the ''Origin of Species''.]]
+
+Darwin proposes [[sexual selection]], driven by competition between males for mates, to explain [[sexual dimorphism|sexually dimorphic]] features such as lion manes, deer antlers, peacock tails, bird songs, and the bright plumage of some male birds.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=102 87–101]}}&lt;/ref&gt; He analysed sexual selection more fully in ''[[The Descent of Man, and Selection in Relation to Sex]]'' (1871). Natural selection was expected to work very slowly in forming new species, but given the effectiveness of artificial selection, he could "see no limit to the amount of change, to the beauty and infinite complexity of the coadaptations between all organic beings, one with another and with their physical conditions of life, which may be effected in the long course of time by nature's power of selection". Using a [[Phylogenetic tree|tree diagram]] and calculations, he indicates the "divergence of character" from original species into new species and genera. He describes branches falling off as extinction occurred, while new branches formed in "the great [[Tree of life (science)|Tree of life]]&amp;nbsp;... with its ever branching and beautiful ramifications".&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=133 117–130]}}&lt;/ref&gt;
+
+===Variation and heredity===
+In Darwin's time there was no agreed-upon model of [[heredity]];&lt;ref&gt;{{harvnb|Larson|2004|p=85}}&lt;/ref&gt; in Chapter I Darwin admitted, "The laws governing inheritance are quite unknown."&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=28 13]}}&lt;/ref&gt; He accepted a version of the inheritance of acquired characteristics (which after Darwin's death came to be called [[Lamarckism]]), and Chapter V discusses what he called the effects of use and disuse; he wrote that he thought "there can be little doubt that use in our domestic animals strengthens and enlarges certain parts, and disuse diminishes them; and that such modifications are inherited", and that this also applied in nature.&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=152 134]}}&lt;/ref&gt; Darwin stated that some changes that were commonly attributed to use and disuse, such as the loss of functional wings in some island-dwelling insects, might be produced by natural selection. In later editions of ''Origin'', Darwin expanded the role attributed to the inheritance of acquired characteristics. Darwin also admitted ignorance of the source of inheritable variations, but speculated they might be produced by environmental factors.&lt;ref&gt;{{harvnb|Larson|2004|pp=86–87}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=149 131–150]}}&lt;/ref&gt; However, one thing was clear: whatever the exact nature and causes of new variations, Darwin knew from observation and experiment that breeders were able to select such variations and produce huge differences in many generations of selection.&lt;ref name=rez /&gt; The ''observation'' that selection works in domestic animals is not destroyed by lack of ''understanding'' of the underlying hereditary mechanism.
+
+Breeding of animals and plants showed related varieties varying in similar ways, or tending to revert to an ancestral form, and similar patterns of variation in distinct species were explained by Darwin as demonstrating [[common descent]]. He recounted how [[Lord Morton's mare]] apparently demonstrated [[telegony (pregnancy)|telegony]], offspring inheriting characteristics of a previous mate of the female parent, and accepted this process as increasing the variation available for natural selection.&lt;ref&gt;{{Harvnb|Quammen|2006|pp=159–167}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=177 159–167]}}&lt;/ref&gt;
+
+More detail was given in Darwin's 1868 book on ''[[The Variation of Animals and Plants Under Domestication]]'', which tried to explain heredity through his hypothesis of [[pangenesis]]. Although Darwin had privately questioned [[blending inheritance]], he struggled with the theoretical difficulty that novel individual variations would tend to blend into a population. However, inherited variation could be seen,&lt;ref name="flowering of genetics"&gt;{{cite web |url=https://www.theguardian.com/books/2003/feb/08/peopleinscience.evolution |title=An early flowering of genetics, Books |author=Richard Dawkins |author-link=Richard Dawkins |date=8 February 2003 |work=The Guardian |location=UK |access-date=24 October 2010}}&lt;/ref&gt; and Darwin's concept of selection working on a population with a range of small variations was workable.&lt;ref name="Bowler 200"&gt;{{Harvnb|Bowler|2003|pp=200–201}}&lt;/ref&gt; It was not until the [[Extended evolutionary synthesis|modern evolutionary synthesis]] in the 1930s and 1940s that a model of heredity became completely integrated with a model of variation.&lt;ref&gt;{{Harvnb|Bowler|1989}}&lt;/ref&gt; This modern evolutionary synthesis had been dubbed Neo Darwinian Evolution because it encompasses [[Charles Darwin]]'s theories of evolution with [[Gregor Mendel]]'s theories of genetic inheritance.&lt;ref&gt;McBride, P. D., Gillman, L. N., &amp; Wright, S. D. (2009). Current debates on the origin of species. Journal of Biological Education, 43(3), 104–107.&lt;/ref&gt;
+
+===Difficulties for the theory===
+Chapter VI begins by saying the next three chapters will address possible objections to the theory, the first being that often no intermediate forms between closely related species are found, though the theory implies such forms must have existed. As Darwin noted, "Firstly, why, if species have descended from other species by insensibly fine gradations, do we not everywhere see innumerable transitional forms?  Why is not all nature in confusion, instead of the species being, as we see them, well defined?"&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=189 171]}}&lt;/ref&gt; Darwin attributed this to the competition between different forms, combined with the small number of individuals of intermediate forms, often leading to extinction of such forms.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=189 171–178]}}&lt;/ref&gt; This difficulty can be referred to as the absence or rarity of transitional varieties in habitat space.
+
+Another difficulty, related to the first one, is the absence or rarity of transitional varieties in time. Darwin commented that by the theory of natural selection "innumerable transitional forms must have existed," and wondered "why do we not find them embedded in countless numbers in the crust of the earth?"&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=189 172]}}&lt;/ref&gt; (For further discussion of these difficulties, see [[Speciation#Darwin's dilemma: Why do species exist?]] and Bernstein et al.&lt;ref&gt;{{cite journal |author1=Bernstein H. |author2=Byerly H.C. |author3=Hopf F.A. |author4=Michod R.E. |title=Sex and the emergence of species |journal=J. Theor. Biol. |volume=117 |issue=4 |pages=665–90 |date=December 1985 |pmid=4094459 |doi= 10.1016/S0022-5193(85)80246-0}}&lt;/ref&gt; and Michod.&lt;ref&gt;{{cite book |author=Michod, Richard E. |title=Eros and evolution: a natural philosophy of sex |publisher=Addison-Wesley Pub. Co |location=Reading, Mass |year=1995 |isbn=0-201-44232-9 |url-access=registration |url=https://archive.org/details/erosevolutionnat0000mich }}&lt;/ref&gt;)
+
+The chapter then deals with whether natural selection could produce complex specialised structures, and the behaviours to use them, when it would be difficult to imagine how intermediate forms could be functional. Darwin said:
+&lt;blockquote&gt;
+Secondly, is it possible that an animal having, for instance, the structure and habits of a bat, could have been formed by the modification of some animal with wholly different habits? Can we believe that natural selection could produce, on the one hand, organs of trifling importance, such as the tail of a giraffe, which serves as a fly-flapper, and, on the other hand, organs of such wonderful structure, as the eye, of which we hardly as yet fully understand the inimitable perfection?&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=189 171–172]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+His answer was that in many cases animals exist with intermediate structures that are functional. He presented [[flying squirrels]], and [[flying lemurs]] as examples of how bats might have evolved from non-flying ancestors.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=198 180–181]}}&lt;/ref&gt; He discussed various simple eyes found in invertebrates, starting with nothing more than an optic nerve coated with pigment, as examples of how the [[evolution of the eye|vertebrate eye could have evolved]]. Darwin concludes: "If it could be demonstrated that any complex organ existed, which could not possibly have been formed by numerous, successive, slight modifications, my theory would absolutely break down. But I can find out no such case."&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=205 187–190]}}&lt;/ref&gt;
+
+In a section on "organs of little apparent importance", Darwin discusses the difficulty of explaining various seemingly trivial traits with no evident adaptive function, and outlines some possibilities such as correlation with useful features. He accepts that we "are profoundly ignorant of the causes producing slight and unimportant variations" which distinguish [[Domestication|domesticated]] breeds of animals,&lt;ref&gt;{{harvnb|Darwin|Costa|2009|pp=194–199}}&lt;br&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?pageseq=215&amp;itemID=F373&amp;viewtype=text 197–199]}}, Quote: "We are profoundly ignorant of the causes producing slight and unimportant variations; and we are immediately made conscious of this by reflecting on the differences in the breeds of our domesticated animals in different countries"&lt;/ref&gt; and [[Race (human categorization)|human races]]. He suggests that [[sexual selection]] might explain these variations:&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=199}}&lt;br&gt;{{Harvnb|Darwin|1874|p=[http://darwin-online.org.uk/content/frameset?pageseq=13&amp;itemID=F944&amp;viewtype=text vi]}}, Quote: "… I gave, however, a tolerably clear sketch of this principle in the first edition of the 'Origin of Species,' and I there stated that it was applicable to man."&lt;/ref&gt;{{sfn|Desmond|Moore|2009|p=310}}
+&lt;blockquote&gt;
+I might have adduced for this same purpose the differences between the races of man, which are so strongly marked; I may add that some little light can apparently be thrown on the origin of these differences, chiefly through sexual selection of a particular kind, but without here entering on copious details my reasoning would appear frivolous.&lt;ref name="OTOoS 199"&gt;{{Harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?pageseq=217&amp;itemID=F373&amp;viewtype=text 199]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Chapter VII (of the first edition) addresses the evolution of instincts. His examples included two he had investigated experimentally: [[slave-making ant]]s and the construction of hexagonal cells by honey bees. Darwin noted that some species of slave-making ants were more dependent on slaves than others, and he observed that many ant species will collect and store the pupae of other species as food. He thought it reasonable that species with an extreme dependency on slave workers had evolved in incremental steps. He suggested that bees that make hexagonal cells evolved in steps from bees that made round cells, under pressure from natural selection to economise wax. Darwin concluded:
+&lt;blockquote&gt;
+Finally, it may not be a logical deduction, but to my imagination it is far more satisfactory to look at such instincts as the young cuckoo ejecting its foster-brothers, —ants making slaves, —the larvæ of ichneumonidæ feeding within the live bodies of caterpillars, —not as specially endowed or created instincts, but as small consequences of one general law, leading to the advancement of all organic beings, namely, multiply, vary, let the strongest live and the weakest die.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=261 243–244]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Chapter VIII addresses the idea that species had special characteristics that prevented hybrids from being fertile in order to preserve separately created species. Darwin said that, far from being constant, the difficulty in producing hybrids of related species, and the viability and fertility of the hybrids, varied greatly, especially among plants. Sometimes what were widely considered to be separate species produced fertile hybrid offspring freely, and in other cases what were considered to be mere varieties of the same species could only be crossed with difficulty. Darwin concluded: "Finally, then, the facts briefly given in this chapter do not seem to me opposed to, but even rather to support the view, that there is no fundamental distinction between species and varieties."&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=263 245–278]}}&lt;/ref&gt;
+
+In the sixth edition Darwin inserted a new chapter VII (renumbering the subsequent chapters) to respond to criticisms of earlier editions, including the objection that many features of organisms were not adaptive and could not have been produced by natural selection. He said some such features could have been by-products of adaptive changes to other features, and that often features seemed non-adaptive because their function was unknown, as shown by his book on ''[[Fertilisation of Orchids]]'' that explained how their elaborate structures facilitated pollination by insects. Much of the chapter responds to [[George Jackson Mivart]]'s criticisms, including his claim that features such as [[baleen]] filters in whales, [[flatfish]] with both eyes on one side and the camouflage of [[Phasmatodea|stick insects]] could not have evolved through natural selection because intermediate stages would not have been adaptive. Darwin proposed scenarios for the incremental evolution of each feature.&lt;ref&gt;{{harvnb|Darwin|1872|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F391&amp;pageseq=196 168–205]}}&lt;/ref&gt;
+
+===Geological record===
+Chapter IX deals with the fact that the [[geological record]] appears to show forms of life suddenly arising, without the innumerable [[transitional fossil]]s expected from gradual changes. Darwin borrowed [[Charles Lyell]]'s argument in ''[[Principles of Geology]]'' that the record is extremely imperfect as [[fossil]]isation is a very rare occurrence, spread over vast periods of time; since few areas had been geologically explored, there could only be fragmentary knowledge of [[Formation (stratigraphy)|geological formations]], and fossil collections were very poor. Evolved local varieties which migrated into a wider area would seem to be the sudden appearance of a new species. Darwin did not expect to be able to reconstruct evolutionary history, but continuing discoveries gave him well-founded hope that new finds would occasionally reveal transitional forms.&lt;ref name=bowl182&gt;{{harvnb|Bowler|2003|p=182}}&lt;/ref&gt;&lt;ref name=punkeek&gt;{{Citation |url=http://www.talkorigins.org/faqs/punc-eq.html#pe-vs-pg |title=Punctuated Equilibria |author=Wesley R. Elsberry |author-link=Wesley R. Elsberry |year=1996 |access-date=30 April 2009}}&lt;/ref&gt; To show that there had been enough time for natural selection to work slowly, he cited the example of [[Weald Basin|The Weald]] as discussed in  ''Principles of Geology'' together with other observations from [[Hugh Miller]], [[James Smith of Jordanhill]] and [[Andrew Ramsay (geologist)|Andrew Ramsay]]. Combining this with an estimate of recent rates of sedimentation and erosion, Darwin calculated that erosion of The Weald had taken around 300 million years.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=300 282–287]}}&lt;/ref&gt; The initial appearance of entire groups of well-developed organisms in the oldest fossil-bearing layers, now known as the [[Cambrian explosion]], posed a problem. Darwin had no doubt that earlier seas had swarmed with living creatures, but stated that he had no satisfactory explanation for the lack of fossils.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=324 306–308]}}&lt;/ref&gt; Fossil evidence of [[pre-Cambrian]] life has since been found, extending the history of life back for billions of years.&lt;ref&gt;{{Harvnb|Schopf|2000}}&lt;/ref&gt;
+
+Chapter X examines whether patterns in the fossil record are better explained by common descent and branching evolution through natural selection, than by the individual creation of fixed species. Darwin expected species to change slowly, but not at [[phyletic gradualism|the same rate]] – some organisms such as ''[[Lingula (genus)|Lingula]]'' were unchanged since the earliest fossils. The pace of natural selection would depend on variability and change in the environment.&lt;ref name=darX/&gt; This distanced his theory from [[Lamarckism|Lamarckian]] laws of inevitable progress.&lt;ref name=bowl182/&gt; It has been argued that this anticipated the [[punctuated equilibrium]] hypothesis,&lt;ref name=punkeek/&gt;&lt;ref&gt;{{harvnb|Rhodes|1987}}&lt;/ref&gt; but other scholars have preferred to emphasise Darwin's commitment to gradualism.&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=108}}&lt;/ref&gt; He cited [[Richard Owen]]'s findings that the earliest members of a class were a few simple and generalised species with characteristics intermediate between modern forms, and were followed by increasingly diverse and specialised forms, matching the branching of common descent from an ancestor.&lt;ref name=bowl182/&gt; Patterns of extinction matched his theory, with related groups of species having a continued existence until extinction, then not reappearing. Recently extinct species were more similar to living species than those from earlier eras, and as he had seen in South America, and [[William Clift]] had shown in Australia, fossils from recent geological periods resembled species still living in the same area.&lt;ref name=darX&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=330 312–345]}}&lt;/ref&gt;
+
+===Geographic distribution===
+Chapter XI deals with evidence from [[biogeography]], starting with the observation that differences in flora and fauna from separate regions cannot be explained by environmental differences alone; South America, Africa, and Australia all have regions with similar climates at similar latitudes, but those regions have very different plants and animals. The species found in one area of a continent are more closely allied with species found in other regions of that same continent than to species found on other continents. Darwin noted that barriers to migration played an important role in the differences between the species of different regions. The coastal sea life of the Atlantic and Pacific sides of Central America had almost no species in common even though the [[Isthmus of Panama]] was only a few miles wide. His explanation was a combination of migration and descent with modification. He went on to say: "On this principle of inheritance with modification, we can understand how it is that sections of genera, whole genera, and even families are confined to the same areas, as is so commonly and notoriously the case."&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=368 350–351]}}&lt;/ref&gt; Darwin explained how a volcanic island formed a few hundred miles from a continent might be colonised by a few species from that continent. These species would become modified over time, but would still be related to species found on the continent, and Darwin observed that this was a common pattern. Darwin discussed ways that species could be dispersed across oceans to colonise islands, many of which he had investigated experimentally.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=364 346–382]}}&lt;/ref&gt;
+
+Chapter XII continues the discussion of biogeography. After a brief discussion of freshwater species, it returns to oceanic islands and their peculiarities; for example on some islands roles played by mammals on continents were played by other animals such as flightless birds or reptiles. The summary of both chapters says:
+
+&lt;blockquote&gt;
+...&amp;nbsp;I think all the grand leading facts of geographical distribution are explicable on the theory of migration (generally of the more dominant forms of life), together with subsequent modification and the multiplication of new forms. We can thus understand the high importance of barriers, whether of land or water, which separate our several zoological and botanical provinces. We can thus understand the localisation of sub-genera, genera, and families; and how it is that under different latitudes, for instance in South America, the inhabitants of the plains and mountains, of the forests, marshes, and deserts, are in so mysterious a manner linked together by affinity, and are likewise linked to the extinct beings which formerly inhabited the same continent&amp;nbsp;... On these same principles, we can understand, as I have endeavoured to show, why oceanic islands should have few inhabitants, but of these a great number should be endemic or peculiar;&amp;nbsp;...&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=426 408–409]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+===Classification, morphology, embryology, rudimentary organs===
+Chapter XIII starts by observing that classification depends on species being grouped together in a ''[[Taxonomy (biology)|Taxonomy]]'', a multilevel system of groups and sub-groups based on varying degrees of resemblance. After discussing classification issues, Darwin concludes:
+
+&lt;blockquote&gt;
+All the foregoing rules and aids and difficulties in classification are explained, if I do not greatly deceive myself, on the view that the natural system is founded on descent with modification; that the characters which naturalists consider as showing true affinity between any two or more species, are those which have been inherited from a common parent, and, in so far, all true classification is genealogical; that community of descent is the hidden bond which naturalists have been unconsciously seeking,&amp;nbsp;...&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=438 420]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Darwin discusses [[morphology (biology)|morphology]], including the importance of [[homology (biology)|homologous structures]]. He says, "What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging, the leg of the horse, the paddle of the porpoise, and the wing of the bat, should all be constructed on the same pattern, and should include the same bones, in the same relative positions?" This made no sense under doctrines of independent creation of species, as even [[Richard Owen]] had admitted, but the "explanation is manifest on the theory of the natural selection of successive slight modifications" showing [[common descent]].&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=452 434–435]}}&lt;/ref&gt; He notes that animals of the same class often have extremely similar [[embryology|embryos]]. Darwin discusses rudimentary organs, such as the wings of flightless birds and the rudiments of pelvis and leg bones found in some snakes. He remarks that some rudimentary organs, such as teeth in [[baleen whales]], are found only in embryonic stages.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?pageseq=468&amp;itemID=F373&amp;viewtype=text 450–451]}}&lt;/ref&gt; These factors also supported his theory of descent with modification.&lt;ref name=wyhe/&gt;
+
+===Concluding remarks===
+The final chapter, "Recapitulation and Conclusion", reviews points from earlier chapters, and Darwin concludes by hoping that his theory might produce revolutionary changes in many fields of natural history.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?pageseq=502&amp;itemID=F373&amp;viewtype=text 484–488]}}, Quote: "When the views entertained in this volume on the origin of species, or when analogous views are generally admitted, we can dimly foresee that there will be a considerable revolution in natural history. ..."&lt;/ref&gt; He suggests that psychology will be put on a new foundation and implies the relevance of his theory to the [[Human evolution|first appearance of humanity]] with the sentence that "Light will be thrown on the origin of man and his history."&lt;ref name=wyhe/&gt;&lt;ref&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=506 488]}}&lt;br&gt;{{Harvnb|Darwin|1871|p=[http://darwin-online.org.uk/content/frameset?pageseq=14&amp;itemID=F937.1&amp;viewtype=text 1]}}, Quote: "… this implies that man must be included with other organic beings in any general conclusion respecting his manner of appearance on this earth."&lt;/ref&gt; Darwin ends with a passage that became well known and much quoted:
+
+&lt;blockquote&gt;
+It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us ... Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.&lt;ref&gt;{{harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=507 489–490]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Darwin added the phrase "by the Creator" from the 1860 second edition onwards, so that the ultimate sentence begins "There is grandeur in this view of life, with its several powers, having been originally breathed by the Creator into a few forms or into one".&lt;ref name="2nd edn p 190" /&gt;
+
+==Structure, style, and themes==
+
+===Nature and structure of Darwin's argument===
+Darwin's aims were twofold: to show that species had not been separately created, and to show that [[natural selection]] had been the chief agent of change.&lt;ref&gt;{{harvnb|Darwin|1871|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F937.1&amp;pageseq=165 152]}}&lt;/ref&gt; He knew that his readers were already familiar with the concept of transmutation of species from ''[[Vestiges of the Natural History of Creation|Vestiges]]'', and his introduction ridicules that work as failing to provide a viable mechanism.&lt;ref name=sec/&gt; Therefore, the first four chapters lay out his case that selection in nature, caused by the struggle for existence, is analogous to the selection of variations under domestication, and that the accumulation of adaptive variations provides a scientifically testable mechanism for evolutionary [[speciation]].&lt;ref&gt;{{harvnb|Quammen|2006|pp=183–188}}&lt;/ref&gt;&lt;ref name=bowl180&gt;{{harvnb|Bowler|2003|pp=180–181}}&lt;/ref&gt;
+
+Later chapters provide evidence that evolution has occurred, supporting the idea of branching, adaptive evolution without directly proving that selection is the mechanism. Darwin presents supporting facts drawn from many disciplines, showing that his theory could explain a myriad of observations from many fields of natural history that were inexplicable under the alternative concept that species had been individually created.&lt;ref name=bowl180/&gt;&lt;ref&gt;{{Harvnb|Quammen|2006|pp=190, 200–201}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Larson|2004|pp=88–89}}&lt;/ref&gt; The structure of Darwin's argument showed the influence of [[John Herschel]], whose philosophy of science maintained that a mechanism could be called a ''vera causa'' (true cause) if three things could be demonstrated: its existence in nature, its ability to produce the effects of interest, and its ability to explain a wide range of observations.&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=xvii}}&lt;/ref&gt;
+
+===Literary style===
+The ''Examiner'' review of 3 December 1859 commented, "Much of Mr. Darwin's volume is what ordinary readers would call 'tough reading;' that is, writing which to comprehend requires concentrated attention and some preparation for the task. All, however, is by no means of this description, and many parts of the book abound in information, easy to comprehend and both instructive and entertaining."&lt;ref name=sec/&gt;&lt;ref&gt;{{Harvnb|Crawford|1859}}&lt;/ref&gt;
+
+While the book was readable enough to sell, its dryness ensured that it was seen as aimed at specialist scientists and could not be dismissed as mere journalism or imaginative fiction. Unlike the still-popular ''Vestiges'', it avoided the narrative style of the historical novel and cosmological speculation, though the closing sentence clearly hinted at cosmic progression. Darwin had long been immersed in the literary forms and practices of specialist science, and made effective use of his skills in structuring arguments.&lt;ref name=sec&gt;{{harvnb|Secord|2000|pp=508–511}}&lt;/ref&gt; [[David Quammen]] has described the book as written in everyday language for a wide audience, but noted that Darwin's literary style was uneven: in some places he used convoluted sentences that are difficult to read, while in other places his writing was beautiful. Quammen advised that later editions were weakened by Darwin making concessions and adding details to address his critics, and recommended the first edition.&lt;ref&gt;{{harvnb|Quammen|2006|pp=176–181}}&lt;/ref&gt; James T. Costa said that because the book was an abstract produced in haste in response to Wallace's essay, it was more approachable than the big book on natural selection Darwin had been working on, which would have been encumbered by scholarly footnotes and much more technical detail. He added that some parts of ''Origin'' are dense, but other parts are almost lyrical, and the case studies and observations are presented in a narrative style unusual in serious scientific books, which broadened its audience.&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=ix}}&lt;/ref&gt;
+
+=== Human evolution ===
+From his early transmutation notebooks in the late 1830s onwards, Darwin considered [[human evolution]] as part of the natural processes he was investigating,&lt;ref name=JC_51 /&gt; and rejected divine intervention.&lt;ref&gt;{{harvnb|Browne|2007|p=42}}, quoting [http://darwin-online.org.uk/content/frameset?pageseq=172&amp;itemID=CUL-DAR122.-&amp;viewtype=text Darwin, C. R. Notebook C] (February to July 1838) pp. 196–197 "Man in his arrogance thinks himself a great work worthy the interposition of a deity, more humble &amp; I believe truer to consider him created from animals."&lt;/ref&gt; In 1856, his "big book on species" titled ''[[Natural Selection (manuscript)|Natural Selection]]'' was to include a "note on Man", but when Wallace enquired in December 1857, Darwin replied; "You ask whether I shall discuss 'man';—I think I shall avoid whole subject, as so surrounded with prejudices, though I fully admit that it is the highest &amp; most interesting problem for the naturalist."&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|pp=412–441, 457–458, 462–463}}&lt;br /&gt;{{harvnb|Desmond|Moore|2009|pp=283–284, 290–292, 295}}&lt;/ref&gt;&lt;ref name=Letter2192&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2192 |title= Letter 2192 – Darwin, C. R. to Wallace, A. R., 22 December 1857 |publisher=Darwin Correspondence Project }}&lt;/ref&gt;
+On 28 March 1859, with his manuscript for the book well under way, Darwin wrote to Lyell offering the suggested publisher [[John Murray III|John Murray]] assurances "That I do not discuss origin of man".&lt;ref name="Letter 2437" /&gt;{{sfn|Desmond|Moore|2009|p=306}}
+
+In the final chapter of ''On the Origin of Species'', "[[#Concluding remarks|Recapitulation and Conclusion]]", Darwin briefly highlights the human implications of his theory:
+&lt;blockquote&gt; 
+"In the distant future I see open fields for far more important researches. Psychology will be based on a new foundation, that of the necessary acquirement of each mental power and capacity by gradation. Light will be thrown on the origin of man and his history."&lt;ref&gt;{{Harvnb|Darwin|1871|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F373&amp;pageseq=506 488]}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Discussing this in January 1860, Darwin assured Lyell that "by the sentence [Light will be thrown on the origin of man and his history] I show that I believe man is in same predicament with other animals.&lt;ref name="Letter 2647"&gt;{{cite web |url=http://www.darwinproject.ac.uk/DCP-LETT-2647 |title= Letter 2647 – Darwin, C. R. to Charles Lyell, 10 January (1860) |publisher=Darwin Correspondence Project|access-date=18 September 2017}}&lt;/ref&gt; Many modern writers have seen this sentence as Darwin’s only reference to humans in the book;&lt;ref name=JC_51 /&gt; [[Janet Browne]] describes it as his only discussion there of human origins, while noting that the book makes other references to humanity.&lt;ref&gt;For example, {{harvnb|Browne|2002|p=60}}, "In this book, he was completely silent on the subject of human origins, although he did refer in several places to mankind as an example of biological details. The only words he allowed himself—and these out of a sense of duty that he must somewhere refer to human beings–were gnomic in their brevity. 'Light will be thrown on the origin of man and his history'."&lt;/ref&gt;
+
+Some other statements in the book are quietly effective at pointing out the implication that humans are simply another species, evolving through the same processes and principles affecting other organisms. For example,&lt;ref name=JC_51&gt;{{cite book |last= Carroll |first= Joseph |date= 2003 |title= On the Origin of Species / Charles Darwin |url= https://books.google.com/books?id=eTfRotZTXI0C&amp;pg=PA51 |publisher= Broadview Press |pages= 51–52 |isbn= 1-55111-337-6 |author-link= Joseph Carroll (scholar)|quote=Following Darwin's lead, most commentators cite this one passage as the only reference to man in the ''Origin'', but they thus overlook, as did Darwin himself, two sentences that are, in their own quiet way, even more effective.}}&lt;/ref&gt; in Chapter III: "Struggle for Existence" Darwin includes "slow-breeding man" among other examples of [[Malthusian trap|Malthusian population growth]].&lt;ref&gt;{{Harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?pageseq=79&amp;itemID=F373&amp;viewtype=text 64]}}, Quote: "There is no exception to the rule that every organic being naturally increases at so high a rate, that if not destroyed, the earth would soon be covered by the progeny of a single pair. Even slow-breeding man has doubled in twenty-five years, and at this rate, in a few thousand years, there would literally not be standing room for his progeny."&lt;/ref&gt; In his discussions on [[Morphology (biology)|morphology]], Darwin compares and comments on bone structures that are [[Homology (biology)|homologous]] between humans and other mammals.&lt;ref&gt;{{Harvnb|van Wyhe|2008}}&lt;br&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?pageseq=452&amp;itemID=F373&amp;viewtype=text 434]}}, Quote: "What can be more curious than that the hand of a man, formed for grasping, that of a mole for digging, the leg of the horse, the paddle of the porpoise, and the wing of the bat, should all be constructed on the same pattern, and should include the same bones, in the same relative positions?"&lt;br&gt;{{harvnb|Darwin|1859|p=[http://darwin-online.org.uk/content/frameset?pageseq=497&amp;itemID=F373&amp;viewtype=text 479]}}, Quote: "The framework of bones being the same in the hand of a man, wing of a bat, fin of the porpoise, and leg of the horse … at once explain themselves on the theory of descent with slow and slight successive modifications."&lt;/ref&gt;
+
+Darwin's early notebooks discussed how non-adaptive characteristics could be selected when animals or humans chose mates,&lt;ref&gt;Darwin, C. R. Notebook C, CUL-DAR122.- Transcribed by Kees Rookmaaker. (Darwin Online), notes from de Beer, Gavin ed. 1960. Darwin's notebooks on transmutation of species. Part II. Second notebook [C] (February to July 1838). ''Bulletin of the British Museum (Natural History)''. Historical Series 2, No. 3 (May): pp. [http://darwin-online.org.uk/content/frameset?pageseq=5&amp;itemID=F1574b&amp;viewtype=text  79]&lt;/ref&gt; with [[Race (human classification)|races of humans]] differing over ideas of beauty.&lt;ref&gt;{{harvnb|Desmond|Moore|2009|pp=139–141}}, quotes "our acquiring the &lt;u&gt;instinct&lt;/u&gt; one notion of beauty &amp; negroes another" from Darwin, C. R. Notebook M : [Metaphysics on morals and speculations on expression (1838)]. CUL-DAR125.- Transcribed by Kees Rookmaaker, edited by Paul Barrett. (Darwin Online, p. [http://darwin-online.org.uk/content/frameset?pageseq=30&amp;itemID=CUL-DAR125.-&amp;viewtype=text 32]&lt;/ref&gt; In his 1856 notes responding to [[Robert Knox]]'s ''The Races of Man: A Fragment'', he called this effect [[sexual selection]].{{sfn|Richards|2017|pp=[https://books.google.com/books?id=PAF2DgAAQBAJ&amp;pg=PA315 315], [https://books.google.com/books?id=PAF2DgAAQBAJ&amp;pg=PA324 323–324]|ps=. Darwin concluded his notes on the ''Races of Men'': 'Fuegians &amp; Brazil, climate &amp; habits of life so different  good instance of how fixed races are, in face of very different external conditions. The slowness of any changes explained by constitutions selection &amp; sexual selection'.}} He added notes on sexual selection to  his "big book on species", and in mid-1857 he added a section heading "Theory applied to Races of Man", but did not add text on this topic.&lt;ref&gt;{{harvnb|Desmond|Moore|2009|pp=290–291}} Stauffer, R. C. ed. 1975. ''Charles Darwin's Natural Selection; being the second part of his big species book written from 1856 to 1858.'' Cambridge: Cambridge University Press. [http://darwin-online.org.uk/content/frameset?pageseq=228&amp;itemID=F1583&amp;viewtype=text p. 213] Chapter Vi On Natural Selection first draft, completed on 31 March 1857, [The outline of this original form of the chapter appears in the original table of contents] "63 [pencil addition] Theory applied to Races of Man."&lt;/ref&gt;
+
+In ''On the Origin of Species'', Chapter VI: "Difficulties on Theory", Darwin mentions this in the context of "slight and unimportant variations":&lt;ref name="OtOOS 197"&gt;{{Harvnb|Darwin|1859|pp=[http://darwin-online.org.uk/content/frameset?pageseq=215&amp;itemID=F373&amp;viewtype=text 197–199]}}&lt;/ref&gt; 
+&lt;blockquote&gt;
+I might have adduced for this same purpose the differences between the races of man, which are so strongly marked; I may add that some little light can apparently be thrown on the origin of these differences, chiefly through sexual selection of a particular kind, but without here entering on copious details my reasoning would appear frivolous."&lt;ref name="OtOOS 197" /&gt;
+&lt;/blockquote&gt;
+
+When Darwin published ''[[The Descent of Man, and Selection in Relation to Sex]]'' twelve years later, he said that he had not gone into detail on human evolution in the ''Origin'' as he thought that would "only add to the prejudices against my views". He had not completely avoided the topic:&lt;ref name="DOM 1"&gt;{{Harvnb|Darwin|1871|p=[http://darwin-online.org.uk/content/frameset?pageseq=14&amp;itemID=F937.1&amp;viewtype=text 1]}}, Quote: "During many years I collected notes on the origin or descent of man, without any intention of publishing on the subject, but rather with the determination not to publish, as I thought that I should thus only add to the prejudices against my views."&lt;/ref&gt;
+&lt;blockquote&gt;
+It seemed to me sufficient to indicate, in the first edition of my 'Origin of Species,' that by this work 'light would be thrown on the origin of man and his history;' and this implies that man must be included with other organic beings in any general conclusion respecting his manner of appearance on this earth.&lt;ref name="DOM 1" /&gt;&lt;ref&gt;See also {{Harvnb|Darwin|1958|pp=[http://darwin-online.org.uk/content/frameset?pageseq=136&amp;itemID=F1497&amp;viewtype=text 130–131]}}, Quote: "My ''Descent of Man'' was published in Feb. 1871. As soon as I had become, in the year 1837 or 1838, convinced that species were mutable productions, I could not avoid the belief that man must come under the same law. Accordingly I collected notes on the subject for my own satisfaction, and not for a long time with any intention of publishing. Although in the ''Origin of Species,'' the derivation of any particular species is never discussed, yet I thought it best, in order that no honourable man should accuse me of concealing my views, to add that by the work in question 'light would be thrown on the origin of man and his history.' It would have been useless and injurious to the success of the book to have paraded without giving any evidence my conviction with respect to his origin."&lt;/ref&gt;
+&lt;/blockquote&gt;
+He also said that he had "merely alluded" in that book to sexual selection differentiating human races.&lt;ref&gt;{{Harvnb|Darwin|1871|pp=[http://darwin-online.org.uk/content/frameset?pageseq=17&amp;itemID=F937.1&amp;viewtype=text 4–5]}}, Quote: "During many years it has seemed to me highly probable that sexual selection has played an important part in differentiating the races of man; but in my 'Origin of Species' (first edition, p. 199) I contented myself by merely alluding to this belief."&lt;/ref&gt;
+
+==Reception==
+{{See also|Reactions to On the Origin of Species}}
+[[File:Editorial cartoon depicting Charles Darwin as an ape (1871).jpg|thumb|150px|right|In the 1870s, British caricatures of Darwin with a non-human [[ape]] body contributed to the identification of [[evolutionism]] with [[Darwinism]].&lt;ref&gt;{{harvnb|Browne|2002|pp=376–379}}&lt;/ref&gt;]]
+The book aroused international interest&lt;ref name=wyhe48&gt;{{harvnb|van Wyhe|2008|pp=48–49}}&lt;/ref&gt; and a widespread debate, with no sharp line between scientific issues and ideological, social and religious implications.&lt;ref name=bowler177&gt;{{harvnb|Bowler|2003|pp=177–180}}&lt;/ref&gt; Much of the initial reaction was hostile, in a large part because very few reviewers actually understood his theory,&lt;ref&gt;[https://www.darwinproject.ac.uk/letters/darwins-life-letters/darwin-letters-1860-answering-critics Darwin in letters, 1860: Answering critics]&lt;/ref&gt; but Darwin had to be taken seriously as a prominent and respected name in science. [[Samuel Wilberforce]] wrote a review in ''Quarterly Review'' in 1860&lt;ref&gt;{{Cite web|url=http://darwin-online.org.uk/content/frameset?pageseq=2&amp;itemID=A19&amp;viewtype=side|title=review of] On the origin of species, by means of natural selection; or the preservation of favoured races in the struggle for life. By Charles Darwin, M. A., F.R.S. London, 1860. Quarterly Review 108: 225–264.|website=darwin-online.org.uk|access-date=2019-03-24}}&lt;/ref&gt; where he disagreed with Darwin's 'argument'. There was much less controversy than had greeted the 1844 publication ''[[Vestiges of Creation]]'', which had been rejected by scientists,&lt;ref name=wyhe48/&gt; but had influenced a wide public readership into believing that nature and human society were governed by natural laws.&lt;ref name=wyhe&gt;{{harvnb|van Wyhe|2009}}&lt;/ref&gt; The ''Origin of Species'' as a book of wide general interest became associated with ideas of social reform. Its proponents made full use of a surge in the publication of review journals, and it was given more popular attention than almost any other scientific work, though it failed to match the continuing sales of ''Vestiges''.&lt;ref&gt;{{harvnb|Browne|2002|pp=102–103}}&lt;/ref&gt; Darwin's book legitimised scientific discussion of evolutionary mechanisms, and the newly coined term '[[Darwinism]]' was used to cover the whole range of [[evolutionism]], not just his own ideas. By the mid-1870s, evolutionism was triumphant.&lt;ref name=bowler177/&gt;
+
+While Darwin had been somewhat coy about human origins, not identifying any explicit conclusion on the matter in his book, he had dropped enough hints about human's animal ancestry for the inference to be made,&lt;ref&gt;{{harvnb|Darwin|Costa|2009|p=488}}&lt;/ref&gt;&lt;ref name=Rad_Hux_Ket /&gt; and the first review claimed it made a creed of the "men from monkeys" idea from ''Vestiges''.&lt;ref&gt;{{harvnb|Browne|2002|p=87}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Leifchild|1859}}&lt;/ref&gt; [[Human evolution]] became central to the debate and was strongly argued by [[Thomas Henry Huxley|Huxley]] who featured it in his popular "working-men's lectures". Darwin did not publish his own views on this until 1871.&lt;ref&gt;{{harvnb|Bowler|2003|pp=207–209}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Huxley|1863}}&lt;/ref&gt;
+
+The [[naturalism (philosophy)|naturalism]] of [[natural selection]] conflicted with presumptions of [[teleology|purpose in nature]] and while this could be reconciled by [[theistic evolution]], other mechanisms implying more progress or purpose were more acceptable. [[Herbert Spencer]] had already incorporated [[Lamarckism]] into his popular philosophy of progressive [[free market]] human society. He popularised the terms 'evolution' and '[[survival of the fittest]]', and many thought Spencer was central to evolutionary thinking.&lt;ref&gt;{{harvnb|Bowler|2003|pp=203–207, 220–222}}&lt;/ref&gt;
+
+===Impact on the scientific community===
+{{See also|History of evolutionary thought}}
+Scientific readers were already aware of arguments that species changed through processes that were subject to [[Physical law|laws of nature]], but the transmutational ideas of Lamarck and the vague "law of development" of ''Vestiges'' had not found scientific favour. Darwin presented [[natural selection]] as a scientifically testable mechanism while accepting that other mechanisms such as [[inheritance of acquired characters]] were possible. His strategy established that evolution through natural laws was worthy of scientific study, and by 1875, most scientists accepted that evolution occurred but few thought natural selection was significant. Darwin's scientific method was also disputed, with his proponents favouring the [[empiricism]] of [[John Stuart Mill]]'s ''[[A System of Logic]]'', while opponents held to the idealist school of [[William Whewell]]'s ''Philosophy of the Inductive Sciences'', in which investigation could begin with the intuitive idea that species were fixed objects created by design.&lt;ref&gt;{{harvnb|Bowler|2003|pp=179–180, 197–198}}&lt;/ref&gt; Early support for Darwin's ideas came from the findings of field naturalists studying [[biogeography]] and ecology, including [[Joseph Dalton Hooker]] in 1860, and [[Asa Gray]] in 1862. [[Henry Walter Bates]] presented research in 1861 that explained [[Batesian mimicry|insect mimicry]] using natural selection. [[Alfred Russel Wallace]] discussed evidence from his [[Malay archipelago]] research, including an 1864 paper with an evolutionary explanation for the [[Wallace line]].&lt;ref&gt;{{harvnb|Bowler|2003|pp=183–184, 189}}&lt;/ref&gt;
+
+[[File:Huxley - Mans Place in Nature.jpg|left|300px|thumb|[[Thomas Henry Huxley|Huxley]] used illustrations to show that humans and apes had the same basic skeletal structure.&lt;ref&gt;{{harvnb|Bowler|2003|p=208}}&lt;/ref&gt;]]
+Evolution had less obvious applications to [[anatomy]] and [[morphology (biology)|morphology]], and at first had little impact on the research of the anatomist [[Thomas Henry Huxley]].&lt;ref name="Bowler184-185"&gt;{{harvnb|Bowler|2003|pp=184–185}}&lt;/ref&gt; Despite this, Huxley strongly supported Darwin on evolution; though he called for experiments to show whether natural selection could form new species, and questioned if Darwin's [[gradualism]] was sufficient without [[Saltation (biology)|sudden leaps]] to cause [[speciation]]. Huxley wanted science to be secular, without religious interference, and his article in the April 1860 ''[[Westminster Review]]'' promoted [[naturalism (philosophy)|scientific naturalism]] over natural theology,&lt;ref&gt;{{harvnb|Browne|2002|pp=105–106}}&lt;/ref&gt;&lt;ref name=westminster&gt;{{harvnb|Huxley|1860}}&lt;/ref&gt; praising Darwin for "extending the domination of Science over regions of thought into which she has, as yet, hardly penetrated" and coining the term "[[Darwinism]]" as part of his efforts to secularise and professionalise science.&lt;ref&gt;{{harvnb|Bowler|2003|p=184}}&lt;/ref&gt; Huxley gained influence, and initiated the [[X Club]], which used the journal ''[[Nature (journal)|Nature]]'' to promote evolution and naturalism, shaping much of late-Victorian science. Later, the German morphologist [[Ernst Haeckel]] would convince Huxley that comparative anatomy and [[paleontology|palaeontology]] could be used to reconstruct [[phylogenetics|evolutionary genealogies]].&lt;ref name="Bowler184-185"/&gt;&lt;ref&gt;{{harvnb|Larson|2004|p=108}}&lt;/ref&gt;
+
+The leading naturalist in Britain was the anatomist [[Richard Owen]], an idealist who had shifted to the view in the 1850s that the history of life was the gradual unfolding of a divine plan.&lt;ref&gt;{{harvnb|Bowler|2003|pp=124–126}}&lt;/ref&gt; Owen's review of the ''Origin'' in the April 1860 ''Edinburgh Review'' bitterly attacked Huxley, Hooker and Darwin, but also signalled acceptance of a kind of evolution as a [[teleology|teleological]] plan in a continuous "ordained becoming", with new species appearing by natural birth. Others that rejected natural selection, but supported "creation by birth", included the [[George Campbell, 8th Duke of Argyll|Duke of Argyll]] who explained beauty in plumage by design.&lt;ref&gt;{{harvnb|Desmond|Moore|1991|pp=490–491, 545–547}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Secord|2000|p=512}}&lt;/ref&gt; Since 1858, Huxley had emphasised anatomical similarities between apes and humans, contesting Owen's view that humans were a separate sub-class. Their disagreement over human origins came to the fore at the [[British Association for the Advancement of Science]] meeting featuring the legendary [[1860 Oxford evolution debate]].&lt;ref name=oed&gt;{{Harvnb|Lucas|1979}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|pp=464–465, 493–499}}&lt;/ref&gt; In two years of acrimonious public dispute that [[Charles Kingsley]] satirised as the "[[Great Hippocampus Question]]" and parodied in ''[[The Water-Babies, A Fairy Tale for a Land Baby|The Water-Babies]]'' as the "great hippopotamus test", Huxley showed that Owen was incorrect in asserting that ape brains lacked a structure present in human brains.&lt;ref&gt;{{harvnb|Browne|2002|pp=160–161}}&lt;/ref&gt; Others, including [[Charles Lyell]] and [[Alfred Russel Wallace]], thought that humans shared a common ancestor with apes, but higher mental faculties could not have evolved through a purely material process. Darwin published his own explanation in the ''[[Descent of Man]]'' (1871).&lt;ref&gt;{{harvnb|Bowler|2003|pp=208–211, 214–216}}&lt;/ref&gt;
+
+====Impact outside Great Britain====
+[[File:Pedigree of man (Haeckel 1874).jpg|thumb|right|Haeckel showed a main trunk leading to mankind with minor branches to various animals, unlike Darwin's branching evolutionary tree.&lt;ref name="Bowler190_191" /&gt;]]
+Evolutionary ideas, although not natural selection, were accepted by German biologists accustomed to ideas of [[Homology (biology)|homology]] in [[morphology (biology)|morphology]] from [[Johann Wolfgang von Goethe|Goethe]]'s ''[[Metamorphosis of Plants]]'' and from their long tradition of comparative anatomy. [[Heinrich Georg Bronn|Bronn]]'s alterations in his German translation added to the misgivings of conservatives, but enthused political radicals. [[Ernst Haeckel]] was particularly ardent, aiming to synthesise Darwin's ideas with those of [[Lamarckism|Lamarck]] and Goethe while still reflecting the spirit of ''[[Naturphilosophie]]''.&lt;ref name=browne140/&gt;&lt;ref name=bowler186/&gt; Their ambitious programme to reconstruct the [[evolutionary history of life]] was joined by Huxley and supported by discoveries in [[:paleontology|palaeontology]]. Haeckel used [[embryology]] extensively in his [[recapitulation theory]], which embodied a progressive, almost linear model of evolution. Darwin was cautious about such histories, and had already noted that [[Karl Ernst von Baer|von Baer's]] laws of embryology supported his idea of complex branching.&lt;ref name="Bowler190_191"&gt;{{harvnb|Bowler|2003|pp=169–170, 190–192}}&lt;/ref&gt;
+
+[[Asa Gray]] promoted and defended ''Origin'' against those American naturalists with an idealist approach, notably [[Louis Agassiz]] who viewed every species as a distinct fixed unit in the mind of the Creator, classifying as species what others considered merely varieties.&lt;ref&gt;Dupree, pp. 216–232&lt;/ref&gt; [[Edward Drinker Cope]] and [[Alpheus Hyatt]] reconciled this view with evolutionism in a form of [[Lamarckism#Neo-Lamarckism|neo-Lamarckism]] involving recapitulation theory.&lt;ref name=bowler186&gt;{{harvnb|Bowler|2003|pp=186–187, 237, 241}}&lt;/ref&gt;
+
+French-speaking naturalists in several countries showed appreciation of the much-modified French translation by [[Clémence Royer]], but Darwin's ideas had little impact in France, where any scientists supporting evolutionary ideas opted for a form of Lamarckism.&lt;ref name=browne142/&gt; The intelligentsia in Russia had accepted the general phenomenon of evolution for several years before Darwin had published his theory, and scientists were quick to take it into account, although the [[Malthusianism|Malthusian]] aspects were felt to be relatively unimportant. The political economy of struggle was criticised as a British stereotype by [[Karl Marx]] and by [[Leo Tolstoy]], who had the character Levin in his novel ''[[Anna Karenina]]'' voice sharp criticism of the morality of Darwin's views.&lt;ref name=browne256/&gt;
+
+====Challenges to natural selection====
+There were serious scientific objections to the process of [[natural selection]] as the key mechanism of evolution, including [[Karl Wilhelm von Nägeli|Karl von Nägeli]]'s insistence that a trivial characteristic with no adaptive advantage could not be developed by selection. Darwin conceded that these could be linked to adaptive characteristics. His estimate that the [[age of the Earth]] allowed gradual evolution was disputed by [[William Thomson, 1st Baron Kelvin|William Thomson (later awarded the title Lord Kelvin)]], who calculated that it had cooled in less than 100 million years. Darwin accepted [[blending inheritance]], but [[Fleeming Jenkin]] calculated that as it mixed traits, natural selection could not accumulate useful traits. Darwin tried to meet these objections in the fifth edition. [[St. George Jackson Mivart|Mivart]] supported directed evolution, and compiled scientific and religious objections to natural selection. In response, Darwin made considerable changes to the sixth edition. The problems of the age of the Earth and heredity were only resolved in the 20th century.&lt;ref name=miv/&gt;&lt;ref&gt;{{harvnb|Bowler|2003|pp=198–200, 234–236}}&lt;/ref&gt;
+
+By the mid-1870s, most scientists accepted evolution, but relegated natural selection to a minor role as they believed evolution was purposeful and progressive. The range of evolutionary theories during "[[the eclipse of Darwinism]]" included forms of "[[Saltation (biology)|saltationism]]" in which new species were thought to arise through "jumps" rather than gradual adaptation, forms of [[orthogenesis]] claiming that species had an inherent tendency to change in a particular direction, and forms of neo-Lamarckism in which inheritance of acquired characteristics led to progress. The minority view of [[August Weismann]], that natural selection was the only mechanism, was called [[neo-Darwinism]]. It was thought that the rediscovery of [[Mendelian inheritance]] invalidated Darwin's views.&lt;ref&gt;{{harvnb|Bowler|2003|p=225}}&lt;/ref&gt;&lt;ref name=Quammen205-234&gt;{{Harvnb|Quammen|2006|pp=205–234}}&lt;/ref&gt;
+
+===Impact on economic and political debates===
+While some, like Spencer, used analogy from natural selection as an argument against government intervention in the economy to benefit the poor, others, including [[Alfred Russel Wallace]], argued that action was needed to correct social and economic inequities to level the playing field before natural selection could improve humanity further. Some political commentaries, including [[Walter Bagehot]]'s ''Physics and Politics'' (1872), attempted to extend the idea of natural selection to competition between nations and between human races. Such ideas were incorporated into what was already an ongoing effort by some working in [[anthropology]] to provide scientific evidence for the superiority of [[Caucasian race|Caucasians]] over non-white races and justify European [[imperialism]]. Historians write that most such political and economic commentators had only a superficial understanding of Darwin's scientific theory, and were as strongly influenced by other concepts about social progress and evolution, such as the Lamarckian ideas of Spencer and Haeckel, as they were by Darwin's work. Darwin objected to his ideas being used to justify military aggression and unethical business practices as he believed morality was part of fitness in humans, and he opposed [[polygenism]], the idea that human races were fundamentally distinct and did not share a recent common ancestry.&lt;ref&gt;{{harvnb|Bowler|2003|pp=294–307}}&lt;/ref&gt;
+
+===Religious attitudes===
+The book produced a wide range of religious responses at a time of changing ideas and increasing secularisation. The issues raised were complex and there was a large middle ground. [[history of geology|Developments in geology]] meant that there was little opposition based on a literal reading of [[Book of Genesis|Genesis]],&lt;ref name=bowl202&gt;{{harvnb|Bowler|2003|pp=202–208}}&lt;/ref&gt; but defence of the [[teleological argument|argument from design]] and [[natural theology]] was central to debates over the book in the English-speaking world.&lt;ref name=Dewey26&gt;{{Harvnb|Dewey|1994|p=26}}&lt;/ref&gt;&lt;ref name=Larson89-92&gt;{{Harvnb|Larson|2004|pp=89–92}}&lt;/ref&gt;
+
+[[File:Rev Baden Powell.jpg|thumb|left|The liberal theologian [[Baden Powell (mathematician)|Baden Powell]] defended evolutionary ideas by arguing that the introduction of new species should be considered a natural rather than a miraculous process.&lt;ref&gt;{{harvnb|Bowler|2003|p=139}}&lt;/ref&gt;]]
+Natural theology was not a unified doctrine, and while some such as Louis Agassiz were strongly opposed to the ideas in the book, others sought a reconciliation in which evolution was seen as purposeful.&lt;ref name=bowl202/&gt; In the Church of England, some [[liberal Christianity|liberal clergymen]] interpreted natural selection as an instrument of God's design, with the cleric Charles Kingsley seeing it as "just as noble a conception of Deity".&lt;ref name=Darwinanddesign&gt;{{citation |url=http://www.darwinproject.ac.uk/darwin-and-design-article |title=Darwin and design: historical essay |year=2007 |publisher=Darwin Correspondence Project |access-date=17 September 2008 |url-status=dead |archive-url=https://web.archive.org/web/20141021101910/http://www.darwinproject.ac.uk/darwin-and-design-article |archive-date=21 October 2014  }}&lt;/ref&gt;&lt;ref&gt;{{citation|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2534.html|title=Darwin Correspondence Project – Letter 2534—Kingsley, Charles to Darwin, C. R., 18 November 1859|access-date=11 April 2009|url-status=dead|archive-url=https://web.archive.org/web/20090629195355/http://www.darwinproject.ac.uk/darwinletters/calendar/entry-2534.html|archive-date=29 June 2009}}&lt;/ref&gt; In the second edition of January 1860, Darwin quoted Kingsley as "a celebrated cleric", and added the phrase "by the Creator" to the closing sentence, which from then on read "life, with its several powers, having been originally breathed by the Creator into a few forms or into one".&lt;ref name="2nd edn p 190"&gt;{{harvnb|Darwin|1860|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F376&amp;pageseq=508 490]}}&lt;/ref&gt; While some commentators have taken this as a concession to religion that Darwin later regretted,&lt;ref name=b95/&gt; Darwin's view at the time was of God creating life through the laws of nature,&lt;ref&gt;{{harvnb|Quammen|2006|p=119}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Moore|2006}}&lt;/ref&gt; and even in the first edition there are several references to "creation".&lt;ref&gt;{{harvnb|Barlow|1963|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=9 207]}}&lt;/ref&gt;
+
+[[Baden Powell (mathematician)|Baden Powell]] praised "Mr Darwin's masterly volume [supporting] the grand principle of the self-evolving powers of nature".&lt;ref&gt;{{Harvnb|Desmond|Moore|1991|pp=487–488, 500}}&lt;/ref&gt; In America, [[Asa Gray]] argued that evolution is the secondary effect, or ''modus operandi'', of the first cause, design,&lt;ref&gt;{{Harvnb|Dewey|1994|p=27}}&lt;/ref&gt; and published a pamphlet defending the book in terms of [[theistic evolution]], ''Natural Selection is not inconsistent with Natural Theology''.&lt;ref name=Darwinanddesign/&gt;&lt;ref name=miles&gt;{{Harvnb|Miles|2001}}&lt;/ref&gt;&lt;ref&gt;{{Citation | last = Gray | first = Asa | author-link = Asa Gray | year = 1860 | title =Natural Selection is not inconsistent with Natural Theology | periodical =Atlantic Monthly | publisher=Darwin Correspondence Project – Essay: Natural selection &amp; natural theology | url =http://www.darwinproject.ac.uk/content/view/84/69/ | access-date=11 April 2009 | archive-url =https://web.archive.org/web/20090220124011/http://www.darwinproject.ac.uk/content/view/84/69/ &lt;!--Added by H3llBot--&gt; | archive-date =20 February 2009}}&lt;/ref&gt; Theistic evolution became a popular compromise, and [[St. George Jackson Mivart]] was among those accepting evolution but attacking Darwin's naturalistic mechanism. Eventually it was realised that supernatural intervention could not be a scientific explanation, and naturalistic mechanisms such as [[neo-Lamarckism]] were favoured over [[natural selection]] as being more compatible with purpose.&lt;ref name=bowl202/&gt;
+
+Even though the book did not explicitly spell out Darwin's beliefs about [[human evolution|human origins]], it had dropped a number of hints about human's animal ancestry&lt;ref name=Rad_Hux_Ket&gt;{{harvnb|Radick|2013|pp=174–175}}&lt;br&gt;{{harvnb|Huxley|Kettlewell|1965|p=88}}&lt;/ref&gt; and quickly became central to the debate, as mental and moral qualities were seen as spiritual aspects of the immaterial [[Soul (spirit)|soul]], and it was believed that animals did not have spiritual qualities. This conflict could be reconciled by supposing there was some supernatural intervention on the path leading to humans, or viewing evolution as a purposeful and progressive ascent to mankind's position at the head of nature.&lt;ref name=bowl202/&gt; While many conservative theologians accepted evolution, [[Charles Hodge]] argued in his 1874 critique "What is Darwinism?" that "[[Darwinism]]", defined narrowly as including rejection of design, was atheism though he accepted that Asa Gray did not reject design.&lt;ref&gt;{{harvnb|Forster|Marston|1999|pp=37–40}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Hodge|1874|p=177}}&lt;/ref&gt; Asa Gray responded that this charge misrepresented Darwin's text.&lt;ref name="GrayWhatisDarwinism?"&gt;{{Citation | last = Gray | first = Asa | author-link = Asa Gray |date=28 May 1874|title=What is Darwinism? | periodical =The Nation |publisher=Darwin Correspondence Project |url=http://www.darwinproject.ac.uk/content/view/86/71/ |access-date=3 March 2009 |archive-url=https://web.archive.org/web/20090226150804/http://www.darwinproject.ac.uk/content/view/86/71/ &lt;!--Added by H3llBot--&gt; |archive-date=26 February 2009}}&lt;/ref&gt; By the early 20th century, four noted authors of ''[[The Fundamentals]]'' were explicitly open to the possibility that God created through evolution,&lt;ref&gt;{{harvnb|Forster|Marston|1999|pp=41–43}}&lt;/ref&gt; but [[fundamentalism]] inspired the American [[creation–evolution controversy]] that began in the 1920s. Some conservative [[Roman Catholic]] writers and influential [[Jesuit]]s opposed evolution in the late 19th and early 20th century, but other Catholic writers, starting with Mivart, pointed out that early [[Church Fathers]] had not interpreted Genesis literally in this area.&lt;ref&gt;{{harvnb|Bowler|2003|pp=323–324}}&lt;/ref&gt; The [[Holy See|Vatican]] stated its [[Evolution and the Roman Catholic Church|official position]] in a [[Humani generis|1950 papal encyclical]], which held that evolution was not inconsistent with Catholic teaching.&lt;ref&gt;{{Citation | author=Pius XII | year = 1950 | title = Humani generis | publisher=Vatican| url =https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html | access-date=8 June 2009}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Kreeft|2001|p=49}}&lt;/ref&gt;
+
+==Modern influence==
+[[File:CollapsedtreeLabels-simplified.svg|thumb|300px|A modern [[phylogenetic tree]] based on [[genome]] analysis shows the [[Domain (biology)|three-domain system]].]]
+Various alternative evolutionary mechanisms favoured during "[[the eclipse of Darwinism]]" became untenable as more was learned about inheritance and [[mutation]]. The full significance of [[natural selection]] was at last accepted in the 1930s and 1940s as part of the [[Extended evolutionary synthesis|modern evolutionary synthesis]]. During that synthesis biologists and statisticians, including [[R. A. Fisher]], [[Sewall Wright]] and [[J. B. S. Haldane]], merged Darwinian selection with a statistical understanding of [[Mendelian genetics]].&lt;ref name=Quammen205-234/&gt;
+
+[[evolution|Modern evolutionary theory]] continues to develop. Darwin's theory of evolution by natural selection, with its tree-like model of branching [[common descent]], has become the unifying theory of the [[life science]]s. The theory explains the diversity of living organisms and their adaptation to the environment. It makes sense of the [[geological record]], biogeography, parallels in [[embryo]]nic development, [[Homology (biology)|biological homologies]], [[vestigiality]], [[cladistics]], [[phylogenetics]] and other fields, with unrivalled explanatory power; it has also become essential to applied sciences such as [[evolutionary medicine|medicine]] and agriculture.&lt;ref&gt;{{Citation |url=http://darwin-online.org.uk/biography.html |title=Biography |date=21 January 2009 |publisher=[[The Complete Works of Charles Darwin Online]] |access-date=23 April 2009}}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Larson|2004|pp=287–288, 295}}&lt;/ref&gt; Despite the scientific consensus, a religion-based political [[creation–evolution controversy|controversy]] has developed over how evolution is taught in schools, especially in the United States.&lt;ref&gt;{{Harvnb|Darwin|Costa|2009|p=x}}&lt;/ref&gt;
+
+Interest in Darwin's writings continues, and scholars have generated an extensive literature, the [[Darwin Industry]], about his life and work. The text of ''Origin'' itself has been subject to much analysis including a [[variorum]], detailing the changes made in every edition, first published in 1959,&lt;ref&gt;{{Harvnb|Peckham|1959}}, recently reprinted.&lt;/ref&gt; and a [[Concordance (publishing)|concordance]], an exhaustive external index published in 1981.&lt;ref&gt;{{Harvnb|Quammen|2006|pp=179, 271–283}}&lt;/ref&gt; Worldwide commemorations of the 150th anniversary of the publication of ''On the Origin of Species'' and the bicentenary of Darwin's birth were scheduled for 2009.&lt;ref&gt;The [[International Standard Text Code|ISTC]] of ''On the Origin of Species'' is A02-2009-00000001-4. As a tribute to its influence, this work has been the first one to be registered by The International ISTC Agency.&lt;/ref&gt; They celebrated the ideas which "over the last 150 years have revolutionised our understanding of nature and our place within it".&lt;ref&gt;{{Citation |url=http://www.darwin200.org/what-is.html |title=Darwin 200: Celebrating Charles Darwin's bicentenary – What is Darwin200? |publisher=The [[Natural History Museum, London|Natural History Museum]] |access-date=23 April 2009 |archive-url=https://web.archive.org/web/20090228095055/http://www.darwin200.org/what-is.html &lt;!--Added by H3llBot--&gt; |archive-date=28 February 2009}}&lt;/ref&gt;
+
+In a survey conducted by a group of academic booksellers, publishers and librarians in advance of Academic Book Week in the United Kingdom, ''On the Origin of Species'' was voted the most influential academic book ever written.&lt;ref&gt;{{cite web|url=http://www.livescience.com/52756-darwins-book-most-influential.html|title=Darwin's 'Origin of Species' Voted Most Influential Academic Book|publisher=Tia Ghose|access-date=2 February 2017}}&lt;/ref&gt; It was hailed as "the supreme demonstration of why academic books matter" and "a book which has changed the way we think about everything".&lt;ref&gt;{{cite web|url=https://www.theguardian.com/books/2015/nov/10/on-the-origin-of-species-voted-most-influential-academic-book-charles-darwin|title=On the Origin of Species voted most influential academic book in history|date=10 November 2015|publisher=Alison Flood|access-date=2 February 2017}}&lt;/ref&gt;
+
+==See also==
+* [[s:On the Origin of Species (1859)|''On the Origin of Species'']] – full text at [[Wikisource]] of the first edition, 1859
+* [[s:The Origin of Species (1872)|''The Origin of Species'']] – full text at Wikisource of the 6th edition, 1872
+* [[Charles Darwin bibliography]]
+* [[History of biology]]
+* [[History of evolutionary thought]]
+* [[History of speciation]]
+* [[Modern synthesis (20th century)|Modern evolutionary synthesis]]
+* [[The Complete Works of Charles Darwin Online]]
+* ''[[The Descent of Man, and Selection in Relation to Sex]]'', published in 1871; his second major book on [[evolutionary theory]].
+* [[Transmutation of species]]
+
+==References==
+{{Reflist|25em}}
+
+===Works cited===
+{{Refbegin|30em}}
+*{{Citation
+ | editor-last        = Barlow
+ | editor-first       = Nora
+ | editor-link = Nora Barlow
+ | year        = 1963
+ | title       = Darwin's Ornithological Notes
+ | periodical  = Bulletin of the British Museum (Natural History) Historical Series
+ | volume      = 2
+ | issue       = 7
+ | pages       = 201–278
+ | url         = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=1 | access-date =10 June 2009}}
+*{{citation
+ | last        = Bowler
+ | first       = Peter J.
+ | author-link  = Peter J. Bowler
+ | year        = 1989
+ | title       = The Mendelian Revolution: The Emergence of Hereditarian Concepts in Modern Science and Society
+ | journal = The Yale Journal of Biology and Medicine
+ | volume = 63
+ | issue = 4
+ | page = 335
+ | publisher=Johns Hopkins University Press
+ | place       = Baltimore
+ | isbn          = 0-485-11375-9 | pmc= 2589185
+ }}
+* {{citation | last=Bowler | first=Peter J | title=Charles Darwin : the man and his influence | publisher=Cambridge University Press | year=1996 | isbn=0-521-56668-1 }}
+*{{citation |last       = Bowler
+ |first      = Peter J.
+ |year       = 2003
+ |title      = Evolution: The History of an Idea
+ |edition    = 3rd
+ |publisher  = University of California Press
+ |isbn       = 0-520-23693-9
+ |url-access = registration
+ |url        = https://archive.org/details/evolutionhistory0000bowl_n7y8
+}}
+*{{citation
+ | last        = Bowler
+ | first       = Peter J.
+ | year        = 2013
+ | title       = Darwin Deleted: Imagining a World without Darwin
+ | publisher= The University of Chicago Press
+ | isbn          = 978-0-226-00984-1 }}
+*{{citation
+ | last        = Browne
+ | first       = E. Janet
+ | author-link = Janet Browne
+ | year        = 1995
+ | title       = Charles Darwin: Vol. 1 Voyaging
+ | place       = London
+ | publisher=Jonathan Cape
+ | isbn        = 1-84413-314-1 }}
+*{{citation
+ | last        = Browne
+ | first       = E. Janet
+ | year        = 2002
+ | title       = Charles Darwin: Vol. 2 The Power of Place
+ | place       = London
+ | publisher=Jonathan Cape
+ | isbn        = 0-7126-6837-3 }}
+*{{citation
+ | last= Crawford
+ | first= J.
+ | title= (Review of) On the Origin of Species
+ | journal=[[The Examiner (1808–86)|Examiner]]
+ | year= 1859
+ | pages= 722–723
+ | url= http://darwin-online.org.uk/content/frameset?itemID=CUL-DAR226.1.50&amp;viewtype=text&amp;pageseq=1
+}}. Published anonymously.
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | author-link = Charles Darwin
+ | year        = 1845
+ | title       = Journal of Researches into the Natural History and Geology of the Countries Visited During the Voyage of HMS Beagle Round the World, Under the Command of Captain Fitz Roy, R.N.
+ | edition     = 2nd
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F14&amp;pageseq=1
+ | access-date  = 22 April 2009 }}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1859
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = [http://graphics8.nytimes.com/packages/images/nytint/docs/charles-darwin-on-the-origin-of-species/original.pdf Full image view] 1st
+ | page = 502
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F373&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 1 March 2011}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1860
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = 2nd
+ | location = London
+ | publisher=John Murray
+ | url         =http://darwin-online.org.uk/content/frameset?itemID=F376&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 9 January 2009}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1861
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = 3rd
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F381&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 9 January 2009}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1866
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = 4th
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F385&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 22 February 2009}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1869
+ | title       = On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = 5th
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F387&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 22 February 2009}}
+*{{Citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1871
+ | title       = The Descent of Man, and Selection in Relation to Sex
+ | edition     = 1st
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html
+ | access-date  = 29 April 2009}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1872
+ | title       = The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life
+ | edition     = 6th
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?itemID=F391&amp;viewtype=text&amp;pageseq=1
+ | access-date  = 9 January 2009}}
+*{{Citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1874
+ | title       = The Descent of Man, and Selection in Relation to Sex
+ | edition     = 2nd
+ | location = London
+ | publisher=John Murray
+ | url         = http://darwin-online.org.uk/content/frameset?pageseq=13&amp;itemID=F944&amp;viewtype=text
+ | access-date  = 8 January 2017}}
+*{{citation
+ | last        = Darwin
+ | first       = Charles
+ | year        = 1958
+ | editor-last = Barlow
+ | editor-first = Nora
+ | title       =The Autobiography of Charles Darwin 1809–1882. With the Original Omissions Restored. Edited and with Appendix and Notes by his Granddaughter Nora Barlow
+ | location = London
+ | publisher=Collins
+ | url         = http://darwin-online.org.uk/EditorialIntroductions/Freeman_LifeandLettersandAutobiography.html
+ | access-date  = 9 January 2009 }}
+* {{citation
+| last = Darwin
+| first = Charles
+| year =2006
+| contribution =Journal
+| contribution-url =http://darwin-online.org.uk/content/frameset?viewtype=side&amp;itemID=CUL-DAR158.1-76&amp;pageseq=1
+| editor-last =van Wyhe
+| editor-first = John
+| title =Darwin's personal 'Journal' (1809–1881)
+| publisher=Darwin Online
+| id =CUL-DAR158.1–76
+| url =http://darwin-online.org.uk/EditorialIntroductions/vanWyhe_JournalDAR158.html
+| access-date =7 September 2010}}
+*{{citation |last1              = Darwin
+ |first1             = Charles
+ |last2             = Costa
+ |first2            = James T.
+ |year              = 2009
+ |title             = The Annotated Origin: A Facsimile of the First Edition of On the Origin of Species Annotated by James T. Costa
+ |isbn              = 978-0-674-03281-1
+ |location = Cambridge, Massachusetts, and London, England
+ |publisher         = Belknap Press of Harvard University Press
+ |url               = https://archive.org/details/annotatedoriginf00darw
+}}
+*{{Citation |last       = Desmond
+ |first      = Adrian
+ |author-link = Adrian Desmond
+ |title      = The Politics of Evolution: Morphology, Medicine, and Reform in Radical London
+ |place      = Chicago
+ |publisher  = University of Chicago Press
+ |year       = 1989
+ |isbn       = 0-226-14374-0
+ |url-access = registration
+ |url        = https://archive.org/details/politicsofevolut00adri
+}}
+*{{citation
+ | last1        = Desmond
+ | first1       = Adrian
+ | last2       = Moore
+ | first2      = James
+ | author2-link = James Moore (biographer)
+ | year        = 1991
+ | title       = Darwin
+ | place       = London
+ | publisher=Michael Joseph, Penguin Group
+ | isbn        = 0-7181-3430-3 }}
+* {{citation |last1       = Desmond
+ |first1      = Adrian
+ |last2      = Moore
+ |first2     = James
+ |title      = Darwin's sacred cause : race, slavery and the quest for human origins
+ |publisher  = Allen Lane
+ |location   = London
+ |year       = 2009
+ |isbn       = 978-1-84614-035-8
+ |url-access = registration
+ |url        = https://archive.org/details/darwinssacredcau0000desm
+}}
+*{{citation
+ | last        = Dewey
+ | first       = John
+ | author-link  = John Dewey
+ | editor      = Martin Gardner
+ | year        = 1994
+ | title       = Great Essays in Science
+ | chapter     = The Influence of Darwinism on Philosophy
+ | publisher=Prometheus Books
+ | isbn        = 0-87975-853-8 }}
+*{{citation
+ | last        = Eldredge
+ | first       = Niles
+ | author-link = Niles Eldredge
+ | year        = 2006
+ | title       = Confessions of a Darwinist
+ | periodical  = The Virginia Quarterly Review
+ | issue       = Spring 2006
+ | pages       = 32–53
+ | url         = http://www.vqronline.org/articles/2006/spring/eldredge-confessions-darwinist/
+ | access-date  = 4 November 2008 }}
+*{{Citation
+ | last1        = Forster
+ | first1       = Roger
+ | last2       = Marston
+ | first2      = Dr Paul
+ | year        = 1999
+ | contribution =Genesis Through History
+ | title       = Reason Science and Faith
+ | edition     = Ivy Cottage: E-Books
+ | location =Chester, England
+ | publisher=Monarch Books
+ | isbn        = 1-85424-441-8}}
+*{{citation
+ | last        = Freeman
+ | first       = Richard B.
+ | year        = 1977
+ | contribution = On the Origin of Species
+ | contribution-url =http://darwin-online.org.uk/EditorialIntroductions/Freeman_OntheOriginofSpecies.html
+ | title       = The Works of Charles Darwin: An Annotated Bibliographical Handlist
+ | edition     = 2nd
+ | place       = Folkestone, England
+ | publisher=Dawson
+ | isbn        = 0-7129-0740-8 }}
+*{{citation
+ | editor-last        = Herbert
+ | editor-first       = Sandra
+ | year        = 1980
+ | title       = The Red Notebook of Charles Darwin
+ | url         = http://darwin-online.org.uk/content/frameset?viewtype=side&amp;itemID=F1583e&amp;pageseq=1
+ | journal=Bulletin of the British Museum (Natural History), Historical Series
+ | volume      = 7
+ | pages       = 1–164}} Also available here [https://archive.org/details/bulletinofbritis07brit]
+*{{citation
+ | last     = Hodge
+ | first       = Charles
+ | author-link  = Charles Hodge
+ | title       = What is Darwinism?
+ | year        = 1874
+ | publisher=Scribner Armstrong
+ | url         = http://www.gutenberg.org/files/19192/19192-8.txt|access-date=14 January 2007}}
+* {{cite book 
+| last1 = Huxley 
+| first1 = Julian 
+| author-link = Julian Huxley 
+| last2 = Kettlewell 
+| first2 = H.B.D. 
+| author-link2 = Bernard Kettlewell 
+| title = Charles Darwin and His World 
+| publisher = the Viking Press 
+| location = New York 
+| year = 1965 }}
+*{{citation
+ | last=  Huxley
+ | first= Thomas Henry
+ | title= Darwin on the Origin of Species
+ | journal=[[Westminster Review]]
+ | year= 1860
+ | volume= 17
+ | issue= April 1860
+ | pages= 541–570
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A32&amp;viewtype=text&amp;pageseq=1
+}}. Published anonymously.
+*{{citation
+ | last        = Huxley
+ | first       = Thomas
+ | author-link  = Thomas Huxley
+ | year        = 1863
+ | title       = Six Lectures to Working Men "On Our Knowledge of the Causes of the Phenomena of Organic Nature" (Republished in Volume II of his Collected Essays, ''Darwiniana'')
+ | url         = http://aleph0.clarku.edu/huxley/CE2/Phen.html|access-date=15 December 2006}}
+*{{citation
+ | editor-last        = Keynes
+ | editor-first       = Richard
+ | year        = 2000
+ | title       = Charles Darwin's Zoology Notes &amp; Specimen Lists from HMS Beagle
+ | publisher=Cambridge University Press
+ | isbn        = 0-521-67350-X }}
+*{{citation |last       = Kreeft
+ |first      = Peter
+ |author-link = Peter Kreeft
+ |year       = 2001
+ |title      = Catholic Christianity
+ |publisher  = Ignatius Press
+ |place      = San Francisco
+ |isbn       = 0-89870-798-6
+ |url        = https://archive.org/details/catholicchristia00kree
+}}
+*{{citation
+ | last        = Larson
+ | first       = Edward J.
+ | author-link  = Edward Larson
+ | year        = 2004
+ | title       = Evolution: The Remarkable History of a Scientific Theory
+ | publisher=Modern Library
+ | place       = New York
+ | isbn        = 0-8129-6849-2}}
+*{{Citation
+ | last        = Leifchild
+ | date        = 19 November 1859
+ | title       = Review of 'Origin'
+ | periodical  = [[Athenaeum (British magazine)|Athenaeum]]
+ | issue       = 1673
+ | url         = http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=CUL-DAR226.1.8&amp;pageseq=1
+ | access-date  = 22 November 2008 }}
+*{{citation
+ | last        = Lucas
+ | first       = John R.
+ | author-link  = John Lucas (philosopher)
+ | year        = 1979
+ | title       = Wilberforce and Huxley: A Legendary Encounter
+ | periodical  = The Historical Journal
+ | volume      = 22
+ | issue       = 2
+ | pages       = 313–330
+ | url         = http://users.ox.ac.uk/~jrlucas/legend.html
+ | access-date  = 22 November 2008
+ | doi         = 10.1017/S0018246X00016848
+| pmid=11617072}}
+*{{citation
+ | last        = Mayr
+ | first       = Ernst
+ | author-link  = Ernst Mayr
+ | year        = 1982
+ | title       = The Growth of Biological Thought
+ | publisher=Harvard University Press
+ | isbn        = 0-674-36446-5| title-link = The Growth of Biological Thought
+ }}
+*{{citation
+ | last        = Miles
+ | first       = Sara Joan
+ | year        = 2001
+ | title       = Charles Darwin and Asa Gray Discuss Teleology and Design
+ | periodical  = [[Perspectives on Science and Christian Faith]]
+ | volume      = 53
+ | pages       = 196–201
+ | url         = http://www.asa3.org/ASA/PSCF/2001/PSCF9-01Miles.html
+ | access-date  = 22 November 2008 }}
+*{{citation
+ | last        = Mivart
+ | first       = St. George Jackson
+ | author-link = St. George Jackson Mivart
+ | year        = 1871
+ | title       = On the Genesis of Species
+ | place       = New York
+ | publisher=Appleton | title-link = s:Genesis of Species
+ }}
+*{{citation
+ |last        = Moore
+ |first       = James
+ |author-link = James Moore (biographer)
+ |year        = 2006
+ |title       = Evolution and Wonder – Understanding Charles Darwin
+ |series      = Speaking of Faith (Radio Program)
+ |publisher   = American Public Media
+ |url         = http://speakingoffaith.publicradio.org/programs/darwin/transcript.shtml
+ |access-date  = 22 November 2008
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20081222020720/http://speakingoffaith.publicradio.org/programs/darwin/transcript.shtml
+ |archive-date = 22 December 2008
+ |df          = dmy-all
+}}
+*{{citation
+ |last        = Phipps
+ |first       = William E.
+ |year        = 1983
+ |title       = Darwin, the Scientific Creationist
+ |url         = http://www.religion-online.org/showarticle.asp?title=1681
+ |journal     = Christian Century
+ |issue       = 14–21 September 1983
+ |pages       = 809–811
+ |access-date  = 11 January 2007
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20070108084658/http://www.religion-online.org/showarticle.asp?title=1681
+ |archive-date = 8 January 2007
+ |df          = dmy-all
+}}
+*{{citation
+ | editor-last = Peckham
+ | editor-first = Morse 
+ | title = The Origin of Species: a variorum text
+ | edition = 2006 reprint
+ | year = 1959
+ | publisher=University of Pennsylvania Press.
+ | location = Philadelphia
+ | isbn = 978-0-8122-1954-8
+}}
+*{{citation |last       = Quammen
+ |first      = David
+ |author-link = David Quammen
+ |year       = 2006
+ |title      = The Reluctant Mr. Darwin
+ |publisher  = Atlas Books
+ |place      = New York
+ |isbn       = 0-393-05981-2
+ |url        = https://archive.org/details/reluctantmrdarwi00quam
+}}
+* {{cite book 
+| last = Radick 
+| first = Gregory 
+| chapter = Darwin and Humans 
+| editor-last = Ruse 
+| editor-first = Michael 
+| title = The Cambridge Encyclopedia of Darwin and Evolutionary Thought 
+| publisher = Cambridge University Press 
+| year = 2013 
+| pages = 173–181 }}
+*{{Citation
+ | last        = Rhodes
+ | first       = Frank H. T.
+ | s2cid = 84054280
+ | author-link = Frank H. T. Rhodes
+ | publication-date =6 November 2004
+ | date        = June 1987
+ | title       = Darwinian Gradualism and Its Limits: The development of Darwin's Views on the Rate and Pattern of Evolutionary Change
+ | periodical  = Journal of the History of Biology
+ | series      = Humanities, Social Sciences and Law
+ | publisher=Springer Netherlands
+ | volume      = 20
+ | issue       = 2
+ | pages       = 139–157
+ | doi         = 10.1007/BF00138435 }}
+* {{citation
+ | last=Richards
+ | first=Evelleen
+ | title=Darwin and the making of sexual selection
+ | publisher=The University of Chicago Press
+ | year=2017
+ | isbn=978-0-226-43706-4
+ | oclc=956947766 }}
+*{{citation
+ | last= Schopf
+ | first= J. William
+ | year=2000
+ | title= Solution to Darwin's dilemma: Discovery of the missing Precambrian record of life
+ | pmid= 10860955
+ | journal=Proceedings of the National Academy of Sciences of the USA
+ | volume= 97
+ | pages= 6947–6953
+ | doi=10.1073/pnas.97.13.6947
+ | issue= 13
+ | pmc= 34368
+|bibcode = 2000PNAS...97.6947S }}
+*{{Citation
+ | last       = Secord
+ | first      = James A.
+ | author-link = James A. Secord
+ | title      = Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation
+ | place      = Chicago
+ | publisher=University of Chicago Press
+ | year       = 2000
+ | isbn       = 0-226-74411-6 }}
+*{{Citation
+ | last        = Sober
+ | first       = Elliott
+ | title       = Did Darwin Write the Origin Backwards?: Philosophical Essays on Darwin's Theory
+ | place       = Amherst
+ | publisher   = Prometheus Books
+ | year        = 2011
+ | isbn        = 978-1-61614-278-0
+ | url         = https://books.google.com/books?id=nHEGJY9soYMC&amp;pg=PT38 }}
+*{{citation
+ | last        = Spencer
+ | first       = Herbert
+ | author-link = Herbert Spencer
+ | year        = 1864
+ | title       = The Principles of Biology, Vol. 1
+ | place       = London
+ | publisher=Williams and Norgate
+ | url         = https://books.google.com/books?id=SRkRAAAAYAAJ }}
+*{{citation
+ | last        = van Wyhe
+ | first       = John
+ | s2cid = 202574857
+ | title       = Mind the gap: Did Darwin Avoid Publishing his Theory for Many Years?
+ | journal=Notes and Records of the Royal Society
+ | volume      = 61
+ | pages       = 177–205
+ | year        = 2007
+ | doi         = 10.1098/rsnr.2006.0171
+ | url         = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A544&amp;pageseq=1
+ | access-date  = 5 January 2009
+ | issue        = 2 }}
+*{{citation
+ | last        = van Wyhe
+ | first       = John
+ | year        = 2008
+ | title       = Darwin: The Story of the Man and His Theories of Evolution
+ | place       = London
+ | publisher=Andre Deutsch
+ | isbn        = 978-0-233-00251-4 }}
+*{{citation
+ | last        = van Wyhe
+ | first       = John
+ | year        = 2009
+ | title       = Charles Darwin: Gentleman Naturalist: A Biographical Sketch
+ | publisher=[[The Complete Works of Charles Darwin Online]]
+ | url         = http://darwin-online.org.uk/darwin.html
+ | access-date  = 6 June 2009 }}
+{{Refend}}
+
+==Further reading==
+
+*{{citation | last=Browne | first=Janet | author-link=Janet Browne | year=2007 | title=Darwin's Origin of Species: A Biography | publisher=Grove Press | isbn=978-0-87113-953-5 | url=https://archive.org/details/darwinsoriginofs00brow }}
+*{{citation
+ | last        = Malthus
+ | first       = Thomas Robert
+ | author-link  = Thomas Malthus
+ | year        = 1826
+ | url         = http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=A545.1&amp;viewtype=text
+ | volume      = 1
+ | title       = An Essay on the Principle of Population: A View of its Past and Present Effects on Human Happiness; with an Inquiry into Our Prospects Respecting the Future Removal or Mitigation of the Evils which It Occasions
+ | edition     = 6th
+ | publisher=John Murray
+ | place       = London|access-date=13 November 2017 | ref=none}} ([http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=A545.2&amp;viewtype=text Vol. 2])
+*{{citation | last=Reznick  | first=David N. | year=2009 | title=The Origin Then and Now: An Interpretive Guide to the Origin of Species | publisher=Princeton University Press | isbn=978-0-691-12978-5 | ref=none }} 
+*{{Citation
+ | last1        = Schopf
+ | first1       = J. William  |author-link1=J. William Schopf
+ | last2       = Scheibel
+ | first2      = Arnold B. 
+ | year        = 1997
+ | title       = The Origin and Evolution of Intelligence
+ | location = Boston
+ | publisher=Jones and Bartlett
+ | isbn        = 0-7637-0365-6 | ref=none }}
+*{{citation
+ |last         = van Hoorn
+ |first        = Marijn
+ |year         = 2009
+ |title        = Teyler, Winkler, Darwin ''(Lecture given at the Congress of the European Botanical and Horticultural Libraries Group, Prague, 23 April 2009)''
+ |publisher    = Teyler Net (Weblog of the Teylers Museum, Haarlem)
+ |url          = http://api.ning.com/files/aT0Fpi7QEAJXZty6RRr0*ayjT5aN-CLIR1HAnom7DRBt*Z64Ko2B*I88LPx*h2otwLvz5Vp*IKVqHQunTD*sItKN3P7MUMve/TeylerWinklerDarwin.doc
+ |access-date  = 27 April 2010
+ |ref          = none
+ |archive-date = 2 December 2011
+ |archive-url  = https://web.archive.org/web/20111202091528/http://api.ning.com/files/aT0Fpi7QEAJXZty6RRr0*ayjT5aN-CLIR1HAnom7DRBt*Z64Ko2B*I88LPx*h2otwLvz5Vp*IKVqHQunTD*sItKN3P7MUMve/TeylerWinklerDarwin.doc
+ |url-status   = dead
+}}
+
+===Contemporary reviews===
+*{{citation
+ | last=  Carpenter
+ | first= William Benjamin
+ | author-link = William Benjamin Carpenter
+ | year=1859
+ | title= Darwin on the Origin of Species
+ | magazine= [[National Review (1855)|National Review]]
+ | volume= 10
+ | issue= December 1859
+ | pages= 188–214
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A17&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Published anonymously.
+*{{citation
+ | last= Gray
+ | first= Asa
+ | author-link= Asa Gray
+ | title= (Review of) ''The Origin of Species''
+ | journal=[[Athenaeum (British magazine)|Athenaeum]]
+ | year= 1860
+ | issue= 1710: 4 August 1860
+ | page= 161
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A213&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Extract from ''Proceedings of the American Academy of Arts and Sciences'' '''4''' (1860): 411–415.
+*{{citation
+ | last=  Huxley
+ | first= Thomas Henry
+ | author-link = Thomas Henry Huxley
+ | title= Time and Life: Mr Darwin's ''Origin of Species''
+ | journal=Macmillan's Magazine
+ | year= 1859
+ | volume= 1
+ | pages= 142–148
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A43&amp;viewtype=image&amp;pageseq=1
+ | ref=none }}.
+*{{citation
+ | last=  Huxley
+ | first= Thomas Henry
+ | title= Darwin on the Origin of Species
+ | journal=[[The Times]]
+ | year= 1859
+ | issue= 26 December 1859
+ | pages= 8–9
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A166&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Published anonymously.
+*{{citation
+ | last=  Jenkin
+ | first= Fleeming
+ | author-link= Fleeming Jenkin
+ | title= (Review of) ''The Origin of Species''
+ | journal=North British Review
+ | year= 1867
+ | volume= 46
+ | issue= June 1867
+ | pages= 277–318
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A24&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Published anonymously.
+*{{citation
+ | last= Murray
+ | first= Andrew
+ | author-link= Andrew Murray (naturalist)
+ | title= On Mr Darwin's Theory of the Origin of Species
+ | journal=Proceedings of the Royal Society of Edinburgh
+ | year= 1860
+ | volume= 4
+ | pages= 274–291
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A14&amp;viewtype=text&amp;pageseq=1
+ | ref=none | doi= 10.1017/S0370164600034246
+ }}.
+*{{citation
+ | last= Owen
+ | first= Richard
+ | author-link= Richard Owen
+ | title= Review of Darwin's ''Origin of Species''
+ | journal=[[Edinburgh Review]]
+ | year= 1860
+ | volume= 3
+ | issue= April 1860
+ | pages= 487–532
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A30&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Published anonymously.
+*{{citation
+ | last= Wilberforce
+ | first= Samuel
+ | author-link= Samuel Wilberforce
+ | title= (Review of) ''On the Origin of Species, by means of Natural Selection; or the Preservation of Favoured Races in the Struggle for Life''
+ | journal=[[Quarterly Review]]
+ | year= 1860
+ | volume= 108
+ | issue= 215: July 1860
+ | pages= 225–264
+ | url= http://darwin-online.org.uk/content/frameset?itemID=A19&amp;viewtype=text&amp;pageseq=1
+ | ref=none }}. Published anonymously.
+
+*For further reviews, see {{citation |url=http://darwin-online.org.uk/reviews.html |title=Darwin Online: Reviews &amp; Responses to Darwin |date=10 March 2009 |publisher=Darwin Online |access-date=18 June 2009 | ref=none}}
+
+==External links==
+{{Commons category|On the Origin of Species}}
+{{Wikisource}}
+{{Library resources box
+ |onlinebooks=yes
+ |by=no
+ |lcheading=Darwin, Charles, 1809–1882. ''On the origin of species''
+ |label=''On the origin of species''
+ }}
+*[[The Complete Works of Charles Darwin Online]]:
+**[http://darwin-online.org.uk/contents.html Table of contents], bibliography of [http://darwin-online.org.uk/EditorialIntroductions/Freeman_OntheOriginofSpecies.html ''On the Origin of Species''] – links to text and images of all six British editions of ''The Origin of Species'', the 6th edition with additions and corrections (final text), the first American edition, and translations into Danish, Dutch, French, German, Polish, Russian and Spanish
+**[http://darwin-online.org.uk/Variorum/index.html Online Variorum], showing every change between the six British editions
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species}}
+*[https://www.gutenberg.org/ebooks/1228 On the Origin of Species] eBook provided by [[Project Gutenberg]]
+* {{librivox book | dtitle=On the Origin of Species |stitle=Origin of Species |author=Charles Darwin}}
+*{{In Our Time|On the Origin of Species|b00gd3wy|On_the_Origin_of_Species}}
+*[https://web.archive.org/web/20090315071103/https://publicliterature.org/books/origin_of_species/xaa.php ''On the Origin of Species''], full text with embedded audio
+*[http://www.victorianweb.org/science/texts.html A collection of Victorian Science Texts]
+*[http://www.darwinproject.ac.uk Darwin Correspondence Project Home Page], University Library, Cambridge
+*View online at the Biodiversity Heritage Library [https://www.biodiversitylibrary.org/item/89015 ''On the Origin of Species''] 1860 American edition, D Appleton and Company, New York, with front insert by H. E. Barker, ''Lincolniana''
+*[http://cudl.lib.cam.ac.uk/collections/darwin_mss Darwin's notes on the creation of ''On the Origin of Species''] digitised in [[Cambridge Digital Library]]
+
+{{Darwin}}
+{{evolution}}
+{{Natural history}}
+{{History of biology}}
+{{Featured article}}
+{{Portal bar|Evolutionary biology}}
+{{Authority control}}
+
+{{DEFAULTSORT:Origin Of Species, The}}
+[[Category:1859 non-fiction books]]
+[[Category:1859 in science]]
+[[Category:Books about evolution]]
+[[Category:Books by Charles Darwin]]
+[[Category:English-language books]]
+[[Category:English non-fiction books]]
+[[Category:John Murray (publishing house) books]]</text>
+      <sha1>izvzhzxknl073mc39bwdoozastdcuax</sha1>
+    </revision>
+  </page>
+</mediawiki>

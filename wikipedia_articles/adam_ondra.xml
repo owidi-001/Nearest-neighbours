@@ -1,0 +1,718 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Adam Ondra</title>
+    <ns>0</ns>
+    <id>15725223</id>
+    <revision>
+      <id>1033103916</id>
+      <parentid>1032952194</parentid>
+      <timestamp>2021-07-11T16:42:08Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Reformat 1 archive link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57814" xml:space="preserve">{{Short description|Czech climber (born 1993)}}
+{{Infobox climber
+| image            = 20180227-LS-0055_by_Lukasz_Sokol.jpg
+| image_size       =
+| caption          = Ondra in 2018
+| name             = Adam Ondra
+| birth_date       = {{Birth date and age|1993|02|05}}
+| birth_place      = [[Brno, Czech Republic]]
+| death_date       = &lt;!-- if applicable use {{death date and age|yyyy|mm|dd|yyyy|mm|dd}} --&gt;
+| death_place      = 
+| education        = [[Masaryk University]]
+| occupation       = Professional [[rock climber]]
+| height           = 185 cm
+| weight           = 70 kg
+| typeofclimber    = [[Lead climbing]] and [[bouldering]]
+| highestredpoint  = {{Climbing grade|9c/5.15d}}
+| highestonsight   = {{Climbing grade|9a+/5.15a}}
+| highestboulder   = {{Boulder  grade|8C+/v16}}
+| knownfor         = Being the first person to climb 9b+ and 9c routes, to flash 9a+, and to win both Lead and Bouldering World Cups and Championships
+| firstascents     = 
+| namedroutes      = 
+| majorascents     = 
+| website          = {{URL|www.adamondra.com}}
+| updated          = April 19, 2021
+|medaltemplates =
+{{Medal|Competition|[[IFSC Climbing World Cup|World Cup]]}}
+{{Medal|Winner|2009|Lead}}
+{{Medal|Winner|2009|Combined}}
+{{Medal|Winner|2010|Bouldering}}
+{{Medal|Winner|2010|Combined}}
+{{Medal|Winner|2015|Lead}}
+{{Medal|Winner|2015|Combined}}
+{{Medal|Winner|2019|Lead}}
+{{Medal|Second|2019|Bouldering}}
+{{Medal|Competition|[[IFSC Climbing World Championships|World Championships]]}}
+{{Medal|Gold  |2011|Overall}}
+{{Medal|Gold  |2014|Lead}}
+{{Medal|Gold  |2014|Bouldering}}
+{{Medal|Gold  |2016|Lead}}
+{{Medal|Gold  |2019|Lead}}
+{{Medal|Silver|2009|Lead}}
+{{Medal|Silver|2011|Bouldering}}
+{{Medal|Silver|2016|Bouldering}}
+{{Medal|Silver|2018|Lead}}
+{{Medal|Silver|2018|Combined}}
+{{Medal|Bronze|2011|Lead}}
+{{Medal|Bronze|2012|Lead}}
+{{Medal|Competition|[[IFSC Climbing European Championships|European Championships]]}}
+{{Medal|Gold|2019|Lead}}
+{{Medal|Silver|2010|Lead}}
+{{Medal|Silver|2010|Bouldering}}
+{{Medal|Silver|2015|Lead}}
+{{Medal|Silver|2015|Bouldering}}
+{{Medal|Silver|2017|Lead}}
+|show-medals = yes
+}}
+[[File:Adam Ondra climbing Silence, 9c by PAVEL BLAZEK 1-cropped.jpg|thumb|Ondra climbing [[Silence (climb)|Silence]], {{Climbing grade|9c}}, in 2017]]
+[[File:Adam Ondra Imst 2009.JPG|thumb|Ondra in 2009 at [[Imst]]]]
+'''Adam Ondra''' (born February 5, 1993) is a Czech professional [[Rock climbing|rock climber]], specializing in [[lead climbing]] and [[bouldering]]. ''[[Rock &amp; Ice]]'' magazine described Ondra in 2013 as a [[child prodigy|prodigy]] and the leading climber of his generation.&lt;ref name="rockice2013"&gt;{{cite web|url=https://rockandice.com/features/perfect-play-what-it-took-to-climb-la-dura-dura-5-15c-the-worlds-hardest-route|title=Perfect Play: What It Took to Climb La Dura Dura (5.15c) – The World's Hardest Route|website=rockandice.com|last=Bisharat|first=Andrew|date=27 November 2013|access-date=14 March 2020}}&lt;/ref&gt; Ondra is the only male athlete to have won [[IFSC Climbing World Championships|World Championship]] titles in both disciplines in the same year (2014), and he is also the only male athlete to have won the [[IFSC Climbing World Cup|World Cup]] series in both disciplines (lead climbing in 2009, 2015 and 2019, and bouldering in 2010).
+
+Ondra started climbing at the age of 6. At age 13, he climbed his first route graded {{Climbing grade|9a}}. ''Rock &amp; Ice'' reported that by 2011, Ondra was "[[onsight]]ing 5.14c’s by the handful", and by 2013 had "more or less repeated every hard route in the world—easily".&lt;ref name="rockice2013"/&gt; As of November 2018, Ondra had climbed 1550 routes between grades {{Climbing grade|8a}} and {{Climbing grade|9c}}, one of which was a {{Climbing grade|9c}}, three were {{Climbing grade|9b+}}, and three were onsights of {{Climbing grade|9a}}.&lt;ref name=routes /&gt;
+
+Ondra is the first climber to have [[Redpoint (climbing)|redpointed]] a route with a proposed grade of {{Climbing grade|9c}} (''[[Silence (climb)|Silence]]'', September 3, 2017),&lt;ref name=climbing9c /&gt; the first climber to have redpointed a route with a proposed grade of {{Climbing grade|9b+}} (''Change'', October 4, 2012),&lt;ref name=climbing515c /&gt; the first to [[flash (climbing)|flash]] a {{Climbing grade|9a+}} route (''Supercrackinette'', February 10, 2018), and the second to onsight a {{Climbing grade|9a}} route (''Cabane au Canada'', July 9, 2013).&lt;ref name=onsighting9a /&gt; According to ''[[The Economist]],'' Ondra is "regarded as possibly the best climber ever to fondle rock".&lt;ref&gt;{{cite news|title=Climbing without ropes: A series of remarkable feats increases the appeal of a niche sport|url=https://www.economist.com/news/united-states/21723152-series-remarkable-feats-increases-appeal-niche-sport-climbing-without-ropes|access-date=June 9, 2017|work=[[The Economist]]|date=June 8, 2017}}&lt;/ref&gt;
+
+== Biography ==
+[[File:Adam Ondra Imst.JPG|thumb|200px|Adam Ondra at the IFSC Lead Worldcup Imst 2009]]
+Ondra started climbing at the age of six; his parents are climbers and they shared their passion with him.
+
+In 1999 (at age six) in [[Rovinj]], Croatia, Ondra easily climbed a {{Climbing grade|6a}} route with bolts every half meter. Soon he became famous in climbing magazines, as his achievements quickly grew more and more notable:
+* In 2001 (at age eight) he onsighted {{Climbing grade|7b+}} routes. 
+* In 2002 (at age nine) he onsighted {{Climbing grade|7c+}} and redpointed {{Climbing grade|8a}}. 
+* In 2003 (at age ten) he onsighted {{Climbing grade|8a}}. 
+* In 2004 (at age eleven) he onsighted {{Climbing grade|8a+}}&lt;ref&gt;{{Cite web|url=http://www.czechclimbing.com/clanky.php?xtem=&amp;key=3080|title=Adam Ondra - 11 year kid 8a+ onsight|work=Czech Climbing|date=15 May 2004|access-date=7 October 2012}}&lt;/ref&gt; and redpointed {{Climbing grade|8c}}. 
+* In 2005 (at age twelve) he onsighted {{Climbing grade|8b}}.
+* In 2006 (at age thirteen) he managed to redpoint his first {{Climbing grade|9a}}, ''Martin Krpan'' at [[Misja Pec]].
+
+In 2007 and 2008 he won the [[IFSC Climbing World Youth Championships|IFSC World Youth Championship]], category Youth B.
+
+In 2009, at age sixteen, Ondra competed for the first time in the [[Lead Climbing World Cup]], winning ahead of Spanish [[Patxi Usobiaga]] and Japanese [[Sachi Amma]].&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=37090|title=Climbing World Cup Lead 2009 won by Johanna Ernst and Adam Ondra|work=PlanetMountain.com|date=16 November 2009|access-date=7 October 2012}}&lt;/ref&gt;
+
+In 2010, he won the [[Bouldering World Cup]], ahead of Austrian [[Kilian Fischhuber]] and Japanese Tsukuru Hori, becoming the first athlete in history to win the World Cup in both disciplines (lead and bouldering).&lt;ref&gt;{{Cite web|url=http://www.climbing.com/news/hotflashes/ondra_noguchi_win_2010_bouldering_world_cup/ |title=Ondra, Noguchi Win 2010 Bouldering World Cup |work=Climbing |author=Genna Ord |date=2 August 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120327042441/http://www.climbing.com/news/hotflashes/ondra_noguchi_win_2010_bouldering_world_cup/ |archive-date=27 March 2012 }}&lt;/ref&gt;
+
+In March 2011, during a trip to Spain, Ondra became the second person ever to have onsighted {{Climbing grade|8c+}} after Patxi Usobiaga. In only a few days he onsighted five {{Climbing grade|8c+}} routes, including two on the same day).&lt;ref&gt;{{Cite web|url=http://www.climbing.com/news/hotflashes/a_new_level_ondra_onsights_five_514cs/ |title=A New Level: Ondra Onsights Five 5.14c's |work=Climbing |author=Amanda Fox |date=21 March 2011 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120723101307/http://www.climbing.com/news/hotflashes/a_new_level_ondra_onsights_five_514cs/ |archive-date=23 July 2012 }}&lt;/ref&gt;
+
+On October 4, 2012, Ondra redpointed ''Change'', in the Hanshelleren Cave, [[Flatanger]], Norway. It was the first route to receive a proposed grade of {{Climbing grade|9b+}}.&lt;ref name=climbing515c&gt;{{Cite web|url=http://www.climbing.com/news/ondra-5-15c-norway/|title=Adam Ondra Climbs 5.15c in Norway|work=Climbing|author=Dougald MacDonald|date=4 October 2012|access-date=7 October 2012}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.rockandice.com/news/2278-adam-ondra-does-fa-of-worlds-hardest-route |title=Adam Ondra Does FA of World's Hardest Route |work=Rock and Ice |date=4 October 2012 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121006232624/http://www.rockandice.com/news/2278-adam-ondra-does-fa-of-worlds-hardest-route |archive-date=6 October 2012 }}&lt;/ref&gt;
+
+On October 29, 2012, Ondra flashed one of the [[Red River Gorge]]'s hardest routes, ''Southern Smoke Direct'' {{Climbing grade|9a+}}, suggesting the grade of {{Climbing grade|9a}}.&lt;ref&gt;{{Cite web |url=http://www.dpmclimbing.com/articles/view/adam-ondra-flashes-514d15a |title=Adam Ondra Flashes 5.14d/15a |date=29 October 2012 |access-date=30 October 2012 |archive-url=https://web.archive.org/web/20121101235759/http://www.dpmclimbing.com/articles/view/adam-ondra-flashes-514d15a |archive-date=1 November 2012 |url-status=dead }}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.dpmclimbing.com/articles/view/adam-ondra-flashes-514d15a|title=Adam Ondra Flashes 5.14d/15a|work=dpmclimbing.com|access-date=13 November 2012|archive-url=https://web.archive.org/web/20121101235759/http://www.dpmclimbing.com/articles/view/adam-ondra-flashes-514d15a|archive-date=2012-11-01|url-status=dead}}&lt;/ref&gt;  On November 1, he onsighted ''Pure Imagination'' and ''The Golden Ticket'', both 9a, suggesting the grade of 8c+.&lt;ref&gt;{{Cite web|url=http://www.climbing.com/news/ondra-onsights-two-red-river-5-14d-routes/|title=Ondra Onsights Two Red River 5.14d Routes|work=climbing.com|access-date=13 November 2012}}&lt;/ref&gt;
+
+On February 7, 2013, Ondra sent ''[[La Dura Dura]]'', in [[Oliana]], [[Catalonia]], Spain, his second {{Climbing grade|9b+}} after ''Change''. He worked on this project with [[Chris Sharma]] and the first ascent took Ondra nine weeks of work.&lt;ref name=climbingdd&gt;{{Cite web|url=http://www.climbing.com/news/ondra-puts-down-la-dura-dura-5-15c/|title=Ondra Puts Down La Dura Dura (5.15c)|work=Climbing|access-date=7 February 2013}}&lt;/ref&gt;
+
+On February 9, 2013, just two days after ''La Dura Dura'', Ondra succeeded in the second ascent of the {{Climbing grade|9b}} ''Fight or flight'', first climbed by Sharma in 2011.&lt;ref name=climbingfof&gt;{{Cite web|url=http://www.climbing.com/news/ondra-adds-5-15b-to-spanish-route-tally/|title=Ondra Adds 5.15b To Spanish Route Tally|work=Climbing|access-date=10 February 2013}}&lt;/ref&gt;
+
+On July 9, 2013, Ondra realized the second {{Climbing grade|9a}} onsight in history after [[Alex Megos|Alexander Megos]], with the ascent of ''Cabane au Canada'' in Rawyl, Switzerland.&lt;ref name=onsighting9a&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=68197|title=La cabane au Canada, 9a, onsight by Ondra|publisher=ukclimbing.com|author=Björn Pohl|date=9 July 2013|access-date=10 July 2013}}&lt;/ref&gt;
+
+On November 21, 2016, Ondra completed the second free ascent of ''The Dawn Wall'', a {{Climbing grade|5.14d}} multi-[[pitch (climbing)|pitch]] route at ''[[El Capitan]]'' in the [[Yosemite Valley]]. The route is widely regarded as the hardest big wall in the world. Ondra was also the first person to lead every pitch.&lt;ref name=dawnwall&gt;{{Cite web|url=http://www.climbing.com/news/adam-ondra-completes-dawn-wall/|title=Adam Ondra Completes Dawn Wall|work=Climbing|access-date=22 November 2016}}&lt;/ref&gt; The first free ascent was completed by Tommy Caldwell and Kevin Jorgeson in January 2015 after years of scouting it to determine whether it was possible. They needed 19 days to complete the route (after 5 years to learn the moves), while Ondra needed only 8 days (after 3 weeks to learn the moves).
+
+On April 23, 2017, he set a new highpoint of the Black Diamond Project in Stockholm, Sweden believed to be the hardest indoor sport route in the world.
+
+On September 3, 2017, after about 4 years of trials,&lt;ref name=climbing9c /&gt; Ondra climbed ''[[Silence (climb)|Silence]]'', in the Hanshelleren Cave (Flatanger, Norway). At that point, the route was unclimbed and widely considered to be the most difficult project in the world, together with ''Le blond'', a route which is still unclimbed, bolted by Chris Sharma in Oliana. ''Silence'' was the first route to receive a proposed grade of {{Climbing grade|9c}}. The route was previously known as ''Project Hard''.
+
+On February 10, 2018, Ondra realized the first flash of a confirmed 9a+ route with his ascent of ''Super Crackinette'' in Saint-Léger du Ventoux, France. The route was first climbed by Alexander Megos after 3 days of work in 2016.&lt;ref name=flashing9a+&gt;{{Cite web|url=https://www.planetmountain.com/en/news/interviews/adam-ondra-interview-after-worlds-first-9a-plus-flash-at-st-leger-in-france.html|title=Super Crackinette, 9a+, flash by Ondra|publisher=planetmountain.com|date=12 February 2018|access-date=19 July 2018}}&lt;/ref&gt;
+
+On November 12, 2018, Ondra onsighted ''Just do it'' (Smith Rock, Oregon), a historic 8c+ route bolted by Alan Watts in 1989 and first ascended in 1992 by [[Jean-Baptiste Tribout]]. At that time, ''Just do it'' was considered the hardest route in the U.S.&lt;ref name=justdoit&gt;{{cite web |url= http://www.climbing.com/news/siegrist-completes-just-do-it-5-14c-at-smith/ |title=Siegrist Completes Just Do It (5.14c) at Smith |work=climbing.com |year=2012 |access-date=2 February 2013}}&lt;/ref&gt; It is a long slab (140 feet, 18 bolts) with many tricky moves and small holds hardly visible from the ground. This kind of classic route is considered to be particularly difficult to onsight, by both Adam Ondra and Alan Watts.&lt;ref&gt;{{Cite web|url=https://www.instagram.com/p/BqG207Hh1bT/|title=Just Do It 8c+ was just an incredible experience|author=Adam Ondra|publisher=Instagram|date=November 13, 2018|access-date=December 24, 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.planetmountain.com/en/news/climbing/adam-ondra-onsights-just-do-it-smith-rock-america-first-8c-plus.html|title=Adam Ondra onsights Just Do It at Smith Rock, America's first 8c+|editor=planetmountain.com|date=November 12, 2018|access-date=December 24, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Adam Ondra - Just Do It, 5.14c (8c+) onsight - uncut footage - vlog #10 BONUS |url=https://www.youtube.com/watch?v=S6floyyDP-w |website=youtube}}&lt;/ref&gt;
+
+As of 2019, Ondra is working towards qualifying for the [[2020 Summer Olympics]]. He failed to qualify at the [[2019 IFSC Climbing World Championships]] as he was disqualified for accidentally toeing a bolt during the lead climbing portion of the combined event.&lt;ref&gt;{{Cite web|url=https://www.lacrux.com/en/klettern/adam-ondra-about-his-disqualification-at-the-klm-wm-in-japan/|title=Adam Ondra about his disqualification at the World Championships in Japan {{!}} LACRUX climbing magazine|date=2019-08-20|website=LACRUX Klettermagazin|language=en|access-date=2019-10-14}}&lt;/ref&gt; However, at the Olympic qualifying event in Toulouse later that year, he managed to secure his selection for the Olympic games&lt;ref&gt;{{Cite web|url=https://www.ifsc-climbing.org/index.php/component/ifsc/?view=event&amp;WetId=8322|title=Olympic qualifying event - event page|date=2019-12-01|website=IFSC|language=en|access-date=2019-12-02}}&lt;/ref&gt; even though he fell ill after making it through to the finals of the event.
+
+In April 2021 Ondra won gold in the bouldering discipline at the IFSC World Cup in Meiringen. This marked his 20th World Cup gold medal.&lt;ref&gt;https://www.ukclimbing.com/news/2021/04/ifsc_boulder_world_cup_meiringen_2021_report-72753&lt;/ref&gt;
+
+[[File:Boulder Worldcup Vienna 29-05-2010a semifinals068 Adam Ondra.jpg|thumb|200px|Adam Ondra at the IFSC Boulder Worldcup Vienna 2010]]
+
+== Rankings ==
+{{See also|Best IFSC results}}
+
+=== Climbing World Cup ===
+{| class="wikitable" style="text-align: center;"
+! style="background: #b0e0e6;" | Discipline
+! style="background: #b0e0e6;" | 2009
+! style="background: #b0e0e6;" | 2010
+! style="background: #b0e0e6;" | 2011
+! style="background: #b0e0e6;" | 2012
+! style="background: #b0e0e6;" | 2013
+! style="background: #b0e0e6;" | 2014
+! style="background: #b0e0e6;" | 2015
+! style="background: #b0e0e6;" | 2016
+! style="background: #b0e0e6;" | 2017
+! style="background: #b0e0e6;" | 2018
+! style="background: #b0e0e6;" | 2019
+|-
+| align="left" | Lead
+| style="background: gold;" | 1
+| style="background: #cc9966;" | 3
+| 57
+| -
+| 11
+| style="background: #cc9966;" | 3
+| style="background: gold;" | 1
+| 23
+| 27
+| 31
+| style="background: gold;" | 1
+|-
+| align="left" | Bouldering
+| 15
+| style="background: gold;" | 1
+| -
+| -
+| -
+| 24
+| style="background: #cc9966;" | 3
+| -
+| -
+| -
+| style="background: silver;" | 2
+|-
+| align="left" | Speed
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| 
+|-
+| align="left" | Combined
+| style="background: gold;" | 1
+| style="background: gold;" | 1
+| -
+| -
+| -
+| style="background: silver;" | 2
+| style="background: gold;" | 1
+| -
+| 65
+| -
+| style="background: silver;" | 2
+|}
+&lt;ref name="IFSC Worldcups" /&gt;
+
+=== Climbing World Championships ===
+'''Youth'''&lt;ref name="IFSC profile" /&gt;
+{| class="wikitable" style="text-align: center;"
+! style="background: #b0e0e6;" | Discipline
+! style="background: #b0e0e6;" | 2007&lt;br&gt;Youth B
+! style="background: #b0e0e6;" | 2008&lt;br&gt;Youth B
+! style="background: #b0e0e6;" | 2009&lt;br&gt;Youth A
+|-
+| align="left" | Lead
+| style="background: gold;" | 1
+| style="background: gold;" | 1
+| style="background: gold;" | 1
+|}
+
+'''Adult'''&lt;ref name="IFSC profile" /&gt;
+{| class="wikitable" style="text-align: center;"
+! style="background: #b0e0e6;" | Discipline
+! style="background: #b0e0e6;" | [[2009 IFSC Climbing World Championships|2009]]
+! style="background: #b0e0e6;" | [[2011 IFSC Climbing World Championships|2011]]
+! style="background: #b0e0e6;" | [[2012 IFSC Climbing World Championships|2012]]
+! style="background: #b0e0e6;" | [[2014 IFSC Climbing World Championships|2014]]
+! style="background: #b0e0e6;" | [[2016 IFSC Climbing World Championships|2016]]
+! style="background: #b0e0e6;" | [[2018 IFSC Climbing World Championships|2018]]
+! style="background: #b0e0e6;" | [[2019 IFSC Climbing World Championships|2019]]
+|-
+| align="left" | Lead
+| style="background: silver;" | 2
+| style="background: #cc9966;"| 3
+| style="background: #cc9966;"| 3
+| style="background: gold;"   | 1
+| style="background: gold;"   | 1
+| style="background: silver;" | 2
+| style="background: gold;"   | 1
+|-
+| align="left" | Bouldering
+| -
+| style="background: silver;" | 2
+| -
+| style="background: gold;" | 1
+| style="background: silver;" | 2
+| 17
+| 6
+|-
+| align="left" | Speed
+| -
+| 70
+| -
+| -
+| -
+| 81
+| 58
+|-
+| align="left" | Combined
+| -
+| -
+| -
+| -
+| -
+| style="background: silver;" | 2
+|18
+|}
+
+=== [[IFSC Climbing European Championships|Climbing European Championships]] ===
+{| class="wikitable" style="text-align: center;"
+! style="background: #b0e0e6;" | Discipline
+! style="background: #b0e0e6;" | 2010
+! style="background: #b0e0e6;" | 2013
+! style="background: #b0e0e6;" | 2015
+! style="background: #b0e0e6;" | 2017
+! style="background: #b0e0e6;" | 2019
+|-
+| align="left" | Lead
+| style="background: silver;" | 2
+| -
+| style="background: silver;" | 2
+| style="background: silver;" | 2
+| style="background: gold;" | 1
+|-
+| align="left" | Bouldering
+| style="background: silver;" | 2
+| -
+| style="background: silver;" | 2
+| -
+| -
+|-
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+=== Rock Master ===
+{| class="wikitable" style="text-align: center;"
+! style="background: #b0e0e6;" | Discipline
+! style="background: #b0e0e6;" | [[Rock Master|2009]]
+! style="background: #b0e0e6;" | [[Rock Master|2010]]
+! style="background: #b0e0e6;" | [[Rock Master|2011]]
+! style="background: #b0e0e6;" | [[Rock Master|2012]]
+! style="background: #b0e0e6;" | [[Rock Master|2013]]
+! style="background: #b0e0e6;" | [[Rock Master|2014]]
+! style="background: #b0e0e6;" | [[Rock Master|2015]]
+! style="background: #b0e0e6;" | [[Rock Master|2016]]
+|-
+| align="left" | Lead
+| style="background: #cc9966;" | 3
+| style="background: #cc9966;" | 3
+|
+| 5
+| 
+| 
+| 
+| -
+|-
+| align="left" | Duel
+|
+|
+| style="background: gold;" | 1
+| style="background: silver;" | 2
+| 
+| - 
+| style="background: gold;" | 1
+| style="background: gold;" | 1
+|-
+| align="left" | KO Boulder
+| -
+| -
+| -
+| -
+| -
+| - 
+| -
+| style="background: gold;" | 1
+|}
+
+== Number of medals in the Climbing European Youth Cup ==
+=== Lead ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "55" | Season
+! width = "55" | Category
+! width = "55" style="background: gold;" | Gold
+! width = "55" style="background: silver;"| Silver
+! width = "55" style="background: #cc9966;"| Bronze
+! width = "55" | Total
+|-
+|2007 || Youth B ||5 ||  ||  || 5
+|-
+|2008 || Youth B ||5 ||  ||  || 5
+|-
+| colspan=2 |'''Total''' ||'''10''' ||'''0''' ||'''0''' ||'''10'''
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+== Number of medals in the Climbing World Cup ==
+=== Lead ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "55" | Season
+! width = "55" style="background: gold;" | Gold
+! width = "55" style="background: silver;"| Silver
+! width = "55" style="background: #cc9966;"| Bronze
+! width = "55" | Total
+|-
+|2009 ||4 ||  ||  || 4
+|-
+|2010 ||1 ||1 ||1 || 3
+|-
+|2011&lt;br&gt; 2012 ||  ||  ||  || 0
+|-
+|2013 ||1 ||1 ||  || 2
+|-
+|2014 ||3 ||  ||  || 3
+|-
+|2015 ||2 ||2 ||  || 4
+|-
+|2016 ||  ||  ||  || 0
+|-
+|2017 ||  ||1 ||  || 1
+|-
+|2018 ||  ||  ||  || 0
+|-
+|2019 ||3 ||  ||  || 3
+|-
+|2020 ||1 ||  ||  || 1
+|-
+|'''Total''' ||'''15''' ||'''5''' ||'''1''' ||'''21'''
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+=== Bouldering ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "55" | Season
+! width = "55" style="background: gold;" | Gold
+! width = "55" style="background: silver;"| Silver
+! width = "55" style="background: #cc9966;"| Bronze
+! width = "55" | Total
+|-
+|2009 ||  ||  ||1 || 1
+|-
+|2010 ||3 ||2 ||  || 5
+|-
+|2011&lt;br&gt; 2012&lt;br&gt; 2013 ||  ||  ||  || 0
+|-
+|2014 ||  ||1 ||  || 1
+|-
+|2015 ||  ||  ||2 || 2
+|-
+|2016&lt;br&gt; 2017&lt;br&gt; 2018 ||  ||  ||  || 0
+|-
+|2019 ||1 ||2 ||  || 3
+|-
+|2021 ||2 ||  ||  || 2
+|-
+|'''Total''' ||'''6''' ||'''5''' ||'''3''' ||'''14'''
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+== Single-pitch routes ==
+The table below shows the large number of routes graded {{climbing grade|8a}} or more ascended by Adam Ondra in about 16 years, from August 2, 2002 (when he redpointed his first 8a) to November 10, 2018.&lt;ref name=routes /&gt; The total number is 1554, of which 1 was at {{Climbing grade|9c}} and 725 were onsighted, including 3 onsights at {{Climbing grade|9a}} and 1 flash at {{Climbing grade|9a+}}.&lt;ref name=routes /&gt;
+
+{| class="wikitable" style="text-align:center;"
+|+ Number of ascended routes
+![[Grade (climbing)|Grade]] !! [[Redpoint (climbing)|Redpoint]] !! [[Flash (climbing)|Flash]] !! [[On-sight]] !! Total
+|-
+| {{climbing grade|9c}}  || 1  ||  ||  || 1 
+|-
+| {{climbing grade|9b+}} || 3  ||  ||  || 3 
+|-
+| {{climbing grade|9b}}  || 20 ||  ||  || 20
+|-
+| {{climbing grade|9a+}} || 39 || 1 ||  || 40
+|-
+| {{climbing grade|9a}}  || 101 || 2 || 3 || 106
+|-
+| {{climbing grade|8c+}} || 124 || 1 || 21 || 146
+|-
+| {{climbing grade|8c}}  || 110 || 1 || 61 || 172
+|-
+| {{climbing grade|8b+}} || 96  || 4 || 85 || 185
+|-
+| {{climbing grade|8b}}  || 108 || 19 || 143 || 270
+|-
+| {{climbing grade|8a+}} || 82  || 17 || 207 || 306
+|-
+| {{climbing grade|8a}}  || 65  || 35 || 205 || 305
+|-
+| '''Total''' || '''749''' || '''80''' || '''725''' || '''1554'''
+|}
+
+=== Redpoint ===
+{{climbing grade|9C}}:
+:* [[Silence (climb)|''Silence'']] (formerly known as ''Project hard'')&lt;ref&gt;{{cite web|url=https://www.instagram.com/p/BYxqK3NFG6n/|title=Silence 9c, Flatanger, Norway|publisher=Instagram|author=Adam Ondra}}&lt;/ref&gt; - [[Flatanger]] ([[Norway|NOR]]) - September 3, 2017 - First ascent and world's first 9c.&lt;ref name=climbing9c&gt;{{cite web|url=http://www.planetmountain.com/en/news/interviews/adam-ondra-climbs-worlds-first-9c-at-flatanger-in-norway.html|title=Adam Ondra climbs world's first 9c at Flatanger in Norway}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web|url=https://www.ukclimbing.com/news/item/71256/adam_ondra_climbs_worlds_first_9c_-_project_hard |title= Adam Ondra climbs world's first 9c - Project Hard |publisher= UKClimbing |access-date= September 3, 2017}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web |url= http://www.planetmountain.com/en/news/climbing/adam-ondra-climbing-towards-the-worlds-first-9c.html |title= Interview: Adam Ondra climbing toward the world's first 9C |editor=planetmountain.com|date=June 26, 2017 |access-date= August 1, 2017}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web |url= https://www.youtube.com/watch?v=7Xmx2gYwsYo |title= Adam Ondra: incredible moves in possible 9c |editor=Youtube |date=September 14, 2016 |access-date= August 1, 2017}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web |url= https://www.youtube.com/watch?v=HDlsH3AcHGA|title=Adam Ondra trying the first crux of Project Hard |editor=Youtube |date= September 14, 2016 |access-date= August 1, 2017}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web |url= https://www.youtube.com/watch?v=PVkidzoiJ50#t=2.452307 |title= Adam Ondra on the second crux of Project Hard |work= Youtube.com |date= September 14, 2016 |access-date= August 1, 2017}}&lt;/ref&gt;&lt;ref&gt;
+{{cite web |url= https://www.climbing.com/people/adam-ondra-the-future-of-climbing/ |title= Adam Ondra: the future of climbing |work= climbing.com |date= June 7, 2016 |access-date= August 1, 2017}}&lt;/ref&gt; (The grade has to be confirmed)
+
+{{climbing grade|9B+}}:
+:*''Vasil Vasil'' - Sloup ([[Czech Republic|{{ISO 3166 code-3|Czech Republic}}]]) - December 4, 2013 - First ascent
+:* [[La Dura Dura]] - [[Oliana]] ([[Spain|ESP]]) - February 7, 2013 - First ascent&lt;ref name=climbingdd /&gt;
+:* ''Change'' - [[Flatanger]] ([[Norway|{{ISO 3166 code-3|Norway}}]]) - October 4, 2012 - First ascent and world's first 9b+&lt;ref name=climbing515c /&gt;
+
+{{climbing grade|9B}}:
+:* ''Neanderthal'' - Santa Linya ([[Spain|ESP]]) - February 12, 2019
+:* ''Disbelief'' - Acephale ([[Canada|CAN]]) - July 20, 2018 - First ascent &lt;ref&gt;{{Cite web|url=https://gripped.com/news/adam-ondra-climbs-new-5-15b-canada/|title=Disbelief, 9b, first ascent by Adam Ondra}}&lt;/ref&gt;
+:* ''Eagle-4'' - St. Léger ([[France|FRA]]) - February 13, 2018 - First ascent
+:* ''One Slap'' - [[Arco, Trentino|Arco]] ([[Italy|ITA]]) - November 13, 2017 - First ascent
+:* ''Move Hard'' - Flatanger ([[Norway|NOR]]) - July 10, 2017 - First ascent (link-up of two neighboring routes; through first crux of ''Move'' into second crux of ''Silence'', at the time known as ''Project Hard'')
+:* ''Lapsus'' - Andonno ([[Italy|ITA]]) - April 20, 2017 - Second ascent &lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/en/news/climbing/adam-ondra-repeats-lapsus-at-andonno-second-9b-in-two-days.html|title=Adam Ondra repeats Lapsus at Andonno, second 9b in two days}}&lt;/ref&gt;
+:* ''Queen Line'' - Laghel ([[Arco, Trentino|Arco]], [[Italy|ITA]]) - April 19, 2017 - First ascent &lt;ref name="ukclimbing.com"&gt;{{Cite web|url=https://www.ukclimbing.com/news/item/71055/queen_line_9b_first_ascent_by_adam_ondra|title=Queen Line, 9b, first ascent by Adam Ondra|access-date=19 April 2017}}&lt;/ref&gt;
+:* ''Mamichula'' - [[Oliana]] ([[Spain|ESP]]) - February 8, 2017 - First ascent &lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/en/news/climbing/adam-ondra-frees-mamichula-at-oliana-new-9b-sports-climb.html|title=Adam Ondra frees Mamichula at Oliana|work=planetmountain.com|access-date=9 February 2017}}&lt;/ref&gt;
+:* ''Robin Ud'' - Alternativna stena ([[Slovakia|{{ISO 3166 code-3|Slovakia}}]]) - October 5, 2016 - First ascent&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item/70721/robin_ud_9b_first_ascent_by_adam_ondra|title=Robin Ud, 9b, first ascent by Adam Ondra|work=UKClimbing.com|author=Björn Pohl|access-date=6 October 2016}}&lt;/ref&gt;
+:* ''Stoking the Fire'' - [[Santa Linya]] ([[Spain|ESP]]) - February 19, 2016 - Second ascent of [[Chris Sharma]]'s route
+:* ''C.R.S.'' - [[Mollans sur Ouvèze]] ([[France|FRA]]) - November 2, 2015 - First ascent
+:* ''First Round First Minute'' - [[Margalef]] ([[Spain|ESP]]) - February 3, 2014 - Second ascent of [[Chris Sharma]]'s route
+:* ''Move'' - [[Flatanger]] ([[Norway|NOR]]) - August 20, 2013 - First ascent. Ondra graded the route "9b/9b+, or just hard 9b".&lt;ref&gt;{{cite web|url=https://www.blackdiamondequipment.com/en_US/adam-ondra-move-first-ascent.html|publisher=Black Diamond|title=Adam Ondra makes FA of Move (9B/9B+)|access-date=2019-06-18|archive-date=2020-10-30|archive-url=https://web.archive.org/web/20201030120833/https://www.blackdiamondequipment.com/en_US/adam-ondra-move-first-ascent.html|url-status=dead}}&lt;/ref&gt; Repeated on June 17, 2019 by Seb Bouin, who confirmed the grade.&lt;ref&gt;{{Cite web|url=https://www.instagram.com/p/By2CbanIGZX/|title=Seb Bouin instagram|work=Climbing|author=Seb Bouin|date=18 June 2019|access-date=18 June 2019}}&lt;/ref&gt;
+:* ''Iron Curtain'' - Flatanger (NOR) - August 3, 2013 - First ascent
+:* ''Fight or flight'' - [[Oliana]] ([[Spain|ESP]]) - February 9, 2013 - Second ascent of Chris Sharma's route (2011)&lt;ref name=climbingfof /&gt;
+:* ''La planta de Shiva'' - [[Villanueva del Rosario]] ([[Spain|ESP]]) - April 22, 2011 - First ascent&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=61849|title=La Planta de Shiva, 9b, by Adam Ondra|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Chilam Balam'' - Villanueva del Rosario (ESP) - April 13, 2011 - Second ascent (however Bernabe Fernandez's first ascent is not confirmed)&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=61640|title=Adam Ondra Climbs Chilam Balam|work=UKClimbing|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Chaxi Raxi'' - [[Oliana]] ([[Spain|ESP]]) - March 27, 2011 - First ascent of Chaxi direct start&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=38012|title=Adam Ondra, 9b first ascent and 8c+ on-sight in a day at Oliana|work=PlanetMountain.com|date=28 March 2011|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''La Capella'' - [[Siurana (Tarragona)|Siurana]] ([[Spain|ESP]]) - February 16, 2011 - First ascent&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=37950|title=Adam Ondra, interview after La Capella 9b at Siurana|work=PlanetMountain.com|date=7 March 2011|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Golpe de Estado'' - Siurana (ESP) - March 13, 2010 - Second ascent of Chris Sharma's route (2008)&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=37310|title=Adam Ondra, Golpe de estado at Siurana|work=PlanetMountain.com|date=22 March 2010|access-date=7 October 2012}}&lt;/ref&gt;
+
+{{climbing grade|9A+}}:
+
+:*''Bohemian Rhapsody'' - Velká ([[Czechia|CZE]]) - April, 2020 - First Ascent
+:*''Catxasa'' - Santa Linya ([[Spain|ESP]]) - February 10, 2019
+:*''Czech trip''  - Mavrovi Anovi ([[North Macedonia|MAK]]) - October 19, 2018 - First Ascent
+:*''Sacrifice'' - Echo Canyon ([[Canada|CAN]]) - July 23, 2018 - First ascent
+:*''Stone Butterfly'' - Herculane ([[Romania|ROM]]) - May 15, 2018 - First ascent
+:*''Underground Dreaming'' - [[Arco, Trentino|Arco]] ([[Italy|ITA]]) - February 24, 2018 - First ascent
+:*''Super Crackinette'' - Saint-Léger du Ventoux ([[France|FRA]]) - February 10, 2018 - Flash
+:*''Naturalmente'' - Camaiore ([[Italy|ITA]]) - April 21, 2017 - First ascent&lt;ref&gt;{{Cite web|url=https://www.instagram.com/p/BTLJFSilau6/|title=Instagram post by Adam Ondra • Apr 22, 2017 at 4:23am UTC|website=Instagram|language=en|access-date=2017-04-22}}&lt;/ref&gt;
+:*''Ultimatum'' - Massone ([[Arco, Trentino|Arco]], ([[Italy|ITA]]) - April 19, 2017 - 3rd ascent &lt;ref name="ukclimbing.com"/&gt;
+:*''Predator'' - Bohemian Karst ([[Czech Republic|CZE]]) - November 19, 2015 - First ascent, the hardest route in Bohemia&lt;ref&gt;[http://www.lezec.cz/clanek.php?key=12579 Lezec.cz: Adam - Predator 9a+]&lt;/ref&gt;
+:*''Three Degrees of Separation'' - [[Céüse]] ([[France|FRA]]) - July 27, 2015 - Second ascent of Chris Sharma's route (2007)
+:*''[[Realization (climb)|Realization]]'' - Céüse ([[France|FRA]]) - July 22, 2014 - Tenth ascent
+:*''Ini Ameriketan'' - Baltzola ([[Spain|ESP]]) - May 9, 2014
+:*''Hell Racer'' - Hell ([[Norway|NOR]]) - September 22, 2013 - First ascent
+:*''Kangaroo's Limb'' - [[Flatanger]] ([[Norway|NOR]]) - September 21, 2013 - First ascent
+:*''Torture Physique Integrale'' - [[Gastlosen]] ([[Switzerland|CHE]]) - July 7, 2013 - First ascent
+:*''Power Inverter'' - [[Oliana]] ([[Spain|ESP]]) - January 25, 2013 -  Second ascent of Chris Sharma's route (2010)
+:*''Thor's Hammer'' - [[Flatanger]] ([[Norway|NOR]]) - July 8, 2012 - First ascent (now downgraded to 9a)
+:*''Jungle Boogie'' - [[Céüse]] ([[France|FRA]]) - June 7, 2012 - First ascent&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=39649|title=Adam Ondra frees Jungle Boogie 9a+ at Ceuse|work=PlanetMountain.com|date=7 June 2012|access-date=7 October 2012}}&lt;/ref&gt;
+:*''Perlorodka'' - [[Holstejn]] ([[Moravsky Kras]], [[Czech Republic|CZE]]) - September 6, 2011 - First ascent
+:*''Overshadow'' - [[Malham Cove]] ([[United Kingdom|{{ISO 3166 code-3|United Kingdom}}]]) - May 16, 2011 - Second ascent of [[Steve McClure]]'s route&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=62235|title=Ondra gets Overshadow|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:*''Chaxi'' - [[Oliana]] ([[Spain|ESP]]) - March 21, 2011 - First ascent of Chris Sharma's project
+:*''Obrint el sistema'' - Santa Ana ([[Spain|ESP]]) - March 14, 2011 - First ascent of Daniel Andrada's project&lt;ref&gt;{{Cite web|url=http://www.climbing.com/video/adam-ondra-on-obrint-el-sistema-5-15a-fa/|title=Adam Ondra on Obrint el Sistema|work=Climbing|access-date=7 October 2012}}&lt;/ref&gt;
+:*''L'étrange ivresse des lenteurs'' - [[Céüse]] ([[France|FRA]]) - September 4, 2010 - First ascent&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/ondra-in-c--se--9a--and-9a-s-fa-updated |archive-url=https://web.archive.org/web/20120402093058/http://www.up-climbing.com/en/news/rock/ondra-in-c--se--9a--and-9a-s-fa-updated |url-status=dead |archive-date=2 April 2012 |title=Ondra in Céüse: 9a+ and 9a's FA Updated |work=UP climbing |date=6 September 2010 |access-date=7 October 2012 }}&lt;/ref&gt;
+:*''Goldrake'' - [[Cornalba]] ([[Italy|ITA]]) - April 6, 2010 - First ascent&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/adam-ondra-9a--first-ascent |title=Adam Ondra 9a+ first ascent |work=UP climbing |date=8 April 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093110/http://www.up-climbing.com/en/news/rock/adam-ondra-9a--first-ascent |archive-date=2 April 2012 }}&lt;/ref&gt;
+:*''Marina Superstar'' - [[Domusnovas]] ([[Italy|ITA]]) - October 20, 2009 - First ascent&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=37046|title=Adam Ondra, Marina Superstar 9a+/9b in Sardinia|work=PlanetMountain.com|date=27 October 2009|access-date=7 October 2012}}&lt;/ref&gt;
+:*''Corona'' - [[Frankenjura]] ([[Germany|DEU]]) - June 7, 2009 - Second ascent of Markus Bock's route (2006)&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=36808|title=Adam Ondra climbs Corona 9a+ in the Frankenjura|work=PlanetMountain.com|date=12 June 2009|access-date=7 October 2012}}&lt;/ref&gt;
+:*''Papichulo'' - [[Oliana]] ([[Spain|ESP]]) - February 24, 2009 - Second ascent of Chris Sharma's route (2008)&lt;ref&gt;{{Cite web|url=http://www.czechclimbing.com/clanky.php?xtem=&amp;key=7670|title=Adam Ondra - Papichulo 9a+ and 8c OS|work=Czech Climbing|date=24 February 2009|access-date=7 October 2012}}&lt;/ref&gt;
+:*''Open Air'' - [[Schleierfall|Schleierwasserfall]] ([[Austria|AUT]]) - November 17, 2008 - Second ascent of [[Alexander Huber]]'s route (1996)&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=36453|title=Adam Ondra, Open Air and Hotel Supramonte|work=PlanetMountain.com|date=20 November 2008|access-date=7 October 2012}}&lt;/ref&gt;
+:*''[[La Rambla (climb)|La Rambla]]'' - [[Siurana (Tarragona)|Siurana]] ([[Spain|ESP]]) - February 10, 2008 - Sixth ascent&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=36041|title=Adam Ondra climbs La Rambla 9a+ at Siurana|work=PlanetMountain.com|date=11 February 2008|access-date=7 October 2012}}&lt;/ref&gt;
+
+=== On-sight ===
+[[File:Monkey Face - Smith Rock, Oregon.jpg|thumb|right|The east face of Monkey Face at Smith Rock, containing ''Just do it'' (8c+), onsighted by Ondra in 2018. When it was first ascended by [[Jean-Baptiste Tribout|Tribout]], ''Just do it'' was considered the hardest route in the USA.&lt;ref name=justdoit /&gt;]]
+
+{{climbing grade|9A}}:
+:*''[[Death of Tito Traversa|TCT]]'' - Gravere (ITA) - July 11, 2014
+:* ''Il Domani'' - Baltzola (ESP) - May 3, 2014
+:* ''Cabane au Canada'' - Rawyl ([[Switzerland|{{ISO 3166 code-3|Switzerland}}]]) - July 9, 2013 - Second 9a onsight in history&lt;ref name=onsighting9a /&gt;
+
+{{climbing grade|8C+}}:
+
+:*''Blut und Honig'' - [[Höllental (Lower Austria)|Höllental]] ([[Austria|AUT]]) - September 30, 2019
+:*''Just Do It'' - Smith Rock (Oregon, USA) - November 12, 2018 - Bolted by Alan Watts in 1989 and first ascended in 1992 by [[Jean-Baptiste Tribout]].
+:*''C'est la vie'' - Alternativna stena ([[Slovakia|{{ISO 3166 code-3|Slovakia}}]]) - October 5, 2016&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item/70721/robin_ud_9b_first_ascent_by_adam_ondra|title=Robin Ud, 9b, first ascent by Adam Ondraa|work=UKClimbing.com|author=Björn Pohl|access-date=6 October 2016}}&lt;/ref&gt;
+:*''Super Plafond'' - Volx ([[France|FRA]]) - July 6, 2014
+:*''Chambao'' - Baltzola ([[Spain|ESP]]) - May 7, 2013&lt;ref&gt;{{cite web|url=http://www.ukclimbing.com/news/item.php?id=68039|title=Chambao, 8c+, onsight by Ondra|publisher=ukclimbing.com|author=Björn Pohl|access-date=10 July 2013}}&lt;/ref&gt;
+:*''Pure Imagination'' - [[Red River Gorge]] (USA) - November 1, 2012
+:*''Golden Ticket'' - Red River Gorge (USA) - November 1, 2012
+:*''Muy Verdes'' - Flatanger ([[Norway|NOR]]) - July 11, 2012
+:*''Eye of Odin'' - Flatanger (NOR) - July 8, 2012
+:*''Deltaplane Man Direct'' - Entraygues ([[France|FRA]]) - May 31, 2012
+:*''Bella Regis'' - Bus De Vela ([[Italy|ITA]]) - April 7, 2012&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=67030|title=Bella regis, 8c+, onsight by Ondra|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:*''L'Avaro'' - Tetto di [[Sarre, Aosta Valley|Sarre]] ([[Italy|ITA]]) - July 13, 2011&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=38345|title=Adam Ondra, L'Avaro 8c+ on-sight|work=PlanetMountain.com|date=14 July 2011|access-date=7 October 2012}}&lt;/ref&gt;
+:*''La Rubia'' - [[Villanueva del Rosario]] ([[Spain|ESP]]) - April 13, 2011
+:*''Blanquita'' - [[Oliana]] ([[Spain|ESP]]) - March 27, 2011&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/super-ondra-in-oliana--9b-fa-and-8c--os- |title=Super Ondra in Oliana: 9b FA and 8c+ os |work=UP climbing |date=28 March 2011 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402092656/http://www.up-climbing.com/en/news/rock/super-ondra-in-oliana--9b-fa-and-8c--os- |archive-date=2 April 2012 }}&lt;/ref&gt;
+:*''Mind Control'' - Oliana (ESP) - March 20, 2011&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/ondra--fifth-8c--onsight |title=Ondra: fifth 8c+ onsight |work=UP climbing |date=21 March 2011 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402092738/http://www.up-climbing.com/en/news/rock/ondra--fifth-8c--onsight |archive-date=2 April 2012 }}&lt;/ref&gt;
+:*''Powerade'' - Vadiello ([[Spain|ESP]]) - March 9, 2011&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/adam-ondra-again-two-8c--onsight |title=Adam Ondra again two 8c+ onsight |work=UP climbing |date=9 March 2011 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402092756/http://www.up-climbing.com/en/news/rock/adam-ondra-again-two-8c--onsight |archive-date=2 April 2012 }}&lt;/ref&gt;
+:*''Bizi Euskaraz'' - [[Etxauri]] ([[Spain|ESP]]) - March 7, 2011&lt;ref&gt;{{Cite web|url=http://desnivel.com/escalada-roca/adam-ondra-8c-mas--a-vista-en-etxauri|title=Adam Ondra, ¡8c+ a vista en Etxauri!|work=Desnivel|date=7 March 2011|access-date=7 October 2012|archive-date=14 July 2012|archive-url=https://web.archive.org/web/20120714135020/http://desnivel.com/escalada-roca/adam-ondra-8c-mas--a-vista-en-etxauri|url-status=dead}}&lt;/ref&gt;
+:*''Kidetasunaren balio erantsia'' - Etxauri (ESP) - March 6, 2011 - Second 8c+ onsight in history after route by Patxi Usobiaga in 2007&lt;ref&gt;{{Cite web|url=http://www.kairn.com/news_escalade_74602.adam-ondra-deuxieme-homme-reussir-8c-vue.html|title=Adam Ondra, deuxième homme à réussir du 8c+ à vue (édité)|work=Kairn.com|date=8 March 2011|access-date=7 October 2012|language=fr|archive-url=https://archive.today/20130127062049/http://www.kairn.com/news_escalade_74602.adam-ondra-deuxieme-homme-reussir-8c-vue.html|archive-date=27 January 2013|url-status=dead|df=dmy-all}}&lt;/ref&gt;
+
+{{climbing grade|8C}}:
+:* ''Aktion Talon'' - [[Höllental (Lower Austria)|Höllental]] ([[Austria|AUT]]) - June 29, 2013
+:* ''Into the Wild'' - [[Jaén, Spain|Jaén]] ([[Spain|ESP]]) - March 16, 2013
+:* ''Terapia de Grito'' - [[Cuenca, Spain|Cuenca]] ([[Spain|ESP]]) - February 13, 2013
+:* ''El Calvario del Sicario'' - Cuenca (ESP) - February 10, 2013
+:* ''Nordic Flower'' - [[Flatanger]] ([[Norway|NOR]]) - July 9, 2012
+:* ''Scoglio de Capri'' - Bus De Vela ([[Italy|ITA]]) - April 7, 2012
+:* ''Iluzija'' - Kotecnik ([[Slovenia|SLO]]) - April 5, 2012
+:* ''5 Uve'' - [[Arco, Trentino|Arco]] ([[Italy|ITA]]) - June 27, 2011
+:* ''Bat Route'' - [[Malham Cove]] ([[United Kingdom|GBR]]) - May 16, 2011
+:* ''Carbunco'' - [[Archidona]] ([[Spain|ESP]]) - April 23, 2011
+:* ''Kalliste'' - Archidona (ESP) - April 23, 2011
+:* ''Fuck the police'' - [[Etxauri]] ([[Spain|ESP]]) - March 6, 2011
+:* ''Dures Limites'' - [[Céüse]] ([[France|FRA]]) - August 10, 2010&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/ondra-in-c--se |title=Ondra in Céüse |work=UP climbing |date=13 August 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093128/http://www.up-climbing.com/en/news/rock/ondra-in-c--se |archive-date=2 April 2012 }}&lt;/ref&gt;
+:* ''Smoke'' - Pierrot beach ([[France|FRA]]) - August 5, 2010
+:* ''Home Sweet Home'' - Pierrot beach ([[France|FRA]]) - August 5, 2010
+:* ''Guère d'usure'' - [[Claret, Hérault|Claret]] ([[France|FRA]]) - January 29, 2010&lt;ref name=upc_onsightday&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/the--onsight-day--by-adam-ondra |title=The "onsight day" by Adam Ondra |work=UP climbing |date=4 February 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093201/http://www.up-climbing.com/en/news/rock/the--onsight-day--by-adam-ondra |archive-date=2 April 2012 }}&lt;/ref&gt;
+:* ''Super Samson'' - Claret (FRA) - January 29, 2010&lt;ref name=upc_onsightday /&gt;
+:* ''Gora Guta Gutarak'' - [[Kalymnos]] ([[Greece|{{ISO 3166 code-3|Greece}}]]) - May 22, 2009&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/rock/8c--onsight-by-ondra |title=8c+ onsight by Ondra |work=UP climbing |date=25 May 2009 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093235/http://www.up-climbing.com/en/news/rock/8c--onsight-by-ondra |archive-date=2 April 2012 }}&lt;/ref&gt;
+:* ''Una Vida Nomada'' - Covolo ([[Italy|ITA]]) - April 21, 2009&lt;ref name=pm36745&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=36745|title=Adam Ondra and the first 8c on-sight in Italy|work=PlanetMountain.com|date=5 May 2009|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Nagay'' - Covolo ([[Italy|ITA]]) - April 21, 2009&lt;ref name=pm36745 /&gt;
+:* ''L'espiadimondis'' - [[Margalef]] ([[Spain|ESP]]) - March 2, 2009
+:* ''Los Humildes Pa Casa'' - [[Oliana]] ([[Spain|ESP]]) - February 24, 2009
+:* ''Métaphysique Des Tubes'' - [[Seynes]] ([[France|FRA]]) - February 21, 2009
+:* ''Absinth'' - [[Sparchen]] ([[Austria|AUT]]) - August 16, 2008
+:* ''Rollito Sharma Extension'' - [[Santa Linya]] ([[Spain|ESP]]) - February 7, 2008
+:* ''Digital System'' - Santa Linya (ESP) - February 5, 2008
+
+== Boulder problems ==
+Ondra won the [[bouldering]] gathering [[Melloblocco]] in 2008,&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=36154|title=Melloblocco... bouldering galore!|work=PlanetMountain.com|date=12 May 2008|access-date=7 October 2012}}&lt;/ref&gt; 2009&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=36754|title=Melloblocco #6 and the treasure map|work=PlanetMountain.com|author=Vinicio Stefanello|date=11 May 2009|access-date=7 October 2012}}&lt;/ref&gt; 2010&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=37409|title=Melloblocco 2010 according to Adam Ondra and Nico Favresse...|work=PlanetMountain.com|date=20 May 2010|access-date=7 October 2012}}&lt;/ref&gt; and 2011.&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=38160|title=Melloblocco 2011 – a new bouldering and Val Masino record|work=PlanetMountain.com|date=8 May 2011|access-date=7 October 2012}}&lt;/ref&gt;
+
+He climbed 293 boulder problems between {{Boulder grade|8A}} and {{Boulder grade|8C+}}.&lt;ref name=boulders /&gt; Namely:
+:* 4 8C+/V16
+:* 10 8C/V15
+:* 31 8B+/V14
+:* 57 8B/V13
+:* 76 8A+/V12
+:* 115 8A/V11
+
+{{Boulder grade|8C+}}:
+:* ''Brutal Rider'' - [[Moravian Karst]] ([[Brno|Czechia]]) - May 25, 2020 - First ascent 
+:* ''Ledoborec'' - [[Moravsky Kras]] ([[Brno|Czechia]]) - May 24, 2020 - First ascent 
+:* ''Gioia'' - [[Varazze]] ([[Italy|ITA]]) - December 6, 2011 - Second ascent of [[Christian Core]]'s boulder (2008)&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=38874|title=Adam Ondra repeats Gioia 8C+ at Varazze|work=PlanetMountain.com|date=6 December 2011|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Terranova'' - [[Holstejn]] ([[Moravsky Kras]], [[Czech Republic|CZE]]) - November 10, 2011 - First ascent, traverse&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=64987|title=8C+ boulder by Ondra|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+
+{{Boulder grade|8C/8C+}}:
+:* ''Vrtule'' - [[Holstejn]] ([[Moravsky Kras]], [[Czech Republic|CZE]]) - October 13, 2017 - First ascent,&lt;ref&gt;{{Cite web|url=https://www.ukclimbing.com/news/item/71332/vrtule_new_8c_by_adam_ondra|title=Vrtule, new ~8C/+ by Adam Ondra|website=ukclimbing.com|last=Pohl|first=Björn|date=14 October 2017|access-date=14 March 2020}}&lt;/ref&gt;
+
+{{Boulder grade|8C}}:
+:* ''Nunavut'' - Sloup ([[Moravian Karst]]), ([[Czech Republic|CZE]]) - November 15, 2019 - First ascent
+:* ''Pučmeloun'' - Sloup ([[Moravian Karst]]), ([[Czech Republic|CZE]]) - November 15, 2019 - First ascent
+:* ''Ghost Rider'' - ([[Moravian Karst]]), ([[Czech Republic|CZE]]) - September 24, 2019 - Second ascent
+:* ''Cháron'' - Petrohrad (Mlýnský vrch, ([[Czech Republic|CZE]]) - October 15, 2011 - First ascent&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=64561|title=8C and 8B+ by Ondra in a day|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Practice of the Wild'' - [[Magic Wood, Switzerland|Magic Wood]] ([[Switzerland|CHE]]) - October 1, 2011 - [[Chris Sharma]]'s boulder (2004)
+:* ''Pata ledovce'' - [[Holstejn]] ([[Moravsky Kras]], [[Czech Republic|CZE]]) - September 6, 2011 - First ascent&lt;ref&gt;{{Cite web|url=http://www.ukclimbing.com/news/item.php?id=63999|title=8C FA and 9a+ by Ondra|work=UKClimbing.com|author=Björn Pohl|access-date=7 October 2012}}&lt;/ref&gt;
+:* ''Monkey Wedding'' - [[Rocklands, South Africa|Rocklands]] ([[South Africa|{{ISO 3166 code-3|South Africa}}]]) - August 14, 2011 - Third ascent of [[Fred Nicole]]'s boulder (2002)
+:* ''From The Dirt Grows the Flowers'' - [[Chironico]] ([[Switzerland|CHE]]) - November 30, 2010 - [[Dave Graham (climber)|Dave Graham]]'s boulder (2005)&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/boulder/8c-again-for-adam-ondra |title=8C again for Adam Ondra |work=UP climbing |date=2 December 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402092946/http://www.up-climbing.com/en/news/boulder/8c-again-for-adam-ondra |archive-date=2 April 2012 }}&lt;/ref&gt;
+:* ''Big Paw'' - Chironico (CHE) - November 29, 2010 - Third ascent of Dave Graham's boulder (2008)&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/boulder/big-paw-8c-by-ondra-and-robinson |title=Big Paw 8C by Ondra and Robinson |work=UP climbing |date=30 November 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093022/http://www.up-climbing.com/en/news/boulder/big-paw-8c-by-ondra-and-robinson |archive-date=2 April 2012 }}&lt;/ref&gt;
+
+== Multi-pitch routes ==
+[[File:East Face of Karambony in Tsaranoro Valley, Madagascar.jpg|thumb|200px|Karambony East Face - Tough Enough route runs in the middle]]
+* ''The Dawn Wall'' - [[El Capitan]] ([[United States|USA]]) - 3,000 feet (915 meters) tall - 32 pitches, at least two of which graded {{climbing grade|9A}}. Described as the hardest big wall in the world.
+:: January 14, 2015 - Redpointed by [[Tommy Caldwell]] and [[Kevin Jorgeson]] in 19 days, after 7 years of mapping.&lt;ref&gt;{{cite web|last=Bello|first=Marisol|date=January 15, 2015|title=Yosemite free-climbers reach top of El Capitan|publisher=usatoday.com|url=https://www.usatoday.com/story/news/nation/2015/01/14/yosemite-free-climbers/21737187/}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Bisharat|first=Andrew|date=January 15, 2015|title=Summiting Yosemite's Dawn Wall, Climbers Make History|website=news.nationalgeographic.com|url=http://news.nationalgeographic.com/news/2015/01/150114-climbing-yosemite-caldwell-jorgeson-capitan/|access-date=2015-01-15}}&lt;/ref&gt;  
+:: November 21, 2016 - Redpointed by Adam Ondra in only 8 days, after a few weeks of practicing the already mapped ascent.&lt;ref&gt;[https://www.telegraph.co.uk/news/2016/11/23/czech-free-climber-adam-ondra-scales-yosemite-rock-wall-record/ Czech free-climber Adam Ondra scales Yosemite rock wall in record time] ([[The Daily Telegraph]])&lt;/ref&gt;
+* ''Mora Mora'' - Tsaranoro Atsimo ([[Madagascar|{{ISO 3166 code-3|Madagascar}}]]) - October 10, 2010 - First free ascent
+* ''Bravo Les Filles'' - Tsaranoro Kelly ([[Madagascar|MDG]]) - October 7, 2010
+* ''Tough Enough Original'' - Karambony ([[Madagascar|MDG]])  - October 4, 2010 - First free ascent&lt;ref&gt;{{Cite web|url=http://www.up-climbing.com/en/news/multi-pitch/extraordinary-adam-ondra-in-madagascar-- |title=Extraordinary Adam Ondra in Madagascar |work=UP climbing |date=16 October 2010 |access-date=7 October 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120402093038/http://www.up-climbing.com/en/news/multi-pitch/extraordinary-adam-ondra-in-madagascar-- |archive-date=2 April 2012 }}&lt;/ref&gt;
+* ''Tough Enough'' - Karambony ([[Madagascar|MDG]]) - September 30, 2010 - First free ascent&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?keyid=37647|title=Adam Ondra is Tough Enough on Tsaranoro in Madagascar|work=PlanetMountain.com|author=Nicholas Hobley|date=16 October 2010|access-date=7 October 2012}}&lt;/ref&gt;
+* ''Hotel Supramonte'' - Gole di Gorroppu (ITA) - October 18, 2008 - First onsight ascent&lt;ref&gt;{{Cite web|url=http://www.czechclimbing.com/clanky.php?xtem=&amp;key=7348|title=Hotel Supramonte on-sight by Adam Ondra|work=Czech Climbing|date=21 October 2008|access-date=7 October 2012}}&lt;/ref&gt;
+* ''Ali Baba'' - Paroi Derobée ([[Aiglun, Alpes-Maritimes|Aiglun]], [[France|FRA]]) - 2008 - Second ascent&lt;ref&gt;{{Cite web|url=http://www.kairn.com/news.html?ident=63621|title=Ali Baba for Adam Ondra|work=Kairn.com|date=8 July 2008|access-date=7 October 2012|archive-url=https://web.archive.org/web/20120421233226/http://www.kairn.com/news.html?ident=63621|archive-date=21 April 2012|url-status=dead|df=dmy-all}}&lt;/ref&gt;
+* ''WoGü'' - [[Rätikon]] ([[Switzerland|CHE]]) - July 26, 2008 - First free ascent of ''Beat Kammerlander'''s route (1997)&lt;ref&gt;{{Cite web|url=http://www.czechclimbing.com/clanky.php?xtem=&amp;key=7133|title=Adam Ondra climbed multipitch WoGü 8c in Ratikon|work=Czech Climbing|date=29 July 2008|access-date=7 October 2012}}&lt;/ref&gt;
+* ''Zub za zub'' - Rätikon (CHE) - July 29, 2007 - First free ascent&lt;ref&gt;{{Cite web|url=http://www.czechclimbing.com/clanky.php?xtem=&amp;key=6118|title=Photos from Adam Ondra´s climb of multi-pitch Silbergeier 8b+|work=Czech Climbing|date=6 August 2007|access-date=7 October 2012}}&lt;/ref&gt;
+* ''Silbergeier'' - Rätikon (CHE) - July 27, 2007&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews.lasso?l=2&amp;keyid=35747|title=Adam Ondra climbs Silbergeier (Rätikon), Abysse (Gorges du Loup) and Speed (Voralpsee)|work=PlanetMountain.com|date=7 August 2008|access-date=7 October 2012}}&lt;/ref&gt;
+
+== Filmography ==
+
+* ''The Fanatic Search'' - 2009 - Produced by Work Less Climb More and Laurent Triay
+* ''Progression'' - 2009 - by Josh Lowell - Produced by [[Big UP Productions]]
+*''The Wizard's Apprentice'' - 2012 - Directed by Petr Pavlíček - Produced by [http://www.bernartwood.cz/ Bernartwood] - 110'&lt;ref&gt;{{cite web|url=http://www.adamondrafilm.com|title=The Wizard's Apprentice|work=adamondrafilm.com|access-date=10 February 2013}}&lt;/ref&gt;
+*''Reel Rock Tour 7'' - 2012 - Produced by [[Big UP Productions]]
+*''La Dura Complete: The Hardest Rock Climb In The World'' - 2014 - Part of [http://www.bigupproductions.com/films/reel-rock-7/ Reel Rock 7] by Big Up Productions&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=V1P97VVt6_k|title=La Dura Complete|work=youtube.com|access-date=26 March 2014}} - 19'15&lt;/ref&gt;
+*''Change'' - 2014 - Directed by Petr Pavlíček - Produced by [http://www.bernartwood.cz/ Bernartwood] - &lt;ref&gt;{{cite web|url=http://www.change-movie.com|title=Change|work=change-movie.com}} - 125'&lt;/ref&gt;
+*''Silence—The Story of Adam Ondra and the World's First 5.15d - 2018 -'' by Bernardo Giménez - Produced by AO Production s.r.o.
+*Ondra is also producing his own video series about qualifying and competing in the 2020 Summer Olympics, released on YouTube, called ''Road to Tokyo''.
+
+== Books ==
+
+* JAROS, Martin; ONDRA, Adam. ''Adam Ondra: lezec telem i dusi''. Albatros, 2019. 200 p.
+* ONDRA, Adam; GIMENEZ, Bernardo; BIBA, Lukas. ''Adam Ondra Book''. AO Production, 2019. 223 p.
+
+== Awards ==
+* 2008 [[Rock Master#Arco Rock Legends|Salewa Rock Award]]&lt;ref&gt;{{Cite web|url=http://www.rockmaster.com/articolo.lasso?cl=9&amp;lvl1=81&amp;lvl2=1101&amp;sez=1&amp;l=2&amp;keyid=341|title=Arco Rock Legends 2008 won by Adam Ondra and Maja Vidmar|publisher=rockmaster.com|access-date=10 July 2013|archive-url=https://web.archive.org/web/20130927113249/http://www.rockmaster.com/articolo.lasso?cl=9&amp;lvl1=81&amp;lvl2=1101&amp;sez=1&amp;l=2&amp;keyid=341|archive-date=27 September 2013|url-status=dead|df=dmy-all}}&lt;/ref&gt;
+* 2010 Salewa Rock Award&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=37502|title=Arco Rock Legends 2010 to Manolo, Ondra &amp; Noguchi|publisher=planetmountain.com|date=18 July 2010|access-date=10 July 2013}}&lt;/ref&gt;
+* 2011 Salewa Rock Award&lt;ref&gt;{{Cite web|url=http://www.arco2011.it/index.php/arco-2011/arco-rock-legends/arco-rock-legends-2011-i-vincitori/?lang=en|title=Arco Rock Legends 2011, the winners|publisher=arco2011.it|access-date=10 July 2013}}&lt;/ref&gt;
+* 2013 Salewa Rock Award&lt;ref&gt;{{Cite web|url=http://www.planetmountain.com/english/News/shownews1.lasso?l=2&amp;keyid=41195|title=Adam Ondra and Mina Markovic win Arco Rock Legends 2013|publisher=planetmountain.com|author=Vinicio Stefanello|date=7 September 2013|access-date=7 September 2013}}&lt;/ref&gt;
+
+== See also ==
+*[[Notable first free ascents]]
+
+==References==
+{{Reflist|refs=
+&lt;ref name="IFSC Worldcups"&gt;{{cite web|url=https://www.ifsc-climbing.org/index.php/world-competition/ranking|title=World Cup Rankings|editor=[[International Federation of Sport Climbing|IFSC]]|date=August 20, 2019|access-date=August 20, 2019}}&lt;/ref&gt;
+&lt;ref name="IFSC profile"&gt;{{cite web|url=https://www.ifsc-climbing.org/index.php/component/ifsc/?view=athlete&amp;id=8372|title=Ondra's profile and rankings|editor=[[International Federation of Sport Climbing|IFSC]]|date=August 20, 2019|access-date=August 20, 2019}}&lt;/ref&gt;
+
+&lt;ref name=routes&gt;{{cite web|last=Ondra|first=Adam|title=List of climbed routes|url=https://www.8a.nu/scorecard/AscentList.aspx?UserId=1476&amp;AscentType=0&amp;AscentClass=0&amp;AscentListTimeInterval=0&amp;AscentListViewType=0&amp;GID=ea0fb3b90e4b0b655580384e07974b38|publisher=8a.nu|access-date=November 27, 2017}}&lt;/ref&gt;
+&lt;ref name=boulders&gt;{{cite web|last=Ondra|first=Adam|title=List of climbed boulder problems|url=https://www.8a.nu/scorecard/AscentList.aspx?UserId=1476&amp;AscentType=1&amp;AscentClass=0&amp;AscentListTimeInterval=0&amp;AscentListViewType=0&amp;GID=ea0fb3b90e4b0b655580384e07974b38|publisher=8a.nu|access-date=November 27, 2017}}&lt;/ref&gt;
+}}
+
+== External links ==
+{{Commons category|Adam Ondra}}
+{{Climber links
+ | website = http://www.adamondra.com
+ | ifsc = 8372
+ | 8a   = 1476
+ | climbing = adam-ondra
+ | facebook = adamondrafanpage
+ | instagram = adam.ondra
+ | twitter =
+|theCrag=adamondra}}
+* [http://www.czechclimbing.com/clanky.php?xtem=&amp;key=6608 Articles on czechclimbing.com]
+* [http://www.lezec.cz/denik.php?uid=6469707379h&amp;par=0&amp;crok=9992&amp;ckat=2 Lezec.cz Profile]
+
+{{Portal bar|Climbing}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ondra, Adam}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Czech rock climbers]]
+[[Category:Sport climbing]]
+[[Category:Sportspeople from Brno]]</text>
+      <sha1>nn0oters0n18i224jkn67ai3aomgoti</sha1>
+    </revision>
+  </page>
+</mediawiki>

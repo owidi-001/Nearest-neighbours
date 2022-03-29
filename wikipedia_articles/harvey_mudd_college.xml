@@ -1,0 +1,311 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Harvey Mudd College</title>
+    <ns>0</ns>
+    <id>13810</id>
+    <revision>
+      <id>1031510008</id>
+      <parentid>1021827975</parentid>
+      <timestamp>2021-07-02T01:38:31Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot III</username>
+        <id>35936988</id>
+      </contributor>
+      <minor/>
+      <comment>Removing [[:Category:Independent Colleges of Southern California]] per [[Wikipedia:Categories for discussion/Log/2021 June 23#Category:Independent Colleges of Southern California]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24491" xml:space="preserve">{{Short description|Private liberal arts college in Claremont, California, United States}}
+
+{{Infobox university
+| name = Harvey Mudd College
+| image = Harvey Mudd College seal.svg
+| image_upright = .9
+| caption = 
+| established = {{start date and age|1955}}
+| type = [[Private college]]
+| president = [[Maria Klawe]]
+| city = [[Claremont, California|Claremont]]
+| state = [[California]]
+| country = United States
+| undergrad = 895 (2019)&lt;ref name=CDS/&gt;
+| faculty = 115 (2019)&lt;ref name=CDS/&gt;
+| colors = {{color box|black}} [[Black (color)|Black]]&lt;br /&gt; {{color box|#eaaa00}} [[Gold (color)|Gold]]
+| athletics = [[NCAA Division III]] – [[Southern California Intercollegiate Athletic Conference|SCIAC]]
+| nickname = [[Claremont-Mudd-Scripps Stags and Athenas|Stags (men) / Athenas (women)]]
+| mascot = Official:&lt;br /&gt;&amp;nbsp;&amp;nbsp;Men's, [[Stag]]&lt;br /&gt;&amp;nbsp;&amp;nbsp;Women's, [[Athena]]s&lt;br /&gt;Unofficial:&lt;br /&gt;&amp;nbsp;&amp;nbsp;Wally Wart
+| academic_affiliations = [[Claremont Colleges]]&lt;br /&gt;[[National Association of Independent Colleges and Universities|NAICU]]&lt;ref&gt;{{Cite web|url=http://www.naicu.edu/member_center/members.asp|archive-url=https://web.archive.org/web/20151109231238/http://www.naicu.edu/member_center/members.asp|title=NAICU - Membership|archive-date=November 9, 2015}}&lt;/ref&gt;&lt;br /&gt;[[Oberlin Group]]&lt;br /&gt;[[Annapolis Group]]&lt;br /&gt;[[Consortium of Liberal Arts Colleges|CLAC]]
+| campus = [[Suburban]], {{convert|38|acre|ha}}
+| endowment = $319.7 million (2020)&lt;ref&gt;As of June 30, 2020. {{cite report |url=https://www.nacubo.org/-/media/Documents/Research/2020-NTSE-Public-Tables--Endowment-Market-Values--FINAL-FEBRUARY-19-2021.ashx |title=U.S. and Canadian Institutions Listed by Fiscal Year 2020 Endowment Market Value and Change in Endowment Market Value from FY19 to FY20 |publisher=National Association of College and University Business Officers and [[TIAA]] |date=February 19, 2021 |access-date=February 20, 2021}}&lt;/ref&gt;
+| budget = $87 million (2018)&lt;ref&gt;{{cite web |title=Harvey Mudd College Form 990 for period ending June 2018 |url=https://projects.propublica.org/nonprofits/organizations/951911219 |website=ProPublica Nonprofit Explorer |access-date=28 May 2020}}&lt;/ref&gt;
+| website = {{url|https://www.hmc.edu}}
+| logo = Harvey Mudd College logo.svg
+| logo_upright = .5
+}}
+
+'''Harvey Mudd College''' ('''HMC''') is a [[private college]] in [[Claremont, California]], focused on science and engineering. It is part of the [[Claremont Colleges]], which share adjoining campus grounds and resources. The college enrolls 895 [[Undergraduate education|undergraduate]] students {{As of|2019|lc=y}}, and awards the [[Bachelor of Science]] degree.
+
+The college was funded by the friends and family of [[Harvey Seeley Mudd]], one of the initial investors in the [[Cyprus Mines Corporation]], and named in his honor.&lt;ref&gt;{{cite web|url=https://www.hmc.edu/about-hmc/history/|title=History of Harvey Mudd College|publisher=Harvey Mudd College|access-date=2015-04-24}}&lt;/ref&gt; Although involved in planning of the new institution, Mudd died before it opened in 1955. The campus was designed by [[Edward Durell Stone]] in a [[Modern architecture|modernist]] style.
+
+Admission to Harvey Mudd is highly competitive, and the college is known for its intense academic culture.&lt;ref name="Fiske 2020"/&gt; Graduates earn the highest mid-career salaries of any college or university in the United States, according to data from [[payscale.com]].&lt;ref name="Payscale"/&gt;
+
+==History==
+{{Expand section|date=January 2021}}
+Harvey Mudd was founded in 1955.&lt;ref name="HMC first 20"&gt;{{cite book |last1=Platt |first1=Joseph B. |title=Harvey Mudd College : the first twenty years |date=1994 |publisher=Fithian Press |location=Santa Barbara, Calif. |isbn=1564741001 |url=https://scholarship.claremont.edu/hmc_facbooks/2/ |access-date=17 September 2020}}&lt;/ref&gt;&lt;ref name="History official"&gt;{{cite web |title=History of Harvey Mudd College |url=https://www.hmc.edu/about-hmc/history/ |website=Harvey Mudd College |access-date=17 September 2020}}&lt;/ref&gt; Classes began in 1957, with a founding class of 48 students and one building–Mildred E. Mudd Hall, a dormitory. Classes and meals took place at CMC, and labs in the Baxter Science Building until additional buildings could be built: Jacobs Science Building (1959), Thomas-Garett Hall (1961) and Platt Campus Center (1963). By 1966, the campus had grown to 283 students and 43 faculty.&lt;ref name="HMC first 20" /&gt;
+
+Under the presidency of [[Maria Klawe]], begun in 2006, Harvey Mudd became a leading advocate for [[women in STEM]] in higher education.&lt;ref name="Fiske 2020"&gt;{{cite book|last1=Fiske|first1=Edward B.|title=Fiske Guide to Colleges 2020|date=|publisher=[[Sourcebooks]]|isbn=978-1-4926-6494-9|edition=36th|location=Naperville, Illinois|publication-date=June 15, 2019|pages=150–151}}&lt;/ref&gt;
+
+In April 2017, all classes were canceled for two days in response to tensions on campus over workload, race issues, and mistrust of faculty.&lt;ref&gt;{{cite web |last1=Bauer-Wolf |first1=Jeremy |title=Ground to a Halt |url=https://www.insidehighered.com/news/2017/04/18/harvey-mudd-cancels-classes-after-student-protests-over-issues-race-workload-and |website=Inside Higher Ed |access-date=23 November 2020}}&lt;/ref&gt; Contributing events included the deaths of two Mudd students and a Scripps student that year and the leak of a report on teaching, learning, and workload at Mudd.&lt;ref&gt;{{cite web |last1=Kamenetz |first1=Anya |title=A College President On Her School's Worst Year Ever |url=https://www.npr.org/sections/ed/2017/08/02/540603927/a-college-president-on-her-schools-worst-year-ever |website=NPR |access-date=23 November 2020}}&lt;/ref&gt;
+
+==Campus==
+[[Image:sprague.jpg|thumb|300px|The former Norman F. Sprague Memorial Library]]
+[[File:Harvey Mudd College outdoor class.jpg|thumb|Outdoor classes at Harvey Mudd]]
+The original buildings of campus, designed by [[Edward Durell Stone]] and completed in 1959,&lt;ref name="TSL campus"&gt;{{cite news|last1=Sutton|first1=Frances|date=13 November 2020|title=Framed: Why is Harvey Mudd College’s campus so brutal?|work=[[The Student Life]]|url=https://tsl.news/art-column-harvey-mudd-college/|access-date=2 January 2021}}&lt;/ref&gt; features "knobbly concrete squares that students of Harvey Mudd affectionately call “warts” and use as hooks for skateboards."&lt;ref name="Spencer"&gt;{{cite web|author=Ivan Spencer|date=October 2013|title=America's Ugliest College Campuses|url=http://www.travelandleisure.com/slideshows/americas-ugliest-college-campuses/3|work=Travel + Leisure}}&lt;/ref&gt; The school's unofficial mascot "Wally Wart" is an anthropomorphic concrete wart.&lt;ref name="Spencer" /&gt;
+
+In 2013, ''[[Travel and Leisure]]'' named the college as one of "America's ugliest college campuses" and noted that while Stone regarded his design as a "[[Modernist architecture|Modernist]] masterpiece" the result was "layering drab, slab-sided buildings with [[Beaux-Arts architecture|Beaux-Arts]] decoration."&lt;ref name="Spencer" /&gt;
+
+=== Academic buildings ===
+{{Empty section|date=December 2020}}
+
+===Dormitories===
+[[Image:HMC library view.jpg|thumb|250px|View of central campus, looking out of the former Norman F. Sprague Memorial Library.]]
+The official names for the dormitories of Harvey Mudd College are (listed in order of construction):&lt;ref name="campusmap"&gt;{{cite web|title=Campus map|url=https://www.hmc.edu/map/|publisher=Harvey Mudd College}}&lt;/ref&gt;
+* Mildred E. Mudd Hall ("East")
+* West Hall ("West")
+* North Hall ("North")
+* Marks Residence Hall ("South")
+* J. L. Atwood Residence Hall (Atwood)
+* Case Residence Hall (Case)
+* Ronald and Maxine Linde Residence Hall (Linde)
+* Frederick and Susan Sontag Residence Hall (Sontag)
+* Wayne and Julie Drinkward Residence Hall (Drinkward)&lt;ref&gt;{{cite news|date=July 14, 2015|title=New Harvey Mudd Residence Hall Named for Alumnus, Board Chair|work=Harvey Mudd College News Archive|url=https://www.hmc.edu/about-hmc/2015/07/14/new-harvey-mudd-residence-hall-named-for-alumnus-board-chair/|access-date=2015-11-15}}&lt;/ref&gt;
+[[Image:Hmc-hixon court.jpg|thumb|left|200px|Galileo Hall and Hixon Courtyard]]
+Until the addition of the Linde and Sontag dorms, Atwood and Case dorms were occasionally referred to as New Dorm and New Dorm II; Mildred E. Mudd Hall and Marks Hall are almost invariably referred to as East dorm and South dorm.
+
+During the construction of Case Dorm some students decided as a [[prank]] to move all of the [[survey stakes]] exactly six inches in one direction.&lt;ref&gt;{{cite news|author=Stephanie L. Graham|date=Winter 2005|title=A Treasured Friendship|work=Harvey Mudd College Bulletin|url=http://bulletin.hmc.edu/archives/2005/winter/a_treasured_friendship.html|url-status=dead|access-date=2006-12-13|archive-url=https://web.archive.org/web/20060903020634/http://www.bulletin.hmc.edu/archives/2005/winter/a_treasured_friendship.html|archive-date=2006-09-03}}&lt;/ref&gt;
+
+South Dorm is in the northwest corner of the quad. "East" was the first dorm, but it wasn't until "West" was built west of it that it was actually referred to as "East". Then "North" was built, directly north of "East". When the fourth dorm (Marks) was built, there was one corner of the quad available (the northwest) and one directional name, "South", remaining.&lt;ref&gt;{{cite news|date=Winter 2005|title=Mysteries of Mudd|work=Harvey Mudd College Bulletin|url=http://bulletin.hmc.edu/archives/2005/winter/mysteries_of_mudd.html|url-status=dead|access-date=2006-12-13|archive-url=https://web.archive.org/web/20060903020638/http://www.bulletin.hmc.edu/archives/2005/winter/mysteries_of_mudd.html|archive-date=2006-09-03}}&lt;/ref&gt; To this day "South" dorm is the northernmost HMC dorm.
+
+The fifth, sixth, seventh, eighth, and ninth dorms built are Atwood, Case, Linde, Sontag, and Drinkward, respectively. They were initially referred to as "the colonies" by some students, a reference to the fact that they were newer and at the farthest end of the campus; these dorms are now more commonly referred to as "the outer dorms." The college had initially purchased an apartment building adjacent to the newer dorms to house additional students, but it was demolished to make room for Sontag.
+
+Since any HMC student, regardless of class year, can live in any of the dormitories, several of the dorms have accumulated long-standing traditions and so-called 'personalities'.&lt;ref&gt;{{cite news|author=Nisha Gottfredson|date=March 2004|title=Thy Name is Mudd: The hidden Mudder mythos – it's more than you think.|work=Claremont Student|url=http://www.cstudent.org/issues/2004/mar/feature/|access-date=2006-12-13|archive-url=https://web.archive.org/web/20050301003951/http://www.cstudent.org/issues/2004/mar/feature/|archive-date=March 1, 2005}}&lt;/ref&gt;
+
+==Academics==
+[[Image:Hmc-dartmouth entrance.jpg|thumb|300px|Harvey Mudd College entrance on Dartmouth Ave.&lt;ref&gt;{{cite web|title=Street view of N. Dartmouth Ave.|url=https://www.google.com/maps/@34.106375,-117.713172,3a,75y,53.45h,78.59t/data=!3m4!1e1!3m2!1sw1UF_AWW3B_RUgMjv5F_Rw!2e0|website=Google Maps|access-date=30 January 2015}}&lt;/ref&gt;]]
+HMC offers four-year degrees in [[chemistry]], mathematics, [[physics]], [[computer science]], [[biology]], and [[engineering]],  interdisciplinary degrees in [[mathematical biology]], and joint majors in computer science and mathematics; or in biology and chemistry. Students may also elect an Individual Program of Study (IPS)  or an off-campus major offered by any of the other Claremont Colleges, provided one also completes a minor in one of the technical fields that Harvey Mudd offers as a major.&lt;ref&gt;{{cite web|url=https://www.hmc.edu/registrar/academic-catalogue/|title=Harvey Mudd College Catalogue|publisher=Harvey Mudd College|access-date=2015-04-24}}&lt;/ref&gt;
+
+All HMC students are required to take the college's Common Core Curriculum,&lt;ref&gt;{{Cite web|title=Common Core Curriculum|url=https://www.hmc.edu/academics/common-core-curriculum/|access-date=2021-01-01|website=Harvey Mudd College|language=en-US}}&lt;/ref&gt; typically throughout their freshman and sophomore years. This includes courses in computer science, engineering, biology, chemistry, physics, mathematics, writing, and a critical inquiry course. 
+
+In 2018, the [[The Chronicle of Higher Education|''Chronicle of Higher Education'']] reported that, in response to student "complaints first to mental-health counselors and then to outside evaluators", the college was "considering how to ease pressure on students without sacrificing rigor."&lt;ref&gt;{{Cite news|url=https://www.chronicle.com/article/How-a-Liberal-Arts-College-Is/244383?cid=at&amp;elqTrackId=8535e5562e2c4cfaa560aac73abd35e2&amp;elq=08c3e76c059f43ae94ef375b9959d3b4&amp;elqaid=20617&amp;elqat=1&amp;elqCampaignId=9711|title=How a Liberal-Arts College Is Rethinking Its 'Soul Crushing' Core Curriculum|last=Mangan|first=Katherine|date=August 28, 2018|work=Chronicl of Higher Education|access-date=October 3, 2018}}&lt;/ref&gt;
+
+=== Admissions ===
+&lt;!-- PLEASE FILL OUT AND THEN UN-COMMENT.
+
+{{Infobox U.S. college admissions
+|year               = &lt;!-- Comparison year is automatically set to five years prior -x-&gt;
+|ref                = 
+|change ref         = 
+|admit rate         = 
+|admit rate change  = 
+|yield rate         = 
+|yield rate change  =
+
+|test optional      = 
+|SAT EBRW           = &lt;!-- use an em-dash (–) -x-&gt;
+|SAT EBRW change    = 
+|SAT Math           = &lt;!-- use an em-dash (–) -x-&gt;
+|SAT Math change    = 
+|ACT                = &lt;!-- use an em-dash (–) -x-&gt;
+|ACT change         =
+
+|top decile         = 
+|top decile change  = 
+|top quarter        = 
+|top quarter change = 
+|top half           = 
+|top half change    = 
+|GPA                = 
+|GPA change         = 
+}}--&gt;
+For the class of 2023, the college received 4,045 applications and admitted 553 applicants (a 13.7% acceptance rate). Of the 224 freshmen who enrolled, the middle 50% of [[SAT]] scores were 780–800 in mathematics and 710–770 in critical reading, while the [[ACT (test)|ACT]] Composite range was 33–35.&lt;ref name="CDS"&gt;{{cite web|title=Harvey Mudd College Common Data Set 2019-2020|url=https://www.hmc.edu/institutional-research/wp-content/uploads/sites/42/2020/05/CDS-2019-20_Compiled.pdf|publisher=Harvey Mudd College}}&lt;/ref&gt;
+
+Harvey Mudd, along with [[Wake Forest University]], long held out as the last four-year colleges or universities in the U.S. to accept only [[SAT]] and not [[ACT (test)|ACT]] test scores for admission.&lt;ref name="SAT holdout"&gt;{{cite news |first= Mary Beth  |last=Marklein |title=All four-year U.S. colleges now accept ACT test|url=https://www.usatoday.com/news/education/2007-03-18-life-cover-acts_N.htm |newspaper=USA TODAY |date= 2007-03-19|access-date=2007-03-18 }}&lt;/ref&gt; In August 2007, at the beginning of the application process for the class of 2012, HMC began accepting ACT results,&lt;ref&gt;{{cite web | url = http://www.hmc.edu/headline/ACT.htm | title = Harvey Mudd College Begins Accepting ACT Scores for Admission | publisher = Harvey Mudd College | date = January 25, 2007 | url-status = dead | archive-url = https://web.archive.org/web/20071011185142/http://www.hmc.edu/headline/ACT.htm | archive-date = October 11, 2007 }}&lt;/ref&gt; a year after Wake Forest abandoned its former SAT-only policy.&lt;ref name="SAT holdout" /&gt;
+
+===Rankings===
+{{Infobox US university ranking
+| Forbes   = 23
+| USNWR_LA = 25
+| Wamo_LA  = 5
+}}
+
+Harvey Mudd maintains the highest rate of science and engineering Ph.D. production among all undergraduate colleges and second highest (Caltech ranks first and MIT third) compared to all universities and colleges, according to a 2008 report by the [[National Science Foundation]].&lt;ref&gt;{{cite web|title=Baccalaureate Origins of S&amp;E Doctorate Recipients|url=https://www.nsf.gov/statistics/infbrief/nsf08311/|url-status=dead|archive-url=https://web.archive.org/web/20141011194959/https://www.nsf.gov/statistics/infbrief/nsf08311/|archive-date=2014-10-11}}&lt;/ref&gt; {{Update inline|date=October 2018}}
+
+''[[Washington Monthly]]'' ranked Harvey Mudd 5th in 2020 among 218 liberal arts colleges in the U.S. based on its contribution to the public good, as measured by social mobility, research, and promoting public service.&lt;ref&gt;{{cite web|title=2020 Liberal Arts College Rankings|url=https://washingtonmonthly.com/2020college-guide/liberalarts|access-date=September 1, 2020|magazine=Washington Monthly}}&lt;/ref&gt; ''[[Money (magazine)|Money]]'' magazine ranked Harvey Mudd 136th out of 744 in its "Best Colleges For Your Money 2019" report.&lt;ref&gt;{{Cite web|date=August 12, 2019|title=Harvey Mudd College|url=http://money.com/money/best-colleges/profile/harvey-mudd-college/|language=en-us|magazine=Money}}&lt;/ref&gt;
+
+In ''[[U.S. News &amp; World Report]]'''s 2021 "America's Best Colleges" report, Harvey Mudd College is tied for the 25th best U.S. liberal arts college, is 2nd among undergraduate engineering schools in the U.S. whose highest degree is a Master's, and is ranked as tied for 6th "Most Innovative School" among 50 liberal arts colleges evaluated.&lt;ref&gt;{{cite web|title=Harvey Mudd College Rankings|url=https://www.usnews.com/best-colleges/harvey-mudd-college-1171/overall-rankings|access-date=September 29, 2020|magazine=U.S. News &amp; World Report}}&lt;/ref&gt;  ''[[Forbes]]'' in 2019 rated it 23rd in its "America's Top Colleges" ranking of 650 military academies, national universities and liberal arts colleges.
+
+Among newer college rankings, [[niche.com|''Niche College Rankings'']] ranks Harvey Mudd as the 3rd best liberal arts college and 28th best college in the U.S.&lt;ref&gt;{{cite web|title=2021 Best Liberal Arts Colleges in America|url=https://www.niche.com/colleges/search/best-liberal-arts-colleges/|access-date=February 28, 2021}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=2021 Best Colleges in America|url=https://www.niche.com/colleges/search/best-colleges/|access-date=February 28, 2021}}&lt;/ref&gt; Also, according to [[payscale.com]], Harvey Mudd graduates earn the highest mid-career salaries for a Bachelor's degree among all colleges and universities (MIT, Naval Academy, Princeton, and Caltech round out the top 5).&lt;ref name="Payscale"&gt;{{cite web|title=The Best Universities For a Bachelor's Degree|url=https://www.payscale.com/college-salary-report/bachelors|access-date=February 28, 2021}}&lt;/ref&gt;
+
+==Tuition and other costs==
+In 2016, Harvey Mudd was for the second year in a row the most expensive college in the United States, with the total annual cost of attendance (tuition, fees, and room and board) being $69,717. About 70% of freshmen receive financial aid.&lt;ref&gt;Katie Lobosco, [https://money.cnn.com/gallery/pf/college/2016/11/11/most-expensive-college-tuition/index.html The 10 most expensive colleges this year], CNN Money (November 11, 2016).&lt;/ref&gt;
+
+==Athletics==
+{{Main|Claremont-Mudd-Scripps Stags and Athenas}}
+Athletes from Harvey Mudd compete alongside athletes from [[Claremont McKenna College]] and [[Scripps College]] as the [[Claremont-Mudd-Scripps Stags and Athenas]] (CMS).&lt;ref name="CMS Sports and Recreation Overview"&gt;{{Cite news|url=http://www.cmsathletics.org/quick_facts/index|title=CMS Quick Facts|work=Claremont Mudd Scripps|access-date=May 30, 2017|language=en}}&lt;/ref&gt; The teams participate in [[NCAA Division III]] in the [[Southern California Intercollegiate Athletic Conference]] (SCIAC). The mascot for the men's teams is Stanley the Stag, and the women's teams are the Athenas. Their colors are cardinal and gold.
+
+===Athletics history===
+According to the Division III Fall Learfield Director's Cup Standings for the 2016-2017 year, CMS ranks 12th among all Division III programs, and first among SCIAC colleges.&lt;ref&gt;{{cite web|title=2016-17 Learfield Sports Directors' Cup|url=http://grfx.cstv.com/photos/schools/nacda/sports/directorscup/auto_pdf/2016-17/misc_non_event/Dec22DIIIConference.pdf|publisher=NCADA}}&lt;/ref&gt;
+
+===Sports===
+There are 21 men's and women's teams.&lt;ref name="Pomona-Pitzer Sports and Recreation Overview"&gt;{{Cite web|url=http://www.sagehens.com/landing/index|title=Pomona Pitzer|website=www.sagehens.com|language=en|access-date=May 30, 2017}}&lt;/ref&gt;
+
+'''Men's sports'''
+{{col-start}}{{col-2}}
+* Baseball
+* Basketball
+* Cross Country
+* Football
+* Golf
+{{col-2}}
+* Soccer
+* Swimming and Diving
+* Tennis
+* Track and Field
+* Water Polo
+{{col-end}}
+
+'''Women's sports'''
+{{col-start}}{{col-2}}
+*Basketball
+*Cross Country
+*Golf
+*Lacrosse
+*Soccer
+*Softball
+{{col-2}}
+*Swimming and Diving
+*Tennis
+*Track and Field
+*Volleyball
+*Water Polo
+{{col-end}}
+
+===Athletic facilities===
+[[Image:Axelrod pool.jpg|thumb|300px|right|Axelrood Pool]]
+* Baseball — Bill Arce Field
+* Basketball and Volleyball — Roberts Pavilion
+* Football and Lacrosse — John Zinda Field
+* Softball — Softball Field
+* Soccer — John Pritzlaff Field
+* Swimming and Diving — Matt M. Axelrood Pool
+* Tennis — Biszantz Family Tennis Center
+* Track and Field — Burns Track Complex&lt;ref&gt;{{cite web|title=CMS Athletic Facilities|url=http://www.cmsathletics.org/facilities/index|publisher=cmsathletics.org}}&lt;/ref&gt;
+
+===Rivals===
+The other sports combination of the Claremont Colleges, and CMS' primary rival, is the team made up of [[Pomona College]] and [[Pitzer College]] known as the [[Pomona-Pitzer Sagehens]] (PP).
+
+==Relations with Caltech==
+The [[California Institute of Technology]] (Caltech), another school known for its strength in the natural sciences and engineering, is located {{convert|26|mi}} away from Harvey Mudd College. From time to time, Mudders have been known to amuse themselves by pranking Caltech. For example, in 1986, students from Mudd stole a memorial cannon from Fleming House at Caltech (originally from the [[United States National Guard|National Guard]]) by dressing as maintenance people and carting it off on a flatbed truck for "cleaning".&lt;ref&gt;{{Cite web|url=http://people.bu.edu/fmri/somers/cannon.html|title=The Caltech Cannon Heist|website=people.bu.edu}}&lt;/ref&gt;&lt;ref name="HMC heist"&gt;{{cite web |author1=Harvey Mudd College |author-link=Harvey Mudd College |title=Harvey Mudd's Caltech Cannon Heist |url=https://www.youtube.com/watch?v=amrKGixXEvg |website=YouTube |access-date=14 August 2020 |date=8 July 2015}}&lt;/ref&gt; Harvey Mudd eventually returned the cannon after Caltech threatened to take legal action. In 2006, [[Massachusetts Institute of Technology]] (MIT) replicated the prank and moved the same cannon to their campus in [[Cambridge, Massachusetts]].&lt;ref&gt;{{cite web|url=http://www.howeandser.com/|title=Howe &amp; Ser Moving Co.|access-date=2006-04-16}}&lt;/ref&gt;
+
+==Notable alumni==
+{{Main| List of Harvey Mudd College people}}
+Notable Harvey Mudd College alumni include:
+
+* [[Donald D. Chamberlin]] (1966), Co-inventor of [[SQL]]
+* [[Richard Jones (U.S. Ambassador to Israel)|Richard H. Jones]] (1972), Diplomat, U.S. Ambassador to Israel
+* [[Stanley G. Love|Stan Love]] (1987), Astronaut
+* [[George Nelson (astronaut)|George "Pinky" Nelson]] (1972), Astronaut
+*[[Sean Plott|Sean “Day9” Plott]], esports commentator and game designer
+
+==Notable faculty==
+{{Main|List of Harvey Mudd College people}}
+
+== See also ==
+{{Portal|Greater Los Angeles}}
+* [[Association of Independent Technological Universities]]
+
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Harvey Mudd College}}
+* {{Official website | https://www.hmc.edu/ }}
+*[http://www.tsl.news Website of ''The Student Life'', the 5C newspaper]
+* [http://www.cmsathletics.org/ Official athletics website]
+* {{College-navigator|115409}}
+
+{{Harvey Mudd College}}
+{{Claremont Colleges}}
+{{Navboxes
+|title=Other related articles
+|titlestyle=background:#000000;color:white;border:2px solid #EAAA00;
+| list1 =
+{{Annapolis Group}}
+{{Oberlin Group}}
+{{CLAC}}
+{{Colleges and universities in Los Angeles County}}
+{{California engineering colleges with ABET-accredited programs}}
+{{Southern California Intercollegiate Athletic Conference navbox}}
+{{Inland Empire Sports}}
+}}
+
+{{Coord|34.10608|N|117.70919|W|source:placeopedia|display=title}}
+
+{{Authority control}}
+
+[[Category:Harvey Mudd College| ]]
+[[Category:Claremont Colleges]]
+[[Category:Claremont, California]]
+[[Category:Universities and colleges in Los Angeles County, California]]
+[[Category:Liberal arts colleges in California]]
+[[Category:San Gabriel Valley]]
+[[Category:Schools accredited by the Western Association of Schools and Colleges]]
+[[Category:Educational institutions established in 1955]]
+[[Category:1955 establishments in California]]
+[[Category:Science and technology in Greater Los Angeles]]
+[[Category:Private universities and colleges in California]]</text>
+      <sha1>nvx9r3tnqylvurwslchwczslm01ehd2</sha1>
+    </revision>
+  </page>
+</mediawiki>

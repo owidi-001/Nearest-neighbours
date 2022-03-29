@@ -1,0 +1,1256 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Albert Einstein</title>
+    <ns>0</ns>
+    <id>736</id>
+    <revision>
+      <id>1034613244</id>
+      <parentid>1034059656</parentid>
+      <timestamp>2021-07-20T22:16:30Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 2 archive links. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="180807" xml:space="preserve">{{short description|German-born scientist who developed the theory of relativity}}
+{{redirect|Einstein||Einstein (disambiguation)|and|Albert Einstein (disambiguation)}}
+{{pp|small=yes}}
+{{Use American English|date=April 2020}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox scientist
+| name              = Albert Einstein
+| image             = Einstein 1921 by F Schmutzer - restoration.jpg
+| caption           = Einstein in 1921
+| birth_date        = {{Birth date|df=yes|1879|3|14}}
+| birth_place       = [[Ulm]], [[Kingdom of Württemberg]], [[German Empire]]
+| death_date        = {{Death date and age|df=yes|1955|4|18|1879|3|14}}
+| death_place       = {{nowrap|[[Princeton, New Jersey|Princeton]], [[New Jersey]], U.S.}}
+| children          = {{plainlist|
+*[[Lieserl Einstein|"Lieserl" Einstein]]
+*[[Hans Albert Einstein]]
+*[[Einstein family#Eduard "Tete" Einstein (Albert's second son)|Eduard "Tete" Einstein]]}}
+| spouse            = {{plainlist|
+*{{marriage|[[Mileva Marić]]|1903|1919|end=divorced}}
+*{{marriage|[[Elsa Löwenthal]]|1919|1936|end=died&lt;ref name="66xNO" /&gt;{{sfnp|Pais|1982|p=301}}}}}}
+| citizenship       = {{plainlist|
+* [[Kingdom of Württemberg]], part of the German Empire (1879–1896)&lt;ref group="note" name="GEcitizen" /&gt;
+* [[Statelessness|Stateless]] (1896–1901)
+* [[Switzerland]] (1901–1955)
+* [[Cisleithania|Austria]], part of the [[Austro-Hungarian Empire]] (1911–1912)
+* [[Kingdom of Prussia]], part of the German Empire (1914–1918)&lt;ref group="note" name="GEcitizen" /&gt;
+* [[Free State of Prussia]] ([[Weimar Republic]], 1918–1933)
+* [[United States]] (1940–1955)
+}}
+| fields            = [[Physics]], [[philosophy]]
+| workplaces        = {{plainlist|
+* [[Swiss Patent Office]] ([[Bern]]) (1902–1909)
+* [[University of Bern]] (1908–1909)
+* [[University of Zurich]] (1909–1911)
+* [[Karl-Ferdinands-Universität|Charles University in Prague]] (1911–1912)
+* [[ETH Zurich]] (1912–1914)
+* [[Prussian Academy of Sciences]] (1914–1933)
+* [[Humboldt University of Berlin]] (1914–1933)
+* [[Kaiser Wilhelm Institute]] (director, 1917–1933)
+* [[German Physical Society]] (president, 1916–1918)
+* [[Leiden University]] (visits, 1920)
+* [[Institute for Advanced Study]] (1933–1955)
+* [[Caltech]] (visits, 1931–1933)
+* [[University of Oxford]] (visits, 1931–1933)
+}}
+| education         = {{plainlist|
+* [[ETH Zurich|Federal polytechnic school]] in [[Zurich]] (Federal teaching diploma, 1900)
+* [[University of Zurich]] (PhD, 1905)
+}}
+| doctoral_advisor  = [[Alfred Kleiner]]
+| thesis_title      = {{lang|de|Eine neue Bestimmung der Moleküldimensionen}} (A New Determination of Molecular Dimensions)
+| thesis_url        = http://e-collection.library.ethz.ch/eserv/eth:30378/eth-30378-01.pdf
+| thesis_year       = 1905
+| academic_advisors = [[Heinrich Friedrich Weber]]
+| influenced        = {{plainlist|
+* Virtually all [[modern physics|modern physicists]]
+}}
+| known_for         = {{plainlist|
+* [[General relativity]]
+* [[Special relativity]]
+* [[Photoelectric effect]]
+* [[Mass–energy equivalence|''E=mc&lt;sup&gt;2&lt;/sup&gt;'' (Mass–energy equivalence)]]
+* [[Planck–Einstein relation|''E=hf'' (Planck–Einstein relation)]]
+* Theory of [[Brownian motion]]
+* [[Einstein field equations]]
+* [[Bose–Einstein statistics]]
+* [[Bose–Einstein condensate]]
+* [[Gravitational wave]]
+* [[Cosmological constant]]
+* [[Unified field theory]]
+* [[EPR paradox]]
+* [[Ensemble interpretation]]
+* [[List of things named after Albert Einstein|List of other concepts]]
+}}
+| awards            = {{plainlist|
+* [[Barnard Medal for Meritorious Service to Science|Barnard Medal]] (1920)
+* [[Nobel Prize in Physics]] (1921)
+* [[Matteucci Medal]] (1921)
+* [[ForMemRS]] (1921)&lt;ref name="frs" /&gt;
+* [[Copley Medal]] (1925)&lt;ref name="frs" /&gt;
+* [[Gold Medal of the Royal Astronomical Society]] (1926)
+* [[Max Planck Medal]] (1929)
+* [[Member of the National Academy of Sciences]] (1942)
+* [[Time 100: The Most Important People of the Century|''Time'' Person of the Century]] (1999)
+}}
+| signature         = Albert Einstein signature 1934.svg
+| influences        = {{plainlist|
+* [[Arthur Schopenhauer]]
+* [[Baruch Spinoza]]
+* [[Bernhard Riemann]]
+* [[David Hume]]
+* [[Ernst Mach]]
+* [[Hendrik Lorentz]]
+* [[Hermann Minkowski]]
+* [[Isaac Newton]]
+* [[James Clerk Maxwell]]
+* [[Michele Besso]]
+* [[Moritz Schlick]]
+* [[Thomas Young (scientist)|Thomas Young]]
+* [[Gottfried Wilhelm Leibniz]]
+}}
+}}
+'''Albert Einstein''' ({{IPAc-en|ˈ|aɪ|n|s|t|aɪ|n}} {{respell|EYEN|styne}};&lt;ref name="NDxay" /&gt; {{IPA-de|ˈalbɛʁt ˈʔaɪnʃtaɪn|lang|Albert Einstein german.ogg}}; 14 March 1879&amp;nbsp;– 18 April 1955) was a German-born&lt;!-- Please do not change this—see talk page and its many archives.--&gt; [[Theoretical physics|theoretical physicist]],&lt;ref name="Bio" /&gt; widely acknowledged to be one of the greatest physicists of all time. Einstein is known for developing the [[theory of relativity]], but he also made important contributions to the development of the theory of [[quantum mechanics]]. Relativity and quantum mechanics are together the two pillars of [[modern physics]].&lt;ref name="frs" /&gt;&lt;ref name="YangHamilton2010" /&gt; His [[mass–energy equivalence]] formula {{math|1=[[Mass–energy_equivalence#Mass–velocity_relationship|''E'' = ''mc''&lt;sup&gt;2&lt;/sup&gt;]]}}, which arises from relativity theory, has been dubbed "the world's most famous equation".&lt;ref name="LnLVo" /&gt; His work is also known for its influence on the [[philosophy of science]].&lt;ref name="xZQWt" /&gt;&lt;ref name="3UiiT" /&gt; He received the 1921 [[Nobel Prize in Physics]] "for his services to theoretical physics, and especially for his discovery of the law of the [[photoelectric effect]]",&lt;ref name="Nobel Prize" /&gt; a pivotal step in the development of quantum theory. His intellectual achievements and originality resulted in "Einstein" becoming [[Archetypal name|synonymous]] with "[[genius]]".&lt;ref name="wordnetweb.princeton.edu" /&gt;
+
+In 1905, a year sometimes described as his ''[[annus mirabilis]]'' ('miracle year'), Einstein published [[Annus Mirabilis papers|four groundbreaking papers]].{{sfnp|Galison|2000|p=377}} These outlined the theory of the photoelectric effect, explained [[Brownian motion]], introduced [[special relativity]], and demonstrated mass-energy equivalence. Einstein thought that the laws of [[classical mechanics]] could no longer be reconciled with those of the [[electromagnetic field]], which led him to develop his special theory of relativity. He then extended the theory to gravitational fields; he published a paper on [[general relativity]] in 1916, introducing his theory of gravitation. In 1917, he applied the general theory of relativity to model the structure of the universe.&lt;ref name="Nobel" /&gt;&lt;ref name="NYT-20151124" /&gt; He continued to deal with problems of [[statistical mechanics]] and quantum theory, which led to his explanations of particle theory and the [[Brownian motion|motion of molecules]]. He also investigated the thermal properties of light and the quantum theory of radiation, which laid the foundation of the [[photon]] theory of light. However, for much of the later part of his career, he worked on two ultimately unsuccessful endeavors. First, despite his great contributions to quantum mechanics, he opposed what it evolved into, objecting that nature "does not play dice".&lt;ref&gt;{{cite journal |url=https://www.nature.com/articles/d41586-018-05004-4 |title=Did Einstein really say that? |last=Robinson |first=Andrew |journal=[[Nature (journal)|Nature]] |date=30 April 2018 |volume=557 |number=30|page=30 |doi=10.1038/d41586-018-05004-4 |bibcode=2018Natur.557...30R |s2cid=14013938 }}&lt;/ref&gt; Second, he attempted to devise a [[unified field theory]] by generalizing his geometric theory of gravitation to include electromagnetism. As a result, he became increasingly isolated from the mainstream of modern physics.
+
+Einstein was born in the [[German Empire]], but moved to Switzerland in 1895, forsaking his German citizenship (as a subject of the [[Kingdom of Württemberg]])&lt;ref group=note name=GEcitizen/&gt; the following year. In 1897, at the age of 17, he enrolled in the mathematics and physics teaching diploma program at the Swiss [[ETH Zurich|Federal polytechnic school]] in [[Zürich]], graduating in 1900. In 1901 he acquired Swiss citizenship, which he kept for the rest of his life, and in 1903 he secured a permanent position at the [[Swiss Federal Institute of Intellectual Property|Swiss Patent Office]] in Bern. In 1905, he was awarded a PhD by the [[University of Zurich]]. In 1914, Einstein moved to [[Berlin]] in order to join the [[Prussian Academy of Sciences]] and the [[Humboldt University of Berlin]]. In 1917, Einstein became director of the [[Kaiser Wilhelm Institute for Physics]]; he also became a German citizen again – Prussian this time. 
+
+In 1933, while Einstein was visiting the United States, [[Adolf Hitler]] came to power. Einstein did not return to Germany because he objected to the policies of the newly elected [[Nazi Germany|Nazi-led government]].&lt;ref name="zE9Bz" /&gt; He settled in the United States and became an American citizen in 1940.&lt;ref name="BoyerDubofsky2001" /&gt; On the eve of [[World War II]], he endorsed [[Einstein–Szilárd letter|a letter]] to President [[Franklin D. Roosevelt]] alerting him to the potential [[German nuclear weapons program]] and recommending that the US begin [[Manhattan Project|similar research]]. Einstein supported the [[Allies of World War II|Allies]], but generally denounced the idea of [[nuclear weapons]].
+
+{{TOC limit|4}}
+
+==Life and career==
+
+=== Early life and education ===
+{{See also|Einstein family}}
+[[File:Albert Einstein at the age of three (1882).jpg|thumb|upright|alt=A young boy with short hair and a round face, wearing a white collar and large bow, with vest, coat, skirt, and high boots. He is leaning against an ornate chair.|Einstein at the age of three in 1882]]
+[[File:03 ALBERT EINSTEIN.ogg|thumb|Start of a speech by Albert Einstein made on 11 April 1943 for the United Jewish Appeal (recording by Radio Universidad Nacional de La Plata, Argentina)
+----
+"Ladies (coughs) and gentlemen, our age is proud of the progress it has made in man's intellectual development. The search and striving for truth and knowledge is one of the highest of man's qualities ..."]]
+
+Albert Einstein was born in [[Ulm]],&lt;ref name="Bio" /&gt; in the [[Kingdom of Württemberg]] in the [[German Empire]], on 14 March 1879 into a family of secular [[Ashkenazi Jews]].&lt;ref&gt;{{cite web |url=https://www.jewishvirtuallibrary.org/albert-einstein |title=Albert Einstein (1879 - 1955) |publisher=Jewisth Virtual Library}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |url=https://www.theatlantic.com/magazine/archive/2009/12/how-einstein-divided-americas-jews/307763/ |journal=The Atlantic |year=2009 |first=Walter |last=Isaacson |title=How Einstein Divided America's Jews}}&lt;/ref&gt; His parents were [[Hermann Einstein]], a salesman and engineer, and [[Pauline Koch]]. In 1880, the family moved to [[Munich]], where Einstein's father and his uncle Jakob founded ''Elektrotechnische Fabrik J. Einstein &amp; Cie'', a company that manufactured electrical equipment based on [[direct current]].&lt;ref name="Bio" /&gt;
+
+Albert attended a [[Catholic school|Catholic elementary school]] in Munich, from the age of five, for three years. At the age of eight, he was transferred to the Luitpold Gymnasium (now known as the Albert Einstein Gymnasium), where he received advanced primary and secondary school education until he left the [[German Empire]] seven years later.{{Sfnp|Stachel|2002|pp=[https://books.google.com/books?id=OAsQ_hFjhrAC&amp;pg=PA59 59–61]}}
+
+In 1894, Hermann and Jakob's company lost a bid to supply the city of Munich with electrical lighting because they lacked the capital to convert their equipment from the [[direct current]] (DC) standard to the more efficient [[alternating current]] (AC) standard.&lt;ref name="EQyag" /&gt; The loss forced the sale of the Munich factory. In search of business, the Einstein family moved to Italy, first to [[Milan]] and a few months later to [[Pavia]]. When the family moved to Pavia, Einstein, then 15, stayed in Munich to finish his studies at the Luitpold Gymnasium. His father intended for him to pursue [[electrical engineering]], but Einstein clashed with the authorities and resented the school's regimen and teaching method. He later wrote that the spirit of learning and creative thought was lost in strict [[rote learning]]. At the end of December 1894, he traveled to Italy to join his family in Pavia, convincing the school to let him go by using a doctor's note.{{Sfnp|Fölsing|1997|pp=30–31}} During his time in Italy he wrote a short essay with the title "On the Investigation of the State of the [[Aether (classical element)|Ether]] in a Magnetic Field".{{Sfnp|Stachel et al.|2008|loc=vol. 1 (1987), doc. 5}}&lt;ref name="1RgTv" /&gt;
+
+Einstein excelled at math and physics from a young age, reaching a mathematical level years ahead of his peers. The 12-year-old Einstein taught himself algebra and Euclidean geometry over a single summer.&lt;ref&gt;{{cite book |title=The God Problem: How a Godless Cosmos Creates |edition=illustrated |first1=Howard |last1=Bloom |publisher=Prometheus Books |year=2012 |isbn=978-1-61614-552-1 |page=294 |url=https://books.google.com/books?id=xlEupJb4ojIC}} [https://books.google.com/books?id=xlEupJb4ojIC&amp;pg=PT294 Extract of page 294]&lt;/ref&gt; Einstein also independently discovered his own original proof of the [[Pythagorean theorem]] at age 12.&lt;ref name="FVfDU" /&gt; A family tutor Max Talmud says that after he had given the 12-year-old Einstein a geometry textbook, after a short time "[Einstein] had worked through the whole book. He thereupon devoted himself to higher mathematics... Soon the flight of his mathematical genius was so high I could not follow."{{Sfnp|Isaacson|2007|p=17}} His passion for geometry and algebra led the 12-year-old to become convinced that nature could be understood as a "mathematical structure".{{Sfnp|Isaacson|2007|p=17}} Einstein started teaching himself calculus at 12, and as a 14-year-old he says he had "mastered [[integral calculus|integral]] and [[differential calculus]]".{{Sfnp|Isaacson|2007|p=16}}
+
+[[File:Albert Einstein as a child.jpg|thumb|upright|left|alt=Studio photo of a boy seated in a relaxed posture and wearing a suit, posed in front of a backdrop of scenery.|Albert Einstein in 1893 (age&amp;nbsp;14)]]
+
+At age 13, when he had become more seriously interested in philosophy (and music),{{sfnp|Calaprice|Lipscombe|2005|p=8}} Einstein was introduced to [[Immanuel Kant|Kant]]'s ''[[Critique of Pure Reason]]''. Kant became his favorite philosopher, his tutor stating: "At the time he was still a child, only thirteen years old, yet Kant's works, incomprehensible to ordinary mortals, seemed to be clear to him."{{Sfnp|Isaacson|2007|p=17}}
+
+In 1895, at the age of 16, Einstein took the entrance examinations for the Swiss [[ETH Zurich|Federal polytechnic school]] in [[Zürich]] (later the Eidgenössische Technische Hochschule, ETH). He failed to reach the required standard in the general part of the examination,{{Sfnp|Stachel et al.|2008|loc=vol. 1 (1987), p. 11}} but obtained exceptional grades in physics and mathematics.{{Sfnp|Fölsing|1997|pp=36–37}} On the advice of the principal of the polytechnic school, he attended the [[Old Cantonal School Aarau|Argovian cantonal school]] ([[Gymnasium (school)|gymnasium]]) in [[Aarau]], Switzerland, in 1895 and 1896 to complete his secondary schooling. While lodging with the family of professor [[Jost Winteler]], he fell in love with Winteler's daughter, Marie. Albert's sister [[Maja Einstein|Maja]] later married Winteler's son Paul.{{Sfnp|Highfield|Carter|1993|pp=21, 31, 56–57}} In January 1896, with his father's approval, Einstein renounced his [[German citizenship|citizenship in the German Kingdom of Württemberg]] to avoid [[Conscription in Germany|military service]].{{Sfnp|Fölsing|1997|p=40}} In September 1896, he passed the Swiss [[Matura]] with mostly good grades, including a top grade of 6 in physics and mathematical subjects, on [[Grading systems by country#Switzerland|a scale of 1–6]].{{Sfnp|Stachel et al.|2008|loc=vol. 1 (1987), docs. 21–27}} At 17, he enrolled in the four-year mathematics and physics teaching diploma program at the Federal polytechnic school. Marie Winteler, who was a year older, moved to [[Olsberg, Aargau|Olsberg]], Switzerland, for a teaching post.{{Sfnp|Highfield|Carter|1993|pp=21, 31, 56–57}}
+[[File:Albert Einstein's exam of maturity grades (color2).jpg|thumb|upright|alt=Einstein's matriculation certificate at the age of 17. The heading translates as "The Education Committee of the Canton of Aargau". His scores were German 5, French 3, Italian 5, History 6, Geography 4, Algebra 6, Geometry 6, Descriptive Geometry 6, Physics 6, Chemistry 5, Natural History 5, Art Drawing 4, Technical Drawing 4. 6 = very good, 5 = good, 4 = sufficient, 3 = insufficient, 2 = poor, 1 = very poor.|Einstein's [[Matura|matriculation]] certificate&lt;ref group="note" name="6Ar1y" /&gt;]]
+Einstein's future wife, a 20-year-old [[Serbs|Serbian]] named [[Mileva Marić]], also enrolled at the polytechnic school that year. She was the only woman among the six students in the mathematics and physics section of the teaching diploma course. Over the next few years, Einstein's and Marić's friendship developed into a romance, and they spent countless hours debating and reading books together on extra-curricular physics in which they were both interested. Einstein wrote in his letters to Marić that he preferred studying alongside her.&lt;ref name="mileva"&gt;{{Cite web|last=Gagnon|first=Pauline|date=19 December 2016|title=The Forgotten Life of Einstein's First Wife|url=https://blogs.scientificamerican.com/guest-blog/the-forgotten-life-of-einsteins-first-wife/|access-date=17 October 2020|website=Scientific American Blog Network}}&lt;/ref&gt; In 1900, Einstein passed the exams in Maths and Physics and was awarded the Federal teaching diploma.{{Sfnp|Stachel et al.|2008|loc=vol. 1 (1987), doc. 67}} There is eyewitness evidence and several letters over many years that indicate Marić might have collaborated with Einstein prior to his 1905 papers,&lt;ref name="mileva" /&gt;&lt;ref name="7HA7H" /&gt;&lt;ref name="1zJdH" /&gt; known as the [[Annus Mirabilis papers|''Annus Mirabilis'' papers]], and that they developed some of the concepts together during their studies, although some historians of physics who have studied the issue disagree that she made any substantive contributions.{{Sfnp|Pais|1994|pp=1–29}}&lt;ref name="xKrMG" /&gt;{{Sfnp|Stachel|2002|pp=[https://books.google.com/books?id=OAsQ_hFjhrAC&amp;pg=PA49 49–56]}}&lt;ref name="dUxMl" /&gt;
+
+=== Marriages and children ===
+[[File:Albert Einstein and his wife Mileva Maric.jpg|thumb|Albert and [[Mileva Marić]] Einstein, 1912]]
+
+Early correspondence between Einstein and Marić was discovered and published in 1987 which revealed that the couple had a daughter named [[Lieserl Einstein|"Lieserl"]], born in early 1902 in [[Novi Sad]] where Marić was staying with her parents. Marić returned to Switzerland without the child, whose real name and fate are unknown. The contents of Einstein's letter in September 1903 suggest that the girl was either given up for adoption or died of [[scarlet fever]] in infancy.&lt;ref name="HBMes" /&gt;{{sfnp|Calaprice|Lipscombe|2005|pp=22–23}}
+
+[[File:Einstein Albert Elsa LOC 32096u.jpg|alt=Einstein, looking relaxed and holding a pipe, stands next to a smiling, well-dressed Elsa who is wearing a fancy hat and fur wrap. She is looking at him.|thumb|Einstein with his second wife, Elsa, in 1921]]
+
+Einstein and Marić married in January 1903. In May 1904, their son [[Hans Albert Einstein]] was born in [[Bern]], Switzerland. Their son [[Einstein family#Eduard "Tete" Einstein (Albert's second son)|Eduard]] was born in Zürich in July 1910. The couple moved to Berlin in April 1914, but Marić returned to Zürich with their sons after learning that despite their close relationship before,&lt;ref name="mileva" /&gt; Einstein's chief romantic attraction was now his cousin [[Elsa Einstein|Elsa Löwenthal]];{{Sfnp|Stachel|1966}} she was his first cousin maternally and second cousin paternally.{{sfnp|Calaprice|Lipscombe|2005|p=[https://books.google.com/books?id=5eWh2O_3OAQC&amp;pg=PA50 50]}} They divorced on 14 February 1919, having lived apart for five years.&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/1996/11/06/arts/dark-side-of-einstein-emerges-in-his-letters.html|title=Dark Side of Einstein Emerges in His Letters|first=Dinitia|last=Smith|newspaper=The New York Times|date=6 November 1996}}&lt;/ref&gt;{{sfnp|Stachel|2002|p=[https://books.google.com/books?id=OAsQ_hFjhrAC&amp;pg=PA50 50]}} As part of the divorce settlement, Einstein agreed to give Marić his Nobel Prize money.&lt;ref&gt;{{cite web|title=Einstein Works Out Details of His 1919 Divorce from Mileva Marić|url=http://www.shapell.org/manuscript/einstein-divorce-from-mileva-maric-hebrew-university|work=Shapell Manuscript Collection|publisher=Shapell Manuscript Foundation|archive-url=https://web.archive.org/web/20160306044226/http://www.shapell.org/manuscript/einstein-divorce-from-mileva-maric-hebrew-university|access-date=2021-01-18|archive-date=6 March 2016}}&lt;/ref&gt; 
+
+In letters revealed in 2015, Einstein wrote to his early love Marie Winteler about his marriage and his strong feelings for her. He wrote in 1910, while his wife was pregnant with their second child: "I think of you in heartfelt love every spare minute and am so unhappy as only a man can be." He spoke about a "misguided love" and a "missed life" regarding his love for Marie.&lt;ref name="MlQLY" /&gt;
+
+Einstein married Elsa Löwenthal in 1919,{{Sfnp|Isaacson|2007|p={{page needed|date=November 2020}}}}{{Sfnp|Calaprice|Kennefick|Schulmann|2015|p=62}} after having a relationship with her since 1912.{{sfnp|Calaprice|Lipscombe|2005|p=[https://books.google.com/books?id=5eWh2O_3OAQC&amp;pg=PA50 50]}} They emigrated to the United States in 1933. Elsa was diagnosed with heart and kidney problems in 1935 and died in December 1936.{{Sfnp|Highfield|Carter|1993|p=216}}
+
+In 1923, Einstein fell in love with a secretary named Betty Neumann, the niece of a close friend, Hans Mühsam.&lt;ref&gt;{{Cite web|url=https://www.telegraph.co.uk/news/worldnews/northamerica/usa/1523626/Einsteins-theory-of-fidelity.html |title=Einstein's theory of fidelity|first=Roger|last=Highfield|date=10 July 2006|via=www.telegraph.co.uk}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/2017/04/17/science/albert-einstein-genius-national-geographic-channel.html |title='Genius' Unravels the Mysteries of Einstein's Universe|first=Dennis|last=Overbye|newspaper=The New York Times|date=17 April 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.natgeotv.com/za/special/genius-albert-einsteins-theory-of-infidelity |title=GENIUS ALBERT EINSTEIN'S THEORY OF INFIDELITY|author=NatGeo TV|website=www.natgeotv.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.jpost.com/health-and-science/getting-up-close-and-personal-with-einstein |title=Getting up close and personal with Einstein|website=The Jerusalem Post &amp;#124; JPost.com}}&lt;/ref&gt; In a volume of letters released by [[Hebrew University of Jerusalem]] in 2006,&lt;ref&gt;{{Cite web |url=https://www.hindustantimes.com/india/einstein-secret-love-affairs-out/story-QVSHrfMYJzCRcIlbBCJKAM.html|title=Einstein secret love affairs out!|date=13 July 2006|website=Hindustan Times}}&lt;/ref&gt; Einstein described about six women, including Margarete Lebach (a blonde Austrian), Estella Katzenellenbogen (the rich owner of a florist business), Toni Mendel (a wealthy Jewish widow) and Ethel Michanowski (a Berlin socialite), with whom he spent time and from whom he received gifts while being married to Elsa.&lt;ref&gt;{{Cite web|url=http://www.nbcnews.com/id/13804030/ns/technology_and_science-science/t/new-letters-shed-light-einsteins-love-life/|title=New letters shed light on Einstein's love life|date=11 July 2006|website=msnbc.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://economictimes.indiatimes.com/magazines/panache/albert-einstein-may-have-had-the-iq-but-he-needed-to-work-on-his-eq/articleshow/64849211.cms?from=mdr|title=Albert Einstein may have had the IQ, but he needed to work on his EQ|newspaper=The Economic Times}}&lt;/ref&gt; Later, after the death of his second wife Elsa, Einstein was briefly in a relationship with Margarita Konenkova.&lt;ref&gt;{{Cite web |url=https://www.history.com/news/einstein-had-no-clue-his-lover-was-a-suspected-russian-spy|title=Einstein Had No Clue His Lover Was a Suspected Russian Spy |first=Sarah|last=Pruitt|website=HISTORY}}&lt;/ref&gt; Konenkova was a Russian spy who was married to the noted Russian sculptor [[Sergei Konenkov]] (who created the bronze bust of Einstein at the [[Institute for Advanced Study]] at Princeton).&lt;ref&gt;{{Cite news |url=https://www.nytimes.com/1998/06/01/us/love-letters-by-einstein-at-auction.html|title=Love Letters By Einstein At Auction|first=Robin|last=Pogrebin|newspaper=The New York Times|date=1 June 1998}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=https://www.independent.co.uk/news/einsteins-letters-show-affair-with-spy-1162418.html|title=Einstein's letters show affair with spy|date=2 June 1998|website=The Independent}}&lt;/ref&gt;
+
+Einstein's son Eduard had a breakdown at about age 20 and was diagnosed with [[schizophrenia]].&lt;ref name="Robinson2015a" /&gt; His mother cared for him and he was also committed to asylums for several periods, finally being committed permanently after her death.{{sfnp|Neffe|2007|p=[https://archive.org/details/einsteinbiograph00neff/page/203 203]}}
+
+=== Patent office ===
+[[File:Einstein patentoffice.jpg|alt=Head and shoulders shot of a young, moustached man with dark, curly hair wearing a plaid suit and vest, striped shirt, and a dark tie.|thumb|upright|left|Albert Einstein in 1904 (age&amp;nbsp;25)]]
+
+After graduating in 1900, Einstein spent almost two frustrating years searching for a teaching post. He acquired [[Switzerland|Swiss]] citizenship in February 1901,{{Sfnp|Fölsing|1997|p=82}} but was not [[conscription in Switzerland|conscripted]] for medical reasons. With the help of [[Marcel Grossmann]]'s father, he secured a job in [[Bern]] at the [[Swiss Federal Institute of Intellectual Property|Swiss Patent Office]],&lt;ref name="ODY5p" /&gt;{{Sfnp|Isaacson|2007|p=63}} as an [[Patent examiner|assistant examiner – level III]].&lt;ref name="MeZPN" /&gt;&lt;ref name="IGEFAQ" /&gt;
+
+Einstein evaluated [[patent application]]s for a variety of devices including a gravel sorter and an electromechanical typewriter.&lt;ref name="IGEFAQ" /&gt; In 1903, his position at the Swiss Patent Office became permanent, although he was passed over for promotion until he "fully mastered machine technology".{{sfnp|Galison|2000|p=370}}
+
+Much of his work at the patent office related to questions about transmission of electric signals and electrical-mechanical synchronization of time, two technical problems that show up conspicuously in the [[Einstein's thought experiments|thought experiments]] that eventually led Einstein to his radical conclusions about the nature of light and the fundamental connection between space and time.{{sfnp|Galison|2000|p=377}}
+
+[[File:Einstein-with-habicht-and-solovine.jpg|thumb|upright=1.05|alt=Three young men in suits with high white collars and bow ties, sitting.|[[Olympia Academy]] founders: [[Conrad Habicht]], [[Maurice Solovine]] and Einstein]]
+
+With a few friends he had met in Bern, Einstein started a small discussion group in 1902, self-mockingly named "[[Olympia Academy|The Olympia Academy]]", which met regularly to discuss science and philosophy. Sometimes they were joined by Mileva who attentively listened but did not participate.{{Sfnp|Highfield|Carter|1993|pp=96–98}} Their readings included the works of [[Henri Poincaré]], [[Ernst Mach]], and [[David Hume]], which influenced his scientific and philosophical outlook.{{Sfnp|Isaacson|2007|pp=79–84}}
+
+=== First scientific papers ===
+In 1900, Einstein's paper [[List of scientific publications by Albert Einstein#Journal articles|"Folgerungen aus den Capillaritätserscheinungen"]] ("Conclusions from the Capillarity Phenomena") was published in the journal ''[[Annalen der Physik]]''.{{Sfnp|Einstein|1901}}&lt;ref name="SdDhS" /&gt; On 30 April 1905, Einstein completed his thesis,{{Sfnp|Einstein|1905b|loc="Meinem Freunde Herr Dr. Marcel Grossmann gewidmet (Dedicated to my friend, Dr. Marcel Grossmann)"}} with [[Alfred Kleiner]], Professor of Experimental Physics, serving as ''[[Pro forma|pro-forma]]'' advisor. As a result, Einstein was awarded a PhD by the [[University of Zürich]], with his dissertation ''A New Determination of Molecular Dimensions''.{{Sfnp|Einstein|1905b|loc="Meinem Freunde Herr Dr. Marcel Grossmann gewidmet (Dedicated to my friend, Dr. Marcel Grossmann)"}}{{Sfnp|Einstein|1926b|loc=chap. "A New Determination of Molecular Dimensions"}}
+
+Also in 1905, which has been called Einstein's ''[[annus mirabilis]]'' (amazing year), he published [[Annus Mirabilis papers|four groundbreaking papers]], on the [[photoelectric effect]], [[Brownian motion]], [[special relativity]], and the [[equivalence of mass and energy]], which were to bring him to the notice of the academic world, at the age of 26.
+
+=== Academic career ===
+By 1908, he was recognized as a leading scientist and was appointed lecturer at the [[University of Bern]]. The following year, after he gave a lecture on [[electrodynamics]] and the relativity principle at the University of Zurich, [[Alfred Kleiner]] recommended him to the faculty for a newly created professorship in theoretical physics. Einstein was appointed associate professor in 1909.&lt;ref name="bG2yp" /&gt;
+
+Einstein became a full professor at the German [[Charles-Ferdinand University]] in [[Prague]] in April 1911, accepting [[Cisleithania|Austrian]] citizenship in the [[Austria-Hungary|Austro-Hungarian Empire]] to do so.{{Sfnp|Isaacson|2007|p=164}}&lt;ref name="Itl8r" /&gt; During his Prague stay, he wrote 11 scientific works, five of them on radiation mathematics and on the quantum theory of solids. In July 1912, he returned to his alma mater in Zürich. From 1912 until 1914, he was a professor of theoretical physics at the [[ETH Zurich]], where he taught analytical mechanics and [[thermodynamics]]. He also studied [[continuum mechanics]], the molecular theory of heat, and the problem of gravitation, on which he worked with mathematician and friend [[Marcel Grossmann]].&lt;ref name="hXQin" /&gt;
+
+When the "[[Manifesto of the Ninety-Three]]" was published in October 1914—a document signed by a host of prominent German intellectuals that justified Germany's militarism and position during the First World War—Einstein was one of the few German intellectuals to rebut its contents and sign the pacifistic "[[Manifesto to the Europeans]]".{{sfn|Scheideler|2002|p=333}}
+
+[[File:19191125 A New Physics Based on Einstein - The New York Times.png|thumb |right| ''The New York Times'' reported confirmation of "the Einstein theory" (specifically, the bending of light by gravitation) based on 29 May 1919 eclipse observations in Principe (Africa) and Sobral (Brazil), after the findings were presented on 6 November 1919 to a joint meeting in London of the [[Royal Society]] and the [[Royal Astronomical Society]].&lt;ref name="NYTimes_19191125" /&gt; ([https://timesmachine.nytimes.com/timesmachine/1919/11/25/96868705.html?pageNumber=17 Full text])]]
+On 3 July 1913, he became a member of the [[Prussian Academy of Sciences]] in Berlin. [[Max Planck]] and [[Walther Nernst]] visited him the next week in Zurich to persuade him to join the academy, additionally offering him the post of director at the [[Kaiser Wilhelm Institute for Physics]], which was soon to be established.{{Sfnp|Stachel|2002|p=534}} Membership in the academy included paid salary and professorship without teaching duties at [[Humboldt University of Berlin]]. He was officially elected to the academy on 24 July, and he moved to Berlin the following year. His decision to move to Berlin was also influenced by the prospect of living near his cousin Elsa, with whom he had started a romantic affair. He joined the academy and thus Berlin University{{clarify|date=September 2020|reason=Does Berlin University mean Humboldt University?}} on 1 April 1914.{{clarify|date=September 2020|reason=In a previous sentence, it states he was elected to the academy on 24 July, so which is it?}}{{Sfnp|Weinstein|2015|pp=18–19}} As World War I broke out that year, the plan for Kaiser Wilhelm Institute for Physics was aborted. The institute was established on 1 October 1917, with Einstein as its director.&lt;ref name="EXcH6" /&gt; In 1916, Einstein was elected president of the [[German Physical Society]] (1916–1918).{{sfnp|Calaprice|Lipscombe|2005|loc=[https://books.google.com/books?id=5eWh2O_3OAQC&amp;pg=PR19 "Timeline", p. xix]}}
+
+Based on calculations Einstein had made in 1911 using his new theory of general relativity, [[Gravitational lens|light from another star should be bent]] by the Sun's gravity. In 1919, that prediction was confirmed by Sir [[Arthur Eddington]] during the [[solar eclipse of 29 May 1919]]. Those observations were published in the international media, making Einstein world-famous. On 7 November 1919, the leading British newspaper ''[[The Times]]'' printed a banner headline that read: "Revolution in Science&amp;nbsp;– New Theory of the Universe&amp;nbsp;– Newtonian Ideas Overthrown".&lt;ref name="Eddington" /&gt;
+
+In 1920, he became a Foreign Member of the [[Royal Netherlands Academy of Arts and Sciences]].&lt;ref name="3gcYy" /&gt; In 1922, he was awarded the 1921 [[Nobel Prize in Physics]] "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect".&lt;ref name="Nobel Prize" /&gt; While the [[General relativity|general theory of relativity]] was still considered somewhat controversial, the citation also does not treat even the cited photoelectric work as an ''explanation'' but merely as a ''discovery of the law'', as the idea of photons was considered outlandish and did not receive universal acceptance until the 1924 derivation of the [[Planck spectrum]] by [[S. N. Bose]]. Einstein was elected a [[List of Fellows of the Royal Society elected in 1921|Foreign Member of the Royal Society (ForMemRS) in 1921]].&lt;ref name="frs" /&gt; He also received the [[Copley Medal]] from the [[Royal Society]] in 1925.&lt;ref name="frs" /&gt;
+
+=== 1921–1922: Travels abroad ===
+[[File:Albert Einstein (Nobel).png|thumb|upright|left|Einstein's official portrait after receiving the 1921 Nobel Prize in Physics]]
+Einstein visited New York City for the first time on 2 April 1921, where he received an official welcome by Mayor [[John Francis Hylan]], followed by three weeks of lectures and receptions.&lt;ref&gt;Falk, Dan, ''[https://www.smithsonianmag.com/history/one-hundred-years-ago-einstein-was-given-heros-welcome-americas-jews-180977386/ One Hundred Years Ago, Einstein Was Given a Hero’s Welcome by America’s Jews]'', Smithsonian, April 2, 2021&lt;/ref&gt; He went on to deliver several lectures at [[Columbia University]] and [[Princeton University]], and in Washington, he accompanied representatives of the [[National Academy of Science]] on a visit to the [[White House]]. On his return to Europe he was the guest of the British statesman and philosopher [[Viscount Haldane]] in London, where he met several renowned scientific, intellectual, and political figures, and delivered a lecture at [[King's College London]].{{Sfnp|Hoffmann|1972|pp=145–148}}{{Sfnp|Fölsing|1997|pp=499–508}}
+
+He also published an essay, "My First Impression of the U.S.A.", in July 1921, in which he tried briefly to describe some characteristics of Americans, much as had [[Alexis de Tocqueville]], who published his own impressions in ''[[Democracy in America]]'' (1835).&lt;ref name="7gwHd" /&gt; For some of his observations, Einstein was clearly surprised: "What strikes a visitor is the joyous, positive attitude to life ... The American is friendly, self-confident, optimistic, and without envy."{{sfnp|Holton|1984|p=20}}
+
+In 1922, his travels took him to Asia and later to Palestine, as part of a six-month excursion and speaking tour, as he visited Singapore, [[Ceylon]] and Japan, where he gave a series of lectures to thousands of Japanese. After his first public lecture, he met the emperor and empress at the [[Tokyo Imperial Palace|Imperial Palace]], where thousands came to watch. In a letter to his sons, he described his impression of the Japanese as being modest, intelligent, considerate, and having a true feel for art.{{Sfnp|Isaacson|2007|pp=307–308}} In his own travel diaries from his 1922–23 visit to Asia, he expresses some views on the Chinese, Japanese and Indian people, which have been described as xenophobic and racist judgments when they were rediscovered in 2018.&lt;ref name="38YkY" /&gt;&lt;ref&gt;{{Cite web|last=Katz|first=Brigit|title=Einstein's Travel Diaries Reveal His Deeply Troubling Views on Race|url=https://www.smithsonianmag.com/smart-news/einsteins-travel-diaries-reveal-his-deeply-troubling-views-race-180969387/|access-date=2021-01-03|website=Smithsonian Magazine|language=en}}&lt;/ref&gt;
+
+Because of Einstein's travels to the Far East, he was unable to personally accept the Nobel Prize for Physics at the Stockholm award ceremony in December 1922. In his place, the banquet speech was made by a German diplomat, who praised Einstein not only as a scientist but also as an international peacemaker and activist.&lt;ref name="oxak7" /&gt;
+
+On his return voyage, he visited [[Mandatory Palestine|Palestine]] for 12 days, his only visit to that region. He was greeted as if he were a head of state, rather than a physicist, which included a cannon salute upon arriving at the home of the British high commissioner, [[Sir Herbert Samuel]]. During one reception, the building was stormed by people who wanted to see and hear him. In Einstein's talk to the audience, he expressed happiness that the Jewish people were beginning to be recognized as a force in the world.{{Sfnp|Isaacson|2007|p=308}}
+
+Einstein visited Spain for two weeks in 1923, where he briefly met [[Santiago Ramón y Cajal]] and also received a diploma from [[Alfonso XIII of Spain|King Alfonso XIII]] naming him a member of the Spanish Academy of Sciences.&lt;ref name="w74nv" /&gt;
+
+[[File:League of Nations Commission 067.tif|thumb|Albert Einstein at a session of the [[International Committee on Intellectual Cooperation]] ([[League of Nations]]) of which he was a member from 1922 to 1932.]]
+From 1922 to 1932, Einstein was a member of the [[International Committee on Intellectual Cooperation]] of the [[League of Nations]] in [[Geneva]] (with a few months of interruption in 1923–1924),&lt;ref name="Q5hgx" /&gt; a body created to promote international exchange between scientists, researchers, teachers, artists, and intellectuals.&lt;ref name="vNNnX" /&gt; Originally slated to serve as the Swiss delegate, Secretary-General [[Eric Drummond]] was persuaded by Catholic activists [[Oskar Halecki]] and [[Giuseppe Motta]] to instead have him become the German delegate, thus allowing [[Gonzague de Reynold]] to take the Swiss spot, from which he promoted traditionalist Catholic values.&lt;ref name="e9Xyh" /&gt; Einstein's former physics professor [[Hendrik Lorentz]] and the Polish chemist [[Marie Curie]] were also members of the committee.
+
+=== 1930–1931: Travel to the US ===
+In December 1930, Einstein visited America for the second time, originally intended as a two-month working visit as a research fellow at the [[California Institute of Technology]]. After the national attention, he received during his first trip to the US, he and his arrangers aimed to protect his privacy. Although swamped with telegrams and invitations to receive awards or speak publicly, he declined them all.{{Sfnp|Isaacson|2007|p=368}}
+
+After arriving in New York City, Einstein was taken to various places and events, including [[Chinatown, Manhattan|Chinatown]], a lunch with the editors of ''The New York Times'', and a performance of ''Carmen'' at the [[Metropolitan Opera]], where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor [[Jimmy Walker]] and met the president of Columbia University, who described Einstein as "the ruling monarch of the mind".{{Sfnp|Isaacson|2007|p=370}} [[Harry Emerson Fosdick]], pastor at New York's [[Riverside Church]], gave Einstein a tour of the church and showed him a full-size statue that the church made of Einstein, standing at the entrance.{{Sfnp|Isaacson|2007|p=370}} Also during his stay in New York, he joined a crowd of 15,000 people at [[Madison Square Garden]] during a [[Hanukkah]] celebration.{{Sfnp|Isaacson|2007|p=370}}
+
+[[File:Albert Einstein and Charlie Chaplin - 1931.jpg|thumb|upright|Einstein (left) and [[Charlie Chaplin]] at the [[Hollywood]] premiere of ''[[City Lights]]'', January 1931]]
+Einstein next traveled to California, where he met [[Caltech]] president and Nobel laureate [[Robert A. Millikan]]. His friendship with Millikan was "awkward", as Millikan "had a penchant for patriotic militarism", where Einstein was a pronounced [[Pacifism|pacifist]].{{Sfnp|Isaacson|2007|p=373}} During an address to Caltech's students, Einstein noted that science was often inclined to do more harm than good.{{Sfnp|Isaacson|2007|p=374}}
+
+This aversion to war also led Einstein to befriend author [[Upton Sinclair]] and film star [[Charlie Chaplin]], both noted for their pacifism. [[Carl Laemmle]], head of [[Universal Studios]], gave Einstein a tour of his studio and introduced him to Chaplin. They had an instant rapport, with Chaplin inviting Einstein and his wife, Elsa, to his home for dinner. Chaplin said Einstein's outward persona, calm and gentle, seemed to conceal a "highly emotional temperament", from which came his "extraordinary intellectual energy".{{sfnp|Chaplin|1964|p=320}}
+
+Chaplin's film, ''[[City Lights]]'', was to premiere a few days later in Hollywood, and Chaplin invited Einstein and Elsa to join him as his special guests. [[Walter Isaacson]], Einstein's biographer, described this as "one of the most memorable scenes in the new era of celebrity".{{Sfnp|Isaacson|2007|p=374}} Chaplin visited Einstein at his home on a later trip to Berlin and recalled his "modest little flat" and the piano at which he had begun writing his theory. Chaplin speculated that it was "possibly used as kindling wood by the Nazis".{{sfnp|Chaplin|1964|p=322}}
+
+=== 1933: Emigration to the US ===
+[[File:Einstein-cartoon1.jpg|thumb|upright|alt=Cartoon of Einstein, who has shed his "Pacifism" wings, standing next to a pillar labeled "World Peace". He is rolling up his sleeves and holding a sword labeled "Preparedness".|Cartoon of Einstein after shedding his "pacifism" wings ([[Charles R. Macauley]], {{circa|1933}})]]
+In February 1933, while on a visit to the United States, Einstein knew he could not return to Germany with the rise to power of the [[Nazi Germany|Nazis]] under Germany's new chancellor, [[Adolf Hitler]].{{Sfnp|Fölsing|1997|p=659}}{{Sfnp|Isaacson|2007|p=404}}
+
+While at American universities in early 1933, he undertook his third two-month visiting professorship at the [[California Institute of Technology]] in Pasadena. In February and March 1933, the [[Gestapo]] repeatedly raided his family's apartment in Berlin.&lt;ref&gt;{{Cite web|title=Albert Einstein Quits Germany, Renounces Citizenship|url=https://newspapers.ushmm.org/events/albert-einstein-quits-germany-renounces-citizenship|access-date=2021-03-14|website=History Unfolded: US Newspapers and the Holocaust|language=en}}&lt;/ref&gt; He and his wife Elsa returned to Europe in March, and during the trip, they learned that the German Reichstag had passed the [[Enabling Act of 1933|Enabling Act]] on 23 March, transforming Hitler's government into a ''de facto'' legal dictatorship, and that they would not be able to proceed to Berlin. Later on, they heard that their cottage was raided by the Nazis and his personal sailboat confiscated. Upon landing in [[Antwerp]], Belgium on 28 March, he immediately went to the German consulate and surrendered his passport, formally renouncing his German citizenship.{{Sfnp|Isaacson|2007|pp=407–410}} The Nazis later sold his boat and converted his cottage into a [[Hitler Youth]] camp.&lt;ref name="el4GB" /&gt;
+
+==== Refugee status ====
+[[File:Einstein's landing card (5706142737).jpg|thumb|Albert Einstein's landing card (26 May 1933), when he landed in [[Dover]] (United Kingdom) from [[Ostend]] (Belgium) to visit [[Oxford]].]]
+In April 1933, Einstein discovered that the new German government had passed laws barring Jews from holding any official positions, including teaching at universities.{{Sfnp|Isaacson|2007|pp=407–410}} Historian [[Gerald Holton]] describes how, with "virtually no audible protest being raised by their colleagues", thousands of Jewish scientists were suddenly forced to give up their university positions and their names were removed from the rolls of institutions where they were employed.{{sfnp|Holton|1984|p=}}
+
+A month later, Einstein's works were among those targeted by the [[German Student Union]] in the [[Nazi book burnings]], with Nazi propaganda minister [[Joseph Goebbels]] proclaiming, "Jewish intellectualism is dead."{{Sfnp|Isaacson|2007|pp=407–410}} One German magazine included him in a list of enemies of the German regime with the phrase, "not yet hanged", offering a $5,000 bounty on his head.{{Sfnp|Isaacson|2007|pp=407–410}}&lt;ref name="Jerome" /&gt; In a subsequent letter to physicist and friend [[Max Born]], who had already emigrated from Germany to England, Einstein wrote, "...&amp;nbsp;I must confess that the degree of their brutality and cowardice came as something of a surprise."{{Sfnp|Isaacson|2007|pp=407–410}} After moving to the US, he described the book burnings as a "spontaneous emotional outburst" by those who "shun popular enlightenment", and "more than anything else in the world, fear the influence of men of intellectual independence".{{Sfnp|Einstein|1954|p=197}}
+
+Einstein was now without a permanent home, unsure where he would live and work, and equally worried about the fate of countless other scientists still in Germany. He rented a house in De Haan, Belgium, where he lived for a few months. In late July 1933, he went to England for about six weeks at the personal invitation of British naval officer Commander [[Oliver Locker-Lampson]], who had become friends with Einstein in the preceding years. Locker-Lampson invited him to stay near his {{w|Cromer}} home in a wooden cabin on Roughton Heath in the Parish of {{w|Roughton, Norfolk}}. To protect Einstein, Locker-Lampson had two bodyguards watch over him at his secluded cabin, with a photo of them carrying shotguns and guarding Einstein, published in the ''Daily Herald'' on 24 July 1933.{{Sfnp|Isaacson|2007|p=422}}&lt;ref name="3zIp7" /&gt;
+
+Locker-Lampson took Einstein to meet [[Winston Churchill]] at his home, and later, [[Austen Chamberlain]] and former Prime Minister [[David Lloyd George|Lloyd George]].{{Sfnp|Isaacson|2007|pp=419–420}} Einstein asked them to help bring Jewish scientists out of Germany. British historian [[Martin Gilbert]] notes that Churchill responded immediately, and sent his friend, physicist [[Frederick Lindemann, 1st Viscount Cherwell|Frederick Lindemann]], to Germany to seek out Jewish scientists and place them in British universities.&lt;ref name="Gilbert" /&gt; Churchill later observed that as a result of Germany having driven the Jews out, they had lowered their "technical standards" and put [[Allies of World War II|the Allies]]' technology ahead of theirs.&lt;ref name="Gilbert" /&gt;
+
+Einstein later contacted leaders of other nations, including [[Turkey]]'s Prime Minister, [[İsmet İnönü]], to whom he wrote in September 1933 requesting placement of unemployed German-Jewish scientists. As a result of Einstein's letter, Jewish invitees to Turkey eventually totaled over "1,000 saved individuals".&lt;ref name="aDu8s" /&gt;
+
+Locker-Lampson also submitted a bill to parliament to extend British citizenship to Einstein, during which period Einstein made a number of public appearances describing the crisis brewing in Europe.{{Sfnp|Clark|1971}} In one of his speeches he denounced Germany's treatment of Jews, while at the same time he introduced a bill promoting Jewish citizenship in Palestine, as they were being denied citizenship elsewhere.&lt;ref name="AP" /&gt; In his speech he described Einstein as a "citizen of the world" who should be offered a temporary shelter in the UK.&lt;ref group="note" name="gnriE" /&gt;&lt;ref name="Guardian" /&gt; Both bills failed, however, and Einstein then accepted an earlier offer from the [[Institute for Advanced Study]], in [[Princeton, New Jersey]], US, to become a resident scholar.{{Sfnp|Clark|1971}}
+
+==== Resident scholar at the Institute for Advanced Study ====
+[[File:Einstein-formal portrait-35.jpg|thumb|upright|Portrait of Einstein taken in 1935 at Princeton]]
+In October 1933, Einstein returned to the US and took up a position at the Institute for Advanced Study,{{Sfnp|Clark|1971}}{{Sfnp|Fölsing|1997|pp=649, 678}} noted for having become a refuge for scientists fleeing Nazi Germany.&lt;ref name="Arntzenius2011" /&gt; At the time, most American universities, including Harvard, Princeton and Yale, had minimal or no Jewish faculty or students, as a result of their [[Jewish quota]]s, which lasted until the late 1940s.&lt;ref name="Arntzenius2011" /&gt;
+
+Einstein was still undecided on his future. He had offers from several European universities, including [[Christ Church, Oxford]] where he stayed for three short periods between May 1931 and June 1933 and was offered a 5-year studentship,&lt;ref name="FFt5E" /&gt;&lt;ref name="v8v06" /&gt; but in 1935, he arrived at the decision to remain permanently in the United States and apply for citizenship.{{Sfnp|Clark|1971}}{{Sfnp|Fölsing|1997|pp=686–687}}
+
+Einstein's affiliation with the Institute for Advanced Study would last until his death in 1955.&lt;ref name="mzNc5" /&gt; He was one of the four first selected (along with [[John von Neumann]] and [[Kurt Gödel]]) at the new Institute, where he soon developed a close friendship with Gödel. The two would take long walks together discussing their work. [[Bruria Kaufman]], his assistant, later became a physicist. During this period, Einstein tried to develop a [[unified field theory]] and to refute the [[Copenhagen interpretation|accepted interpretation]] of [[quantum physics]], both unsuccessfully.
+
+==== World War II and the Manhattan Project ====
+{{See also|Einstein–Szilárd letter}}
+In 1939, a group of Hungarian scientists that included émigré physicist [[Leó Szilárd]] attempted to alert Washington to ongoing Nazi atomic bomb research. The group's warnings were discounted. Einstein and Szilárd, along with other refugees such as [[Edward Teller]] and [[Eugene Wigner]], "regarded it as their responsibility to alert Americans to the possibility that German scientists might win the [[German nuclear energy project|race to build an atomic bomb]], and to warn that Hitler would be more than willing to resort to such a weapon."{{Sfnp|Isaacson|2007|p=630}}&lt;ref name="o4fkQ" /&gt; To make certain the US was aware of the danger, in July 1939, a few months before the beginning of World War II in Europe, Szilárd and Wigner visited Einstein to explain the possibility of atomic bombs, which Einstein, a pacifist, said he had never considered.&lt;ref name="pRqWK" /&gt; He was asked to lend his support by writing [[Einstein–Szilárd letter|a letter]], with Szilárd, to President [[Franklin D. Roosevelt|Roosevelt]], recommending the US pay attention and engage in its own nuclear weapons research.
+
+The letter is believed to be "arguably the key stimulus for the U.S. adoption of serious investigations into nuclear weapons on the eve of the U.S. entry into World War II".&lt;ref name="4Z68g" /&gt; In addition to the letter, Einstein used his connections with the [[Belgian Royal Family]]&lt;ref name="eZym8" /&gt; and the Belgian queen mother to get access with a personal envoy to the White House's Oval Office. Some say that as a result of Einstein's letter and his meetings with Roosevelt, the US entered the "race" to develop the bomb, drawing on its "immense material, financial, and scientific resources" to initiate the [[Manhattan Project]].
+
+For Einstein, "war was a disease&amp;nbsp;... [and] he called for resistance to war." By signing the letter to Roosevelt, some argue he went against his pacifist principles.&lt;ref name="z73PK" /&gt; In 1954, a year before his death, Einstein said to his old friend, [[Linus Pauling]], "I made one great mistake in my life—when I signed the letter to President Roosevelt recommending that atom bombs be made; but there was some justification—the danger that the Germans would make them&amp;nbsp;..."{{Sfnp|Clark|1971|p={{page needed|date=November 2020}}}} In 1955, Einstein and ten other intellectuals and scientists, including British philosopher [[Bertrand Russell]], signed [[Russell–Einstein Manifesto|a manifesto]] highlighting the danger of nuclear weapons.&lt;ref&gt;{{Cite book|last1=Einstein|first1=Albert|url=https://pugwash.org/1955/07/09/statement-manifesto/|title=The Russell-Einstein Manifesto|last2=Russell|first2=Bertrand|date=9 July 1955|location=London}}&lt;/ref&gt;
+
+==== US citizenship ====
+[[File:Citizen-Einstein.jpg|thumb|Einstein accepting [[Citizenship of the United States|US citizenship]] certificate from judge [[Phillip Forman]]]]
+Einstein became an American citizen in 1940. Not long after settling into his career at the Institute for Advanced Study in Princeton, New Jersey, he expressed his appreciation of the [[meritocracy]] in American culture when compared to Europe. He recognized the "right of individuals to say and think what they pleased", without social barriers, and as a result, individuals were encouraged, he said, to be more creative, a trait he valued from his own early education.{{Sfnp|Isaacson|2007|p=432}}
+
+Einstein joined the [[National Association for the Advancement of Colored People]] (NAACP) in Princeton, where he campaigned for the [[Civil rights movement (1896–1954)|civil rights]] of African Americans. He considered racism America's "worst disease",&lt;ref name="Jerome" /&gt;&lt;ref&gt;{{cite news |url=https://www.smithsonianmag.com/science-nature/how-celebrity-scientist-albert-einstein-used-fame-denounce-american-racism-180962356 |title= How Albert Einstein Used His Fame to Denounce American Racism |first= Matthew |last=Francis | date=3 March 2017 |publisher= Smithsonian Magazine}}&lt;/ref&gt; seeing it as "handed down from one generation to the next".{{Sfnp|Calaprice|2005|pp=148–149}} As part of his involvement, he corresponded with civil rights activist [[W. E. B. Du Bois]] and was prepared to testify on his behalf during his trial in 1951.{{sfnp|Robeson|2002|p=565}} When Einstein offered to be a character witness for Du Bois, the judge decided to drop the case.&lt;ref name="civil" /&gt;
+
+In 1946 Einstein visited [[Lincoln University (Pennsylvania)|Lincoln University]] in Pennsylvania, a [[historically black college]], where he was awarded an honorary degree. Lincoln was the first university in the United States to grant college degrees to [[African Americans]]; alumni include [[Langston Hughes]] and [[Thurgood Marshall]]. Einstein gave a speech about racism in America, adding, "I do not intend to be quiet about it."&lt;ref name="Jerome_Isis" /&gt; A resident of Princeton recalls that Einstein had once paid the college tuition for a black student.&lt;ref name="civil" /&gt; Einstein has said "Being a Jew myself, perhaps I can understand and empathize with how black people feel as victims of discrimination".&lt;ref&gt;{{Cite web|last=Francis|first=Matthew|url=https://www.smithsonianmag.com/science-nature/how-celebrity-scientist-albert-einstein-used-fame-denounce-american-racism-180962356/|title=How Albert Einstein Used His Fame to Denounce American Racism|date=3 March 2017|website=Smithsonian Magazine}}&lt;/ref&gt;
+
+=== Personal life ===
+==== Assisting Zionist causes ====
+[[File:Albert Einstein Head.jpg|thumb|upright|Einstein in 1947]]
+Einstein was a figurehead leader in helping establish the [[Hebrew University of Jerusalem]],&lt;ref&gt;{{cite news|newspaper=[[The New York Times]]|url=https://www.nytimes.com/2005/01/25/science/brace-yourself-here-comes-einsteins-year.html|title=Brace Yourself! Here Comes Einstein's Year|quote=Hebrew University ... which he helped found|author=Dennis Overbye |date=25 January 2005}}&lt;/ref&gt; which opened in 1925 and was among its first Board of Governors. Earlier, in 1921, he was asked by the biochemist and president of the [[World Zionist Organization]], [[Chaim Weizmann]], to help raise funds for the planned university.{{Sfnp|Isaacson|2007|p=290}} He also submitted various suggestions as to its initial programs.
+
+Among those, he advised first creating an Institute of Agriculture in order to settle the undeveloped land. That should be followed, he suggested, by a Chemical Institute and an Institute of Microbiology, to fight the various ongoing epidemics such as [[malaria]], which he called an "evil" that was undermining a third of the country's development.{{sfnp|Rowe|Schulmann|2007|p=161}} Establishing an Oriental Studies Institute, to include language courses given in both Hebrew and Arabic, for scientific exploration of the country and its historical monuments, was also important.{{sfnp|Rowe|Schulmann|2007|p=158}}
+
+Einstein was not a [[Nationalism|nationalist]]; he was against the creation of an independent Jewish state, which would be established without his help as [[Israel]] in 1948. Einstein felt that the waves of arriving Jews of the [[Aliyah]] could live alongside existing Arabs in [[Palestine (region)|Palestine]]. His views were not shared by the majority of Jews seeking to form a new country; as a result, Einstein was limited to a marginal role in the [[Zionism|Zionist movement]].&lt;ref&gt;{{cite book |first=Ze'ev |last=Rosenkranz |date=2011 |title=Einstein Before Israel: Zionist Icon Or Iconoclast? |publisher=Princeton University Press |pages=4–5 |isbn=9780691144122}}&lt;/ref&gt;
+
+Chaim Weizmann later became Israel's first president. Upon his death while in office in November 1952 and at the urging of [[Ezriel Carlebach]], Prime Minister [[David Ben-Gurion]] offered Einstein the position of [[President of Israel]], a mostly ceremonial post.&lt;ref name="Time" /&gt;&lt;ref name="Msb2q" /&gt; The offer was presented by Israel's ambassador in Washington, [[Abba Eban]], who explained that the offer "embodies the deepest respect which the Jewish people can repose in any of its sons".{{Sfnp|Isaacson|2007|p=522}} Einstein declined, and wrote in his response that he was "deeply moved", and "at once saddened and ashamed" that he could not accept it.{{Sfnp|Isaacson|2007|p=522}}
+
+==== Love of music ====
+[[File:Rabindranath with Einstein.jpg|thumb|Einstein (right) with writer, musician and Nobel laureate [[Rabindranath Tagore]], 1930]]
+Einstein developed an appreciation for music at an early age. In his late journals he wrote: "If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music... I get most joy in life out of music."&lt;ref name="BQH5A" /&gt;&lt;ref name="aBOjz" /&gt;
+
+His mother played the piano reasonably well and wanted her son to learn the [[violin]], not only to instill in him a love of music but also to help him assimilate into [[German culture]]. According to conductor [[Leon Botstein]], Einstein began playing when he was 5. However, he did not enjoy it at that age.&lt;ref name="Botstein" /&gt;
+
+When he turned 13, he discovered the [[Mozart violin sonatas|violin sonatas of Mozart]], whereupon he became enamored of [[Wolfgang Amadeus Mozart|Mozart]]'s compositions and studied music more willingly. Einstein taught himself to play without "ever practicing systematically". He said that "love is a better teacher than a sense of duty."&lt;ref name="Botstein" /&gt; At age 17, he was heard by a school examiner in Aarau while playing [[Beethoven's violin sonatas (disambiguation)&lt;!-- intentional --&gt;|Beethoven's violin sonatas]]. The examiner stated afterward that his playing was "remarkable and revealing of 'great insight'". What struck the examiner, writes Botstein, was that Einstein "displayed a deep love of the music, a quality that was and remains in short supply. Music possessed an unusual meaning for this student."&lt;ref name="Botstein" /&gt;
+
+Music took on a pivotal and permanent role in Einstein's life from that period on. Although the idea of becoming a professional musician himself was not on his mind at any time, among those with whom Einstein played [[chamber music]] were a few professionals, and he performed for private audiences and friends. Chamber music had also become a regular part of his social life while living in Bern, Zürich, and Berlin, where he played with Max Planck and his son, among others. He is sometimes erroneously credited as the editor of the 1937 edition of the [[Köchel catalog]] of Mozart's work; that edition was prepared by [[Alfred Einstein]], who may have been a distant relation.&lt;ref name="kGuWC" /&gt;&lt;ref name="OIn6p" /&gt;
+
+In 1931, while engaged in research at the California Institute of Technology, he visited the Zoellner family conservatory in Los Angeles, where he played some of [[Ludwig van Beethoven|Beethoven]] and Mozart's works with members of the [[Zoellner Quartet]].&lt;ref name="Times" /&gt;&lt;ref name="RR" /&gt; Near the end of his life, when the young [[Juilliard Quartet]] visited him in Princeton, he played his violin with them, and the quartet was "impressed by Einstein's level of coordination and intonation".&lt;ref name="Botstein" /&gt;
+
+==== Political views ====
+{{Main|Political views of Albert Einstein}}
+[[File:Einsteinwiezmann.PNG|alt=Casual group shot of four men and two women standing on a brick pavement.|thumb|Albert Einstein with his wife [[Elsa Einstein]] and Zionist leaders, including future [[President of Israel]] [[Chaim Weizmann]], his wife [[Vera Weizmann]], [[Menahem Ussishkin]], and Ben-Zion Mossinson on arrival in New York City in 1921]]
+
+In 1918, Einstein was one of the founding members of the [[German Democratic Party]], a [[Liberalism|liberal]] party.{{sfnp|Rowe|Schulmann|2007|p=83}} However, later in his life, Einstein's political view was in favor of [[socialism]] and critical of capitalism, which he detailed in his essays such as "[[Why Socialism?]]"{{sfnp|Einstein|1949}}&lt;ref name="LXsUJ"/&gt; His opinions on the [[Bolsheviks]] also changed with time. In 1925, he criticized them for not having a 'well-regulated system of government' and called their rule a 'regime of terror and a tragedy in human history'. He later adopted a more balanced view, criticizing their methods but praising them, which is shown by his 1929 remark on [[Vladimir Lenin]]: "In Lenin I honor a man, who in total sacrifice of his own person has committed his entire energy to realizing social justice. I do not find his methods advisable. One thing is certain, however: men like him are the guardians and renewers of mankind's conscience."{{sfnp|Rowe|Schulmann|2013|pp=[https://books.google.com/books?id=_X1dAAAAQBAJ&amp;pg=PA413 412, 413]}} 
+
+Einstein offered and was called on to give judgments and opinions on matters often unrelated to theoretical physics or mathematics.{{Sfnp|Clark|1971}} He strongly advocated the idea of a democratic [[World government|global government]] that would check the power of nation-states in the framework of a world federation.{{Sfnp|Isaacson|2007|pp=487, 494, 550}} The FBI created a secret dossier on Einstein in 1932, and by the time of his death his FBI file was 1,427 pages long.&lt;ref name="ixWWZ" /&gt;
+
+Einstein was deeply impressed by [[Mahatma Gandhi]], with whom he exchanged written letters. He described Gandhi as "a role model for the generations to come".&lt;ref name="Albano-Müller" /&gt;
+
+===== Religious and philosophical views =====
+{{Main|Religious and philosophical views of Albert Einstein}}
+Einstein spoke of his spiritual outlook in a wide array of original writings and interviews.&lt;ref name="018QJ" /&gt; He said he had sympathy for the impersonal [[Pantheism|pantheistic]] God of [[Spinozism|Baruch Spinoza's philosophy]].{{Sfnp|Isaacson|2008|p=[https://books.google.com/books?id=G_iziBAPXtEC&amp;pg=PA325 325]}} He did not believe in a [[personal god]] who concerns himself with fates and actions of human beings, a view which he described as naïve.{{Sfnp|Calaprice|2000|p=218}} He clarified, however, that "I am not an atheist",{{Sfnp|Isaacson|2008|p=[https://books.google.com/books?id=cdxWNE7NY6QC&amp;pg=PT390 390]}} preferring to call himself an [[Agnosticism|agnostic]],{{Sfnp|Calaprice|2010|p=[https://books.google.com/books?id=G_iziBAPXtEC&amp;pg=PA340 340]}}&lt;ref name="flickr2687" /&gt; or a "deeply religious nonbeliever".{{Sfnp|Calaprice|2000|p=218}} When asked if he believed in an [[afterlife]], Einstein replied, "No. And one life is enough for me."{{Sfnp|Isaacson|2008|p=[https://books.google.com/books?id=OzSJgdwk5esC&amp;pg=PT461 461]}}
+
+Einstein was primarily affiliated with non-religious [[Secular humanist|humanist]] and [[Ethical Culture]] groups in both the UK and US. He served on the advisory board of the [[First Humanist Society of New York]],&lt;ref name="mKToJ" /&gt; and was an honorary associate of the [[Rationalist Association]], which publishes ''[[New Humanist]]'' in Britain. For the 75th anniversary of the [[New York Society for Ethical Culture]], he stated that the idea of Ethical Culture embodied his personal conception of what is most valuable and enduring in religious idealism. He observed, "Without 'ethical culture' there is no salvation for humanity."{{sfnp|Einstein|1995|p=[https://books.google.com/books?id=9fJkBqwDD3sC&amp;pg=PA62 62]}}
+
+In a German-language letter to philosopher [[Eric Gutkind]], dated 3 January 1954, Einstein wrote:&lt;blockquote&gt;The word [[God (word)|God]] is for me nothing more than the expression and product of human weaknesses, the [[Bible]] a collection of honorable, but still primitive legends which are nevertheless pretty childish. No interpretation no matter how subtle can (for me) change this. ... For me the [[Jewish religion]] like all other religions is an incarnation of the most childish superstitions. And the [[Jewish people]] to whom I gladly belong and with whose mentality I have a deep affinity have no different quality for me than all other people. ... I cannot see anything '[[Jews as the chosen people|chosen]]' about them.&lt;ref name="xI99y" /&gt;&lt;/blockquote&gt;
+
+=== Death ===
+On 17 April 1955, Einstein experienced [[internal bleeding]] caused by the rupture of an [[abdominal aortic aneurysm]], which had previously been reinforced surgically by [[Rudolph Nissen]] in 1948.&lt;ref name="BXLfp" /&gt; He took the draft of a speech he was preparing for a television appearance commemorating the state of Israel's seventh anniversary with him to the hospital, but he did not live to complete it.&lt;ref name="QN45b" /&gt;
+
+Einstein refused surgery, saying, "I want to go when I want. It is tasteless to prolong life artificially. I have done my share; it is time to go. I will do it elegantly."&lt;ref name="BhiNM" /&gt; He died in [[Princeton Hospital]] early the next morning at the age of 76, having continued to work until near the end.&lt;ref name="YUhsl" /&gt;
+
+During the autopsy, the pathologist of Princeton Hospital, [[Thomas Stoltz Harvey]], removed [[Albert Einstein's brain|Einstein's brain]] for preservation without the permission of his family, in the hope that the [[neuroscience]] of the future would be able to discover what made Einstein so [[human intelligence|intelligent]].&lt;ref name="MqyYW" /&gt; Einstein's remains were [[Cremation|cremated]] in [[Trenton, New Jersey|Trenton]], New Jersey,&lt;ref&gt;{{cite web|last1=Cosgrove|first1=Benjamin|last2=Morse|first2=Ralph|url=https://www.life.com/history/the-day-albert-einstein-died-a-photographers-story/|publisher=[[Life magazine|Life]] |website=www.life.com|title=The Day Albert Einstein Died: A Photographer's Story |date=14 March 2014}}&lt;/ref&gt; and his ashes were scattered at an undisclosed location.&lt;ref name="GQrBZ" /&gt;&lt;ref name="Obit" /&gt;
+
+In a memorial lecture delivered on 13 December 1965 at [[UNESCO]] headquarters, nuclear physicist [[J. Robert Oppenheimer]] summarized his impression of Einstein as a person: "He was almost wholly without sophistication and wholly without worldliness&amp;nbsp;... There was always with him a wonderful purity at once childlike and profoundly stubborn."&lt;ref name="aJHxn" /&gt;
+
+Einstein bequeathed his personal archives, library and intellectual assets to the [[Hebrew University of Jerusalem]] in Israel.&lt;ref&gt;{{cite news |url=https://www.haaretz.com/1.4945718 |title=An Ongoing Power of Attraction |last=Unna |first=Issachar |date=22 June 2007 |newspaper=[[Haaret]]}}&lt;/ref&gt;
+
+== Scientific career ==
+Throughout his life, Einstein published hundreds of books and articles.&lt;ref name="Bio" /&gt;&lt;ref name="Paul Arthur Schilpp, editor 1951 730–746" /&gt; He published more than 300 scientific papers and 150 non-scientific ones.&lt;ref name="Nobel" /&gt;&lt;ref name="Paul Arthur Schilpp, editor 1951 730–746" /&gt; On 5 December 2014, universities and archives announced the release of Einstein's papers, comprising more than 30,000 unique documents.{{Sfnp|Stachel et al.|2008}}&lt;ref name="NYT-20141204-DB" /&gt; Einstein's intellectual achievements and originality have made the word "Einstein" synonymous with "[[genius]]".&lt;ref name="wordnetweb.princeton.edu" /&gt; In addition to the work he did by himself he also collaborated with other scientists on additional projects including the [[Bose–Einstein statistics]], the [[Einstein refrigerator]] and others.&lt;ref name="Instituut-Lorentz" /&gt;&lt;ref name="e5xd8" /&gt;
+
+=== 1905 – ''Annus Mirabilis'' papers ===
+The [[Annus Mirabilis papers|''Annus Mirabilis'' papers]] are four articles pertaining to the [[photoelectric effect]] (which gave rise to [[quantum mechanics|quantum theory]]), [[Brownian motion]], the [[special theory of relativity]], and [[Mass–energy equivalence|E = mc&lt;sup&gt;2&lt;/sup&gt;]] that Einstein published in the ''Annalen der Physik'' scientific journal in 1905. These four works contributed substantially to the foundation of [[History of physics#Modern physics|modern physics]] and changed views on [[space]], time, and [[matter]]. The four papers are:
+
+{| class=wikitable
+|-
+! Title &lt;small&gt;(translated)&lt;/small&gt; !!&lt;small&gt;Area of focus&lt;/small&gt; !! Received !! Published !! Significance
+|-
+| "On a Heuristic Viewpoint Concerning the Production and Transformation of Light"{{Sfnp|Einstein|1905a}} || [[Photoelectric effect]] || 18 March || 9 June || Resolved an unsolved puzzle by suggesting that energy is exchanged only in discrete amounts ([[quantum|quanta]]).&lt;ref name="1Jhcb" /&gt; This idea was pivotal to the early development of quantum theory.&lt;ref name="oJBvd" /&gt;
+|-
+| "On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat"{{Sfnp|Einstein|1905c}} || [[Brownian motion]] || 11 May || 18 July || Explained empirical evidence for the [[atomic theory]], supporting the application of [[statistical physics]].
+|-
+| "On the Electrodynamics of Moving Bodies"{{Sfnp|Einstein|1905d}} || [[Special relativity]] || 30 June || 26&amp;nbsp;September || Reconciled Maxwell's equations for electricity and magnetism with the laws of mechanics by introducing changes to mechanics, resulting from analysis based on empirical evidence that the speed of light is independent of the motion of the observer.&lt;ref name="RhZ8x" /&gt; Discredited the concept of a "[[luminiferous ether]]".&lt;ref name="lhfJ9" /&gt;
+|-
+| "Does the Inertia of a Body Depend Upon Its Energy Content?"{{Sfnp|Einstein|1905e}} || [[Mass–energy equivalence|{{nowrap|Matter–energy}} equivalence]] || 27&amp;nbsp;September || 21 November || Equivalence of matter and energy, {{nowrap|1=''E'' = ''mc''&lt;sup&gt;2&lt;/sup&gt;}} (and by implication, the ability of gravity to "bend" light), the existence of "[[rest energy]]", and the basis of nuclear energy.
+|}
+
+=== Statistical mechanics ===
+
+==== Thermodynamic fluctuations and statistical physics ====
+{{Main|Statistical mechanics|thermal fluctuations|statistical physics}}
+
+Einstein's first paper{{Sfnp|Einstein|1901}}&lt;ref name="PubList" /&gt; submitted in 1900 to ''Annalen der Physik'' was on [[capillary attraction]]. It was published in 1901 with the title "Folgerungen aus den Capillaritätserscheinungen", which translates as "Conclusions from the capillarity phenomena". Two papers he published in 1902–1903 (thermodynamics) attempted to interpret [[atom]]ic phenomena from a statistical point of view. These papers were the foundation for the 1905 paper on Brownian motion, which showed that Brownian movement can be construed as firm evidence that molecules exist. His research in 1903 and 1904 was mainly concerned with the effect of finite atomic size on diffusion phenomena.&lt;ref name="PubList" /&gt;
+
+==== Theory of critical opalescence ====
+{{Main|Critical opalescence}}
+Einstein returned to the problem of thermodynamic fluctuations, giving a treatment of the density variations in a fluid at its critical point. Ordinarily the density fluctuations are controlled by the second derivative of the free energy with respect to the density. At the critical point, this derivative is zero, leading to large fluctuations. The effect of density fluctuations is that light of all wavelengths is scattered, making the fluid look milky white. Einstein relates this to [[Rayleigh scattering]], which is what happens when the fluctuation size is much smaller than the wavelength, and which explains why the sky is blue.&lt;ref name="L2N73" /&gt; Einstein quantitatively derived critical opalescence from a treatment of density fluctuations, and demonstrated how both the effect and Rayleigh scattering originate from the atomistic constitution of matter.
+
+=== Special relativity ===
+{{Main|History of special relativity}}
+Einstein's "''Zur Elektrodynamik bewegter Körper''"{{Sfnp|Einstein|1905d}} ("On the Electrodynamics of Moving Bodies") was received on 30 June 1905 and published 26 September of that same year. It reconciled conflicts between [[Maxwell's equations]] (the laws of electricity and magnetism) and the laws of Newtonian mechanics by introducing changes to the laws of mechanics.{{Sfnp|Fölsing|1997|pp=178–198}} Observationally, the effects of these changes are most apparent at high speeds (where objects are moving at speeds close to the [[speed of light]]). The theory developed in this paper later became known as Einstein's special theory of relativity. There is evidence from Einstein's writings that he collaborated with his first wife, Mileva Marić, on this work. The decision to publish only under his name seems to have been mutual, but the exact reason is unknown.&lt;ref name="mileva" /&gt;
+
+This paper predicted that, when measured in the frame of a relatively moving observer, a clock carried by a moving body would appear to [[Time dilation|slow down]], and the body itself would [[Length contraction|contract]] in its direction of motion. This paper also argued that the idea of a [[luminiferous aether]]—one of the leading theoretical entities in physics at the time—was superfluous.&lt;ref group="note" name="aBfxO" /&gt;
+
+In his paper on [[mass–energy equivalence]], Einstein produced ''E''&amp;nbsp;=&amp;nbsp;''mc''&lt;sup&gt;2&lt;/sup&gt; as a consequence of his special relativity equations.{{Sfnp|Stachel|2002|pp=vi, 15, 90, 131, [https://books.google.com/?id=OAsQ_hFjhrAC&amp;pg=PA215 215]}} Einstein's 1905 work on relativity remained controversial for many years, but was accepted by leading physicists, starting with [[Max Planck]].&lt;ref group=note name="sBl2q" /&gt;{{Sfnp|Pais|1982|pp=382–386}}
+
+Einstein originally framed special relativity in terms of [[kinematics]] (the study of moving bodies). In 1908, [[Hermann Minkowski]] reinterpreted special relativity in geometric terms as a theory of [[spacetime]]. Einstein adopted Minkowski's formalism in his 1915 [[General relativity|general theory of relativity]].{{Sfnp|Pais|1982|pp=151–152}}
+
+=== General relativity ===
+
+==== General relativity and the equivalence principle ====
+{{Main|History of general relativity}}
+{{See also|Theory of relativity|Einstein field equations}}
+[[File:1919 eclipse positive.jpg|alt=Black circle covering the sun, rays visible around it, in a dark sky.|thumb|upright|[[Arthur Stanley Eddington|Eddington]]'s photograph of a [[solar eclipse]]]]
+General relativity (GR) is a [[theory of gravitation]] that was developed by Einstein between 1907 and 1915. According to [[general relativity]], the observed gravitational attraction between masses results from the warping of [[spacetime|space and time]] by those masses. General relativity has developed into an essential tool in modern [[astrophysics]]. It provides the foundation for the current understanding of [[black holes]], regions of space where gravitational attraction is so strong that not even light can escape.
+
+As Einstein later said, the reason for the development of general relativity was that the preference of inertial motions within [[special relativity]] was unsatisfactory, while a theory which from the outset prefers no state of motion (even accelerated ones) should appear more satisfactory.{{Sfnp|Einstein|1923}} Consequently, in 1907 he published an article on acceleration under special relativity. In that article titled "On the Relativity Principle and the Conclusions Drawn from It", he argued that [[free fall]] is really inertial motion, and that for a free-falling observer the rules of special relativity must apply. This argument is called the [[equivalence principle]]. In the same article, Einstein also predicted the phenomena of [[gravitational time dilation]], [[gravitational redshift]] and [[Gravitational lensing|deflection of light]].{{Sfnp|Pais|1982|pp=179–183}}{{Sfnp|Stachel et al.|2008|loc=vol. 2: The Swiss Years: Writings, 1900–1909|pp=273–274}}
+
+In 1911, Einstein published another article "On the Influence of Gravitation on the Propagation of Light" expanding on the 1907 article, in which he estimated the amount of deflection of light by massive bodies. Thus, the theoretical prediction of general relativity could for the first time be tested experimentally.{{Sfnp|Pais|1982|pp=194–195}}
+
+====Gravitational waves====
+In 1916, Einstein predicted [[gravitational wave]]s,{{sfnp|Einstein|1916}}{{sfnp|Einstein|1918}} ripples in the [[curvature]] of spacetime which propagate as [[wave]]s, traveling outward from the source, transporting energy as gravitational radiation. The existence of gravitational waves is possible under general relativity due to its [[Lorentz invariance]] which brings the concept of a finite speed of propagation of the physical interactions of gravity with it. By contrast, gravitational waves cannot exist in the [[Newton's law of universal gravitation|Newtonian theory of gravitation]], which postulates that the physical interactions of gravity propagate at infinite speed.
+
+The first, indirect, detection of gravitational waves came in the 1970s through observation of a pair of closely orbiting [[neutron stars]], [[PSR B1913+16]].&lt;ref name="natgeo" /&gt; The explanation of the decay in their orbital period was that they were emitting gravitational waves.&lt;ref name="natgeo" /&gt;&lt;ref name="Tf1T0" /&gt; Einstein's prediction was confirmed on 11 February 2016, when researchers at [[LIGO]] published the [[first observation of gravitational waves]],&lt;ref name="PRL-20160211" /&gt; detected on Earth on 14 September 2015, nearly one hundred years after the prediction.&lt;ref name="natgeo" /&gt;&lt;ref name="CO6kH" /&gt;&lt;ref name="oSmHb" /&gt;&lt;ref name="hkKSp" /&gt;&lt;ref name="38Msx" /&gt;
+
+==== Hole argument and Entwurf theory ====
+While developing general relativity, Einstein became confused about the [[gauge invariance]] in the theory. He formulated an argument that led him to conclude that a general relativistic field theory is impossible. He gave up looking for fully generally covariant tensor equations and searched for equations that would be invariant under general linear transformations only.
+
+In June 1913, the Entwurf ('draft') theory was the result of these investigations. As its name suggests, it was a sketch of a theory, less elegant and more difficult than general relativity, with the equations of motion supplemented by additional gauge fixing conditions. After more than two years of intensive work, Einstein realized that the [[hole argument]] was mistaken&lt;ref name="sOA9t" /&gt; and abandoned the theory in November 1915.
+
+==== Physical cosmology ====
+{{Main|Physical cosmology}}
+[[File:MillikanLemaitreEinstein.jpg|thumb|right|Einstein with [[Robert Andrews Millikan|Millikan]] and [[Georges Lemaître]] at the [[California Institute of Technology]] in January 1933.]]
+
+In 1917, Einstein applied the general theory of relativity to the structure of the universe as a whole.{{Sfnp|Einstein|1917a}} He discovered that the general field equations predicted a universe that was dynamic, either contracting or expanding. As observational evidence for a dynamic universe was not known at the time, Einstein introduced a new term, the [[cosmological constant]], to the field equations, in order to allow the theory to predict a static universe. The modified field equations predicted a static universe of closed curvature, in accordance with Einstein's understanding of [[Mach's principle]] in these years. This model became known as the Einstein World or [[Einstein's static universe]].{{Sfnp|Pais|1994|pp=285–286}}&lt;ref name="iJwuX" /&gt;
+
+Following the discovery of the recession of the nebulae by [[Edwin Hubble]] in 1929, Einstein abandoned his static model of the universe, and proposed two dynamic models of the cosmos, [[The Friedmann-Einstein universe]] of 1931{{sfnp|Einstein|1931}}&lt;ref name="cor-2013" /&gt; and the [[Einstein–de Sitter universe]] of 1932.{{sfnp|Einstein|de Sitter|1932}}&lt;ref name="J9Tqu" /&gt; In each of these models, Einstein discarded the cosmological constant, claiming that it was "in any case theoretically unsatisfactory".{{sfnp|Einstein|1931}}&lt;ref name="cor-2013" /&gt;&lt;ref name="sxfvo" /&gt;
+
+In many Einstein biographies, it is claimed that Einstein referred to the cosmological constant in later years as his "biggest blunder". The astrophysicist [[Mario Livio]] has recently cast doubt on this claim, suggesting that it may be exaggerated.&lt;ref name="qmmVf" /&gt;
+
+In late 2013, a team led by the Irish physicist [[Cormac O'Raifeartaigh]] discovered evidence that, shortly after learning of Hubble's observations of the recession of the nebulae, Einstein considered a [[Steady State theory|steady-state model]] of the universe.&lt;ref name="Tq53z" /&gt;&lt;ref name="8pfEk" /&gt; In a hitherto overlooked manuscript, apparently written in early 1931, Einstein explored a model of the expanding universe in which the density of matter remains constant due to a continuous creation of matter, a process he associated with the cosmological constant.&lt;ref name="cor-steady-state" /&gt;&lt;ref name="Einstein's aborted model" /&gt; As he stated in the paper, "In what follows, I would like to draw attention to a solution to equation (1) that can account for Hubbel's [''sic''] facts, and in which the density is constant over time" ... "If one considers a physically bounded volume, particles of matter will be continually leaving it. For the density to remain constant, new particles of matter must be continually formed in the volume from space."
+
+It thus appears that Einstein considered a [[Steady State theory|steady-state model]] of the expanding universe many years before Hoyle, Bondi and Gold.&lt;ref name="ILjYQ" /&gt;&lt;ref name="ThZb0" /&gt; However, Einstein's steady-state model contained a fundamental flaw and he quickly abandoned the idea.&lt;ref name="cor-steady-state" /&gt;&lt;ref name="Einstein's aborted model" /&gt;&lt;ref name="7ShC9" /&gt;
+
+==== Energy momentum pseudotensor ====
+{{Main|Stress–energy–momentum pseudotensor}}
+General relativity includes a dynamical spacetime, so it is difficult to see how to identify the conserved energy and momentum. [[Noether's theorem]] allows these quantities to be determined from a [[Lagrangian (field theory)|Lagrangian]] with [[Translational symmetry|translation invariance]], but [[general covariance]] makes translation invariance into something of a [[gauge symmetry]]. The energy and momentum derived within general relativity by Noether's prescriptions do not make a real tensor for this reason.
+
+Einstein argued that this is true for a fundamental reason: the gravitational field could be made to vanish by a choice of coordinates. He maintained that the non-covariant energy momentum pseudotensor was, in fact, the best description of the energy momentum distribution in a gravitational field. This approach has been echoed by [[Lev Landau]] and [[Evgeny Lifshitz]], and others, and has become standard.
+
+The use of non-covariant objects like pseudotensors was heavily criticized in 1917 by [[Erwin Schrödinger]] and others.
+
+==== Wormholes ====
+In 1935, Einstein collaborated with [[Nathan Rosen]] to produce a model of a [[wormhole]], often called [[Einstein–Rosen bridges]].{{sfnp|Einstein|Rosen|1935}}&lt;ref name="QNjpt" /&gt; His motivation was to model elementary particles with charge as a solution of gravitational field equations, in line with the program outlined in the paper "Do Gravitational Fields play an Important Role in the Constitution of the Elementary Particles?". These solutions cut and pasted [[Schwarzschild black hole]]s to make a bridge between two patches.&lt;ref name="ja7FY" /&gt;
+
+If one end of a wormhole was positively charged, the other end would be negatively charged. These properties led Einstein to believe that pairs of particles and antiparticles could be described in this way.
+
+==== Einstein–Cartan theory ====
+{{Main|Einstein–Cartan theory}}
+[[File:Albert Einstein photo 1920.jpg|alt=Einstein, sitting at a table, looks up from the papers he is reading and into the camera.|thumb|upright|Einstein at his office, [[University of Berlin]], 1920]]In order to incorporate spinning point particles into general relativity, the affine connection needed to be generalized to include an antisymmetric part, called the [[Torsion tensor|torsion]]. This modification was made by Einstein and Cartan in the 1920s.
+
+==== Equations of motion ====
+{{Main|Einstein–Infeld–Hoffmann equations}}
+The theory of general relativity has a fundamental law{{mdash}}the [[Einstein field equations]], which describe how space curves. The [[geodesic equation]], which describes how particles move, may be derived from the Einstein field equations.
+
+Since the equations of general relativity are non-linear, a lump of energy made out of pure gravitational fields, like a black hole, would move on a trajectory which is determined by the Einstein field equations themselves, not by a new law. So Einstein proposed that the path of a singular solution, like a black hole, would be determined to be a geodesic from general relativity itself.
+
+This was established by Einstein, Infeld, and Hoffmann for pointlike objects without angular momentum, and by [[Roy Kerr]] for spinning objects.
+
+=== Old quantum theory ===
+{{Main|Old quantum theory}}
+
+==== Photons and energy quanta ====
+[[File:Photoelectric effect in a solid - diagram.svg|alt=|thumb|The photoelectric effect. Incoming photons on the left strike a metal plate (bottom), and eject electrons, depicted as flying off to the right.]]
+In a 1905 paper,{{Sfnp|Einstein|1905a}} Einstein postulated that light itself consists of localized particles (''[[quantum|quanta]]''). Einstein's light quanta were nearly universally rejected by all physicists, including Max Planck and Niels Bohr. This idea only became universally accepted in 1919, with [[Robert Millikan]]'s detailed experiments on the photoelectric effect, and with the measurement of [[Compton scattering]].
+
+Einstein concluded that each wave of frequency ''f'' is associated with a collection of [[photon]]s with energy ''hf'' each, where ''h'' is [[Planck's constant]]. He does not say much more, because he is not sure how the particles are related to the wave. But he does suggest that this idea would explain certain experimental results, notably the photoelectric effect.{{sfnp|Einstein|1905a}}
+
+==== Quantized atomic vibrations ====
+{{Main|Einstein solid}}
+In 1907, Einstein proposed a model of matter where each atom in a lattice structure is an independent harmonic oscillator. In the Einstein model, each atom oscillates independently—a series of equally spaced quantized states for each oscillator. Einstein was aware that getting the frequency of the actual oscillations would be difficult, but he nevertheless proposed this theory because it was a particularly clear demonstration that quantum mechanics could solve the specific heat problem in classical mechanics. [[Peter Debye]] refined this model.&lt;ref name="ixm32" /&gt;
+
+==== Adiabatic principle and action-angle variables ====
+{{main|Adiabatic invariant}}
+Throughout the 1910s, quantum mechanics expanded in scope to cover many different systems. After [[Ernest Rutherford]] discovered the nucleus and proposed that electrons orbit like planets, Niels Bohr was able to show that the same quantum mechanical postulates introduced by Planck and developed by Einstein would explain the discrete motion of electrons in atoms, and the [[periodic table of the elements]].
+
+Einstein contributed to these developments by linking them with the 1898 arguments [[Wilhelm Wien]] had made. Wien had shown that the hypothesis of [[adiabatic invariant|adiabatic invariance]] of a thermal equilibrium state allows all the [[blackbody radiation|blackbody curves]] at different temperature to be derived from one another by a [[Wien's displacement law|simple shifting process]]. Einstein noted in 1911 that the same adiabatic principle shows that the quantity which is quantized in any mechanical motion must be an adiabatic invariant. [[Arnold Sommerfeld]] identified this adiabatic invariant as the [[action-angle variables|action variable]] of classical mechanics.
+
+==== Bose–Einstein statistics ====
+{{Main|Bose–Einstein statistics}}
+In 1924, Einstein received a description of a [[statistical mechanics|statistical]] model from Indian physicist [[Satyendra Nath Bose]], based on a counting method that assumed that light could be understood as a gas of indistinguishable particles. Einstein noted that Bose's statistics applied to some atoms as well as to the proposed light particles, and submitted his translation of Bose's paper to the ''[[Zeitschrift für Physik]]''. Einstein also published his own articles describing the model and its implications, among them the [[Bose–Einstein condensate]] phenomenon that some particulates should appear at very low temperatures.{{Sfnp|Einstein|1924}} It was not until 1995 that the first such condensate was produced experimentally by [[Eric Allin Cornell]] and [[Carl Wieman]] using [[ultracold atom|ultra-cooling]] equipment built at the [[National Institute of Standards and Technology|NIST]]–[[JILA]] laboratory at the [[University of Colorado at Boulder]].&lt;ref name="nlagl" /&gt; Bose–Einstein statistics are now used to describe the behaviors of any assembly of [[boson]]s. Einstein's sketches for this project may be seen in the Einstein Archive in the library of the Leiden University.&lt;ref name="Instituut-Lorentz" /&gt;
+
+==== Wave–particle duality ====
+[[File:Albert Einstein photo 1921.jpg|thumb|upright|Einstein during his visit to the United States]]
+Although the patent office promoted Einstein to Technical Examiner Second Class in 1906, he had not given up on academia. In 1908, he became a ''[[Privatdozent]]'' at the University of Bern.{{Sfnp|Pais|1982|p=522}} In "''Über die Entwicklung unserer Anschauungen über das Wesen und die Konstitution der Strahlung''" ("[[s:Translation:The Development of Our Views on the Composition and Essence of Radiation|The Development of our Views on the Composition and Essence of Radiation]]"), on the [[quantization (physics)|quantization]] of light, and in an earlier 1909 paper, Einstein showed that Max Planck's energy quanta must have well-defined [[momentum|momenta]] and act in some respects as independent, [[point particle|point-like particles]]. This paper introduced the ''photon'' concept (although the name ''photon'' was introduced later by [[Gilbert N. Lewis]] in 1926) and inspired the notion of [[wave–particle duality]] in [[quantum mechanics]]. Einstein saw this wave–particle duality in radiation as concrete evidence for his conviction that physics needed a new, unified foundation.
+
+==== Zero-point energy ====
+In a series of works completed from 1911 to 1913, Planck reformulated his 1900 quantum theory and introduced the idea of [[zero-point energy]] in his "second quantum theory". Soon, this idea attracted the attention of Einstein and his assistant [[Otto Stern]]. Assuming the energy of rotating diatomic molecules contains zero-point energy, they then compared the theoretical specific heat of hydrogen gas with the experimental data. The numbers matched nicely. However, after publishing the findings, they promptly withdrew their support, because they no longer had confidence in the correctness of the idea of zero-point energy.{{Sfnp|Stachel et al.|2008|loc=vol. 4: The Swiss Years: Writings, 1912–1914|pp=270ff}}
+
+==== Stimulated emission ====
+In 1917, at the height of his work on relativity, Einstein published an article in ''Physikalische Zeitschrift'' that proposed the possibility of [[stimulated emission]], the physical process that makes possible the [[maser]] and the [[laser]].{{Sfnp|Einstein|1917b}}
+This article showed that the statistics of absorption and emission of light would only be consistent with Planck's distribution law if the emission of light into a mode with n photons would be enhanced statistically compared to the emission of light into an empty mode. This paper was enormously influential in the later development of quantum mechanics, because it was the first paper to show that the statistics of atomic transitions had simple laws.
+
+==== Matter waves ====
+Einstein discovered [[Louis de Broglie]]'s work and supported his ideas, which were received skeptically at first. In another major paper from this era, Einstein gave a wave equation for [[Matter wave|de Broglie waves]], which Einstein suggested was the [[Hamilton–Jacobi equation]] of mechanics. This paper would inspire Schrödinger's work of 1926.
+
+=== Quantum mechanics ===
+==== Einstein's objections to quantum mechanics ====
+[[File:NYT May 4, 1935.jpg|thumb|upright|Newspaper headline on 4 May 1935]]
+Einstein played a major role in developing quantum theory, beginning with his 1905 paper on the photoelectric effect. However, he became displeased with modern quantum mechanics as it had evolved after 1925, despite its acceptance by other physicists. He was skeptical that the randomness of quantum mechanics was fundamental rather than the result of determinism, stating that God "is not playing at dice".&lt;ref name="zZ2hS" /&gt; Until the end of his life, he continued to maintain that quantum mechanics was incomplete.&lt;ref name="yzZtL" /&gt;
+
+==== Bohr versus Einstein ====
+{{Main|Bohr–Einstein debates}}
+[[File:Niels Bohr Albert Einstein by Ehrenfest.jpg|upright|alt=Two men sitting, looking relaxed. A dark-haired Bohr is talking while Einstein looks skeptical.|thumb|Einstein and [[Niels Bohr]], 1925]] The Bohr–Einstein debates were a series of public disputes about [[quantum mechanics]] between Einstein and [[Niels Bohr]], who were two of its founders. Their debates are remembered because of their importance to the [[philosophy of science]].&lt;ref name="Bohr1949" /&gt;{{Sfnp|Einstein|1969}}{{Sfnp|Einstein|Podolsky|Rosen|1935}} Their debates would influence later [[interpretations of quantum mechanics]].
+
+==== Einstein–Podolsky–Rosen paradox ====
+In 1935, Einstein returned to quantum mechanics, in particular to the question of its completeness, in the [[EPR paradox|"EPR paper"]].{{Sfnp|Einstein|Podolsky|Rosen|1935}} In a [[Einstein's thought experiments|thought experiment]], he considered two particles which had interacted such that their properties were strongly correlated. No matter how far the two particles were separated, a precise position measurement on one particle would result in equally precise knowledge of the position of the other particle; likewise a precise momentum measurement of one particle would result in equally precise knowledge of the momentum of the other particle, without needing to disturb the other particle in any way.{{Sfnp|Isaacson|2007|loc=pp. 448–453}}
+
+Given Einstein's concept of [[local realism]], there were two possibilities: (1) either the other particle had these properties already determined, or (2) the process of measuring the first particle instantaneously affected the reality of the position and momentum of the second particle. Einstein rejected this second possibility (popularly called "spooky action at a distance").{{Sfnp|Isaacson|2007|loc=pp. 448–453}}
+
+Einstein's belief in local realism led him to assert that, while the correctness of quantum mechanics was not in question, it must be incomplete. But as a physical principle, local realism was shown to be incorrect when the [[Aspect experiment]] of 1982 confirmed [[Bell's theorem]], which [[J. S. Bell]] had delineated in 1964. The results of these and subsequent experiments demonstrate that quantum physics cannot be represented by any version of the picture of physics in which "particles are regarded as unconnected independent classical-like entities, each one being unable to communicate with the other after they have separated."{{Sfnp|Penrose|2007|p=583}}
+
+Although Einstein was wrong about local realism, his clear prediction of the unusual properties of its opposite, [[Quantum entanglement|entangled quantum states]], has resulted in the EPR paper becoming among the top ten papers published in ''[[Physical Review]]''. It is considered a centerpiece of the development of [[quantum information theory]].{{Sfnp|Fine|2017}}
+
+=== Unified field theory ===
+{{Main|Classical unified field theories}}
+Following his research on general relativity, Einstein attempted to generalize his theory of gravitation to include electromagnetism as aspects of a single entity. In 1950, he described his "[[unified field theory]]" in a ''[[Scientific American]]'' article titled "On the Generalized Theory of Gravitation".{{Sfnp|Einstein|1950}} Although he was lauded for this work, his efforts were ultimately unsuccessful.
+Notably, Einstein's unification project did not accommodate the [[strong nuclear force|strong]] and [[weak nuclear force]]s, neither of which were well understood until many years after his death. Although mainstream physics long ignored Einstein's approaches to unification, Einstein's work has motivated modern quests for a [[theory of everything]], in particular [[string theory]], where geometrical fields emerge in a unified quantum-mechanical setting.
+
+=== Other investigations ===
+{{Main|Einstein's unsuccessful investigations}}
+Einstein conducted other investigations that were unsuccessful and abandoned. These pertain to [[force]], [[superconductivity]], and other research.
+
+=== Collaboration with other scientists ===
+[[File:Solvay conference 1927.jpg|thumb|The 1927 [[Solvay Conference]] in Brussels, a gathering of the world's top physicists. Einstein is in the center.]]
+In addition to longtime collaborators [[Leopold Infeld]], [[Nathan Rosen]], [[Peter Bergmann]] and others, Einstein also had some one-shot collaborations with various scientists.
+
+==== Einstein–de Haas experiment ====
+{{Main|Einstein–de Haas effect}}
+Einstein and De Haas demonstrated that magnetization is due to the motion of electrons, nowadays known to be the spin. In order to show this, they reversed the magnetization in an iron bar suspended on a [[torsion pendulum]]. They confirmed that this leads the bar to rotate, because the electron's angular momentum changes as the magnetization changes. This experiment needed to be sensitive because the angular momentum associated with electrons is small, but it definitively established that electron motion of some kind is responsible for magnetization.
+
+==== Schrödinger gas model ====
+Einstein suggested to Erwin Schrödinger that he might be able to reproduce the statistics of a [[Bose–Einstein condensate|Bose–Einstein gas]] by considering a box. Then to each possible quantum motion of a particle in a box associate an independent harmonic oscillator. Quantizing these oscillators, each level will have an integer occupation number, which will be the number of particles in it.{{citation needed|date=April 2020}}
+
+This formulation is a form of [[second quantization]], but it predates modern quantum mechanics. Erwin Schrödinger applied this to derive the [[thermodynamic]] properties of a [[Quantum chaos|semiclassical]] [[ideal gas]]. Schrödinger urged Einstein to add his name as co-author, although Einstein declined the invitation.&lt;ref name="4IMf2" /&gt;
+
+==== Einstein refrigerator ====
+In 1926, Einstein and his former student Leó Szilárd co-invented (and in 1930, patented) the [[Einstein refrigerator]]. This [[absorption refrigerator]] was then revolutionary for having no moving parts and using only heat as an input.&lt;ref name="Goettling" /&gt; On 11 November 1930, {{US patent|1781541}} was awarded to Einstein and Leó Szilárd for the refrigerator. Their invention was not immediately put into commercial production, and the most promising of their patents were acquired by the Swedish company [[Electrolux]].{{refn |group=note |In September 2008 it was reported that Malcolm McCulloch of Oxford University was heading a three-year project to develop more robust appliances that could be used in locales lacking electricity, and that his team had completed a prototype Einstein refrigerator. He was quoted as saying that improving the design and changing the types of gases used might allow the design's efficiency to be quadrupled.&lt;ref&gt;{{Cite news |last=Alok |first=Jha |title=Einstein fridge design can help global cooling |work=The Guardian |date=21 September 2008 |access-date=22 February 2011 |url= https://www.theguardian.com/science/2008/sep/21/scienceofclimatechange.climatechange |archive-url= https://web.archive.org/web/20110124172925/http://www.guardian.co.uk/science/2008/sep/21/scienceofclimatechange.climatechange |archive-date=24 January 2011 |url-status=live}}&lt;/ref&gt;}}
+
+== Non-scientific legacy ==
+[[File:Einstein-Oslofjord (cropped).jpg|thumb|Einstein (second from left) at a picnic in Oslo during the visit to Denmark and Norway in 1920. [[Heinrich Jacob Goldschmidt|Heinrich Goldschmidt]] (left), [[Ole Colbjørnsen]] (seated in center) and [[Jørgen Vogt]] behind Ilse Einstein. {{credit|University of Oslo}}]]
+While traveling, Einstein wrote daily to his wife Elsa and adopted stepdaughters Margot and Ilse. The letters were included in the papers bequeathed to the [[Hebrew University of Jerusalem]]. Margot Einstein permitted the personal letters to be made available to the public, but requested that it not be done until twenty years after her death (she died in 1986&lt;ref name="margot-obituary" /&gt;). Barbara Wolff, of the Hebrew University's [[Albert Einstein Archives]], told the [[BBC]] that there are about 3,500 pages of private correspondence written between 1912 and 1955.&lt;ref name="letters-love" /&gt;
+
+Einstein's [[Personality rights|right of publicity]] was litigated in 2015 in a federal district court in California. Although the court initially held that the right had expired,&lt;ref name="casetext-hebrew-university" /&gt; that ruling was immediately appealed, and the decision was later vacated in its entirety. The underlying claims between the parties in that lawsuit were ultimately settled. The right is enforceable, and the Hebrew University of Jerusalem is the exclusive representative of that right.&lt;ref name="pacermonitor-hebrew-university" /&gt; [[Branded Entertainment Network|Corbis]], successor to The Roger Richman Agency, licenses the [[Trademark|use of his name and associated imagery]], as agent for the university.&lt;ref name="einstein.biz" /&gt;
+
+== In popular culture ==
+{{Main|Albert Einstein in popular culture}}
+Einstein became one of the most famous [[Scientific celebrity|scientific celebrities]],&lt;ref&gt;{{cite journal |url=https://physicstoday.scitation.org/doi/10.1063/PT.3.4183 |title=Albert Einstein, celebrity scientist |last=Halpern |first=Paul |author-link=Paul Halpern |year=2019 |journal=[[Physics Today]]|volume=72 |issue=4 |pages=38–45 |doi=10.1063/PT.3.4183 }}&lt;/ref&gt;&lt;ref&gt;{{cite magazine |url=https://skepticalinquirer.org/2015/07/a-brief-history-of-scientific-celebrity/ |title=A Brief History Of Scientific Celebrity |first=Declan |last=Fahy |volume=39 |issue=4 |magazine=[[Skeptical Inquirer]] |year=2015}}&lt;/ref&gt; beginning with the confirmation of his theory of general relativity in 1919.&lt;ref&gt;{{cite journal |url=https://www.jstor.org/stable/285389 |title=Why Einstein Became Famous in America |last=Missner |first=Marshall |journal=[[Social Studies of Science]] |date=May 1985 |volume=15 |number=2|pages=267–291 |doi=10.1177/030631285015002003 |jstor=285389 |s2cid=143398600 }}&lt;/ref&gt; Despite the general public having little understanding of his work, he was widely recognized and received adulation and publicity. In the period before World War II, ''[[The New Yorker]]'' published a vignette in their "The Talk of the Town" feature saying that Einstein was so well known in America that he would be stopped on the street by people wanting him to explain "that theory". He finally figured out a way to handle the incessant inquiries. He told his inquirers "Pardon me, sorry! Always I am mistaken for Professor Einstein."&lt;ref name="disguise" /&gt;
+
+Einstein has been the subject of or inspiration for many novels, films, plays, and works of music.&lt;ref name="orchestra" /&gt; He is a favorite model for depictions of [[absent-minded professor]]s; his expressive face and distinctive hairstyle have been widely copied and exaggerated. ''[[Time (magazine)|Time]]'' magazine's Frederic Golden wrote that Einstein was "a cartoonist's dream come true".&lt;ref name="slqbwn" /&gt;
+
+Many popular [[quotations]] are often [[False attribution|misattributed]] to him.&lt;ref name="fake-quotes" /&gt;&lt;ref name="humiliate-atheist" /&gt;
+
+== Awards and honors ==
+{{Main|Einstein's awards and honors}}
+Einstein received numerous awards and honors, and in 1922, he was awarded the 1921 [[Nobel Prize in Physics]] "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect". None of the nominations in 1921 met the criteria set by [[Alfred Nobel]], so the 1921 prize was carried forward and awarded to Einstein in 1922.&lt;ref name="Nobel Prize" /&gt;
+
+==Publications==
+===Scientific===
+: {{more|List of scientific publications by Albert Einstein}}
+{{div col|colwidth=35em}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1901
+|orig-year = Manuscript received: 16 December 1900
+|publication-date = 14 March 2006
+|publication-place = Hoboken, New Jersey
+|title = Folgerungen aus den Capillaritätserscheinungen
+|trans-title = Conclusions Drawn from the Phenomena of Capillarity
+|language = de
+|place = Zurich, Switzerland
+|journal = [[Annalen der Physik]]
+|volume = 309
+|pages = 513–523
+|issue = 3
+|doi = 10.1002/andp.19013090306
+|bibcode = 1901AnP...309..513E
+|url = https://zenodo.org/record/1423995
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1905a
+|orig-year = Manuscript received: 18 March 1905
+|publication-date = 10 March 2006
+|publication-place = Hoboken, New Jersey
+|title = Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+|trans-title = On a Heuristic Viewpoint Concerning the Production and Transformation of Light
+|language = de
+|place = Berne, Switzerland
+|journal= [[Annalen der Physik]]
+|volume = 322
+|pages = 132–148
+|issue = 6
+|doi = 10.1002/andp.19053220607
+|url = http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_132-148.pdf
+|bibcode = 1905AnP...322..132E
+}}
+* {{cite thesis
+|last = Einstein
+|first = Albert
+|date = 1905b
+|orig-year = Completed 30 April and submitted 20 July 1905
+|publication-date = 2008
+|publisher = [[ETH]] Zürich
+|via = ETH Bibliothek
+|publication-place = Zurich, Switzerland
+|title = Eine neue Bestimmung der Moleküldimensionen
+|trans-title = A new determination of molecular dimensions
+|language = de
+|work = Dissertationen [[Universität Zürich]]
+|place = Berne, Switzerland, published by Wyss Buchdruckerei
+|type = PhD Thesis
+|doi = 10.3929/ethz-a-000565688
+|url = http://e-collection.library.ethz.ch/eserv/eth:30378/eth-30378-01.pdf
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1905c
+|orig-year = Manuscript received: 11 May 1905
+|publication-date = 10 March 2006
+|publication-place = Hoboken, New Jersey
+|title = Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
+|trans-title = On the Motion&amp;nbsp;– Required by the Molecular Kinetic Theory of Heat&amp;nbsp;– of Small Particles Suspended in a Stationary Liquid
+|language = de
+|place = Berne, Switzerland
+|journal = [[Annalen der Physik]]
+|volume = 322
+|issue = 8
+|pages = 549–560
+|doi = 10.1002/andp.19053220806
+|bibcode = 1905AnP...322..549E
+|hdl = 10915/2785
+|hdl-access = free |url = http://sedici.unlp.edu.ar/handle/10915/2785
+|doi-access = free
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1905d
+|orig-year = Manuscript received: 30 June 1905
+|publication-date = 10 March 2006
+|publication-place = Hoboken, New Jersey
+|title = Zur Elektrodynamik bewegter Körper
+|trans-title = On the Electrodynamics of Moving Bodies
+|language = de
+|place = Berne, Switzerland
+|journal = [[Annalen der Physik]]
+|volume = 322
+|issue = 10
+|pages = 891–921
+|doi = 10.1002/andp.19053221004
+|bibcode = 1905AnP...322..891E
+|hdl = 10915/2786
+|hdl-access = free
+|url = http://sedici.unlp.edu.ar/handle/10915/2786
+|type = Submitted manuscript
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1905e
+|orig-year = Manuscript received: 27 September 1905
+|publication-date = 10 March 2006
+|publication-place = Hoboken, New Jersey
+|title = Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?
+|trans-title = Does the Inertia of a Body Depend Upon Its Energy Content?
+|language = de
+|place = Berne, Switzerland
+|journal = [[Annalen der Physik]]
+|volume = 323
+|issue = 13
+|pages = 639–641
+|doi = 10.1002/andp.19053231314
+|bibcode = 1905AnP...323..639E |url = https://zenodo.org/record/1424057
+|doi-access = free
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1915
+|orig-year = Published 25 November 1915
+|via = ECHO, Cultural Heritage Online, [[Max Planck Institute]] for the History of Science
+|place = Berlin, Germany
+|title = Die Feldgleichungen der Gravitation
+|trans-title = The Field Equations of Gravitation
+|language = de
+|publisher = [[Prussian Academy of Sciences|Königlich Preussische Akademie der Wissenschaften]]
+|journal=Sitzungsberichte 1915
+|pages = 844–847
+|url = http://echo.mpiwg-berlin.mpg.de/MPIWG:ZZB2HK6W
+|format = Online page images
+}}
+* {{cite journal |last=Einstein |first=Albert |title=Näherungsweise Integration der Feldgleichungen der Gravitation |trans-title=Approximate integration of the field equations of gravitation |date=22 June 1916 |journal=[[Prussian Academy of Sciences|Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften Berlin]] |pages=688–696 |bibcode=1916SPAW.......688E |url=https://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/BGG54UCY/index.meta |access-date=2020-11-14}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1917a
+|title = Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie
+|trans-title = Cosmological Considerations in the General Theory of Relativity
+|language = de
+|publisher = [[Prussian Academy of Sciences|Königlich Preussische Akademie der Wissenschaften]], Berlin
+|journal=Sitzungsberichte 1917
+|url=http://echo.mpiwg-berlin.mpg.de/MPIWG:H428RSAN
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1917b
+|title = Zur Quantentheorie der Strahlung
+|trans-title = On the Quantum Mechanics of Radiation
+|language = de
+|journal = Physikalische Zeitschrift
+|volume = 18
+|pages = 121–128
+|bibcode = 1917PhyZ...18..121E
+}}
+* {{cite journal |last=Einstein |first=Albert |title=Über Gravitationswellen |trans-title=About gravitational waves |date=31 January 1918 |journal=Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften Berlin |pages=154–167 |bibcode=1918SPAW.......154E |url=https://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/W7ZU8V1E/index.meta |access-date=2020-11-14}}
+* {{cite speech
+|last = Einstein
+|first = Albert
+|date = 1923
+|event = Lecture delivered to the Nordic Assembly of Naturalists at Gothenburg, 11 July 1923
+|place = Gothenburg
+|orig-year = First published 1923, in English 1967
+|publication-date = 3 February 2015
+|title = Grundgedanken und Probleme der Relativitätstheorie
+|trans-title = Fundamental Ideas and Problems of the Theory of Relativity
+|language = de, en
+|work = Nobel Lectures, Physics 1901–1921
+|publisher = Nobelprice.org
+|via = Nobel Media AB 2014
+|publication-place = Stockholm
+|url = https://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-lecture.html
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1924
+|title = Quantentheorie des einatomigen idealen Gases
+|trans-title = Quantum theory of monatomic ideal gases
+|language = de
+|orig-year = Published 10 July 1924
+|via = ECHO, Cultural Heritage Online, [[Max Planck Institute]] for the History of Science
+|journal = Sitzungsberichte der Preussischen Akademie der Wissenschaften, Physikalisch-Mathematische Klasse
+|pages = 261–267
+|url = http://echo.mpiwg-berlin.mpg.de/MPIWG:DRQK5WYB
+|format = Online page images
+|url-status = dead
+|archive-url = https://web.archive.org/web/20161014072015/http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=%2Fpermanent%2Fecho%2Feinstein%2Fsitzungsberichte%2FPG8B073X%2Findex.meta
+|archive-date = 14 October 2016
+|access-date = 26 February 2015
+}} First of a series of papers on this topic.
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 12 March 1926
+|orig-year = Cover Date 1 March 1926
+|place = Berlin
+|title = Die Ursache der Mäanderbildung der Flußläufe und des sogenannten Baerschen Gesetzes
+|trans-title = On [[Baer's law]] and [[meander]]s in the courses of rivers
+|language = de
+|journal = Die Naturwissenschaften
+|volume = 14
+|pages = 223–224
+|via = SpringerLink
+|publication-place = Heidelberg, Germany
+|doi = 10.1007/BF01510300
+|bibcode = 1926NW.....14..223E
+|issue = 11
+|s2cid = 39899416
+|issn = 1432-1904 }}
+* {{Cite book
+|last = Einstein
+|first = Albert
+|date = 1926b
+|title = Investigations on the Theory of the Brownian Movement
+|place = Berne, Switzerland
+|publisher = Dover Publications
+|editor-first = R.
+|editor-last = Fürth
+|translator-first=A. D.
+|translator-last=Cowper
+|publication-date = 1956
+|publication-place = US
+|isbn = 978-1-60796-285-4
+|url = http://www.pitt.edu/~jdnorton/lectures/Rotman_Summer_School_2013/Einstein_1905_docs/Einstein_Dissertation_English.pdf
+|access-date = 4 January 2015
+}}
+* {{cite journal |last=Einstein |first=Albert |year=1931 |title=Zum kosmologischen Problem der allgemeinen Relativitätstheorie |trans-title=On the cosmological problem of the general theory of relativity |journal=Sonderasugabe aus den Sitzungsb. König. Preuss. Akad. |pages=235–237}}
+* {{cite journal |last1=Einstein |first1=A. |last2=de Sitter |first2=W. |year=1932 |title=On the relation between the expansion and the mean density of the universe |journal=Proceedings of the National Academy of Sciences |volume=18 |issue=3| pages=213–214 |doi=10.1073/pnas.18.3.213| pmid=16587663 |bibcode=1932PNAS...18..213E |pmc=1076193}}
+* {{cite journal |last1=Einstein |first1=Albert |last2=Rosen |first2=Nathan |date=1935 |title=The Particle Problem in the General Theory of Relativity |journal=[[Physical Review]] |volume=48 |issue=1 |page=73 |doi=10.1103/PhysRev.48.73 |bibcode=1935PhRv...48...73E |doi-access=free }}
+* {{Cite journal
+|last1 = Einstein
+|first1 = Albert
+|last2 = Podolsky
+|first2 = Boris
+|last3 = Rosen
+|first3 = Nathan
+|date = 15 May 1935
+|title = Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
+|journal = Physical Review
+|via = APS Journals
+|issue = 10
+|volume = 47
+|pages = 777–780
+|orig-year = Received 25 March 1935
+|doi = 10.1103/PhysRev.47.777
+|bibcode = 1935PhRv...47..777E
+|doi-access = free
+|url = http://cds.cern.ch/record/405662
+|type = Submitted manuscript
+}}
+* {{Cite journal
+|last = Einstein
+|first = Albert
+|date = 1950
+|title = On the Generalized Theory of Gravitation
+|journal = Scientific American
+|volume = CLXXXII
+|issue = 4
+|pages = 13–17
+|doi=10.1038/scientificamerican0450-13
+|bibcode = 1950SciAm.182d..13E
+}}
+* {{Cite book
+|last = Einstein
+|first = Albert
+|date = 1954
+|title = Ideas and Opinions
+|place = New York
+|publisher = Crown Publishers
+|isbn = 978-0-517-00393-0
+|url = https://archive.org/details/ideasopinions00eins
+}}&lt;br/&gt;{{Cite book |last=Einstein |first=Albert |author-mask=6 |date=1995 |orig-year=1954 |title=Ideas and Opinions |place=New York |publisher=Three Rivers Press |isbn=978-0-517-88440-9 |url=https://books.google.com/books?id=9fJkBqwDD3sC}}
+* {{Cite book
+|last = Einstein
+|first = Albert
+|date = 1969
+|title = Albert Einstein, Hedwig und Max Born: Briefwechsel 1916–1955
+|publisher = Nymphenburger Verlagshandlung
+|location = Munich
+|language = de
+|isbn = 978-3-88682-005-4
+|others=Commented by Max Born; Preface by Bertrand Russell; Foreword by Werner Heisenberg
+}} A reprint of this book was published by Edition Erbrich in 1982, {{ISBN|978-3-88682-005-4}}.
+* {{Cite book
+|editor=Stachel, John
+|editor-link=John Stachel
+|editor2=Martin J. Klein
+|editor3=A. J. Kox
+|editor4=Michel Janssen
+|editor5=R. Schulmann
+|editor6=Diana Komos Buchwald
+|display-editors=etal
+|date = 21 July 2008
+|orig-year = Published between 1987 and 2006
+|title = The Collected Papers of Albert Einstein
+|volume = 1–10
+|publisher = [[Princeton University Press]]
+|url = https://einsteinpapers.press.princeton.edu/
+|ref = {{harvid|Stachel et al.|2008}}
+}}. Further information about the volumes published so far can be found on the webpages of the [http://www.einstein.caltech.edu/index.html Einstein Papers Project] and on the [[Princeton University Press]] [http://press.princeton.edu/einstein/ Einstein Page]
+{{div col end}}
+
+===Others===
+
+{{div col|colwidth=35em}}
+* {{Cite news
+|last = Einstein
+|first = Albert
+|display-authors = etal
+|date = 4 December 1948
+|title = To the editors of ''The New York Times''
+|newspaper = The New York Times
+|url = http://phys4.harvard.edu/~wilson/NYTimes1948.html
+|isbn = 978-0-7354-0359-8
+|location = Melville, New York
+|access-date = 25 May 2006
+|archive-url = https://web.archive.org/web/20071217113044/http://phys4.harvard.edu/~wilson/NYTimes1948.html
+|archive-date = 17 December 2007
+|url-status = dead
+}}
+* {{cite journal|last=Einstein|first=Albert|date=May 1949|title=Why Socialism?|journal=Monthly Review |volume=1|issue=1|pages=9–15|editor1-first=Paul|editor1-last=Sweezy|editor2-first=Leo|editor2-last=Huberman |doi=10.14452/MR-001-01-1949-05_3 |url=http://monthlyreview.org/2009/05/01/why-socialism/}}&lt;br/&gt;{{Cite web |author-mask=6
+|last = Einstein
+|first = Albert
+|date = May 2009
+|orig-year= May 1949
+|title = Why Socialism? (Reprise)
+|magazine = Monthly Review
+|volume = 61
+|issue = 1 (May)
+|publisher = Monthly Review Foundation
+|via = MonthlyReview.org
+|location = New York
+|url = http://www.monthlyreview.org/598einst.htm
+|access-date = 16 January 2006
+| archive-url= https://web.archive.org/web/20060111081948/http://www.monthlyreview.org/598einst.htm| archive-date= 11 January 2006 |url-status=live}}
+* {{Cite book
+|last = Einstein
+|first = Albert
+|date = 1979
+|edition = Centennial
+|title = Autobiographical Notes
+|place = Chicago
+|publisher = Open Court
+|isbn = 978-0-87548-352-8
+|others = Paul Arthur Schilpp 
+|url-access = registration
+|url = https://archive.org/details/autobiographical1979eins
+}}. The ''chasing a light beam'' thought experiment is described on pages 48–51.
+{{div col end}}
+
+== See also ==
+{{div col|colwidth=25em}}
+* [[Albert Einstein House]] in Princeton
+* [[Einstein's thought experiments]]
+* [[Einstein notation]]
+* ''[[The Einstein Theory of Relativity]]'', an educational film
+* [[Frist Campus Center]] at [[Princeton University]]{{Snd}} room 302 is associated with Einstein. (The center was once the Palmer Physical Laboratory.)
+* [[Heinrich Burkhardt]]
+* [[Bern Historical Museum]] (Einstein Museum)
+* [[History of gravitational theory]]
+* [[List of coupled cousins]]
+* [[List of German inventors and discoverers]]
+* [[List of Jewish Nobel laureates|Jewish Nobel laureates]]
+* [[List of peace activists]]
+* [[Relativity priority dispute]]
+* [[Sticky bead argument]]
+{{div col end}}
+
+==References==
+'''Footnotes'''
+{{reflist|group=note|refs=
+&lt;ref name="GEcitizen"&gt;In the German Empire, citizens were exclusively subjects of one of the 27 ''Bundesstaaten''.&lt;/ref&gt;
+&lt;ref name="6Ar1y"&gt;Einstein's scores on his [[Matura|matriculation]] certificate: German 5; French 3; Italian 5; History 6; Geography 4; Algebra 6; Geometry 6; Descriptive Geometry 6; Physics 6; Chemistry 5; Natural History 5; Art and Technical Drawing 4.&lt;br /&gt;[[Grading systems by country#Switzerland|The scores]] are 6 = very good, 5 = good, 4 = sufficient, 3 = insufficient, 2 = poor, 1 = very poor.&lt;/ref&gt;
+&lt;ref name="gnriE"&gt;"Their leaders in Germany have not driven out her cut-throats and her blackguards. She has chosen the cream of her culture and has suppressed it. She has even turned upon her most glorious citizen, Albert Einstein, who is the supreme example of the selfless intellectual...The man, who, beyond all others, approximates a citizen of the world, is without a home. How proud we must be to offer him temporary shelter."&lt;/ref&gt;
+&lt;ref name="aBfxO"&gt;In [[s:Translation:On the Electrodynamics of Moving Bodies|his paper]], Einstein wrote: "The introduction of a 'luminiferous æther' will be proved to be superfluous in so far, as according to the conceptions which will be developed, we shall introduce neither a 'space absolutely at rest' endowed with special properties, nor shall we associate a velocity-vector with a point in which electro-magnetic processes take place."&lt;/ref&gt;
+&lt;ref name="sBl2q"&gt;For a discussion of the reception of relativity theory around the world, and the different controversies it encountered, see the articles in {{harvp|Glick|1987}}.&lt;/ref&gt;
+}}
+
+'''Citations'''
+{{reflist|refs=
+&lt;ref name="Bio"&gt;{{cite web |url=http://nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html |title=Albert Einstein&amp;nbsp;– Biography |access-date=7 March 2007 |publisher=[[Nobel Foundation]]| archive-url= https://web.archive.org/web/20070306133522/http://nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-bio.html| archive-date= 6 March 2007 | url-status=live}}&lt;/ref&gt;
+&lt;ref name="frs"&gt;{{cite journal |last1=Whittaker |first1=E. |author-link=E. T. Whittaker| doi=10.1098/rsbm.1955.0005 |title=Albert Einstein. 1879–1955 |journal=[[Biographical Memoirs of Fellows of the Royal Society]] |volume=1 |pages=37–67 |date=1 November 1955| jstor=769242| doi-access=free}}&lt;/ref&gt;
+&lt;ref name="YangHamilton2010"&gt;{{cite book|first1=Fujia|last1=Yang|first2=Joseph H.|last2=Hamilton|title=Modern Atomic and Nuclear Physics|date=2010|publisher=World Scientific|isbn=978-981-4277-16-7|page=274}}&lt;/ref&gt;
+&lt;ref name="Nobel"&gt;{{Cite web|url=https://www.nobelprize.org/nobel_prizes/physics/laureates/2011/advanced-physicsprize2011.pdf|title=Scientific Background on the Nobel Prize in Physics 2011. The accelerating universe|publisher=Nobel Media AB|page=2|archive-url=https://web.archive.org/web/20120516052710/https://www.nobelprize.org/nobel_prizes/physics/laureates/2011/advanced-physicsprize2011.pdf|archive-date=16 May 2012|access-date=4 January 2015}}&lt;/ref&gt;
+&lt;ref name="NYT-20151124"&gt;{{cite news |last=Overbye |first=Dennis |author-link=Dennis Overbye |title=A Century Ago, Einstein's Theory of Relativity Changed Everything |url=https://www.nytimes.com/2015/11/24/science/a-century-ago-einsteins-theory-of-relativity-changed-everything.html |date=24 November 2015 |work=[[The New York Times]] |access-date=24 November 2015}}&lt;/ref&gt;
+&lt;ref name="BoyerDubofsky2001"&gt;{{cite book|author1=Paul S. Boyer|author2=Melvyn Dubofsky|title=The Oxford Companion to United States History|url=https://archive.org/details/oxfordcompaniont00paul_0|url-access=registration |date=2001 |publisher=Oxford University Press|isbn=978-0-19-508209-8|page=[https://archive.org/details/oxfordcompaniont00paul_0/page/218 218]}}&lt;/ref&gt;
+&lt;ref name="Paul Arthur Schilpp, editor 1951 730–746"&gt;{{Cite book |editor=Paul Arthur Schilpp |date=1951 |title=Albert Einstein: Philosopher-Scientist |volume=II |publisher=Harper and Brothers Publishers (Harper Torchbook edition) |location=New York |pages=730–746}}. His non-scientific works include: ''About Zionism: Speeches and Lectures by Professor Albert Einstein'' (1930), "Why War?" (1933, co-authored by [[Sigmund Freud]]), ''The World As I See It'' (1934), ''Out of My Later Years'' (1950), and a book on science for the general reader, ''[[The Evolution of Physics]]'' (1938, co-authored by [[Leopold Infeld]]).&lt;/ref&gt;
+&lt;ref name="wordnetweb.princeton.edu"&gt;{{Cite web |url=http://wordnetweb.princeton.edu/perl/webwn?s=Einstein |title=Result of WordNet Search for Einstein |version=3.1 |publisher=The Trustees of Princeton University |access-date=4 January 2015}}&lt;/ref&gt;
+&lt;ref name="Robinson2015a"&gt;{{cite book|last=Robinson|first=Andrew|author-link=Walter Isaacson|title=Einstein: A Hundred Years of Relativity|url=https://books.google.com/books?id=Px4_CQAAQBAJ&amp;pg=PA144 |year=2015|publisher=Princeton University Press|isbn=978-0-691-16989-7|pages=143–145}}&lt;/ref&gt;
+&lt;!--&lt;ref name="Kleinknecht2015"&gt;{{cite book|last=Kleinknecht|first=Konrad|title=Einstein and Heisenberg|publisher=Springer Nature|date=2019|page=143}}&lt;/ref&gt;--&gt;
+&lt;ref name="IGEFAQ"&gt;{{cite web |title=FAQ about Einstein and the Institute |url=https://www.ige.ch/en/about-us/the-history-of-the-ipi/einstein/faq |publisher=Swiss Federal Institute of Intellectual Property, IGE/IPI |location=Berne, Switzerland |date=27 May 2014 |type=official website |access-date=27 March 2015}}&lt;/ref&gt;
+&lt;ref name="NYTimes_19191125"&gt;{{cite news |title=A New Physics, Based on Einstein |url=https://newspaperarchive.com/new-york-times-nov-25-1919-p-17/ |work=The New York Times |date=25 November 1919 |page=17}}&lt;/ref&gt;
+&lt;ref name="Eddington"&gt;{{cite journal |last=Andrzej |first=Stasiak |date=2003 |title=Myths in science |journal=EMBO Reports |volume=4 |issue=3 |page=236 |doi=10.1038/sj.embor.embor779 |doi-access=free |pmc=1315907}}&lt;/ref&gt;
+&lt;ref name="Jerome"&gt;{{cite book|author1=Fred Jerome|author2=Rodger Taylor|title=Einstein on Race and Racism|url=https://books.google.com/books?id=4d79VQdOfFUC&amp;pg=PR10|year=2006|publisher=Rutgers University Press|isbn=978-0-8135-3952-2|page=10}}&lt;/ref&gt;
+&lt;ref name="Gilbert"&gt;Gilbert, Martin. ''Churchill and the Jews'', Henry Holt and Company, N.Y. (2007) pp. 101, 176&lt;/ref&gt;
+&lt;ref name="AP"&gt;"Denunciation of German Policy is a Stirring Event", ''Associated Press'', 27 July 1933&lt;/ref&gt;
+&lt;ref name="Guardian"&gt;"Stateless Jews: The Exiles from Germany, Nationality Plan", ''The Guardian'' (UK) 27 July 1933&lt;/ref&gt;
+&lt;ref name="Arntzenius2011"&gt;{{cite book|first=Linda G.|last=Arntzenius|title=Institute for Advanced Study |url=https://books.google.com/books?id=zHHguITir80C&amp;pg=PA19|date=2011|publisher=Arcadia Publishing|isbn=978-0-7385-7409-7 |page=19}}&lt;/ref&gt;
+&lt;ref name="Jerome_Isis"&gt;{{cite journal|last1=Jerome|first1=Fred|title=Einstein, Race, and the Myth of the Cultural Icon|journal=Isis|date=December 2004|volume=95|issue=4|pages=627–639 |doi=10.1086/430653 |pmid=16011298 |jstor=10.1086/430653 |bibcode=2004Isis...95..627J |s2cid=24738716}}&lt;/ref&gt;
+&lt;ref name="civil"&gt;[http://news.harvard.edu/gazette/story/2007/04/albert-einstein-civil-rights-activist/ "Albert Einstein, Civil Rights activist"], ''Harvard Gazette'', 12 April 2007&lt;/ref&gt;
+&lt;ref name="Time"&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,817454,00.html |archive-url=https://web.archive.org/web/20080518022224/http://www.time.com/time/magazine/article/0,9171,817454,00.html |url-status=dead |archive-date=18 May 2008 |title=ISRAEL: Einstein Declines |work=[[Time (magazine)|Time]] |date=1 December 1952 |access-date=31 March 2010}}&lt;/ref&gt;
+&lt;ref name="Botstein"&gt;{{cite book|author1=Peter Galison|author1-link=Peter Galison|author2=Gerald James Holton|author2-link=Gerald Holton|author3=Silvan S. Schweber|author3-link=Silvan S. Schweber|title=Einstein for the 21st Century: His Legacy in Science, Art, and Modern Culture|url=https://archive.org/details/einsteinforstcen00gali|url-access=limited|year=2008|publisher=Princeton University Press|isbn=978-0-691-13520-5|pages=[https://archive.org/details/einsteinforstcen00gali/page/n181 161]–164}}&lt;/ref&gt;
+&lt;ref name="Times"&gt;[https://articles.latimes.com/1985-12-22/entertainment/ca-20526_1_life-estate Cariaga, Daniel, "Not Taking It with You: A Tale of Two Estates", ''Los Angeles Times''], 22 December 1985. Retrieved April 2012.&lt;/ref&gt;
+&lt;ref name="RR"&gt;{{cite web |title=Relaxed Einstein signs for a fellow violinist before sailing to Germany for the last time |url=http://www.rrauction.com/albert_einstein_signed_photo_to_joseph_zoellner.cfm |website=RR Auction |year=2010}}&lt;/ref&gt;
+&lt;ref name="Albano-Müller"&gt;{{cite web |url=http://www.gandhiserve.org/streams/einstein.html |title=Einstein on Gandhi (Einstein's letter to Gandhi{{Snd}} Courtesy:Saraswati Albano-Müller &amp; Notes by Einstein on Gandhi{{Snd}} Source: The Hebrew University of Jerusalem ) |publisher=Gandhiserve.org |date=18 October 1931 |access-date=24 January 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120117104005/http://www.gandhiserve.org/streams/einstein.html |archive-date=17 January 2012}}&lt;/ref&gt;
+&lt;ref name="flickr2687"&gt;[http://farm3.static.flickr.com/2687/4496554935_0b573db853_o.jpg Letter to M. Berkowitz, 25 October 1950.] Einstein Archive 59–215.&lt;/ref&gt;
+&lt;ref name="Obit"&gt;{{cite news | title=Dr. Albert Einstein Dies in Sleep at 76; World Mourns Loss of Great Scientist, Rupture of Aorta Causes Death, Body Cremated, Memorial Here Set | work=The New York Times | publication-date=19 April 1955 | publication-place = New York | date = 18 April 1955 | place = Princeton, NJ | volume = CIV | number = 35,514 | issn = 0362-4331 | editor = Late City | page = 1 | url = http://select.nytimes.com/gst/abstract.html?res=F60C1EFC3D55107A93CBA8178FD85F418585F9}}&lt;/ref&gt;
+&lt;ref name="NYT-20141204-DB"&gt;{{cite news |last=Overbye |first=Dennis |author-link=Dennis Overbye |title=Thousands of Einstein Documents Are Now a Click Away |url=https://www.nytimes.com/2014/12/05/science/huge-trove-of-albert-einstein-documents-becomes-available-online.html |date=4 December 2014 |work=The New York Times |access-date=4 January 2015}}&lt;/ref&gt;
+&lt;ref name="Instituut-Lorentz"&gt;"[http://www.lorentz.leidenuniv.nl/history/Einstein_archive/ Einstein archive at the Instituut-Lorentz]". ''Instituut-Lorentz''. 2005. Retrieved on 21 November 2005.&lt;/ref&gt;
+&lt;ref name="PubList"&gt;{{cite web|first=Hans-Josef |last=Kuepper |url=http://www.einstein-website.de/z_physics/wisspub-e.html |title=List of Scientific Publications of Albert Einstein |publisher=Einstein-website.de |access-date=3 April 2011}}&lt;/ref&gt;
+&lt;ref name="natgeo"&gt;{{cite news|url=http://news.nationalgeographic.com/2016/02/160211-gravitational-waves-found-spacetime-science/ |title=Found! Gravitational Waves, or a Wrinkle in Spacetime |work=Nadia Drake |publisher=National Geographic |date=11 February 2016 |access-date=6 July 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160212083049/http://news.nationalgeographic.com/2016/02/160211-gravitational-waves-found-spacetime-science/ |archive-date=12 February 2016 }}&lt;/ref&gt;
+&lt;ref name="PRL-20160211"&gt;{{cite journal |collaboration=LIGO Scientific Collaboration and Virgo Collaboration |last1=Abbott |first1=Benjamin P. |title=Observation of Gravitational Waves from a Binary Black Hole Merger |journal=[[Phys. Rev. Lett.]] |volume=116 |issue=6 |pages=061102 |year=2016 |bibcode=2016PhRvL.116f1102A |doi=10.1103/PhysRevLett.116.061102 |arxiv=1602.03837 |s2cid=124959784 |pmid=26918975 |lay-url= https://www.ligo.caltech.edu/system/media_files/binaries/301/original/detection-science-summary.pdf}}&lt;/ref&gt;
+&lt;ref name="cor-2013"&gt;{{Cite journal|arxiv=1312.2192|last1=O'Raifeartaigh|first1=C|title=Einstein's cosmic model of 1931 revisited: An analysis and translation of a forgotten model of the universe|journal=The European Physical Journal H|volume=39|issue=2014|pages=63–85|last2=McCann|first2=B|year=2014 |doi=10.1140/epjh/e2013-40038-x|bibcode=2014EPJH...39...63O|s2cid=53419239 |url=http://repository.wit.ie/2867/1/cosmic.pdf}}&lt;/ref&gt;
+&lt;ref name="cor-steady-state"&gt;{{cite journal |last1=O'Raifeartaigh |first1=C. |last2=McCann |first2=B. |last3=Nahm |first3=W. |last4=Mitton |first4=S. |year=2014 |title=Einstein's steady-state theory: an abandoned model of the cosmos |arxiv=1402.0132 |journal=Eur. Phys. J. H |volume=39 |issue=3| pages=353–369 |doi=10.1140/epjh/e2014-50011-x| bibcode=2014EPJH...39..353O |s2cid=38384067 |url=http://repository.wit.ie/2866/1/cormac.pdf}}&lt;/ref&gt;
+&lt;ref name="Einstein's aborted model"&gt;{{Cite book |arxiv= 1402.4099 |last1= Nussbaumer|first1= Harry|chapter= Einstein's aborted attempt at a dynamic steady-state universe|year= 2014|title=In memoriam Hilmar Duerbeck |page=463|isbn=978-3-944913-56-8|bibcode=2014arXiv1402.4099N}}&lt;/ref&gt;
+&lt;ref name="Bohr1949"&gt;{{cite web |url=http://www.marxists.org/reference/subject/philosophy/works/dk/bohr.htm |title=Discussions with Einstein on Epistemological Problems in Atomic Physics |access-date=30 August 2010 |author=Bohr, N. |website=The Value of Knowledge: A Miniature Library of Philosophy |publisher=[[Marxists Internet Archive]]| archive-url= https://web.archive.org/web/20100913033345/http://www.marxists.org/reference/subject/philosophy/works/dk/bohr.htm| archive-date= 13 September 2010 |url-status=live}} From Albert Einstein: Philosopher-Scientist (1949), publ. Cambridge University Press, 1949. Niels Bohr's report of conversations with Einstein.&lt;/ref&gt;
+&lt;ref name="Goettling"&gt;Goettling, Gary. [https://web.archive.org/web/20050525082445/http://gtalumni.org/Publications/magazine/sum98/einsrefr.html Einstein's refrigerator] ''Georgia Tech Alumni Magazine.'' 1998. Retrieved on 12 November 2014. [[Leó Szilárd]], a Hungarian physicist who later worked on the Manhattan Project, is credited with the discovery of the [[chain reaction]]&lt;/ref&gt;
+&lt;ref name="slqbwn"&gt;{{Cite news |last=Golden |first=Frederic |title=Person of the Century: Albert Einstein |magazine=Time |date=3 January 2000 |url=https://www.time.com/time/time100/poc/magazine/albert_einstein5a.html |access-date= 25 February 2006 |archive-url=https://web.archive.org/web/20060221080452/http://www.time.com/time/time100/poc/magazine/albert_einstein5a.html| archive-date=21 February 2006 |url-status=dead}}&lt;/ref&gt;
+&lt;ref name="Nobel Prize"&gt;{{cite web |url=https://www.nobelprize.org/nobel_prizes/physics/laureates/1921/ |title=The Nobel Prize in Physics 1921 |publisher=Nobel Prize |access-date=11 July 2016}}&lt;/ref&gt;
+&lt;ref name="66xNO"&gt;{{cite book |editor-last=Heilbron |editor-first=John L. |title=The Oxford Companion to the History of Modern Science |url=https://books.google.com/books?id=abqjP-_KfzkC&amp;pg=PA233 |date=2003 |publisher=Oxford University Press |isbn=978-0-19-974376-6 |page=233}}&lt;/ref&gt;
+&lt;ref name="NDxay"&gt;{{cite book|last=Wells|first=John|author-link=John C. Wells|title=Longman Pronunciation Dictionary|publisher=Pearson Longman|edition=3rd|date=3 April 2008|isbn=978-1-4058-8118-0}}&lt;/ref&gt;
+&lt;ref name="xZQWt"&gt;{{Cite journal |title=Einstein's Philosophy of Science |url=http://plato.stanford.edu/entries/einstein-philscience/#IntWasEinEpiOpp |website=Stanford Encyclopedia of Philosophy |publisher=The Metaphysics Research Lab, Center for the Study of Language and Information (CSLI), Stanford University |editor-first=Don A. |editor-last=Howard |date=2014 |orig-year=First published 11 February 2004 |access-date=4 February 2015}}&lt;/ref&gt;
+&lt;ref name="3UiiT"&gt;{{Cite journal |first=Don A. |last=Howard |title=Albert Einstein as a Philosopher of Science |url=http://www3.nd.edu/~dhoward1/vol58no12p34_40.pdf |date=December 2005 |journal=Physics Today |volume=58 |issue=12 |pages=34–40 |via=University of Notre Dame, Notre Dame, IN, author's personal webpage |access-date=8 March 2015|bibcode=2005PhT....58l..34H |doi=10.1063/1.2169442}}&lt;/ref&gt;
+&lt;ref name="LnLVo"&gt;{{cite book |first=David |last=Bodanis |title=E&amp;nbsp;=&amp;nbsp;mc&lt;sup&gt;2&lt;/sup&gt;: A Biography of the World's Most Famous Equation |location=New York |publisher=Walker |date=2000}}&lt;/ref&gt;
+&lt;ref name="zE9Bz"&gt;{{cite journal |date=9 June 2017 |first=Thomas |last=Levenson |journal=The Atlantic |title=The Scientist and the Fascist |url=https://www.theatlantic.com/science/archive/2017/06/einstein-germany-and-the-bomb/528534/}}&lt;/ref&gt;
+&lt;ref name="EQyag"&gt;Barry R. Parker (2003). ''Einstein: The Passions of a Scientist'', Prometheus Books, p. 31&lt;/ref&gt;
+&lt;ref name="1RgTv"&gt;{{cite book|last=Mehra|first=Jagdish|title=Golden Age Of Theoretical Physics, The (Boxed Set Of 2 Vols)|url=https://books.google.com/books?id=o1XVCgAAQBAJ|year=2001|publisher=World Scientific|isbn=978-981-4492-85-0|chapter=Albert Einstein's "First Paper"|chapter-url=https://books.google.com/books?id=o1XVCgAAQBAJ&amp;pg=PA1}}&lt;/ref&gt;
+&lt;ref name="FVfDU"&gt;''The Three-body Problem from Pythagoras to Hawking'', Mauri Valtonen, Joanna Anosova, Konstantin Kholshevnikov, Aleksandr Mylläri, Victor Orlov, Kiyotaka Tanikawa, (Springer 2016), p. 43, Simon and Schuster, 2008&lt;/ref&gt;
+&lt;ref name="7HA7H"&gt;{{Cite journal |author=Troemel-Ploetz, D. |title=Mileva Einstein-Marić: The Woman Who Did Einstein's Mathematics |journal=Women's Studies International Forum |date=1990 |volume=13 |issue=5 |pages=415–432 |doi=10.1016/0277-5395(90)90094-e}}&lt;/ref&gt;
+&lt;ref name="1zJdH"&gt;{{Cite journal |url=http://philosci40.unibe.ch/lehre/winter99/einstein/Walker_Stachel.pdf |title=Did Einstein Espouse his Spouse's Ideas? |author=Walker, Evan Harris |date=February 1989 |journal=Physics Today |volume=42 |issue=2 |pages=9–13 |access-date=19 October 2014 |archive-url=https://web.archive.org/web/20120119093653/http://philosci40.unibe.ch/lehre/winter99/einstein/Walker_Stachel.pdf |archive-date=19 January 2012 |url-status=dead|doi=10.1063/1.2810898 |bibcode=1989PhT....42b...9W}}&lt;/ref&gt;
+&lt;ref name="xKrMG"&gt;Holton, G., ''Einstein, History, and Other Passions'', Harvard University Press, 1996, pp. 177–193.&lt;/ref&gt;
+&lt;ref name="dUxMl"&gt;Martinez, A. A., "Handling evidence in history: the case of Einstein's wife", ''School Science Review'', 86 (316), March 2005, pp. 49–56. [https://webspace.utexas.edu/aam829/1/m/Maric_files/EvidenceMaric.pdf PDF] {{webarchive |url=https://web.archive.org/web/20110811141225/https://webspace.utexas.edu/aam829/1/m/Maric_files/EvidenceMaric.pdf |date=11 August 2011}}&lt;/ref&gt;
+&lt;ref name="HBMes"&gt;J. Renn &amp; R. Schulmann, ''Albert Einstein/Mileva Marić: The Love Letters'', 1992, pp.&amp;nbsp;73–74, 78.&lt;/ref&gt;
+&lt;ref name="MlQLY"&gt;{{cite news |url=http://www.bernerzeitung.ch/region/bern/Die-Liebesbriefe-des-untreuen-Einstein/story/11875058 |first=Urs |last=Wüthrich |title=Die Liebesbriefe des untreuen Einstein |trans-title=The love letters of the unfaithful Einstein |newspaper=BZ Berner Zeitung |location=Bern, Switzerland |date=11 April 2015 |language=de |quote=Ich denke in innigster Liebe an Dich in jeder freien Minute und bin so unglücklich, wie nur ein Mensch es sein kann. |access-date=11 April 2015}}&lt;/ref&gt;
+&lt;ref name="ODY5p"&gt;{{cite web |url=http://www-history.mcs.st-and.ac.uk/Biographies/Grossmann.html |title=Grossmann biography |publisher=School of Mathematics and Statistics, University of St Andrews, Scotland |author=J. J. O'Connor |author2=E. F. Robertson |date=May 2010 |website=MacTutor |access-date=27 March 2015}}&lt;/ref&gt;
+&lt;ref name="MeZPN"&gt;{{cite web |title=Einstein at the patent office|url=https://www.ipi.ch/en/about-us/einstein/einstein-at-the-patent-office.html |publisher=Swiss Federal Institute of Intellectual Property, IGE/IPI |location=Berne, Switzerland |date=6 February 2014 |type=official website |access-date=9 September 2016}}&lt;/ref&gt;
+&lt;ref name="SdDhS"&gt;{{cite book |last=Galison |first=Peter |author-link=Peter Galison |title=Einstein's Clocks, Poincaré's Maps: Empires of Time |publisher=W. W. Norton |location=New York |date=2003 |isbn=978-0-393-02001-4 |url=https://archive.org/details/einsteinsclocksp00gali}}{{page needed|date=November 2020}}&lt;/ref&gt;
+&lt;ref name="bG2yp"&gt;{{cite web |url=http://www.library.ethz.ch/en/Resources/Digital-library/Einstein-Online/Associate-Professor-at-the-Universiy-of-Zurich-und-professor-in-Prague-1909-1912 |title=Associate Professor at the University of Zurich und professor in Prague (1909–1912) |publisher=ETH-Bibliothek Zurich, ETH Zürich, www.ethz.ch |location=Bern, Switzerland |series=Einstein Online |date=2014 |type=digital library |language=de, en |access-date=17 August 2014}}&lt;/ref&gt;
+&lt;ref name="Itl8r"&gt;{{cite web |url=http://econstor.eu/bitstream/10419/49610/1/569197996.pdf |author=von Hirschhausen, Ulrike |title=Von imperialer Inklusion zur nationalen Exklusion:Staatsbürgerschaft in Österreich- Ungarn 1867–1923 |publisher=WZB Social Science Research Center Berlin |date=2007 |location=Berlin, Germany |series=ZKD{{Snd}} Veröffentlichungsreihe der Forschungsgruppe, "Zivilgesellschaft, Citizenship und politische Mobilisierung in Europa" Schwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Wissenschaftszentrum Berlin für Sozialforschung |type=WZB Discussion Paper |issue=No. SP IV 2007–403 |issn=1860-4315 |page=8 |quote= Eine weitere Diskontinuität bestand viertens darin, dass die Bestimmungen der österreichischen Staatsbürgerschaft, die in den ersten Dritteln des Jahrhunderts auch auf Ungarn angewandt worden waren, seit 1867 nur noch für die cisleithanische Reichshälfte galten. Ungarn entwickelte hingegen jetzt eine eige-ne Staatsbürgerschaft. |access-date=4 August 2015}}&lt;/ref&gt;
+&lt;ref name="hXQin"&gt;{{cite web |url=http://www.library.ethz.ch/en/Resources/Digital-library/Einstein-Online/Professor-at-the-ETH-Zurich-1912-1914 |title=Professor at the ETH Zurich (1912–1914) |publisher=ETH-Bibliothek Zurich, ETH Zürich, www.ethz.ch |location=Zurich, Switzerland |series=Einstein Online |date=2014 |type=digital library |language=de, en |access-date=17 August 2014}}&lt;/ref&gt;
+&lt;ref name="EXcH6"&gt;{{cite web|title=Director in the attic|url=https://www.mpg.de/dossier/einstein/in-berlin|publisher=Max-Planck-Gesellschaft, München|access-date=9 July 2017}}&lt;/ref&gt;
+&lt;ref name="3gcYy"&gt;{{cite web|url=http://www.dwc.knaw.nl/biografie/pmknaw/?pagetype=authorDetail&amp;aId=PE00000116 |title=Albert Einstein (1879–1955) |publisher=Royal Netherlands Academy of Arts and Sciences |access-date=21 July 2015}}&lt;/ref&gt;
+&lt;ref name="7gwHd"&gt;[http://www.einsteinsworld.com/News-New-York-Herald-Tribune-1931-As-Einstein-Sees-America.htm "As Einstein Sees American"], ''Einstein's World'', a 1931 reprint with minor changes, of his 1921 essay.&lt;/ref&gt;
+&lt;ref name="38YkY"&gt;{{cite news|url=https://www.theguardian.com/books/2018/jun/12/einsteins-travel-diaries-reveal-shocking-xenophobia|title=Einstein's travel diaries reveal 'shocking' xenophobia|last=Flood|first=Alison|date=12 June 2018|work=[[The Guardian]]|access-date=13 June 2018}}&lt;/ref&gt;
+&lt;ref name="oxak7"&gt;[https://www.nobelprize.org/nobel_prizes/physics/laureates/1921/einstein-speech.html The Nobel Prize in Physics 1921: Albert Einstein. Banquet Speech by R. Nadolny (in German).] Retrieved 9 December 2015 via Nobelprize.org&lt;/ref&gt;
+&lt;ref name="w74nv"&gt;{{Cite journal|last=Montes-Santiago|first=J.|date=16 July 2017|title=[The meeting of Einstein with Cajal (Madrid, 1923): a lost tide of fortune]|journal=Revista de Neurología|volume=43|issue=2|pages=113–117|issn=0210-0010|pmid=16838259}}&lt;/ref&gt;
+&lt;ref name="Q5hgx"&gt;{{cite book |last=Grandjean |first=Martin |date=2018 |title=Les réseaux de la coopération intellectuelle. La Société des Nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres |trans-title=The Networks of Intellectual Cooperation. The League of Nations as an Actor of the Scientific and Cultural Exchanges in the Inter-War Period |url=https://tel.archives-ouvertes.fr/tel-01853903/document |language=fr |location=Lausanne |publisher=Université de Lausanne}} pp. 296–302&lt;/ref&gt;
+&lt;ref name="vNNnX"&gt;{{Cite journal | issue = 2| last=Grandjean| first=Martin| title=Analisi e visualizzazioni delle reti in storia. L'esempio della cooperazione intellettuale della Società delle Nazioni | journal=Memoria e Ricerca | date=2017| pages=371–393| doi=10.14647/87204}} See also: [https://halshs.archives-ouvertes.fr/halshs-01610098v2 French version] (PDF) and [http://www.martingrandjean.ch/complex-structures-and-international-organizations/ English summary].&lt;/ref&gt;
+&lt;ref name="e9Xyh"&gt;{{Cite journal | last = Shine| first = Cormac| title = Papal Diplomacy by Proxy? Catholic Internationalism at the League of Nations' International Committee on Intellectual Cooperation | journal = [[The Journal of Ecclesiastical History]] | volume = 69| issue = 4| pages = 785–805| date = 2018 | doi = 10.1017/S0022046917002731}}&lt;/ref&gt;
+&lt;ref name="el4GB"&gt;{{cite web |url=http://www.pbs.org/wnet/americanmasters/albert-einstein-how-i-see-the-world/585/ |title=Albert Einstein: How I See the World |website=American Masters |publisher=PBS |author=Richard Kroehling |date=July 1991 |access-date=29 May 2018}}&lt;/ref&gt;
+&lt;ref name="3zIp7"&gt;[http://collection.sciencemuseum.org.uk/objects/co8223551/professor-einstein-with-commander-locker-lampson-gelatin-silver-print-photograph "Professor Einstein with Commander Locker-Lampson"], ScienceMuseum.org, UK&lt;/ref&gt;
+&lt;ref name="aDu8s"&gt;{{cite web | last=Reisman | first=Arnold | url=http://hnn.us/article/31946 | title=What a Freshly Discovered Einstein Letter Says About Turkey Today | publisher=History News Network, George Mason University | date=20 November 2006}}&lt;/ref&gt;
+&lt;ref name="FFt5E"&gt;{{cite web |publisher=Oxford Chabad Society |url=http://www.oxfordchabad.org/templates/articlecco_cdo/aid/457396/jewish/Albert-Einstein.htm |title=Oxford Jewish Personalities |access-date=7 March 2015}}&lt;/ref&gt;
+&lt;ref name="v8v06"&gt;{{cite news |newspaper=The Oxford Times |date=2012 |url=http://www.oxfordtimes.co.uk/leisure/history_heritage/9617968.How_Einstein_fled_from_the_Nazis_to_an_Oxford_college/ |title=How Einstein fled from the Nazis to an Oxford college |access-date=7 March 2015}}&lt;/ref&gt;
+&lt;ref name="mzNc5"&gt;{{cite web |url=http://www.ias.edu/people/einstein/in-brief |title=In Brief |publisher=Institute for Advanced Study |access-date=4 March 2010| archive-url= https://web.archive.org/web/20100329064405/http://www.ias.edu/people/einstein/in-brief| archive-date= 29 March 2010 |url-status=live}}&lt;/ref&gt;
+&lt;ref name="o4fkQ"&gt;{{cite web |last=Gosling |first=F. G. |title=The Manhattan Project: Making the Atomic Bomb |publisher=U.S. Department of Energy, History Division |date=2010 |url=http://energy.gov/management/downloads/gosling-manhattan-project-making-atomic-bomb |page=vii |access-date=7 June 2015}}&lt;/ref&gt;
+&lt;ref name="pRqWK"&gt;{{cite book |last1=Lanouette |first1=William |last2=Silard |first2=Bela |title=Genius in the Shadows: A Biography of Leo Szilárd: The Man Behind The Bomb |location=New York |publisher=Charles Scribner's Sons |date=1992 |isbn=978-0-684-19011-2 |pages=[https://archive.org/details/geniusinshadowsa00lano/page/198 198–200] |url=https://archive.org/details/geniusinshadowsa00lano/page/198}}&lt;/ref&gt;
+&lt;ref name="4Z68g"&gt;{{cite book |last1=Diehl |first1=Sarah J. |last2=Moltz |first2=James Clay |title=Nuclear Weapons and Nonproliferation: A Reference Handbook |url=https://books.google.com/books?id=3PN-NEfl_U0C&amp;pg=PA218 |date=2008 |publisher=ABC-CLIO |page=218 |isbn=978-1-59884-071-1 |access-date=7 June 2015}}&lt;/ref&gt;
+&lt;ref name="eZym8"&gt;{{cite book |last1=Hewlett |first1=Richard G. |last2=Anderson |first2=Oscar E. |title=The New World, 1939–1946 |location=University Park |publisher=Pennsylvania State University Press |date=1962 |url=https://www.governmentattic.org/5docs/TheNewWorld1939-1946.pdf |pages=15–16 |isbn=978-0-520-07186-5 |oclc=637004643 |access-date=7 June 2015}}&lt;/ref&gt;
+&lt;ref name="z73PK"&gt;{{cite web |last=Einstein |first=Albert |date=1952 |title=On My Participation in the Atom Bomb Project |url=http://www.atomicarchive.com/Docs/Hiroshima/EinsteinResponse.shtml |via=atomicarchive.org |access-date=7 June 2015 |archive-url=https://web.archive.org/web/20150828230457/http://www.atomicarchive.com/Docs/Hiroshima/EinsteinResponse.shtml |archive-date=28 August 2015 |url-status=dead }}&lt;/ref&gt;
+&lt;ref name="Msb2q"&gt;{{cite book|last1=Rosenkranz|first1=Ze'ev|title=The Einstein Scrapbook|date=6 November 2002|publisher=[[Johns Hopkins University Press]]|location=Baltimore, Maryland|isbn=978-0-8018-7203-7|page=103}}&lt;/ref&gt;
+&lt;ref name="BQH5A"&gt;{{cite news|title = The relative beauty of the violin|date = 28 January 2011|url = https://www.independent.co.uk/arts-entertainment/classical/features/the-relative-beauty-of-the-violin-2196313.html|work=[[The Independent]]|author=Duchen, Jessica}}&lt;/ref&gt;
+&lt;ref name="aBOjz"&gt;{{cite news|title=Einstein and his love of music |date=January 2005 |url=http://www.pha.jhu.edu/einstein/stuff/einstein&amp;music.pdf |publisher=[[Physics World]] |url-status=dead |archive-url=https://web.archive.org/web/20150828225916/http://www.pha.jhu.edu/einstein/stuff/einstein%26music.pdf |archive-date=28 August 2015 }}&lt;/ref&gt;
+&lt;ref name="kGuWC"&gt;Article "Alfred Einstein", in ''[[The New Grove Dictionary of Music and Musicians]]'', ed. [[Stanley Sadie]]. 20 vol. London, Macmillan Publishers Ltd., 1980. {{ISBN|978-1-56159-174-9}}&lt;/ref&gt;
+&lt;ref name="OIn6p"&gt;''The Concise Edition of [[Baker's Biographical Dictionary of Musicians]]'', 8th ed. Revised by [[Nicolas Slonimsky]]. New York, Schirmer Books, 1993. {{ISBN|978-0-02-872416-4}}&lt;/ref&gt;
+&lt;ref name="LXsUJ"&gt;{{cite web|first1=David E. |last1=Rowe |last2=Schulmann |first2=Robert |editor1-first=Walsh |editor1-last=David A.|title=What Were Einstein's Politics? |work=[[History News Network]] |date=8 June 2007a |url=http://hnn.us/articles/39445.html |access-date=29 July 2012}}&lt;/ref&gt;
+&lt;ref name="ixWWZ"&gt;{{cite magazine| url=http://news.nationalgeographic.com/2017/04/science-march-einstein-fbi-genius-science/| first=Mitch |last=Waldrop| title=Why the FBI Kept a 1,400-Page File on Einstein| magazine=National Geographic| date=19 April 2017}}&lt;/ref&gt;
+&lt;ref name="018QJ"&gt;{{cite book|editor-last=Hitchens|editor-first=Christopher|editor-link=Christopher Hitchens |year=2007|chapter=Selected Writings on Religion: Albert Einstein|title=The Portable Atheist: Essential Readings for the Nonbeliever|title-link=The Portable Atheist|publisher=Da Capo Press |page=155 |isbn=978-0-306-81608-6}}&lt;/ref&gt;
+&lt;ref name="mKToJ"&gt;Dowbiggin, Ian (2003). ''A Merciful End''. New York: Oxford University Press, [https://books.google.com/books?id=E1AKtIEIIvUC&amp;pg=PA41 p. 41.]&lt;/ref&gt;
+&lt;ref name="xI99y"&gt;{{cite web|last=Dvorsky |first=George |url=http://io9.com/5954119/einsteins-i-dont-believe-in-god-letter-has-sold-on-ebay--and-youre-not-going-to-believe-the-price |title=Einstein's 'I don't believe in God' letter has sold on eBay... |date=23 October 2012 |website=io9.com}}&lt;/ref&gt;
+&lt;ref name="BXLfp"&gt;{{Cite web|url=http://www.medscape.com/viewarticle/436253|title=The Case of the Scientist with a Pulsating Mass|date=14 June 2002|website=[[Medscape]]|access-date=11 June 2007}}&lt;/ref&gt;
+&lt;ref name="QN45b"&gt;{{Cite web |author=Albert Einstein Archives |title=Draft of projected Telecast Israel Independence Day, April 1955 (last statement ever written) |publisher=Einstein Archives Online |date=April 1955 |url=http://alberteinstein.info/vufind1/Digital/EAR000020078#page/1/mode/1up |access-date=14 March 2007 |archive-url= https://web.archive.org/web/20070313231657/http://www.alberteinstein.info/| archive-date= 13 March 2007 |url-status=live}}&lt;/ref&gt;
+&lt;ref name="BhiNM"&gt;{{Cite journal |date=November 1995 |author=Cohen, J. R. |author2=Graver, L. M. |title=The ruptured abdominal aortic aneurysm of Albert Einstein |volume =170 |issue=5 |pages =455–458 |journal=Surgery, Gynecology &amp; Obstetrics |pmid=2183375 }}&lt;/ref&gt;
+&lt;ref name="YUhsl"&gt;{{cite news |url=http://time.com/3494553/the-day-albert-einstein-died-a-photographers-story/ |archive-url=https://web.archive.org/web/20141112114029/http://time.com/3494553/the-day-albert-einstein-died-a-photographers-story/ |url-status=dead |archive-date=12 November 2014 |author=Cosgrove, Ben |title=The Day Albert Einstein Died: A Photographer's Story |date=14 March 2014 |work=[[Time (magazine)|Time]] |access-date=24 April 2018}}&lt;/ref&gt;
+&lt;ref name="MqyYW"&gt;{{Cite news |url=https://www.npr.org/templates/story/story.php?storyId=4602913 |title=The Long, Strange Journey of Einstein's Brain |access-date=3 October 2007 |publisher=[[NPR]]}}&lt;/ref&gt;
+&lt;ref name="GQrBZ"&gt;{{Cite book |last1 =O'Connor |first1 =J. J. |last2 =Robertson |first2 =E.F. |chapter=Albert Einstein |title=The MacTutor History of Mathematics archive |publisher=School of Mathematics and Statistics, University of St. Andrews |date=1997 |chapter-url=http://www-history.mcs.st-andrews.ac.uk/Biographies/Einstein.html}}&lt;/ref&gt;
+&lt;ref name="aJHxn"&gt;{{cite journal|last1=Oppenheimer|first1=J. Robert|author-link=J. Robert Oppenheimer|title=Oppenheimer on Einstein|journal=[[Bulletin of the Atomic Scientists]]|date=March 1979|volume=35|issue=3|page=38|url=https://books.google.com/books?id=7goAAAAAMBAJ&amp;pg=PA38|bibcode=1979BuAtS..35c..36O|doi=10.1080/00963402.1979.11458597}}&lt;/ref&gt;
+&lt;ref name="e5xd8"&gt;{{cite journal | title = Investigations into the origin of Einstein's Sink | journal = Studium | year = 2019 | volume = 11 | issue = 4 | pages = 260–268 | doi=10.18352/studium.10183| last1 = Pietrow | first1 = Alexander G.M. | bibcode = 2019Studi..11E...1P | arxiv = 1905.09022| s2cid = 162168640 }}&lt;/ref&gt;
+&lt;ref name="1Jhcb"&gt;{{cite book |title=Lectures on quantum mechanics |first1=Ashok |last1=Das |publisher=Hindustan Book Agency |date=2003 |isbn=978-81-85931-41-8 |page=59}}&lt;/ref&gt;
+&lt;ref name="oJBvd"&gt;{{cite book |title=Seven ideas that shook the universe |url=https://archive.org/details/sevenideasthatsh00spie_874 |url-access=limited |edition=2nd |first1=Nathan |last1=Spielberg |first2=Bryon D. |last2=Anderson |publisher=John Wiley &amp; Sons |date=1995 |isbn=978-0-471-30606-1 |page=[https://archive.org/details/sevenideasthatsh00spie_874/page/n276 263]}}&lt;/ref&gt;
+&lt;ref name="RhZ8x"&gt;{{cite book |title=The quantum beat: principles and applications of atomic clocks |edition=2nd |first1=Fouad G. |last1=Major |publisher=Springer |date=2007 |isbn=978-0-387-69533-4 |page=142 |url=https://books.google.com/books?id=tmdr6Wx_2PYC}}&lt;/ref&gt;
+&lt;ref name="lhfJ9"&gt;{{cite book |title=Foundations of physics |first1=Robert Bruce |last1=Lindsay |first2=Henry |last2=Margenau |publisher=Ox Bow Press |date=1981 |isbn=978-0-918024-17-6 |page=330 |url=https://books.google.com/books?id=dwZltQAACAAJ}}&lt;/ref&gt;
+&lt;ref name="L2N73"&gt;{{cite web |last=Levenson |first=Thomas |title=Genius Among Geniuses |url=https://www.pbs.org/wgbh/nova/einstein/genius/ |work=Einstein's Big Idea |publisher=WBGH |via=NOVA by [[Public Broadcasting Service]] (PBS) |location=Boston |access-date=20 June 2015}}&lt;/ref&gt;
+&lt;ref name="Tf1T0"&gt;{{cite web|url=https://www.nobelprize.org/nobel_prizes/physics/laureates/1993/press.html |title=Gravity investigated with a binary pulsar-Press Release: The 1993 Nobel Prize in Physics |publisher=Nobel Foundation |access-date=6 July 2016}}&lt;/ref&gt;
+&lt;ref name="CO6kH"&gt;{{Cite web|title=Gravitational Waves: Ripples in the fabric of space-time|publisher=LIGO {{!}} MIT |url=http://space.mit.edu/LIGO/more.html |access-date=12 February 2016 |date=11 February 2016}}&lt;/ref&gt;
+&lt;ref name="oSmHb"&gt;{{Cite web|title=Scientists make first direct detection of gravitational waves |website=Jennifer Chu |url=https://news.mit.edu/2016/ligo-first-detection-gravitational-waves-0211 |publisher=MIT News |access-date= 12 February 2016}}&lt;/ref&gt;
+&lt;ref name="hkKSp"&gt;{{cite news|title = Einstein's gravitational waves 'seen' from black holes |work=BBC News|url = https://www.bbc.com/news/science-environment-35524440 |access-date = 12 February 2016|language = en-GB|date=11 February 2016|last1=Ghosh|first1=Pallab}}&lt;/ref&gt;
+&lt;ref name="38Msx"&gt;{{Cite news|title = Gravitational Waves Detected, Confirming Einstein's Theory|url = https://www.nytimes.com/2016/02/12/science/ligo-gravitational-waves-black-holes-einstein.html|newspaper = The New York Times|date = 11 February 2016|access-date = 12 February 2016|issn = 0362-4331|first = Dennis|last = Overbye}}&lt;/ref&gt;
+&lt;ref name="sOA9t"&gt;van Dongen, Jeroen (2010) ''Einstein's Unification'' Cambridge University Press, p. 23.&lt;/ref&gt;
+&lt;ref name="iJwuX"&gt;{{cite book|last1=North|first1=J.D.|title=The Measure of the Universe: A History of Modern Cosmology|date=1965|publisher=Dover|location=New York|pages=81–83}}&lt;/ref&gt;
+&lt;ref name="J9Tqu"&gt;{{cite journal|last1=Nussbaumer|first1=Harry|title=Einstein's conversion from his static to an expanding universe|journal=Eur. Phys. J. H|date=2014|volume=39|issue=1|pages=37–62|arxiv=1311.2763|doi=10.1140/epjh/e2013-40037-6|bibcode = 2014EPJH...39...37N|s2cid=122011477}}&lt;/ref&gt;
+&lt;ref name="sxfvo"&gt;{{cite book|last1=Nussbaumer and Bieri|title=Discovering the Expanding Universe|date=2009|publisher=Cambridge University Press|location=Cambridge|pages=144–152}}&lt;/ref&gt;
+&lt;ref name="qmmVf"&gt;{{Cite news|url=https://www.nytimes.com/2013/06/09/books/review/brilliant-blunders-by-mario-livio.html|title=The Genius of Getting It Wrong|date=9 June 2013|newspaper=The New York Times|last1=Zimmer|first1=Carl}}&lt;/ref&gt;
+&lt;ref name="Tq53z"&gt;{{Cite journal|title=Einstein's lost theory uncovered|volume=506|issue=7489|pages=418–419|journal=Nature News &amp; Comment|doi=10.1038/506418a|pmid=24572403|year=2014|last1=Castelvecchi|first1=Davide|bibcode=2014Natur.506..418C|s2cid=205080245|doi-access=free}}&lt;/ref&gt;
+&lt;ref name="8pfEk"&gt;{{cite web|url=http://blogs.discovermagazine.com/outthere/2014/03/14/135th-birthday-einstein-still-full-surprises/|title=On His 135th Birthday, Einstein is Still Full of Surprises|website=Out There|date=14 March 2014}}&lt;/ref&gt;
+&lt;ref name="ILjYQ"&gt;{{cite journal | last1 = Hoyle | year = 1948 | title = A New Model for the Expanding Universe | journal = MNRAS | volume = 108 | issue = 5| page = 372 |bibcode=1948MNRAS.108..372H | doi=10.1093/mnras/108.5.372| doi-access = free }}&lt;/ref&gt;
+&lt;ref name="ThZb0"&gt;{{cite journal | last1 = Bondi | last2 = Gold | year = 1948 | title = The Steady-State Theory of the Expanding Universe | journal = MNRAS | volume = 108 | issue = 3| page = 252 |bibcode=1948MNRAS.108..252B | doi=10.1093/mnras/108.3.252| doi-access = free }}&lt;/ref&gt;
+&lt;ref name="7ShC9"&gt;{{cite web|url=http://blogs.discovermagazine.com/crux/2014/03/07/einsteins-lost-theory-describes-a-universe-without-a-big-bang/|title=Einstein's Lost Theory Describes a Universe Without a Big Bang |website=The Crux |author=Amir Aczel |date=7 March 2014}}&lt;/ref&gt;
+&lt;ref name="QNjpt"&gt;{{cite web|title=2015 – General Relativity's Centennial|publisher=[[American Physical Society]]|date=2015|url=https://journals.aps.org/general-relativity-centennial|access-date=7 April 2017}}&lt;/ref&gt;
+&lt;ref name="ja7FY"&gt;{{Cite journal|title=Focus: The Birth of Wormholes|journal=Physics |volume=15 |first=David |last=Lindley |date=25 March 2005|doi=10.1103/physrevfocus.15.11}}&lt;/ref&gt;
+&lt;ref name="ixm32"&gt;[http://www.osti.gov/accomplishments/nuggets/einstein/solidcolda.html Celebrating Einstein "Solid Cold". U.S. DOE.], [[Office of Scientific and Technical Information]], 2011.&lt;/ref&gt;
+&lt;ref name="nlagl"&gt;{{Cite web |url=https://www.nist.gov/public_affairs/releases/n01-04.htm |title=Cornell and Wieman Share 2001 Nobel Prize in Physics |date=9 October 2001 |access-date=11 June 2007 |archive-url=https://web.archive.org/web/20070610080506/https://www.nist.gov/public_affairs/releases/n01-04.htm |archive-date=10 June 2007 |url-status=dead }}&lt;/ref&gt;
+&lt;ref name="zZ2hS"&gt;{{cite book |title=The New Penguin Dictionary of Modern Quotations |first1=Robert |last1=Andrews |publisher=Penguin UK |date=2003 |isbn=978-0-14-196531-4 |page=499 |url=https://books.google.com/books?id=VK0vR4fsaigC&amp;pg=PT499}}&lt;/ref&gt;
+&lt;ref name="yzZtL"&gt;{{cite journal |last1= Pais|first1= Abraham|date= October 1979|title= Einstein and the quantum theory|url= http://ursula.chem.yale.edu/~batista/classes/vvv/RevModPhys.51.863.pdf|journal= Reviews of Modern Physics|volume= 51|issue= 4|pages= 863–914|doi= 10.1103/RevModPhys.51.863|bibcode= 1979RvMP...51..863P}}&lt;/ref&gt;
+&lt;ref name="4IMf2"&gt;{{cite book |last1=Moore |first1=Walter |title=Schrödinger: Life and Thought |date=1989 |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-43767-7 |page=183 |url=https://archive.org/details/schrodingerlifet00moor |url-access=registration |access-date=28 February 2021}}&lt;/ref&gt;
+&lt;ref name="margot-obituary"&gt;{{Cite news|url=https://www.nytimes.com/1986/07/12/obituaries/margot-einstein-86-is-dead-stepdaughter-of-physicist.html |title=Obituary |newspaper=The New York Times |date=12 July 1986 |access-date=3 April 2011}}&lt;/ref&gt;
+&lt;ref name="letters-love"&gt;{{cite news |title =Letters Reveal Einstein Love Life |work=[[BBC News]] |url =http://news.bbc.co.uk/2/hi/science/nature/5168002.stm |access-date =14 March 2007 |date=11 July 2006}}&lt;/ref&gt;
+&lt;ref name="einstein.biz"&gt;{{Cite web |url=http://einstein.biz/|title=Einstein|publisher=Corbis Rights Representation|access-date=8 August 2008 |url-status=live| archive-url= https://web.archive.org/web/20080819220424/http://einstein.biz/| archive-date= 19 August 2008}}&lt;/ref&gt;
+&lt;ref name="casetext-hebrew-university"&gt;{{cite web |date=15 October 2012 |url=https://casetext.com/case/hebrew-univ-of-jerusalem-v-gen-motors-llc |title=United States District Court, Central District of California, Case No. CV10–03790 AHM (JCx)}}&lt;/ref&gt;
+&lt;ref name="pacermonitor-hebrew-university"&gt;{{cite web |date=15 January 2015 |url=https://www.pacermonitor.com/public/case/944657/The_Hebrew_University_of_Jerusalem_v_General_Motors_LLC |title=United States District Court, Central District of California, Case No.: CV-10-3790-AB (JCx)}}&lt;/ref&gt;
+&lt;ref name="disguise"&gt;{{Cite magazine |url=https://www.newyorker.com/magazine/1939/01/14/disguise-2|title=Disguise|first=E. |last=Libman|date=14 January 1939|magazine=The New Yorker|url-access=limited}}&lt;/ref&gt;
+&lt;ref name="orchestra"&gt;{{cite web |url=http://www.cindymctee.com/einsteins_dream.html |title=Einstein's Dream for orchestra |first=Cindy |last=McTee |publisher=Cindymctee.com}}&lt;/ref&gt;
+&lt;ref name="fake-quotes"&gt;{{cite web|last1=Novak|first1=Matt|title=9 Albert Einstein Quotes That Are Completely Fake|url=https://www.gizmodo.com.au/2015/05/9-albert-einstein-quotes-that-are-totally-fake/ |website=Gizmodo|access-date=4 May 2018|date=16 May 2015}}&lt;/ref&gt;
+&lt;ref name="humiliate-atheist"&gt;{{cite web|title=Did Albert Einstein Humiliate an Atheist Professor?|url=https://www.snopes.com/fact-check/false-einstein-humiliates-professor/ |publisher=Snopes|access-date=4 May 2018}}&lt;/ref&gt;
+}}
+
+===Works cited===
+{{div col|colwidth=35em}}
+* {{cite book |last=Calaprice |first=Alice |year=2000 |title=The Expanded Quotable Einstein |publisher=Princeton University Press}}
+* {{cite book |last=Calaprice |first=Alice |year=2005 |title=The New Quotable Einstein |publisher=Princeton University Press |url=http://press.princeton.edu/titles/7921.html |url-status=dead |archive-url= https://web.archive.org/web/20090622063213/http://press.princeton.edu/titles/7921.html |archive-date=22 June 2009}}
+* {{cite book|last1=Calaprice|first1=Alice|last2=Lipscombe|first2=Trevor|year=2005|title=Albert Einstein: A Biography|publisher=Greenwood Publishing Group|isbn=978-0-313-33080-3 |url=https://books.google.com/books?id=5eWh2O_3OAQC}}
+* {{cite book |last=Calaprice |first=Alice |year=2010 |title=The Ultimate Quotable Einstein |publisher=Princeton University Press |isbn=978-1-4008-3596-6 |url=https://books.google.com/books?id=G_iziBAPXtEC}}
+* {{Cite book |last1=Calaprice |first1=Alice |first2=Daniel |last2=Kennefick |first3=Robert |last3=Schulmann |title=An Einstein Encyclopedia |publisher=Princeton University Press |year=2015 }}
+* {{cite book |last=Chaplin |first=Charles |year=1964 |title=Charles Chaplin: My Autobiography |publisher=Simon and Schuster |location=New York}}
+* {{Cite book |last=Clark |first=Ronald W. |author-link=Ronald W. Clark |date=1971 |title=Einstein: The Life and Times |location=New York |publisher=Avon Books |isbn=978-0-380-44123-5 |url-access=registration |url=https://archive.org/details/einstein00rona }}
+* {{Cite book |last=Fölsing |first=Albrecht |date=1997 |title=Albert Einstein |location=New York |publisher=Penguin Viking |translator-first=Ewald |translator-last=Osers |others=Abridged by Ewald Osers |isbn=978-0-670-85545-2|url=https://archive.org/details/alberteinsteinbi00fols}}
+* {{Cite journal|last1=Fine |first1=Arthur |title=The Einstein-Podolsky-Rosen Argument in Quantum Theory |url=https://plato.stanford.edu/entries/qt-epr/ |website=Stanford Encyclopedia of Philosophy |date=2017 |publisher=Metaphysics Research Lab, Stanford University}}
+* {{cite journal |last=Galison |first=Peter |date=Winter 2000 |title=Einstein's Clocks: The Question of Time |journal=Critical Inquiry |volume=26 |issue=2 |pages=355–389 |doi=10.1086/448970 |jstor=1344127 |s2cid=144484466}}
+* {{cite book |editor-last=Glick |editor-first=Thomas F. |year=1987 |title=The Comparative Reception of Relativity |publisher=Kluwer Academic Publishers |isbn=978-90-277-2498-4}}
+* {{Cite book |last1=Highfield |first1=Roger |author-link=Roger Highfield |last2=Carter |first2=Paul |date=1993 |title=The Private Lives of Albert Einstein |location=London |publisher=Faber and Faber |isbn=978-0-571-17170-5 |url-access=registration |url=https://archive.org/details/privatelivesofal00high_1}}
+* {{Cite book |last=Hoffmann |first=Banesh |others=Collaboration with Helen Dukas |date=1972 |title=Albert Einstein: Creator and Rebel |location=New York |publisher=Viking Press |isbn=978-0-670-11181-7 |url-access=registration |url=https://archive.org/details/alberteinsteincr0000hoff_y3a8 }}
+* {{cite journal |last=Holton |first=Gerald |title=The migration of physicists to the United States |journal=Bulletin of the Atomic Scientists |publisher=Educational Foundation for Nuclear Science |date=April 1984 |volume=40 |issue=4 |pages=18–24 |doi=10.1080/00963402.1984.11459207 |bibcode=1984BuAtS..40d..18H |url=https://books.google.com/books?id=prgDAAAAMBAJ&amp;pg=PA18}}
+* {{Cite book |last=Isaacson |first=Walter |author-link=Walter Isaacson |date=2007 |title=Einstein: His Life and Universe |publisher=Simon &amp; Schuster Paperbacks |location=New York |isbn=978-0-7432-6473-0 |url-access=registration |url=https://archive.org/details/einsteinhislifeu0000isaa }}
+* {{Cite book |last=Isaacson |first=Walter |author-link=Walter Isaacson |date=2008 |title=Einstein: His Life and Universe |publisher=Simon &amp; Schuster |location=New York |isbn=978-1-8473-9589-4 |url=https://books.google.com/books?id=OzSJgdwk5esC }}
+* {{Cite book |last=Neffe |first=Jürgen |title=Einstein: A Biography |translator-first=Shelley |translator-last=Frisch |date=2007 |url=https://books.google.com/books?id=B8K6n177ZwcC |publisher=[[Farrar, Straus and Giroux]] |isbn=978-0-374-14664-1 }}
+* {{Cite book |last=Pais |first=Abraham|date=1982 |title=[[Subtle is the Lord: The Science and the Life of Albert Einstein]] |publisher=Oxford University Press |isbn=978-0-19-853907-0 }}
+* {{Cite book |last=Pais |first=Abraham |date=1994 |title=Einstein Lived Here |url=https://archive.org/details/einsteinlivedher00pais |url-access=registration |publisher=Oxford University Press |isbn= 978-0-19-280672-7 }}
+* {{Cite book|first=Roger |last=Penrose |title=The Road to Reality|year=2007|publisher=Vintage Books|isbn=978-0-679-77631-4}}
+* {{cite book |last=Robeson |first=Paul |year=2002 |title=Paul Robeson Speaks |publisher=Citadel |page=333}}
+* {{cite book |editor-last1=Rowe |editor-first1=David E. |editor-last2=Schulmann |editor-first2=Robert |year=2007 |title=Einstein on Politics: His Private Thoughts and Public Stands on Nationalism, Zionism, War, Peace, and the Bomb |publisher=Princeton University Press |isbn=978-0-691-12094-2}}
+* {{Cite book |editor-last1=Rowe |editor-first1=David E. |editor-last2=Schulmann |editor-first2=Robert |year=2013 |title=Einstein on Politics: His Private Thoughts and Public Stands on Nationalism, Zionism, War, Peace, and the Bomb |publisher=Princeton University Press |isbn=978-1-4008-4828-7 |url=https://books.google.com/books?id=_X1dAAAAQBAJ}}
+* {{cite journal | last=Scheideler | first=Britta | title=The Scientist as Moral Authority: Albert Einstein between Elitism and Democracy, 1914–1933 | journal=Historical Studies in the Physical and Biological Sciences | year=2002 | volume=32 | issue=2 | pages=319–346 | doi=10.1525/hsps.2002.32.2.319 | jstor=10.1525/hsps.2002.32.2.319 | url=https://www.jstor.org/stable/10.1525/hsps.2002.32.2.319}}
+* {{Cite book|last=Stachel |first=John J. |date=1966 |title=Albert Einstein and Mileva Marić |url=http://philoscience.unibe.ch/lehre/winter99/einstein/Stachel1966.pdf |access-date=13 May 2016 |archive-url=https://web.archive.org/web/20080307015425/http://philoscience.unibe.ch/lehre/winter99/einstein/Stachel1966.pdf |archive-date=7 March 2008 |url-status=dead}}
+* {{Cite book |last=Stachel |first=John J. |date=2002 |title=Einstein from 'B' to 'Z' |publisher=Birkhäuser |series=Einstein Studies |volume=9 |isbn=978-0-8176-4143-6 |oclc=237532460}}
+* {{Cite book|last1=Weinstein|first1=G.|title=General Relativity Conflict and Rivalries: Einstein's Polemics with Physicists|date=2015|publisher=Cambridge Scholars Publishing|location=Newcastle upon Tyne (UK)|isbn=978-1-4438-8362-7 |url=https://books.google.com/books?id=LQz5DAAAQBAJ}}
+{{div col end}}
+
+==Further reading==
+{{div col|colwidth=35em}}
+* {{Cite book |last=Brian |first=Denis |date=1996 |title=Einstein: A Life |url=https://archive.org/details/einstein00deni |url-access=registration |location=New York |publisher=John Wiley }}
+* {{cite book |last1=Gordin |first1=Michael D. |title=Einstein in Bohemia |date=2020 |publisher=Princeton University Press |isbn=978-0-691-17737-3 |language=en}}
+* {{cite EB1922 |wstitle=Einstein, Albert|last1= Lindemann |first1= Frederick Alexander |author-link=Frederick Alexander Lindemann}}
+* {{Cite book |last=Moring |first=Gary |date=2004 |url=https://archive.org/details/completeidiotsgu00mori_0 |url-access=registration |quote=idiots guide to einstein. |title=The complete idiot's guide to understanding Einstein |edition=1st |location=Indianapolis, Indiana|publisher=Alpha books (Macmillan) |isbn=978-0-02-863180-6 }}
+* {{Cite journal|last=Oppenheimer|first=J. Robert|author-link=J. Robert Oppenheimer|year=1971|title=On Albert Einstein|pages=8–12, 208|journal=Science and Synthesis: An International Colloquium Organized by Unesco on the Tenth Anniversary of the Death of Albert Einstein and Teilhard de Chardin|others=Lecture delivered at the UNESCO House in Paris on 13 December 1965}}, or {{Cite news |work=[[The New York Review of Books]]|date=17 March 1966|url=http://www.nybooks.com/articles/archives/1966/mar/17/on-albert-einstein/?pagination=false|title=On Albert Einstein by Robert Oppenheimer}}
+* {{Cite book |last=Parker |first=Barry |date=2000 |title=Einstein's Brainchild: Relativity Made Relatively Easy! |url=https://archive.org/details/einsteinsbrainch00barr |url-access=registration |publisher= Prometheus Books |others=Illustrated by Lori Scoffield-Beer |isbn=978-1-59102-522-1 }}
+* {{Cite book |last=Rogers |first=Donald W. |title=Einstein's "Other" Theory: The Planck-Bose-Einstein Theory of Heat Capacity |publisher=Princeton University Press |date=2005 |isbn=978-0-691-11826-0 }}
+* {{Cite book |last=Schweber |first=Silvan S. |author-link=Silvan S. Schweber |date=2008 |title=Einstein and Oppenheimer: The Meaning of Genius |url=https://archive.org/details/einsteinoppenhei00schw |url-access=registration |publisher=Harvard University Press |isbn=978-0-674-02828-9}}
+* {{Cite book |last=Stone |first=A. Douglas |date=2013 |title=Einstein and the Quantum |publisher=Princeton University Press |isbn=978-0-691-13968-5 |url-access=registration |url=https://archive.org/details/einsteinquantumq0000ston }}
+* {{cite journal|last1=Weinberg|first1=Steven|title=Einstein's mistakes|journal=Physics Today|date=2005|volume=58|issue=11|pages=31–35|doi=10.1063/1.2155755|bibcode = 2005PhT....58k..31W |doi-access=free }}
+{{div col end}}
+
+== External links ==
+{{Sister project links|Albert Einstein|wikt=Einstein|n=Einstein's equation turns 100|s=Author:Albert Einstein|b=Introduction to Astrophysics/Albert Einstein|voy=no}}
+{{Scholia|author}}
+* {{Curlie|Science/Physics/History/People/Einstein%2C_Albert/}}
+* {{gutenberg author|id=Albert_Einstein|name=Albert Einstein}}
+* {{Internet Archive author |sname=Albert Einstein}}
+* {{Librivox author |id=1035}}
+* [http://www.shapell.org/Collection/Jewish-Figures/Einstein-Albert Einstein's Personal Correspondence: Religion, Politics, The Holocaust, and Philosophy] Shapell Manuscript Foundation
+* [http://vault.fbi.gov/Albert%20Einstein Federal Bureau of Investigation file on Albert Einstein]
+* [https://web.archive.org/web/20150828225916/http://www.pha.jhu.edu/einstein/stuff/einstein%26music.pdf Einstein and his love of music], ''[[Physics World]]''
+* {{Nobelprize}} including the Nobel Lecture 11 July 1923 ''Fundamental ideas and problems of the theory of relativity''
+* [http://www.history.com/topics/albert-einstein Albert Einstein], videos on History.com
+* {{Cite web |url=http://ocw.mit.edu/courses/science-technology-and-society/sts-042j-einstein-oppenheimer-feynman-physics-in-the-20th-century-spring-2006/ |title=MIT OpenCourseWare STS.042J/8.225J: Einstein, Oppenheimer, Feynman: Physics in the 20th century |access-date=31 March 2011 |archive-url=https://web.archive.org/web/20110608004818/http://ocw.mit.edu/courses/science-technology-and-society/sts-042j-einstein-oppenheimer-feynman-physics-in-the-20th-century-spring-2006/ |archive-date=8 June 2011 |url-status=dead}}{{Snd}} free study course that explores the changing roles of physics and physicists during the 20th century
+* [http://www.alberteinstein.info/ Albert Einstein Archives Online (80,000+ Documents)] {{Webarchive|url=https://www.webcitation.org/60qXwH4mf?url=http://www.alberteinstein.info/ |date=11 August 2011 }} ([http://www.nbcnews.com/id/46785542 MSNBC, 19 March 2012])
+* [http://www.wdl.org/en/item/2745/ Einstein's declaration of intention for American citizenship] on the [[World Digital Library]]
+* [https://web.archive.org/web/20130929151059/http://archon.brandeis.edu/?p=collections%2Ffindingaid&amp;id=41 Albert Einstein Collection] at [[Brandeis University]]
+* [http://einsteinpapers.press.princeton.edu/ The Collected Papers of Albert Einstein "Digital Einstein"] at [[Princeton University]]
+* [http://einstein-virtuell.mpiwg-berlin.mpg.de/VEA/SC516287227_MOD-1744214250_SEQ1202484_SL861364620_en.html 16 May 1953 letter to William Frauenglass] (see resultant [https://www.nytimes.com/1953/06/12/archives/-refuse-to-testify-einstein-advises-intellectuals-called-in-by.html NYT on academic freedom / McCarthyism])
+* {{PM20|FID=pe/004590}}
+* [https://nobel.bh.org.il/en/persona/einstein-albert/ Albert Einstein], Nobel Luminaries{{Snd}} Jewish Nobel Prize Winners, on the [https://www.bh.org.il/ Beit Hatfutsot-The Museum of the Jewish People] Website.
+* [http://io9.com/5954119/einsteins-i-dont-believe-in-god-letter-has-sold-on-ebay--and-youre-not-going-to-believe-the-price "Einstein's "I don't believe in God" letter has sold on eBay..."], 23 October 2012
+* Albert Einstein's "God Letter" fetches US$2,400,000 at Christie's New York auction house on 4 December 2018 [https://www.abc.net.au/news/2018-12-05/einstein-god-letter-fetches-3.9-million-at-new-york-auction/10584228 Einstein's 'God Letter' fetches $3.9 million at New York auction]
+* [https://www.ias.edu/scholars/einstein Home page of Albert Einstein at The Institute for Advanced Study]
+* [https://albert.ias.edu/ Albert - The Digital Repository of the IAS], which contains many digitized original documents and photographs
+
+{{Einstein|state=expanded}}
+{{Copley Medallists 1901–1950}}
+{{Nobel Prize in Physics Laureates 1901–1925}}
+{{1921 Nobel Prize winners}}
+{{FRS 1921}}
+{{Philosophy of science}}
+{{Relativity}}
+{{Portal bar|Biography|Germany|Judaism|Mathematics|Physics|Astronomy|Stars|Spaceflight|Outer space|Science|United States}}
+{{Authority control}}
+{{Good article}}
+
+{{DEFAULTSORT:Einstein, Albert}}
+[[Category:Albert Einstein| ]]
+[[Category:1879 births]]
+[[Category:1955 deaths]]
+[[Category:20th-century American engineers]]
+[[Category:20th-century American physicists]]
+[[Category:20th-century American writers]]
+[[Category:Activists from New Jersey]]
+[[Category:American agnostics]]
+[[Category:American anti-capitalists]]
+[[Category:American humanists]]
+[[Category:20th-century American inventors]]
+[[Category:American letter writers]]
+[[Category:American Nobel laureates]]
+[[Category:American pacifists]]
+[[Category:American relativity theorists]]
+[[Category:American science writers]]
+[[Category:American socialists]]
+[[Category:American Zionists]]
+[[Category:Articles containing timelines]]
+[[Category:Ashkenazi Jews]]
+[[Category:Charles University faculty]]
+[[Category:Corresponding Members of the Russian Academy of Sciences (1917–1925)]]
+[[Category:Swiss cosmologists]]
+[[Category:Deaths from abdominal aortic aneurysm]]
+[[Category:Determinists]]
+[[Category:Disease-related deaths in New Jersey]]
+[[Category:Einstein family|Albert]]
+[[Category:ETH Zurich alumni]]
+[[Category:ETH Zurich faculty]]
+[[Category:European democratic socialists]]
+[[Category:Foreign associates of the National Academy of Sciences]]
+[[Category:Foreign Fellows of the Indian National Science Academy]]
+[[Category:Foreign Members of the Royal Society]]
+[[Category:German agnostics]]
+[[Category:German anti-capitalists]]
+[[Category:German emigrants to Switzerland]]
+[[Category:German humanists]]
+[[Category:20th-century Swiss inventors]]
+[[Category:German Jews]]
+[[Category:German Nobel laureates]]
+[[Category:German relativity theorists]]
+[[Category:German socialists]]
+[[Category:Honorary Members of the USSR Academy of Sciences]]
+[[Category:Institute for Advanced Study faculty]]
+[[Category:Jewish agnostics]]
+[[Category:Jewish American physicists]]
+[[Category:Jewish emigrants from Nazi Germany to the United States]]
+[[Category:Jewish inventors]]
+[[Category:Jewish Nobel laureates]]
+[[Category:Jewish physicists]]
+[[Category:Jewish socialists]]
+[[Category:Leiden University faculty]]
+[[Category:Mathematicians involved with Mathematische Annalen]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Members of the Bavarian Academy of Sciences]]
+[[Category:Members of the Lincean Academy]]
+[[Category:Members of the Royal Netherlands Academy of Arts and Sciences]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Naturalised citizens of Austria]]
+[[Category:Naturalised citizens of Switzerland]]
+[[Category:Naturalized citizens of the United States]]
+[[Category:New Jersey socialists]]
+[[Category:Nobel laureates in Physics]]
+[[Category:Pantheists]]
+[[Category:Patent examiners]]
+[[Category:People from Princeton, New Jersey]]
+[[Category:People who lost German citizenship]]
+[[Category:Philosophers of mathematics]]
+[[Category:Philosophers of science]]
+[[Category:Philosophy of science]]
+[[Category:Quantum physicists]]
+[[Category:Recipients of the Gold Medal of the Royal Astronomical Society]]
+[[Category:Recipients of the Pour le Mérite (civil class)]]
+[[Category:Scientists from Munich]]
+[[Category:Spinozists]]
+[[Category:Stateless people]]
+[[Category:Swiss agnostics]]
+[[Category:Swiss emigrants to the United States]]
+[[Category:Swiss Jews]]
+[[Category:Swiss physicists]]
+[[Category:Winners of the Max Planck Medal]]</text>
+      <sha1>9jvt0dy3n76hzr5twv9v3a6uea1b1lr</sha1>
+    </revision>
+  </page>
+</mediawiki>

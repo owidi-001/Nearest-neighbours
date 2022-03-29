@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 13</title>
+    <id>13</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">Angle brackets, escaped form! &lt;This text should still be skipped!&gt; But this text should be included, because it's valid text.</text>
+    </revision>
+  </page>
+</mediawiki>

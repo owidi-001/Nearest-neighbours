@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Benign tumor</title>
+    <ns>0</ns>
+    <id>1342811</id>
+    <revision>
+      <id>1017981373</id>
+      <parentid>1003135516</parentid>
+      <timestamp>2021-04-15T17:25:45Z</timestamp>
+      <contributor>
+        <username>Altercari</username>
+        <id>12684620</id>
+      </contributor>
+      <minor/>
+      <comment>/* Classification */ change wikilink from redirect to article name, table properties (hide)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25941" xml:space="preserve">{{Short description|Disease of cellular proliferation that results in abnormal growths in the body which lack the ability to metastasize}}
+{{Infobox medical condition (new)
+| name            = Benign tumor
+| synonyms        = 
+| image           = Normal Epidermis and Dermis with Intradermal Nevus 10x.JPG
+| alt             = 
+| caption         = Normal [[epidermis]] and [[dermis]] with [[intradermal nevus]], 10x-cropped
+| pronounce       = 
+| field           = [[Pathology]]
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+
+A '''benign tumor''' is a mass of [[Cell (biology)|cells]] ([[tumor]]) that lacks the ability to either [[Cancer invasion|invade neighboring tissue]] or [[Metastasis|metastasize]] (spread throughout the body). When removed, benign tumors usually do not grow back, whereas [[malignant tumor]]s sometimes do. Unlike most benign tumors elsewhere in the body, benign [[brain tumor]]s can be life-threatening.&lt;ref&gt;{{Cite web|url=https://www.cancer.gov/about-cancer/understanding/what-is-cancer|title=What Is Cancer?|website=National Cancer Institute|language=en|access-date=2017-11-26|date=2007-09-17}}{{PD-notice}}&lt;/ref&gt; Benign tumors generally have a slower [[Cell growth|growth rate]] than malignant tumors and the tumor cells are usually more [[Cell differentiation|differentiated]] (cells have more normal features).&lt;ref name="ISBN 0-443-10101-9"&gt;{{cite book |author1=Wilson, Kathleen Atkins |author2=Waugh, Anne |author3=Chambers, Graeme |author4=Grant, Allison |author5=Ross, Janet |title=Ross and Wilson anatomy and physiology in health and illness |publisher=Churchill Livingstone|location=Edinburgh |year=2006 |pages=53–54 |isbn=0-443-10101-9 }}&lt;/ref&gt;&lt;ref name="ISBN 0-7613-2833-5"&gt;{{cite book |author1=Nunn, Laura Silverstein |author2=Silverstein, Alvin |author3=Silverstein, Virginia B. |title=Cancer |publisher=Twenty-First Century Books |location=Brookfield, Conn |year=2006 |pages=[https://archive.org/details/cancer00silv/page/11 11–12] |isbn=0-7613-2833-5 |url-access=registration |url=https://archive.org/details/cancer00silv/page/11 }}&lt;/ref&gt;&lt;ref name="ISBN 0-7817-9516-8"&gt;{{cite book|author1=David Lowell Strayer |author2=Raphael Rubin |author3=Rubin, Emanuel |title=Rubin's pathology: clinicopathologic foundations of medicine |publisher=Wolters Kluwer/Lippincott Williams &amp; Wilkins |location=Philadelphia |year=2008 |pages=138–139|isbn=978-0-7817-9516-6 }}&lt;/ref&gt; They are typically surrounded by an outer surface (fibrous sheath of [[connective tissue]]) or stay contained within the [[epithelium]].&lt;ref name="ISBN 0-321-31198-1"&gt;{{cite book|author1=Ober, William B. |author2=Martini, Frederic |title=Fundamentals of anatomy &amp; physiology |publisher=Pearson Benjamin Cummings |location=San Francisco |year=2006 |isbn=0-321-31198-1 }}&lt;/ref&gt; Common examples of benign tumors include [[Melanocytic nevus|moles]] and [[uterine fibroid]]s.
+
+Although benign tumors will not metastasize or locally invade [[Biological tissue|tissue]]s, some types may still produce negative health effects. The growth of benign tumors produces a "[[mass effect (medicine)|mass effect]]" that can compress tissues and may cause nerve damage, reduction of blood flow to an area of the body ([[ischaemia]]), tissue death ([[necrosis]]) and organ damage. The health effects of the tumor may be more prominent if the tumor is within an enclosed space such as the [[cranium]], [[respiratory tract]], [[sinus (anatomy)|sinus]] or inside bones. Tumors of [[Endocrine system|endocrine]] tissues may overproduce certain [[hormone]]s. Examples include [[thyroid adenoma]]s and [[adrenal tumor#Adrenocortical adenoma|adrenocortical adenomas]].&lt;ref name="ISBN 0-443-10101-9"/&gt;
+
+Although most benign tumors are not life-threatening, many types of benign tumors have the potential to become cancerous ([[Malignancy|malignant]]) through a process known as [[tumor progression]].&lt;ref name="pmid1911211"&gt;{{cite journal |author=Clark WH |title=Tumour progression and the nature of cancer |journal=Br. J. Cancer |volume=64|issue=4|pages=631–44 |date=October 1991 |pmid=1911211|pmc=1977704 |doi= 10.1038/bjc.1991.375}}&lt;/ref&gt; For this reason and other possible negative health effects, some benign tumors are removed by surgery.&lt;ref name="ISBN 0-321-27045-2"&gt;{{cite book|author1=Reece, Jane |author2=Campbell, Neil |author3=Urry, Lisa |title=Biology |publisher=Pearson Benjamin Cummings |location=San Francisco |year=2005 |page= 232|isbn=0-321-27045-2 }}&lt;/ref&gt;
+
+==Signs and symptoms==
+Benign tumors are very diverse; they may be asymptomatic or may cause specific symptoms, depending on their anatomic location and tissue type. They grow outward, producing large, rounded masses which can cause what is known as a "mass effect". This growth can cause compression of local tissues or organs, leading to many effects, such as blockage of ducts, reduced blood flow ([[ischaemia]]), tissue death ([[necrosis]]) and nerve pain or damage.&lt;ref name="ISBN 0-443-10101-9"/&gt; Some tumors also produce hormones that can lead to life-threatening situations. [[Insulinoma]]s can produce large amounts of insulin, causing [[hypoglycemia]].&lt;ref name="pmid1665409"&gt;{{cite journal |vauthors=Marks V, Teale JD |title=Tumours producing hypoglycaemia |journal=Diabetes Metab Rev |volume=7|issue=2 |pages=79–91 |date=June 1991 |pmid=1665409 |doi= 10.1002/dmr.5610070202}}&lt;/ref&gt;&lt;ref name="pmid16253900"&gt;{{cite journal|author=Grant CS |title=Insulinoma |journal=Best Pract Res Clin Gastroenterol |volume=19 |issue=5 |pages=783–98|date=October 2005 |pmid=16253900 |doi=10.1016/j.bpg.2005.05.008 }}&lt;/ref&gt; [[Pituitary adenoma]]s can cause elevated levels of hormones such as [[growth hormone]] and [[insulin-like growth factor-1]], which cause [[acromegaly]]; [[prolactin]]; [[ACTH]] and [[cortisol]], which cause [[Cushings disease]]; [[Thyroid-stimulating hormone|TSH]], which causes [[hyperthyroidism]]; and [[Follicle-stimulating hormone|FSH]] and [[Luteinizing hormone|LH]].&lt;ref name="ISBN 92-832-2416-7"&gt;{{cite book |author1=Charis Eng |author2=DeLellis, Ronald A. |author3=Lloyd, Ricardo V. |author4=Phillipp U. Heitz |title=Pathology and genetics of tumours of endocrine organs|publisher=IARC Press |location=Lyon |year=2004 |isbn=92-832-2416-7 }}&lt;/ref&gt; Bowel [[intussusception (medical disorder)|intussusception]] can occur with various benign colonic tumors.&lt;ref name="pmid11588539"&gt;{{cite journal |vauthors=Gill SS, Heuman DM, Mihas AA |title=Small intestinal neoplasms |journal=J. Clin. Gastroenterol. |volume=33 |issue=4 |pages=267–82 |date=October 2001 |pmid=11588539 |doi= 10.1097/00004836-200110000-00004}}&lt;/ref&gt; Cosmetic effects can be caused by tumors, especially those of the skin, possibly causing psychological or social discomfort for the person with the tumor.&lt;ref name="pmid15953143"&gt;{{cite journal |vauthors=Tromberg J, Bauer B, Benvenuto-Andrade C, Marghoob AA |title=Congenital melanocytic nevi needing treatment |journal=Dermatol Ther |volume=18 |issue=2|pages=136–50 |year=2005 |pmid=15953143 |doi=10.1111/j.1529-8019.2005.05012.x |s2cid=20915929 }}&lt;/ref&gt; [[vascular tumor|Vascular tissue tumors]] can bleed, in some cases leading to [[anemia]].&lt;ref name = "zuberandharder1"&gt;{{cite book|author1=M. Zuber |author2=F. Harder |title=Benign tumors of the colon and rectum|year=2001|publisher=Surgical Treatment: Evidence-Based and Problem-Oriented.|location=Munich: Zuckschwerdt|url=https://www.ncbi.nlm.nih.gov/books/NBK6994/}}&lt;/ref&gt;
+
+==Causes==
+
+===PTEN hamartoma syndrome===
+PTEN hamartoma syndrome consists of four distinct [[hamartoma]]tous disorders characterised by genetic mutations in the [[PTEN (gene)|PTEN]] gene; [[Cowden syndrome]], [[Bannayan-Riley-Ruvalcaba syndrome]], [[Proteus syndrome]] and [[Proteus-like syndrome]]. Although they all have distinct clinical features, the formation of hamartomas occurs in all four syndromes. PTEN is a [[tumor suppressor]] gene that is involved in [[cellular signalling]]. Absent or dysfunctional PTEN protein allows cells to over-proliferate, causing hamartomas.&lt;ref name="pmid19668082"&gt;{{cite journal|vauthors=Hobert JA, Eng C |title=PTEN hamartoma tumor syndrome: an overview |journal=Genet. Med. |volume=11 |issue=10|pages=687–94 |date=October 2009 |pmid=19668082 |doi=10.1097/GIM.0b013e3181ac9aea |doi-access=free }}&lt;/ref&gt;
+
+===Other syndromes===
+[[Cowden syndrome]] is an [[autosomal dominant]] [[genetic disorder]] characterised by multiple benign [[hamartoma]]s ([[trichilemmoma]]s and mucocutaneous papillomatous papules) as well as a predisposition for cancers of multiple organs including the breast and thyroid.&lt;ref name="pmid15121767"&gt;{{cite journal |vauthors=Pilarski R, Eng C |title=Will the real Cowden syndrome please stand up (again)? Expanding mutational and clinical spectra of the PTEN hamartoma tumour syndrome |journal=J. Med. Genet. |volume=41 |issue=5 |pages=323–6 |date=May 2004 |pmid=15121767|pmc=1735782 |doi= 10.1136/jmg.2004.018036}}&lt;/ref&gt;&lt;ref name="pmid11073535"&gt;{{cite journal |author=Eng C |title=Will the real Cowden syndrome please stand up: revised diagnostic criteria |journal=J. Med. Genet. |volume=37 |issue=11 |pages=828–30|date=November 2000 |pmid=11073535 |pmc=1734465 |doi= 10.1136/jmg.37.11.828}}&lt;/ref&gt; [[Bannayan-Riley-Ruvalcaba syndrome]] is a [[congenital disorder]] characterised by hamartomatous intestinal polyposis, [[macrocephaly]], [[lipomatosis]], [[Benign neonatal hemangiomatosis|hemangiomatosis]] and [[glans penis]] macules.&lt;ref name="pmid19668082"/&gt;&lt;ref name="pmid12938083"&gt;{{cite journal|author=Eng C |title=PTEN: one gene, many syndromes |journal=Hum. Mutat. |volume=22 |issue=3 |pages=183–98 |date=September 2003 |pmid=12938083 |doi=10.1002/humu.10257 |s2cid=13417857 }}&lt;/ref&gt; [[Proteus syndrome]] is characterised by [[nevus|nevi]], asymmetric overgrowth of various body parts, adipose tissue dysregulation, [[cystadenoma]]s, [[adenoma]]s, vascular malformation.&lt;ref name="pmid18781191"&gt;{{cite journal |vauthors=Blumenthal GM, Dennis PA |title=PTEN hamartoma tumor syndromes |journal=Eur. J. Hum. Genet. |volume=16 |issue=11 |pages=1289–300 |date=November 2008 |pmid=18781191 |pmc=6939673 |doi=10.1038/ejhg.2008.162 }}&lt;/ref&gt;&lt;ref name="pmid16010681"&gt;{{cite journal|author=Cohen MM |title=Proteus syndrome: an update |journal=Am J Med Genet C Semin Med Genet |volume=137C |issue=1|pages=38–52 |date=August 2005 |pmid=16010681 |doi=10.1002/ajmg.c.30063 |s2cid=31873101 }}&lt;/ref&gt;
+
+[[File:Familial adenomatous polyposis as seen on sigmoidoscopy.jpg|thumb|left|[[Endoscopic]] image of [[sigmoid colon]] of a patient with [[familial adenomatous polyposis]].]]
+
+===Familial adenomatous polyposis===
+
+[[Familial adenomatous polyposis]] (FAP) is a familial [[cancer syndrome]] caused by mutations in the [[Adenomatous polyposis coli|APC]] gene. In this disorder [[adenoma]]tous polyps are present in the [[colon (anatomy)|colon]] that will progress into [[colon cancer]] unless removed.&lt;ref name="pmid16454848"&gt;{{cite journal |vauthors=Galiatsatos P, Foulkes WD |title=Familial adenomatous polyposis|journal=Am. J. Gastroenterol. |volume=101 |issue=2 |pages=385–98 |date=February 2006 |pmid=16454848}}&lt;/ref&gt; The APC gene is a [[tumor suppressor]]; its protein product is involved in many cellular processes. Inactivation of the APC gene leads to the buildup of a protein called [[β-catenin]], which activates two [[transcription factors]]: [[T-cell]] factor (TCF) and [[lymphoid enhancer-binding factor 1|lymphoid enhancer factor]] (LEF). These cause the upregulation of many genes involved in cell [[cell growth|proliferation]], [[cellular differentiation|differentiation]], [[cell migration|migration]] and [[apoptosis]] (programmed cell death), causing the growth of benign tumors.&lt;ref name="pmid17881494"&gt;{{cite journal |vauthors=Aoki K, Taketo MM |s2cid=8743 |title=Adenomatous polyposis coli (APC): a multi-functional tumor suppressor gene |journal=J. Cell Sci. |volume=120 |issue=Pt 19 |pages=3327–35|date=October 2007 |pmid=17881494 |doi=10.1242/jcs.03485 |doi-access=free }}&lt;/ref&gt;
+
+===Tuberous sclerosis complex===
+[[Tuberous sclerosis complex]] (TSC) is an autosomal dominant genetic disorder caused by mutations in the genes[[TSC1]] and [[TSC2]], which produce the proteins [[hamartin]] and [[tuberin]], respectively. This disorder presents with many benign hamartomatous tumors including [[angiofibroma]]s, renal [[angiomyolipoma]]s, pulmonary [[lymphangiomyomatosis]]. Tuberin and hamartin inhibit the [[mTOR]] protein in normal cellular physiology and the inactivation of the TSC tumor suppressors causes an increase in mTOR activity. This leads to the activation of genes and the production of proteins that increase cell growth.&lt;ref name="pmid15624019"/&gt;&lt;ref name="pmid17005952"&gt;{{cite journal |vauthors=Crino PB, Nathanson KL, Henske EP |s2cid=3579356 |title=The tuberous sclerosis complex |journal=N. Engl. J. Med. |volume=355 |issue=13|pages=1345–56 |date=September 2006 |pmid=17005952 |doi=10.1056/NEJMra055323 }}&lt;/ref&gt;&lt;ref name="pmid12556239"&gt;{{cite journal |author=Kwiatkowski DJ |title=Tuberous sclerosis: from tubers to mTOR |journal=Ann. Hum. Genet. |volume=67 |issue=Pt 1 |pages=87–96 |date=January 2003 |pmid=12556239 |doi= 10.1046/j.1469-1809.2003.00012.x|s2cid=41992893 }}&lt;/ref&gt;
+
+===Von Hippel-Lindau disease===
+[[Von Hippel-Lindau disease]] is a dominantly-inherited cancer syndrome that significantly increases the risk of various tumors including benign [[hemangioblastoma]]s and malignant [[pheochromocytoma]]s, [[renal cell carcinoma]]s, [[pancreatic endocrine tumor]]s and [[endolymphatic sac tumor]]s. It is caused by genetic mutations in the [[Von Hippel–Lindau tumor suppressor]] gene. The VHL protein (pVHL) is involved in cellular signalling in oxygen starved ([[Tumor hypoxia|hypoxic]]) cells. One role of pVHL is to cause the cellular degradation of another protein, [[HIF1A|HIF1α]]. Dysfunctional pVHL leads to accumulation of HIF1α, which activates several genes responsible for the production of substances involved in cell growth and blood vessel production: [[VEGF]], [[PDGFB|PDGFβ]], [[TGFα]] and [[erythropoietin]].&lt;ref name="pmid15579030"&gt;{{cite journal |author=Maher ER |title=Von Hippel-Lindau disease |journal=Curr. Mol. Med.|volume=4 |issue=8 |pages=833–42 |date=December 2004 |pmid=15579030 |doi= 10.2174/1566524043359827}}&lt;/ref&gt;
+
+==Mechanism==
+[[File:Types of tumor cells.jpg|thumb|Benign (L) vs Malignant tumor (R).]]
+
+===Benign vs malignant===
+[[File:BENIGN AND MALIGNANT TUMOUR.png|thumb|Diagram showing two [[epithelium|epithelial]] tumors. The upper tumor is a benign tumor that is non-invasive. Benign tumors are usually round in shape and encapsulated by fibrous connective tissue. The lower picture depicts a malignant tumor. It is irregularly shaped, vascular, and it is invasive, crossing the [[basement membrane]].]]
+One of the most important factors in classifying a tumor as benign or malignant is its invasive potential. If a tumor lacks the ability to invade adjacent [[tissue (biology)|tissues]] or spread to distant sites by metastasizing then it is benign, whereas invasive or metastatic tumors are malignant.&lt;ref name="ISBN 0-443-10101-9"/&gt; For this reason, benign tumors are not classed as cancer.&lt;ref name="ISBN 0-7613-2833-5"/&gt; Benign tumors will grow in a contained area usually encapsulated in a fibrous [[connective tissue]] capsule. The growth rates of benign and malignant tumors also differ; benign tumors generally grow more slowly than malignant tumors. Although benign tumors pose a lower health risk than malignant tumors, they both can be life-threatening in certain situations. There are many general characteristics which apply to either benign or malignant tumors, but sometimes one type may show characteristics of the other. For example, benign tumors are mostly well differentiated and malignant tumors are often undifferentiated. However, undifferentiated benign tumors and differentiated malignant tumors can occur.&lt;ref name="pmid10366409"&gt;{{cite journal |vauthors=Skorić T, Korsić M, Zarković K |title=Clinical and morphological features of undifferentiated monomorphous GH/TSH-secreting pituitary adenoma |journal=Eur. J. Endocrinol. |volume=140 |issue=6|pages=528–37 |date=June 1999 |pmid=10366409 |doi= 10.1530/eje.0.1400528|display-authors=etal|doi-access=free }}&lt;/ref&gt;&lt;ref name="pmid23106056"&gt;{{cite journal|vauthors=Song HJ, Xue YL, Qiu ZL, Luo QY |title=Uncommon metastases from differentiated thyroid carcinoma |journal= Hellenic Journal of Nuclear Medicine|volume=15 |issue=3 |pages=233–40 |year=2012 |pmid=23106056 |doi=&lt;!-- 10.1967/s002449910059 --&gt; |url= http://www.nuclmed.gr/magazine/eng/sept12/57.pdf}}&lt;/ref&gt; Although benign tumors generally grow slowly, cases of fast-growing benign tumors have also been documented.&lt;ref name="pmid5681331"&gt;{{cite journal |vauthors=Sagel SS, Ablow RC |title=Hamartoma: on occasion a rapidly growing tumor of the lung|journal=Radiology |volume=91 |issue=5 |pages=971–2 |date=November 1968|pmid=5681331 |doi=10.1148/91.5.971}}&lt;/ref&gt; Some malignant tumors are mostly non-metastatic such as in the case of [[basal cell carcinoma]].&lt;ref name="ISBN 0-7817-9516-8"/&gt; CT and chest radiography can be a useful diagnostic exam in visualizing a benign tumor and differentiating it from a malignant tumor. The smaller the tumor on a radiograph the more likely it is to be benign as 80% of lung nodules less than 2&amp;nbsp;cm in diameter are benign. Most benign nodules are smoothed radiopaque densities with clear margins but these are not exclusive signs of benign tumors.&lt;ref&gt;{{cite journal |author=Erasmus, J.J. |author2=Connolly, J.E. |author3=McAdams, H.P. |author4=Roggli, V.L. |title=Solitary pulmonary nodules: Part I. Morphologic evaluation for differentiation of benign and malignant lesions |journal= Radiographics|volume=20 |issue= 1 |pages=43–58 |date=2000 |doi=10.1148/radiographics.20.1.g00ja0343 |pmid=10682770}}&lt;/ref&gt;
+
+===Multistage carcinogenesis===
+Tumors are formed by [[carcinogenesis]], a process in which cellular alterations lead to the formation of cancer. Multistage carcinogenesis involves the sequential [[genetics|genetic]] or [[epigenetic]] changes to a cell's [[DNA]], where each step produces a more advanced tumor. It is often broken down into three stages; initiation, promotion and progression, and several mutations may occur at each stage. Initiation is where the first genetic mutation occurs in a cell. Promotion is the clonal expansion (repeated division) of this transformed cell into a visible tumor that is usually benign. Following promotion, progression may take place where more genetic mutations are acquired in a sub-population of tumor cells. Progression changes the benign tumor into a malignant tumor.&lt;ref name="pmid1911211"/&gt;&lt;ref name="pmid8354184"&gt;{{cite journal |author=Barrett JC |title=Mechanisms of multistep carcinogenesis and carcinogen risk assessment |journal=Environ. Health Perspect. |volume=100 |pages=9–20 |date=April 1993 |pmid=8354184|pmc=1519586 |doi= 10.1289/ehp.931009}}&lt;/ref&gt; A prominent and well studied example of this phenomenon is the tubular adenoma, a common type of [[colon polyp]] which is an important precursor to colon cancer. The cells in tubular adenomas, like most tumors that frequently progress to cancer, show certain abnormalities of cell maturation and appearance collectively known as [[dysplasia]]. These cellular abnormalities are not seen in benign tumors that rarely or never turn cancerous, but are seen in other pre-cancerous tissue abnormalities which do not form discrete masses, such as [[cervical intraepithelial neoplasia|pre-cancerous lesions of the uterine cervix]].
+
+==Diagnosis==
+===Classification===
+{| class="wikitable mw-collapsible floatright"
+|+ Tumors and cell origin
+! Cell origin
+! Cell type
+! Tumor
+ |-
+! rowspan ="10" | [[Endodermal]]
+| [[Biliary tree]]|| Cholangioma
+|-
+ | [[Colon (anatomy)|Colon]] || [[Colorectal polyp|Colonic polyp]]
+|-
+ |rowspan="3"| [[Glandular]] || [[Adenoma]]
+|-
+|[[Papilloma]]
+|-
+| [[Cystadenoma]]
+|-
+ | [[Liver]] || [[hepatocellular adenoma|Liver cell adenoma]]
+|-
+ | [[Placenta]]l || [[Hydatiform mole]]
+|-
+ | [[Renal]] || [[tubular adenoma|Renal tubular adenoma]]
+|-
+ | [[Squamous cell|Squamous]] || [[Squamous cell papilloma]]
+|-
+ | [[Stomach]] || [[fundic gland polyposis|Gastric polyp]]
+|-
+! rowspan ="8" | [[Mesenchymal]]
+| [[Blood vessel]] || [[Hemangioma]], [[Cardiac myxoma]]
+|-
+|[[Bone]]||[[Osteoma]]
+|-
+|[[Cartilage]]||[[Chondroma]]
+|-
+|[[adipose tissue|Fat tissue]]||[[Lipoma]]
+|-
+|[[Fibrous tissue]]||[[Fibroma]]
+|-
+|[[Lymphatic vessel]]||[[Lymphangioma]]
+|-
+|[[Smooth muscle]]||[[Leiomyoma]]
+|-
+|[[Striated muscle]]||[[Rhabdomyoma]]
+|-
+! rowspan = "4" | [[Ectodermal]]
+| [[Glia]] || [[Astrocytoma]], [[Schwannoma]]
+|-
+|[[Melanocyte]]s||[[Nevus]]
+|-
+|[[Meninges]]||[[Meningioma]]
+|-
+|[[Nerve cell]]s||[[Ganglioneuroma]]
+|-
+!colspan="3"|Reference&lt;ref name="ISBN 0-7637-6357-8"&gt;{{cite book |author1=Wujcik, Debra |author2=Yarbro, Connie Henke |author3=Barbara H. Gobel |title=Cancer nursing: principles and practice |publisher=Jones and Bartlett Publishers |location=Boston|year=2011 |isbn=978-0-7637-6357-2 }}&lt;/ref&gt;
+  |}
+
+Benign [[neoplasm]]s are typically but not always composed of cells which bear a strong resemblance to a normal cell type in their organ of origin. These tumors are named for the cell or tissue type from which they originate, followed by the suffix "-oma" (but not -carcinoma, -sarcoma, or -blastoma, which are generally cancers). For example, a [[lipoma]] is a common benign tumor of fat cells ([[lipocyte]]s), and a [[chondroma]] is a benign tumor of cartilage-forming cells ([[chondrocyte]]s). [[Adenoma]]s are benign tumors of gland-forming cells, and are usually specified further by their cell or organ of origin, as in [[hepatic adenoma]] (a benign tumor of [[hepatocyte]]s, or [[liver]] cells). [[Teratoma]]s contain many cell types such as skin, nerve, brain and thyroid, among others, because they are derived from germ cells.&lt;ref name="ISBN 0-7817-9516-8"/&gt; [[Hamartoma]]s are a group of benign tumors that have relatively normal [[cellular differentiation]] but the architecture of the tissue is disorganised.&lt;ref name="pmid15624019"&gt;{{cite journal |vauthors=Inoki K, Corradetti MN, Guan KL |title=Dysregulation of the TSC-mTOR pathway in human disease|journal=Nat. Genet. |volume=37 |issue=1 |pages=19–24 |date=January 2005 |pmid=15624019 |doi=10.1038/ng1494|s2cid=205344131}}&lt;/ref&gt; There are a few cancers with 'benign-sounding' names which have been retained for historical reasons, including [[melanoma]] (a cancer of pigmented skin cells, or [[melanocytes]]) and [[seminoma]] (a cancer of male reproductive cells).&lt;ref name="robbins"&gt;{{cite book |author1=Ramzi Cotran |author2=Vinay Kumar |author3=Tucker Collins |title=Robbins Pathologic Basis of Disease |edition=6th |year=1999 |publisher=W.B. Saunders |isbn=0-7216-7335-X }}&lt;/ref&gt; Skin tags, vocal chord polyps and hyperplastic polyps of the colon are often referred to as benign but they are actually overgrowths of normal tissue rather than neoplasms.&lt;ref name="ISBN 0-7817-9516-8"/&gt;
+
+==Treatment==
+Some benign tumors need no treatment; others may be removed if they cause problems such as seizures, discomfort or cosmetic concerns. [[Surgery]] is usually the most effective approach and is used to treat most benign tumors. In some case other treatments may be of use. Adenomas of the [[rectum]] may be treated with [[sclerotherapy]], a treatment in which chemicals are used to shrink blood vessels in order to cut off the blood supply.&lt;ref name = "zuberandharder1"/&gt; Most benign tumors do not respond to [[chemotherapy]] or [[radiation therapy]], although there are exceptions; benign intercranial tumors are sometimes treated with radiation therapy and chemotherapy under certain circumstances.&lt;ref name="pmid23462704"&gt;{{cite journal |author=Brada M |title=Radiotherapy for benign brain tumours coming of age; example of vestibular schwannoma |journal=Radiother Oncol |volume= 106|issue= 2|pages= 157–60|date=February 2013 |pmid=23462704|doi=10.1016/j.radonc.2013.01.009 }}&lt;/ref&gt;&lt;ref name="pmid19023520"&gt;{{cite journal |vauthors=Sioka C, Kyritsis AP |title=Chemotherapy, hormonal therapy, and immunotherapy for recurrent meningiomas |journal=J. Neurooncol. |volume=92|issue=1 |pages=1–6 |date=March 2009 |pmid=19023520 |doi=10.1007/s11060-008-9734-y |s2cid=28106960 }}&lt;/ref&gt; Radiation can also be used to treat hemangiomas in the rectum.&lt;ref name = "zuberandharder1"/&gt; Benign skin tumors are usually surgically resected but other treatments such as [[cryotherapy]], [[curettage]], [[electrodesiccation]], [[laser therapy]], [[dermabrasion]], [[chemical peels]] and [[topical medication]] are used.&lt;ref name="pmid12613727"&gt;{{cite journal |vauthors=Luba MC, Bangs SA, Mohler AM, Stulberg DL |title=Common benign skin tumors |journal=Am Fam Physician|volume=67 |issue=4 |pages=729–38 |date=February 2003 |pmid=12613727 }}&lt;/ref&gt;&lt;ref name="pmid18395671"&gt;{{cite journal |vauthors=Marghoob AA, Borrego JP, Halpern AC |title=Congenital melanocytic nevi: treatment modalities and management options |journal=Semin Cutan Med Surg |volume=26 |issue=4 |pages=231–40 |date=December 2007 |pmid=18395671 |doi=10.1016/j.sder.2008.03.007 }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Medical resources
+|  DiseasesDB      = 
+|  ICD10           = &lt;!-- {{ICD10|Xxx.x}} --&gt;
+|  ICD9            = &lt;!-- {{ICD9|xxx}} --&gt;
+|  ICDO            = 
+|  OMIM            = 
+|  MedlinePlus     = 
+|  MeSH            = 
+|  GeneReviewsNBK  = 
+|  GeneReviewsName = 
+}}
+{{Tumors}}
+
+[[Category:Medical terminology]]
+[[Category:Benign neoplasms]]</text>
+      <sha1>apj897vkiyckrvm21uf033iqdfvtdak</sha1>
+    </revision>
+  </page>
+</mediawiki>

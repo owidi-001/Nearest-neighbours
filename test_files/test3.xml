@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 3</title>
+    <id>3</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">Now we have some curly braces. {{Don't include the text in here!}} Here's some more valid text.</text>
+    </revision>
+  </page>
+</mediawiki>

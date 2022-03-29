@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 9</title>
+    <id>9</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">Here's a test with a single set of single square brackets. [Don't include the text in here!] Here's some more valid text.</text>
+    </revision>
+  </page>
+</mediawiki>

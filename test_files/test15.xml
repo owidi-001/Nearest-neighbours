@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 15</title>
+    <id>15</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">One last isolation test. The word file itself is fine and should be included. It becomes problematic when it includes a colon and horizonal bar, like this: File:|. This file should only have a count of three for the word "file".</text>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,628 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sue Bird</title>
+    <ns>0</ns>
+    <id>747736</id>
+    <revision>
+      <id>1035474451</id>
+      <parentid>1035230639</parentid>
+      <timestamp>2021-07-25T22:16:19Z</timestamp>
+      <contributor>
+        <ip>119.194.203.166</ip>
+      </contributor>
+      <comment>fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57290" xml:space="preserve">{{About|the basketball player|the acoustic engineer|Sue Bird (engineer)}}
+{{Short description|American basketball player}}
+{{Use mdy dates|date=January 2019}}
+{{Infobox basketball biography
+| name = Sue Bird
+| image = Bird-20180912.jpg
+| caption = Bird in 2018
+| team = Seattle Storm
+| league = [[WNBA]]
+| number = 10
+| position = [[Point guard]]
+| height = {{convert|5|ft|9|in|cm|sigfig=3|abbr=on}}
+| weight_lbs = 150
+| nationality = American
+| birth_date = {{birth date and age|1980|10|16}}
+| birth_place = [[Syosset, New York]]
+| high_school =
+*[[Syosset High School|Syosset]]&lt;br /&gt;(Syosset, New York)
+*[[Christ the King Regional High School|Christ the King]]&lt;br /&gt;([[Queens, New York]])
+| college = [[UConn Huskies women's basketball|UConn]] (1998–2002)
+| draft_league = WNBA
+| draft_year = 2002
+| draft_round = 1
+| draft_pick = 1
+| draft_team = [[Seattle Storm]]
+| career_start = 2002
+| career_end = 
+| years1 = {{WNBA Year|2002}}–present
+| team1 = [[Seattle Storm]]
+| years2 = 2004–2006
+| team2 = [[Dynamo Moscow (women's basketball)|Dynamo Moscow]]
+| years3 = 2006–2011
+| team3 = [[WBC Spartak Moscow Region|Spartak Moscow Region]]
+| years4 = 2011–2014
+| team4 = [[UMMC Ekaterinburg]]
+| highlights = * 4× [[List of WNBA champions|WNBA champion]] ([[2004 WNBA Finals|2004]], [[2010 WNBA Finals|2010]], [[2018 WNBA Finals|2018]], [[2020 WNBA Finals|2020]])
+*12× [[WNBA All-Star Game|WNBA All-Star]] ([[2002 WNBA All-Star Game|2002]], [[2003 WNBA All-Star Game|2003]], [[2005 WNBA All-Star Game|2005]]–[[2007 WNBA All-Star Game|2007]], [[2009 WNBA All-Star Game|2009]], [[2011 WNBA All-Star Game|2011]], [[2014 WNBA All-Star Game|2014]], [[2015 WNBA All-Star Game|2015]], [[2017 WNBA All-Star Game|2017]], [[2018 WNBA All-Star Game|2018]], [[2021 WNBA All-Star Game|2021]])
+* 5× [[All-WNBA Team|All-WNBA First Team]] (2002–2005, 2016)
+* 3× [[All-WNBA Team|All-WNBA Second Team]] (2008, 2010, 2011)
+* 3× [[List of Women's National Basketball Association season assists leaders|WNBA assists leader]] (2005, 2009, 2016)
+* 2× [[WNBA Peak Performers|WNBA peak performer]] (2009, 2016)
+*[[WNBA's Top 15 Players of All Time]] (2011)
+*[[WNBA Top 20@20]] (2016)
+* Member of [[WNBA All-Decade Team]]
+*[[List of WNBA career assists leaders|WNBA all-time assists leader]]
+*5× [[Russian Women's Basketball Premier League|Russian National League]] champion (2007, 2008, 2012–2014)
+*5× [[EuroLeague Women|EuroLeague]] champion (2007–2010, 2013)
+*2× [[FIBA Europe SuperCup Women|Europe SuperCup]] winner (2009, 2010)
+*2× [[NCAA Division I Women's Basketball Tournament|NCAA champion]] ([[2000 NCAA Division I Women's Basketball Tournament|2000]], [[2002 NCAA Division I Women's Basketball Tournament|2002]])
+* 3× [[Nancy Lieberman Award]] (2000–2002)
+* [[Wade Trophy]] (2002)
+* [[Honda Sports Award]] (2002)
+* [[Naismith College Player of the Year|Naismith Award]] (2002)
+* [[USBWA Women's National Player of the Year]] (2002)
+* [[Associated Press Women's College Basketball Player of the Year|AP College Player of the Year]] (2002)
+* [[Big East Conference Women's Basketball Player of the Year|Big East Player of the Year]] (2002)
+| wnba_profile = sue_bird
+| medaltemplates = {{MedalCountry|{{bkw|USA}}}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalGold|[[2004 Summer Olympics|2004 Athens]]|[[Basketball at the 2004 Summer Olympics – Women's tournament|Team]]}}
+{{MedalGold|[[2008 Summer Olympics|2008 Beijing]]|[[Basketball at the 2008 Summer Olympics – Women's tournament|Team]]}}
+{{MedalGold|[[2012 Summer Olympics|2012 London]]|[[Basketball at the 2012 Summer Olympics – Women's tournament|Team]]}}
+{{MedalGold|[[2016 Summer Olympics|2016 Rio de Janeiro]]|[[Basketball at the 2016 Summer Olympics – Women's tournament|Team]]}}
+{{MedalCompetition|[[FIBA Women's Basketball World Cup|World Championship]]}}
+{{MedalGold|[[2002 FIBA World Championship for Women|2002 China]]|}}
+{{MedalGold|[[2010 FIBA World Championship for Women|2010 Czech Republic]]|}}
+{{MedalGold|[[2014 FIBA World Championship for Women|2014 Turkey]]|}}
+{{MedalGold|[[2018 FIBA Women's Basketball World Cup|2018 Spain]]|}}
+{{MedalBronze|[[2006 FIBA World Championship for Women|2006 Brazil]]|}}
+}}
+'''Suzanne Brigit Bird''' (born October 16, 1980) is an American-born professional [[basketball]] player for the [[Seattle Storm]] and current oldest player of the [[Women's National Basketball Association]] (WNBA). She also holds Israeli citizenship. Bird was drafted by the Storm first overall in the [[2002 WNBA draft]] and is considered to be one of the greatest players in WNBA history. She held a front office position for the [[NBA]]'s [[Denver Nuggets]] as their Basketball Operations Associate. She has also played for three teams in Russia.
+
+In high school, she was the New York State Player of the Year, the ''[[New York Daily News]]'' Player of the Year, and a [[Women's Basketball Coaches Association|WBCA]] All-American. In her senior year on the undefeated [[University of Connecticut]] team in 2002, she won the [[Wade Trophy]] and the [[Naismith College Player of the Year|Naismith Award]] as College Player of the Year.&lt;ref name="Wade Trophy"/&gt; She finished her UConn career ranked first in three-point field goal percentage and free throw percentage, second in assists and steals, and as a three-time winner of the [[Nancy Lieberman Award]] as the top point guard in the nation, while leading her team to a record of 114–4.
+
+Bird has won a joint-record four [[List of WNBA champions|WNBA championships]] with the Storm ([[2004 WNBA Finals|2004]], [[2010 WNBA Finals|2010]], [[2018 WNBA Finals|2018]], [[2020 WNBA Finals|2020]]), four [[Basketball at the Summer Olympics|Olympic gold medals]] ([[Basketball at the 2004 Summer Olympics – Women's team squads|2004]], [[Basketball at the 2008 Summer Olympics – Women's team rosters|2008]], [[Basketball at the 2012 Summer Olympics – Women's team rosters|2012]], [[Basketball at the 2016 Summer Olympics – Women's team rosters|2016]]), two NCAA Championships with [[UConn Huskies women's basketball|UConn]] (2000, 2002), and four [[FIBA World Cup]]s (2002, 2010, 2014, 2018). She is one of only 11 women to attain all four accolades. She is also a five-time [[EuroLeague Women]] champion (2007-2010, 2013).&lt;ref name=usab/&gt; During her WNBA career, she has been selected to eleven [[WNBA All-Star Game|WNBA All-Star]] teams and eight [[All-WNBA Team|All-WNBA]] teams. Additionally, in 2011, she was voted by fans as one of the [[WNBA's Top 15 Players of All Time]] and was voted into the [[WNBA Top 20@20]] as one of the league's top 20 players of all time.
+
+==Early life==
+Bird was born in [[Syosset, New York|Syosset]], [[Nassau County, New York|Nassau County]], [[New York (state)|New York]], on [[Long Island]] to Herschel and Nancy Bird.&lt;ref&gt;{{Cite web|url=https://www.newsday.com/sports/bird-sanctuary-mom-dad-enjoy-uconn-guard-s-success-in-a-different-way-1.359630|title=Bird Sanctuary / Mom, Dad enjoy UConn guard's success in a different way|first=Kelly|last=Whiteside|date=12 March 2000|website=Newsday}}&lt;/ref&gt;&lt;ref name=usab&gt;{{cite web|url=https://www.usab.com/basketball/players/womens/b/bird-sue.aspx|title=Sue Bird|website=[[USA Basketball]]}}&lt;/ref&gt; She has one sibling, an older sister named Jen.&lt;ref name="porter42"/&gt; Her father's ancestry is [[Russian Jew]]ish,&lt;ref name="autogenerated1"/&gt;&lt;ref&gt;{{cite web|author=Stephen Andrew |url=https://popculture.com/sports/2019/07/12/megan-rapinoe-girlfriend-wnba-star-sue-bird-everything-to-know/ |title=Everything to Know About WNBA Star Sue Bird, Megan Rapinoe's Girlfriend |website=popculture |date=July 12, 2019 |access-date=July 14, 2019}}&lt;/ref&gt; and their original last name was "Boorda."&lt;ref name="autogenerated1"/&gt;&lt;ref&gt;{{cite web|url=http://www.wnba.com/features/bird_russia_4.html |title=Sue Bird: From Russia With Love 4 |publisher=WNBA.com |date=February 24, 2005 |access-date=February 12, 2011|archive-url=https://web.archive.org/web/20120814222757/http://www.wnba.com/features/bird_russia_4.html|archive-date=August 14, 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nba.com/features/wurst_070328.html |title=The Chosen One |publisher=NBA.com |date=March 28, 2007 |access-date=April 4, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.haaretz.com/print-edition/sports/women-s-basketball-no-1-wnba-draft-pick-sue-bird-headed-to-ramle-1.205982 |title= Women's Basketball/ No. 1 WNBA Draft pick Sue Bird headed to Ramle; Several top U.S. basketball players have appeared in Israel's women's league over the years, but Sue Bird tops them all. |publisher=[[Haaretz]] |access-date=April 4, 2014}}&lt;/ref&gt; She also holds [[Israeli nationality law|Israeli citizenship]]&lt;ref name="autogenerated1"&gt;{{cite web|url=http://sports.espn.go.com/espn/eticket/story?page=rollinginrubles |title=Rolling in Rubles |publisher=ESPN |access-date=April 4, 2014}}&lt;/ref&gt; but represents her birth country (the United States) in international competitions.&lt;ref name="citizenship"&gt;{{cite web|url=http://hoopedia.nba.com/index.php?title=Sue_Bird|title=Sue Bird|work=hoopedia.nba.com|access-date=September 24, 2009}}&lt;/ref&gt;
+
+Bird was interested in sports from an early age, which was partly influenced by her athletic older sister.&lt;ref name="uconnhooplegends.com"&gt;{{cite web|url=http://www.uconnhooplegends.com/womensledgends/BirdSue.html |title=Sue Bird |publisher=UCONN Hoop Legends |access-date=February 12, 2011}}&lt;/ref&gt; Besides basketball, she played soccer and tennis and ran track.&lt;ref name="jockbio.com"&gt;{{cite web|url=http://www.jockbio.com/Bios/Bird/Bird_bio.html |title=Sue Bird Biography |publisher=JockBio |date=October 16, 1980 |access-date=February 12, 2011}}&lt;/ref&gt; Bird started playing [[Amateur Athletic Union|AAU]] basketball in the sixth grade. While only 11 years old, she played during halftime of a St. John's basketball game; her play was so impressive that a security guard asked for her autograph.&lt;ref name="porter42"/&gt;
+
+==High school==
+She played her freshman and sophomore years at [[Syosset High School]], but wanted more competition. She therefore enrolled at [[Christ the King Regional High School]] in [[Queens]], New York. Bird spent two seasons at Christ the King, and the Royals went 24–3 her junior year. In the second season her team finished undefeated and won the New York state championship, and the national title. Bird won many awards, including the New York State Player of the Year, and the ''New York Daily News'' Player of the Year. Bird was named a [[Women's Basketball Coaches Association|WBCA]] All-American.&lt;ref name=stats/&gt; She participated in the [[Women's Basketball Coaches Association#WBCA High School All-America Game|WBCA High School All-America Game]], where she scored 11 points.&lt;ref name="WBCA Box Scores"/&gt;
+
+==College==
+Bird was recruited by a number of teams including [[Stanford Cardinal women's basketball|Stanford]] and [[Vanderbilt Commodores women's basketball|Vanderbilt]]. She considered UConn the favorite, but she began to waver when Keirsten Walters and Brianne Stepherson, both point guards, announced commitments to UConn. She worried that there might not be room for her to play. However, when Stepherson changed her mind and committed to [[Boston College Eagles women's basketball|Boston College]], Bird committed to UConn.&lt;ref&gt;Goldberg p 10–11&lt;/ref&gt; In addition to increased opportunity, UConn was close to home and "felt right" to her.&lt;ref name="uconnhooplegends.com"/&gt; Eight games into her freshman season, Bird suffered a [[Anterior cruciate ligament injury|torn ACL]]. Since she had played more than 20% of team's games the 1998–1999 season, she was not able to [[Redshirt (college sports)|redshirt]].&lt;ref name="jockbio.com"/&gt; In her sophomore season (1999–2000), she came back to lead the team to a 36–1 record, the Big East Championship, and the [[2000 NCAA Women's Division I Basketball Tournament]].  In her junior season (2000–2001), the Huskies went 32–3, with the final loss coming against UConn's Big East rival [[Notre Dame Fighting Irish women's basketball|Notre Dame]] in the Final Four. This game would be the last loss in Bird's college career, as the Huskies went 39–0 in 2001–2002, her senior season. In that season, she also won the [[Wade Trophy]], [[Honda Sports Award]] and [[Naismith College Player of the Year|Naismith Award]] as College Player of the Year.&lt;ref name="Wade Trophy"/&gt;&lt;ref&gt;{{Cite web|url=https://www.usab.com:443/basketball/players/womens/b/bird-sue.aspx|title=Sue Bird|website=www.usab.com|language=en-US|access-date=2020-03-30}}&lt;/ref&gt;
+
+During her junior year, Bird played in a game against Notre Dame referred to as "the best women's basketball game ever played". The game was memorialized in a book, ''[[Bird at the Buzzer]]'', in which Bird took the eponymous shot at the buzzer to win the game.&lt;ref name=Jacobs/&gt;
+
+She finished her UConn career on many of the record lists. She currently ranks No. 24 on the 1,000-point list with 1,378 points, No. 2 in assists with 585, and seventh with 243 steals.&lt;ref name="porter42"/&gt; She ranks number 1 in three-point field goal percentage (45.9) and free throw percentage (89.2).&lt;ref name="porter42"/&gt; She won two National Championships, three Big East Championships and Big East regular season titles. Bird was the inaugural winner of the [[Nancy Lieberman Award]] in 2000, given to the top point guard in the nation, and won the award in 2001 and 2002.&lt;ref name="porter42"/&gt; Overall, her record at UConn in games she played is a remarkable 114–4. Bird was a member of the inaugural class (2006) of inductees to the University of Connecticut women's basketball "Huskies of Honor" recognition program.&lt;ref&gt;{{cite web|url=http://www.uconnhuskies.com/sports/w-baskbl/spec-rel/103008aaa.html|title=Women's Basketball 1995 National Championship Team to be Recognized as "Huskies of Honor"|website=Uconnhuskies.com|access-date=July 24, 2009|archive-url=https://www.webcitation.org/5nN7qVwvi?url=http://www.uconnhuskies.com/sports/w-baskbl/spec-rel/103008aaa.html|archive-date=February 7, 2010|url-status=dead}}&lt;/ref&gt;
+
+===College statistics===
+Source&lt;ref&gt;{{Cite web|url=http://web1.ncaa.org/stats/StatsSrv/careerplayer|title=NCAA Statistics|website=web1.ncaa.org|access-date=2016-04-15}}&lt;/ref&gt;{{NBA player statistics legend}}
+{| class="wikitable"
+! Year
+! Team
+! GP
+! Points
+! FG%
+! 3P%
+! FT%
+! RPG
+! APG
+! SPG
+! BPG
+! PPG
+|-
+|1998-99
+|Connecticut
+|8
+|41
+|31.6
+|31.6
+|75.0
+|2.0
+|3.1
+|1.9
+|0.1
+|5.1
+|-
+|1999-00
+|Connecticut
+|37
+|405
+|50.2
+|'''49.7'''
+|89.8
+|2.5
+|4.3
+|1.8
+|0.0
+|10.9
+|-
+|2000-01
+|Connecticut
+|34
+|369
+|44.3
+|43.2
+|77.8
+|2.6
+|5.0
+|1.9
+|0.1
+|10.9
+|-
+|2001-02
+|Connecticut
+|'''39'''
+|'''563'''
+|'''50.5'''
+|46.6
+|'''94.2'''
+|'''3.4'''
+|'''5.9'''
+|'''2.8'''
+|'''0.2'''
+|'''14.4'''
+|-
+|Career
+|Connecticut
+|118
+|1378
+|48.1
+|45.9
+|89.2
+|2.8
+|5.0
+|2.1
+|0.1
+|11.7
+|}
+
+==Professional career==
+===WNBA===
+[[File:WNBA Sue Bird cropped.jpg|thumbnail|right|200px|Bird during the [[2008 WNBA Playoffs|2008 playoffs]] against the [[Los Angeles Sparks|LA Sparks]]]]
+The [[Seattle Storm]] selected Bird with the first overall pick of the [[2002 WNBA draft]].&lt;ref name="porter42"/&gt; She would play alongside superstar [[Lauren Jackson]] who was also drafted first overall the [[2001 WNBA draft|year before]]. In her rookie season, Bird started all 32 games for the Storm and averaged 14.4 ppg. She was selected as a starter on the 2002 WNBA Western Conference All-Star team. Bird was the runner-up for the Rookie of the Year award, and one of only two rookies to make the All-WNBA First Team.&lt;ref name="porter42"/&gt; Both Bird and Jackson led the Storm to their first playoff appearance. During her first year in the league, Bird scored a career-high 33 points in a regular-season game against the [[Portland Fire]]. Since her rookie season she has continuously been selected to the Western Conference All-Star team.
+
+In 2004, the Storm acquired shooting guard [[Betty Lennox]] in a [[dispersal draft]], joining forces with Bird and Lauren Jackson, forming a dominant trio of star players to carry the Storm to its first WNBA Championship. By winning the WNBA Championship, Bird became one of 11 women to receive an Olympic gold medal, an NCAA Championship, and a WNBA Championship. The others are [[Ruth Riley]], [[Sheryl Swoopes]], [[Cynthia Cooper-Dyke]], and fellow Huskies [[Swin Cash]], [[Kara Wolters]], [[Diana Taurasi]],  [[Maya Moore]], [[Tamika Catchings]], and [[Asjha Jones]].
+
+En route to the Storm's second championship, Bird had one of the most clutch moments in WNBA Playoff history; during the Conference Finals against the championship-defending [[Phoenix Mercury]] with the Storm up 1–0 in the series, Bird hit a game winning three-pointer with two seconds left in Game 2 to put the Storm up 91–88, after erasing a 19-point deficit to advance to the 2010 WNBA Finals.&lt;ref&gt;{{cite web|last=Keeley |first=Sean |url=https://www.sbnation.com/2010/9/6/1672099/sue-bird-seattle-storm-wnba-finals-buzzer-recap-score |title=Bird's Game-Winner Sends Seattle Storm Into WNBA Finals |website=SBNation.com |date=September 6, 2010 |access-date=March 3, 2017}}&lt;/ref&gt; Also in Game 1 of the 2010 WNBA Finals, Bird hit a game winning jump shot with 2 seconds left to put the Storm up 79–77 and would later sweep the series.&lt;ref&gt;{{cite web|url=http://www.espn.com/wnba/columns/story?id=5564790&amp;columnist=voepel_mechelle |title=Sue Bird hits another game winner as Seattle Storm win WNBA Finals Game 1 |website=Espn.com |date=September 12, 2010 |access-date=March 3, 2017}}&lt;/ref&gt; In 2011, she was voted in by fans as one of the Top 15 players in the 15-year history of the WNBA.&lt;ref&gt;{{cite web|last=Stanchak |first=Scott |url=http://www.wnba.com/allstar/2011/top15_072311.html |title=WNBA Top 15 Players of All Time |publisher=WNBA.com |date=July 24, 2011 |access-date=April 4, 2014}}&lt;/ref&gt;
+
+During the 2012 WNBA season, Bird had been having problems with her knee. Bird was still able to play 29 games during the regular season and in the playoffs. In the off-season, Bird had knee surgery which would prevent her from playing the entire 2013 season.&lt;ref&gt;{{cite web|url=http://www.espn.com/wnba/story/_/id/9310994/sue-bird-seattle-storm-optimistic-knee-surgery |title=Sue Bird of Seattle Storm optimistic after knee surgery |website=Espn.com |date=May 27, 2013 |access-date=March 3, 2017}}&lt;/ref&gt;
+
+[[File:Sue Bird at 2 August 2015 game cropped.jpg|thumb|200px|Bird during the [[2015 WNBA season]]]]
+Bird would come back healthy for the 2014 WNBA season, she played 33 games, averaged 10.6 ppg and 4.6 apg. She was voted as a WNBA all-star that year. However the Storm never made it to the playoffs and would also fail to make the playoffs the following year.
+
+On February 16, 2016, Bird re-signed with the Storm to a multi-year deal in free agency.&lt;ref&gt;{{cite web|last=Davenport |first=Colin |url=http://www.swishappeal.com/2016/2/16/11023544/sue-bird-re-signs-seattle-storm |title=Sue Bird re-signs with Seattle Storm |publisher=Swish Appeal |date=February 16, 2016 |access-date=March 3, 2017}}&lt;/ref&gt;
+
+In the 2016 season, Bird would have a resurgence, putting up her best numbers since coming back from knee surgery. She averaged 12.8 ppg while shooting a career-high in 3-point field goal percentage and led the league in assists with 5.8 apg. For the fifth time in her career, Bird was named to the All-WNBA First Team for the first time in 12 years. Prior to the season, the Storm selected [[Breanna Stewart]] first overall in the [[2016 WNBA draft]], their second number one overall pick in a row after drafting [[Jewell Loyd]] the year before. With the addition of Stewart and Loyd quickly developing into a star player, the Storm made it back to the playoffs for the first time in 3 years with a 16–18 record. With the WNBA's new playoff format in effect, the Storm were the number 7 seed in the league and faced the [[Atlanta Dream]] in the first round, losing the single elimination game 94–85. Bird was also listed in the [[WNBA Top 20@20]], a list of the league's best 20 players ever in celebration of the WNBA's twentieth anniversary.
+[[File:Bird-Moore-20180912.jpg|thumb|left|Bird guarding [[Maya Moore]] in 2018]]
+In April 2017, it was announced by the Storm that Bird had undergone left knee surgery earlier in the month, which caused her to miss training camp. She was ruled out indefinitely.&lt;ref&gt;{{Cite web|url=https://www.swishappeal.com/2017/5/13/15635840/injuries-stewart-bird-seattle-wnba|title=Seattle injuries: Stewart, Bird to miss LA game.|first=René|last=Kennedy|date=May 13, 2017|website=Swish Appeal}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.wnba.com/news/seattle-storm-issues-statement-sue-bird/|title=Seattle Storm Issues Statement on Sue Bird|website=WNBA.com }}&lt;/ref&gt; On May 21, 2017, Bird returned after recovering from knee surgery and made her season debut, making her both the oldest active player and the oldest starter in the WNBA.&lt;ref&gt;{{Cite web|url=https://www.wearebasket.net/wnba-legends-sue-bird/|title=Sue Bird is Still On Top of Her Game|first=Nienke |last= van Rijn|date=September 5, 2018}}&lt;/ref&gt;&lt;ref&gt;[https://www.newsday.com/sports/columnists/barbara-barker/sue-bird-is-gay-not-that-it-matters-to-progressive-wnba-fans-1.13814900 Sue Bird is gay, not that it matters to progressive WNBA, fans]&lt;/ref&gt; She scored 9 points along with 10 assists in an 81–71 victory over the [[Washington Mystics]].&lt;ref&gt;{{Cite web|url=https://www.wnba.com/game/20170521wassea/|title=05/21/17: Washington Mystics @ Seattle Storm|website=WNBA.com - Official Site of the WNBA}}&lt;/ref&gt; On June 11, 2017, Bird scored a season-high 21 points along with 10 assists in a 94–86 loss to the [[New York Liberty]].&lt;ref&gt;{{Cite web|url=https://www.seattletimes.com/sports/storm/storm-loses-in-new-york-despite-solid-games-by-breanna-stewart-sue-bird/|title=Storm loses in New York despite solid games by Breanna Stewart, Sue Bird|date=June 11, 2017|website=The Seattle Times}}&lt;/ref&gt; Bird was voted into the [[2017 WNBA All-Star Game]], making it her 10th all-star game appearance (tying [[Tamika Catchings]] for most all-star game appearances). She had set the All-Star Game record for assists with a performance of 8 points along with 11 assists for the Western Conference All-Stars team in a 130–121 victory.&lt;ref&gt;{{Cite web|url=https://www.seattletimes.com/sports/storm/sue-bird-sets-wnba-all-star-game-assist-record-in-wests-130-121-win-over-the-east/|title=Sue Bird sets WNBA All-Star Game assist record in West's 130-121 win over the East at KeyArena|date=July 22, 2017|website=The Seattle Times}}&lt;/ref&gt; On September 1, 2017, Bird became the WNBA all-time leader in assists with a career total of 2,600 assists, passing [[Ticha Penicheiro]] in a 110–106 overtime loss to the Washington Mystics.&lt;ref&gt;{{Cite web|url=https://www.washingtonpost.com/sports/mystics/mystics-hold-off-storm-in-ot-as-sue-bird-becomes-wnba-assist-leader/2017/09/01/bce382aa-8f37-11e7-84c0-02cc069f2c37_story.html|title=Mystics hold off Storm in OT as Sue Bird becomes WNBA assist leader|first=Gene|last=Wang|date=September 1, 2017|via=www.washingtonpost.com}}&lt;/ref&gt; She finished the game with 19 points along with a season-high of 13 assists. Bird would finish off the 2017 season, averaging a career-high in assists per game as the Storm finished 15–19 with the 8th seed in the league. The Storm would lose 79–69 to the Phoenix Mercury in the first round elimination game.
+
+On July 8, 2018, Bird scored a season-high 21 points in a 97–91 victory over the Washington Mystics. During that game she became the Storm's all-time leading scorer, passing [[Lauren Jackson]]'s 6,007 points.&lt;ref&gt;{{Cite web|url=https://www.usatoday.com/story/sports/wnba/2018/07/08/sue-bird-becomes-storms-all-time-scorer-in-win-over-mystics/36718657/|title=Sue Bird becomes Storm's all-time scorer in win over Mystics|website=USA Today}}&lt;/ref&gt; On July 19, 2018, Bird was voted into the [[2018 WNBA All-Star Game]], passing [[Tamika Catchings]] for most all-star appearances.&lt;ref&gt;{{Cite web|url=https://www.wnba.com/news/rosters-set-for-team-delle-donne-vs-team-parker-at-verizon-wnba-all-star-2018/|title=Rosters Set For Team Delle Donne vs. Team Parker at Verizon WNBA All-Star 2018|website=WNBA.com - Official Site of the WNBA}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.seattletimes.com/sports/storm/sue-bird-sets-league-record-with-11th-wnba-all-star-selection/|title=Sue Bird sets league record with 11th WNBA All-Star selection &amp;#124; The Seattle Times|date=July 17, 2018}}&lt;/ref&gt; On July 22, 2018, Bird broke yet another record, this time for the most WNBA regular-season games played after she passed [[Delisha Milton-Jones]] by playing her 500th game against the Atlanta Dream.&lt;ref&gt;{{Cite web|url=https://www.espn.com/wnba/story/_/id/24168716/sue-bird-seattle-storm-sets-wnba-record-games-played|title=Sue Bird sets WNBA record for games played|date=July 22, 2018|website=ESPN.com}}&lt;/ref&gt; By the end of the season, Bird finished with a career-high in assists, field goal shooting and a new career-high in three-point shooting percentage as the Storm finished as the number 1 seed in the league with a 26–8 record, receiving a double-bye to the semi-finals and home court advantage throughout the playoffs. In the semi-finals, the Storm defeated the Phoenix Mercury in a hard-fought five-game series. The Storm had a 2–0 lead, lost two in a row and finished off the series with a win in game 5 at home. Bird scored a season-high 22 points in game 5. With that win, the Storm would advance to the WNBA Finals for the first time since 2010. In the Finals, they would sweep the Washington Mystics, winning their first championship in 8 years.
+
+During the first week of the 2019 season, Bird was sidelined as she once again underwent left knee surgery and was ruled out indefinitely.&lt;ref&gt;{{Cite web|url=https://www.kiro7.com/news/local/seattle-s-sue-bird-undergoes-surgery-on-left-knee/953717331/|title=Seattle's Sue Bird undergoes surgery on left knee|agency=Associated Press|website=KIRO}}&lt;/ref&gt; By September 2019, it was announced that Bird would not return, causing her to miss the entire season.&lt;ref&gt;{{Cite web|url=https://www.si.com/wnba/2019/09/03/sue-bird-miss-remainder-season-injury-updates-seattle-storm|title=Sue Bird injury: Seattle Storm star to miss rest of 2019 season - Sports Illustrated|website=www.si.com}}&lt;/ref&gt; Without Bird, the Storm were unable to defend their title as they were eliminated in the second round elimination game by the Los Angeles Sparks.
+
+In 2020, Bird would be fully healthy and make her return for the Storm. The season was delayed and shortened to 22 games in a bubble at [[IMG Academy]] due to the [[COVID-19 pandemic]]. She had reaggravated her knee during the season, causing her to miss half of the games, with a fully healthy and active roster, the Storm finished 18–4 with the number 2 seed, receiving a double bye to the semi-finals. In the semi-finals they would sweep the [[Minnesota Lynx]] in three games, advancing back to the WNBA Finals for the second time in three years. In the Finals, the Storm would win the championship after defeating the [[Las Vegas Aces]] in a three-game sweep, earning Bird her fourth WNBA championship, making her the first player in WNBA history to win a championship in three different decades.&lt;ref&gt;[https://www.republicworld.com/sports-news/basketball-news/sue-bird-becomes-third-player-in-wnba-or-nba-history-to-win-titles.html Sue Bird becomes third player in WNBA and NBA history to win titles in 3 different decades]&lt;/ref&gt;
+
+In 2021, Bird re-signed with the Storm on a one-year deal, which will allow her to play her 18th season in the league, moving her past Milton-Jones for most seasons played in the WNBA.&lt;ref&gt;[https://www.slamonline.com/wnba/sue-bird-to-re-sign-with-seattle-storm/ SUE BIRD TO RE-SIGN WITH SEATTLE STORM]&lt;/ref&gt;&lt;ref&gt;[https://www.spotrac.com/wnba/seattle-storm/sue-bird-29952/#:~:text=Sue%20Bird%20signed%20a%201,annual%20average%20salary%20of%20%24215%2C000. Sue Bird EMBED THIS GUARD, STORM]&lt;/ref&gt;
+
+===Overseas===
+[[File:Sue Bird 2012.jpg|thumb|upright|Bird in 2012]]
+In the 2004–05 WNBA off-season, she played in Russia, with Storm teammate [[Kamila Vodichkova]] on the [[Dynamo Moscow (women's basketball)|Dynamo Moscow]]. In the 2005–06 WNBA off-season, she played on the same team, reaching the Russian championship and the Euroleague women's playoffs.
+
+In the 2006–07 WNBA off-season, she joined Storm teammate [[Lauren Jackson]] and fellow UConn stars [[Diana Taurasi]] and [[Svetlana Abrosimova]] on the Russian team [[WBC Spartak Moscow Region|Spartak Moscow Region]]&lt;ref&gt;{{cite web|url=http://www.eurobasket.com/team.asp?Cntry=RUSSIA&amp;Team=7635&amp;Year=2006-2007|title=SPARTAK VIDNOE MOSCOW REGION basketball team|access-date=July 18, 2009}}&lt;/ref&gt; to win both the [[Russian Women's Basketball Premier League|Russian Super League]] and the [[EuroLeague Women]] championships. Bird would keep playing with the team for the next four WNBA off-seasons.
+
+From 2011 to 2014, Bird played three off-seasons for [[UMMC Ekaterinburg]] in the [[Russian Women's Basketball Premier League|Russian League]] winning three consecutive championships with the team.
+
+==National team career==
+She competed with [[USA Basketball]] as a member of the 2000 [[United States women's national basketball team#William Jones Cup|Jones Cup Team]] in [[Taipei]], Taiwan. Bird started all four games, and led the team with 17 assists, helping lead the team to the gold medal.&lt;ref&gt;{{cite web|url=http://archive.usab.com/womens/wjcup_2000.html|title=2000 WOMEN'S R. WILLIAM JONES CUP|access-date=August 3, 2014|archive-url=https://web.archive.org/web/20140808043634/http://archive.usab.com/womens/wjcup_2000.html|archive-date=August 8, 2014|url-status=dead}}&lt;/ref&gt;
+
+In 2002, Bird was named to the national team which competed in the World Championships in [[Zhangjiagang]], [[Changzhou]] and [[Nanjing]], China. The team was coached by [[Van Chancellor]]. Bird scored 4.3 points per game. The USA team won all nine games, including a close title game against Russia, which was a one-point game late in the game.&lt;ref name="2002 WC"/&gt;
+
+In the 2003–2004 off-season, Bird was named to the United States [[Basketball at the 2004 Summer Olympics – Women's team squads|2004 Women's Olympic Basketball Team]]'s roster.&lt;ref&gt;{{cite web|url=http://www.usabasketball.com/news.php?news_page=woly_2004|title=Games of the XXVIIIth Olympiad – 2004|access-date=July 18, 2009|url-status=dead|archive-url=https://wayback.archive-it.org/all/20120424205819/http://www.usabasketball.com/womens/national/woly_2004.html|archive-date=April 24, 2012}}&lt;/ref&gt; The USA team would go on to win the gold at the games in [[Athens]], Greece.
+
+In 2006, Bird was invited back to the National team for the World Championships held in [[Sao Paulo, Brazil]] in September 2006. With the retirements of [[Lisa Leslie]] and [[Dawn Staley]] and injuries to [[Sheryl Swoopes]], Bird, along with [[Candace Parker]] and [[Diana Taurasi]] stepped up to leading roles on the national team. The USA team won eight of the nine games they played, but fell against Russia 75–68 in the medal round, so ended up with the bronze medal. Over the nine games, Bird hit 50% of her three-point attempts, tying her for accuracy leadership along with Taurasi and Swoopes. Bird led the team with 41 assists.&lt;ref name="2006 WC"/&gt;
+
+In the summer of 2008, she was invited back to be on the 2008 Olympic basketball team.  The team won the gold medal in [[Beijing, China]]. Bird started all eight games, and led the team in steals, with 14.&lt;ref&gt;{{cite web|url=http://www.usabasketball.com/news.php?news_page=woly_2008|archive-url=https://wayback.archive-it.org/all/20120424205824/http://www.usabasketball.com/womens/national/woly_2008.html|url-status=dead|archive-date=April 24, 2012|title=Games of the XXVIIIth Olympiad – 2008|publisher=USA Basketball|access-date=August 2, 2009}}&lt;/ref&gt;
+
+Bird was invited to the USA Basketball Women's National Team training camp in the fall of 2009.&lt;ref name="National Team"&gt;{{cite web|url=http://usabasketball.com/news.php?news_page=09_wnt_fall_invitees_add_rm|title=USA Basketball Women's National Team To Tip-Off Training Tomorrow In D.C.|publisher=USA Basketball|access-date=October 1, 2009}}&lt;/ref&gt; The team selected to play for the 2010 FIBA World Championship and the 2012 Olympics is usually chosen from these participants. At the conclusion of the training camp, the team will travel to Ekaterinburg, Russia, where they compete in the 2009 UMMC Ekaterinburg International Invitational.&lt;ref name="National Team" /&gt;
+
+In 2010, Bird was named as one of the National team members to represent the USA Basketball team in the WNBA versus USA Basketball.&lt;ref name="USA All Star"/&gt; This game replaces the normal WNBA All-Star game with WNBA All-Stars versus USA Basketball, as part of the preparation for the [[FIBA World Championship for Women]] to be held in the Czech Republic during September and October 2010.&lt;ref name="World Championship 2010"/&gt; Bird was selected to be a member of the National team representing the US at the World Championships held in September and October 2010. The team was coached by [[Geno Auriemma]]. Because many team members were still playing in the [[WNBA]] until just prior to the event, the team had only one day of practice with the entire team before leaving for [[Ostrava]] and [[Karlovy Vary]], Czech Republic. Even with limited practice, the team managed to win its first games against Greece by 26 points. The team continued to dominate with victory margins exceeding 20 points in the first five games. Several players shared scoring  honors, with [[Swin Cash]], [[Angel McCoughtry]], [[Maya Moore]], [[Diana Taurasi]], [[Lindsay Whalen]], and [[Sylvia Fowles]] all ending as high scorer in the first few games. The sixth game was against undefeated Australia — the USA jumped out to a 24-point lead and the USA prevailed 83–75. The USA won its next two games by over 30 points, then faced the host team, the Czech Republic, in the championship game. The USA team had only a five-point lead at halftime, which was cut to three points, but the Czechs never got closer. Team USA went on to win the championship and gold medal. Bird averaged 5.6 points per game and led the team in assists with 26.&lt;ref name="2010 WC"/&gt;
+
+Bird competed for the U.S. in the [[2012 Summer Olympics]]. The Americans won their fifth straight gold medal.&lt;ref name="2012 Olympics"/&gt;
+
+In 2014, Bird had competed for Team USA during the [[2014 FIBA World Championship for Women]], in which they defeated Spain 77–64 to win the gold medal.
+
+Bird competed for Team USA in the [[2016 Summer Olympics]], helping the team win its sixth straight gold medal, as they beat Spain 101–72 in the gold medal game. This was Bird's fourth Olympic title.
+
+In 2018, Bird competed for Team USA during the [[2018 FIBA Women's Basketball World Cup]] held in Spain, in which they defeated Australia 73–56 to win the gold medal. By winning the gold medal, Bird became the only player in history, male or female, to win four World Cup gold medals. Bird finished the final with five assists to bring her career total to 107 assists in FIBA World Cup – making her the leader for the U.S. most assists at the World Cup.&lt;ref&gt;{{Cite web|url=https://www.usab.com:443/news-events/news/2018/09/wwc-6-aus.aspx|title=USA Downs Australia to Claim Third-Straight FIBA World Cup Gold|website=www.usab.com}}&lt;/ref&gt;
+
+On July 23, 2021, in the lead-up to her quest for her fifth gold medal, Bird carried the U.S. flag at the opening ceremony of the [[Tokyo Olympics|Tokyo Summer Olympics]]. Bird and baseball player [[Eddy Alvarez]] were selected as the flag bearers by their fellow athletes. Bird called the honor “mind-blowing.”&lt;ref&gt;{{Cite news|title=Sue Bird, going for record fifth gold medal, will carry U.S. flag at Opening Ceremonies|language=en-US|work=Washington Post|url=https://www.washingtonpost.com/sports/olympics/2021/07/22/sue-bird-olympics-flag-bearer/|access-date=2021-07-24|issn=0190-8286}}&lt;/ref&gt; The Games were delayed from 2020 due to the [[COVID-19 pandemic]].&lt;ref&gt;{{Cite web|date=2020-03-24|title=Tokyo Olympics officially postponed until 2021|url=https://www.espn.com/olympics/story/_/id/28946033/tokyo-olympics-officially-postponed-2021|access-date=2021-07-24|website=ESPN.com|language=en}}&lt;/ref&gt;
+
+==WNBA career statistics==
+{{WNBA player statistics legend}}
+
+{| class="wikitable"
+|-
+|style="background:#afe6ba; width:3em;"|†
+|Denotes seasons in which Bird won a [[WNBA Finals|WNBA championship]]
+|-
+|style="background:#E0CEF2; width:1em"|{{double dagger}}
+|WNBA record
+|}
+
+===Regular season===
+{{WNBA player statistics start}}
+|-
+| style="text-align:left;"| [[2002 WNBA season|2002]]
+| style="text-align:left;"| [[2002 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|32° || style="background:#D3D3D3"|32° || 35.0 || .403 || .401 || style="background:#D3D3D3"|'''.911'''° || 2.6 || 6.0 || 1.7 || 0.1 || 3.4 || 14.4
+|-
+| style="text-align:left;"| [[2003 WNBA season|2003]]
+| style="text-align:left;"| [[2003 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|'''34'''° || style="background:#D3D3D3"|'''34'''° || 33.4 || .421 || .350 || .884 || '''3.3''' || 6.5 || 1.4 || 0.0 || 3.2 || 12.4
+|-
+|style="text-align:left;background:#afe6ba;"| [[2004 WNBA season|2004]]{{sup|†}}
+| style="text-align:left;"| [[2004 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|'''34'''° || style="background:#D3D3D3"|'''34'''° || 33.4 || .463 || .438|| .859 || 3.1 || 5.4 || 1.5 || 0.2 || 2.5 || 12.9
+|-
+| style="text-align:left;"| [[2005 WNBA season|2005]]
+| style="text-align:left;"| [[2005 Seattle Storm season|Seattle]]
+| 30 || 30 || 34.0 || .442 || .437 || .855 || 2.4 || style="background:#D3D3D3"|5.9° || 1.0 || 0.2 || 2.9 || 12.1
+|-
+| style="text-align:left;"| [[2006 WNBA season|2006]]
+| style="text-align:left;"| [[2006 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|'''34'''° || style="background:#D3D3D3"|'''34'''° || 31.3 || .411 || .366 || .868 || 3.0 || 4.8 || '''1.8''' || 0.1 || 2.5 || 11.4
+|-
+| style="text-align:left;"| [[2007 WNBA season|2007]]
+| style="text-align:left;"| [[2007 Seattle Storm season|Seattle]]
+| 29 || 29 || 31.7 || .428 || .338 || .846 || 2.0 || 4.9 || 1.5 || '''0.3''' || 2.3 || 10.4
+|-
+| style="text-align:left;"| [[2008 WNBA season|2008]]
+| style="text-align:left;"| [[2008 Seattle Storm season|Seattle]]
+| 33 || 33 || 33.7 || .441 || .343 || .871 || 2.5 || 5.1 || 1.2 || 0.1 || 2.6 || 14.1
+|-
+| style="text-align:left;"| [[2009 WNBA season|2009]]
+| style="text-align:left;"| [[2009 Seattle Storm season|Seattle]]
+| 31 || 31 || style="background:#D3D3D3"|'''35.5'''° || .408 || .360 || .854 || 2.5 || style="background:#D3D3D3"|5.8° || 1.5 || 0.1 || 2.6 || 12.8
+|-
+|style="text-align:left;background:#afe6ba;"| [[2010 WNBA season|2010]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2010 Seattle Storm season|Seattle]]
+| 33 || 33 || 30.5 || .434 || .399 || .857 || 2.7 || 5.8 || 1.5 || 0.2 || 1.8 || 11.1
+|-
+| style="text-align:left;"| [[2011 WNBA season|2011]]
+| style="text-align:left;"| [[2011 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|'''34'''° || style="background:#D3D3D3"|'''34'''° || 33.0 || .449 || .428 || .875 || 2.9 || 4.9 || 1.4 || 0.2 || 2.3 || '''14.7'''
+|-
+| style="text-align:left;"| [[2012 WNBA season|2012]]
+| style="text-align:left;"| [[2012 Seattle Storm season|Seattle]]
+| 29 || 29 || 31.0 || .459 || .384 || .783 || 2.9 || 5.3 || 0.9 || 0.1 || 2.2 || 12.2
+|-
+| style="text-align:left;"| [[2014 WNBA season|2014]]
+| style="text-align:left;"| [[2014 Seattle Storm season|Seattle]]
+| 33 || 33 || 29.2 || .386 || .345 || .831 || 2.2 || 4.0 || 0.8 || 0.0 || 2.2 || 10.6
+|-
+| style="text-align:left;"| [[2015 WNBA season|2015]]
+| style="text-align:left;"| [[2015 Seattle Storm season|Seattle]]
+| 27 || 27 || 28.6 || .384 || .301 || .796 || 2.3 || 5.4 || 0.9 || 0.1 || 2.4 || 10.3
+|-
+| style="text-align:left;"| [[2016 WNBA season|2016]]
+| style="text-align:left;"| [[2016 Seattle Storm season|Seattle]]
+| style="background:#D3D3D3"|'''34'''° || style="background:#D3D3D3"|'''34'''° || 31.6 || .449 || .444  || .786 || 2.9 || style="background:#D3D3D3"|5.8° || 1.0 || 0.2 || 2.5 || 12.8
+|-
+| style="text-align:left;"| [[2017 WNBA season|2017]]
+| style="text-align:left;"| [[2017 Seattle Storm season|Seattle]]
+| 30 || 30|| 30.0 || .427 || .393  || .774 || 2.0 || 6.6 || 1.2 || 0.2 || 2.0 || 10.6
+|-
+|style="text-align:left;background:#afe6ba;"| [[2018 WNBA season|2018]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2018 Seattle Storm season|Seattle]]
+| 31 || 31|| 26.5 || .466 || .448  || .828 || 1.7 || '''7.1''' || 1.1 || 0.1 || 1.9 || 10.1
+|-
+|style="text-align:left;background:#afe6ba;"| [[2020 WNBA season|2020]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2020 Seattle Storm season|Seattle]]
+| 11 || 11|| 23.4 || '''.494''' || '''.469'''  || .750 || 1.7 || 5.2 || 0.6 || 0.2 || '''1.6''' || 9.8
+|-
+| style="text-align:left;"| Career
+| style="text-align:left;"|17 years, 1 team
+| bgcolor="EOCEF2" |519{{double dagger}} || bgcolor="EOCEF2" |519{{double dagger}} || 31.7 || .430 || .391 || .851 || 2.6 || 5.6 || 1.3 || 0.1 || 2.5 || 12.1
+{{S-end}}
+
+===Postseason===
+{{WNBA player statistics start}}
+|-
+| style="text-align:left;"| [[WNBA Playoffs#2002 season|2002]]
+| style="text-align:left;"| [[2002 Seattle Storm season|Seattle]]
+| 2 || 2 || 36.5 || .409 || .273 || '''1.000''' || 0.0 || 6.0 || 2.5 || 0.0 || 2.5 || 14.0
+|-
+|style="text-align:left;background:#afe6ba;"| [[WNBA Playoffs#2004 season|2004]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2004 Seattle Storm season|Seattle]]
+| '''8''' || '''8''' || 29.1 || .377 || .300 || .762 || 3.2 || 5.2 || 1.5 || 0.0 || 2.0 || 8.5
+|-
+| style="text-align:left;"| [[WNBA Playoffs#2005 season|2005]]
+| style="text-align:left;"| [[2005 Seattle Storm season|Seattle]]
+| 3 || 3 || 34.3 || .273 || .133 || .875 || 1.7 || 4.3 || 1.0 || 0.0 || 1.3 || 9.0
+|-
+| style="text-align:left;"| [[2006 WNBA Playoffs|2006]]
+| style="text-align:left;"| [[2006 Seattle Storm season|Seattle]]
+| 3 || 3 || 35.0 || .361 || .333 || .625 || 2.7 || 3.3 || 0.3 || '''0.7''' || 2.3 || 12.7
+|-
+| style="text-align:left;"| [[2007 WNBA Playoffs|2007]]
+| style="text-align:left;"| [[2007 Seattle Storm season|Seattle]]
+| 2 || 2 || 35.5 || .458 || '''.583''' || '''1.000''' || 2.0 || 5.0 || 2.0 || 0.0 || 3.0 || 16.5
+|-
+| style="text-align:left;"| [[2008 WNBA Playoffs|2008]]
+| style="text-align:left;"| [[2008 Seattle Storm season|Seattle]]
+| 3 || 3 || '''37.0''' || '''.460''' || .294 || '''1.000''' || 2.3 || 3.0 || 1.3 || 0.0 || 2.0 || '''19.7'''
+|-
+| style="text-align:left;"| [[2009 WNBA Playoffs|2009]]
+| style="text-align:left;"| [[2009 Seattle Storm season|Seattle]]
+| 3 || 3 || 36.3 || .333 || .417 || .875 || 3.7 || 4.0 || 1.3 || 0.0 || 2.3 || 11.3
+|-
+|style="text-align:left;background:#afe6ba;"| [[2010 WNBA Playoffs|2010]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2010 Seattle Storm season|Seattle]]
+| 7 || 7 || '''37.0''' || .386 || .333 || .769 || 4.1 || 7.7 || 1.7 || 0.4 || 2.0 || 12.1
+|-
+| style="text-align:left;"| [[2011 WNBA Playoffs|2011]]
+| style="text-align:left;"| [[2011 Seattle Storm season|Seattle]]
+| 3 || 3 || 33.7 || .444 || .500 || .857 || 4.0 || 2.7 || 1.0 || 0.0 || '''0.6''' || 15.7
+|-
+| style="text-align:left;"| [[2012 WNBA Playoffs|2012]]
+| style="text-align:left;"| [[2012 Seattle Storm season|Seattle]]
+| 3 || 3 || 35.3 || .439 || .500 || .833 || 1.7 || 7.0 || 1.7 || '''0.7''' || 3.3 || 16.3
+|-
+| style="text-align:left;"| [[2016 WNBA Playoffs|2016]]
+| style="text-align:left;"| [[2016 Seattle Storm season|Seattle]]
+| 1 || 1 || 34.2 || .357 || .333 || .000 || '''5.0''' || 7.0 || '''3.0''' || 0.0 || 2.0 || 12.0
+|-
+| style="text-align:left;"| [[2017 WNBA Playoffs|2017]]
+| style="text-align:left;"| [[2017 Seattle Storm season|Seattle]]
+| 1 || 1 || 31.0 || .444 || .333 || 1.000 || 2.0 || 5.0 || 0.0 || 0.0 || 2.0 || 10.0
+|-
+|style="text-align:left;background:#afe6ba;"| [[2018 WNBA Playoffs|2018]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2018 Seattle Storm season|Seattle]]
+| '''8''' || '''8''' || 28.4 || .387 || .364 || .750 || 2.8 || 6.9 || 0.7 || 0.2 || 1.3 || 10.0
+|-
+|style="text-align:left;background:#afe6ba;"| [[2020 WNBA Playoffs|2020]]&lt;sup&gt;†&lt;/sup&gt;
+| style="text-align:left;"| [[2020 Seattle Storm season|Seattle]]
+| 6 || 6 || 26.5 || .392 || .316 || '''1.000''' || 2.0 || '''9.2''' || 0.7 || 0.3 || 2.3 || 9.5
+|-
+| style="text-align:left;"| Career
+| style="text-align:left;"|14 years, 1 team
+| 53 || 53 || 32.5 || .393 || .353 || .837 || 2.8 || 5.9 || 1.3 || 0.2 || 2.0 || 11.8
+{{s-end}}
+
+==Awards and honors==
+===WNBA===
+*4× WNBA champion (2004, 2010, 2018, 2020)
+*12× WNBA All-Star (2002, 2003, 2005, 2006, 2007, 2009, 2011, 2014, 2015, 2017, 2018, 2021)
+*5× All-WNBA First Team (2002, 2003, 2004, 2005, 2016)
+*3× All-WNBA Second Team (2008, 2010, 2011)
+*3× WNBA assists leader (2005, 2009, 2016)
+*2× WNBA peak performer (2009, 2016)
+*All-time Allstar appearances
+*All-time Assists leader
+*All-time leader in Games played
+*All-time leader in Minutes played
+*All-time leader Turnovers
+*WNBA All-Decade Team (2006, Top 10 players from first 10 years)
+*WNBA Top 15 Players of All Time (2011, Top 15 players from first 15 years)
+*WNBA Top 20@20 (2016, Top 20 players from first 20 years)
+*Oldest player in WNBA history
+*Top 10 all-time in:
+** 3-pointers made (3rd)
+** 3-point attempts(3rd)
+** Steals (4th)
+** Points (7th)
+** Field goal attempts(7) 
+** Field goals made (9th)
+
+===College===
+*2× NCAA National Champion (2000, 2002)
+*3× Nancy Lieberman Award (2000, 2001, 2002)
+*[[Naismith College Player of the Year]] (2002)
+*[[USBWA Women's National Player of the Year]] (2002)
+*[[Associated Press Women's College Basketball Player of the Year]] (2002)
+*[[Lowe's Senior CLASS Award]]&lt;ref name="Senior Class Award"/&gt; (2002)
+*[[Big East Conference Women's Basketball Player of the Year]] (2002)
+*[[Honda Sports Award (basketball)|Honda Sports Award]], basketball&lt;ref name="Past Winners - basketball"/&gt; (2002)
+
+===Team USA===
+*4× Olympic Gold Medalist (2004, 2008, 2012, 2016)
+*4× FIBA World Cup Gold Medalist (2002, 2010, 2014, 2018)
+*2006 FIBA World Cup Bronze Medalist
+
+===International===
+*5× [[EuroLeague]] Champion (2007, 2008, 2009, 2010, 2013)
+*2× EuroLeague All-Star (2008–2011)
+
+==Personal life==
+Bird publicly came out as a lesbian on July 20, 2017, saying that she had been dating soccer player [[Megan Rapinoe]] for several months.&lt;ref name="Voepel"&gt;{{cite web|last1=Voepel|first1=Mechelle|title=WNBA All-Star Sue Bird is ready to let you in|url=http://www.espn.com/espnw/feature/20088416/wnba-all-star-sue-bird-ready-let-in|website=espnW|access-date=July 20, 2017|date=July 20, 2017}}&lt;/ref&gt; In 2018, she and Rapinoe became the first same-sex couple on the cover of ''[[ESPN The Magazine]]''{{'}}s "Body Issue."&lt;ref&gt;{{ cite web | url = http://www.chicagotribune.com/sports/breaking/ct-spt-espn-body-sue-bird-megan-rapinoe-20180626-story.html | title = Sue Bird and Megan Rapinoe are first same-sex couple on cover of ''ESPN''{{'}}s Body Issue | publisher = Chicago Tribune | access-date = June 27, 2018 }}&lt;/ref&gt; They announced their engagement on October 30, 2020.&lt;ref&gt;{{cite news|url=https://www.espn.com/espnw/sports/story/_/id/30225983/sue-bird-megan-rapinoe-announce-engagement-instagram-pic|title=Sue Bird, Megan Rapinoe announce engagement with Instagram pic|first=Mechelle|last=Voepel|date=October 30, 2020|access-date=October 30, 2020|website=espnW}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Sports|Biography}}
+* [[Connecticut Huskies women's basketball]]
+* [[List of Connecticut women's basketball players with 1000 points]]
+* [[List of Connecticut Huskies women's basketball players with 500 assists]]
+* [[List of Jews in sports#Basketball|List of select Jewish basketball players]]
+* [[List of WNBA career scoring leaders]]
+* [[List of WNBA career assists leaders]]
+* [[List of Women's National Basketball Association career steals leaders]]
+* [[List of Women's National Basketball Association season assists leaders]]
+
+==References==
+{{Reflist|refs=
+&lt;ref name="Wade Trophy"&gt;{{cite web|title=The Wade Trophy|url=http://www.wbca.org/pages/AWARDS_wade-trophy|publisher=Women's Basketball Coaches Association|access-date=June 30, 2014}}&lt;/ref&gt;
+
+&lt;ref name=Jacobs&gt;{{cite web|last=Jacobs|first=Jeff|title='Bird At The Buzzer' The Definitive Women's Basketball Tale|url=http://www.ctnow.com/news/hc-jacobs-notre-dame-uconn-0305-20110305,0,3562985.column|work=Hartford Courant|date=March 5, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110808153457/http://www.ctnow.com/news/hc-jacobs-notre-dame-uconn-0305-20110305,0,3562985.column|archive-date=August 8, 2011}}&lt;/ref&gt;
+
+&lt;ref name="porter42"&gt;Porter p. 42&lt;/ref&gt;
+
+&lt;ref name=stats&gt;{{cite web | title=UConn Media Guide | url=http://www.uconnhuskies.com/auto_pdf/photos/schools/conn/sports/w-baskbl/auto_pdf/0910-mg-pt8-history | page=141 | access-date=September 3, 2011 | archive-url=https://web.archive.org/web/20120612102538/http://www.uconnhuskies.com/auto_pdf/photos/schools/conn/sports/w-baskbl/auto_pdf/0910-mg-pt8-history | archive-date=June 12, 2012 | url-status=dead }}&lt;/ref&gt;
+
+&lt;ref name="WBCA Box Scores"&gt;{{cite web|title=WBCA High School All-America Game Box Scores |url=http://www.wbca.org/pages/AWARDS_high_school_all-america_game_box_scores |publisher=Women's Basketball Coaches Association |access-date=June 29, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140715064856/http://www.wbca.org/pages/AWARDS_high_school_all-america_game_box_scores |archive-date=July 15, 2014 }}&lt;/ref&gt;
+
+&lt;ref name="USA All Star"&gt;{{cite web|url=http://www.usabasketball.com/womens/national/10_wnt_sats_roster.html |title=Six Olympic Gold Medalists Among 11-Member Team Set To Participate In WNBA vs. USA Basketball: The Stars at the Sun Game |date=June 30, 2010 |publisher=USA Basketball |access-date=July 5, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100707014943/http://www.usabasketball.com/womens/national/10_wnt_sats_roster.html |archive-date=July 7, 2010 }}&lt;/ref&gt;
+
+&lt;ref name="2002 WC"&gt;{{cite web|title=Fourteenth World Championship For Women – 2002|date=June 10, 2010|url=http://www.usab.com/history/national-team-womens/fourteenth-world-championship-for-women-2002.aspx|publisher=USA Basketball|archive-url=https://web.archive.org/web/20150905200622/http://www.usab.com/history/national-team-womens/fourteenth-world-championship-for-women-2002.aspx|archive-date=September 5, 2015 |url-status=live|access-date=October 19, 2015}}&lt;/ref&gt;
+
+&lt;ref name="2006 WC"&gt;{{cite web|title=Fifteenth World Championship For Women – 2006|date=June 10, 2010|url=http://www.usab.com/history/national-team-womens/fifteenth-world-championship-for-women-2006.aspx|publisher=USA Basketball|archive-url=https://web.archive.org/web/20150905200902/http://www.usab.com/history/national-team-womens/fifteenth-world-championship-for-women-2006.aspx|archive-date=September 5, 2015 |url-status=live|access-date=October 19, 2015}}&lt;/ref&gt;
+
+&lt;ref name="World Championship 2010"&gt;{{cite web|url=http://czechrepublic2010.fiba.com/|title=FIBA World Championship for Women|publisher=FIBA|access-date=July 5, 2010|url-status=dead|archive-url=https://web.archive.org/web/20100710034115/http://czechrepublic2010.fiba.com/|archive-date=July 10, 2010}}&lt;/ref&gt;
+
+&lt;ref name="2010 WC"&gt;{{cite web|title=Sixteenth World Championship For Women – 2010|date=October 15, 2013|url=http://www.usab.com/history/national-team-womens/sixteenth-world-championship-for-women-2010.aspx|publisher=USA Basketball|archive-url=https://web.archive.org/web/20150905195252/http://www.usab.com/history/national-team-womens/sixteenth-world-championship-for-women-2010.aspx|archive-date=September 5, 2015 |url-status=live|access-date=October 19, 2015}}&lt;/ref&gt;
+
+&lt;ref name="Senior Class Award"&gt;{{cite web|title=Sue Bird|url=http://www.seniorclassaward.com/athletes/sue_bird/|website=Seniorclassaward.com|access-date=January 5, 2013}}&lt;/ref&gt;
+
+&lt;!-- Unused citation &lt;ref name="Sportswoman"&gt;{{cite web|title=Sportswoman of the Year|url=http://www.womenssportsfoundation.org/en/home/programs/awards/sportswoman-of-the-year|publisher=Women's Sports Foundation|access-date=January 5, 2013}}&lt;/ref&gt; --&gt;
+
+&lt;ref name="Past Winners - basketball"&gt;{{cite web|title=PAST HONDA SPORTS AWARD WINNERS FOR BASKETBALL|url=http://www.collegiatewomensportsawards.com/archives/basketball|work=THE Collegiate Women Sports Awards Program|access-date=May 8, 2014}}&lt;/ref&gt;
+
+&lt;ref name="2012 Olympics"&gt;{{cite web|title=U.S. women win 5th gold in row|url=http://espn.go.com/olympics/summer/2012/basketball/story/_/id/8260119/2012-london-olympics-united-states-women-basketball-team-wins-5th-straight-gold|publisher=ESPN.com news services|access-date=August 11, 2012|date=August 11, 2012}}&lt;/ref&gt;
+}}
+
+==Bibliography==
+* {{cite book |last=Goldberg|first=Jeff |others=foreword by [[Doris Burke]]|title=Bird at the Buzzer: UConn, Notre Dame, and a Women's Basketball Classic |publisher=University of Nebraska Press |location=Lincoln |year=2011 |isbn=9780803224117 |oclc=660801685}}
+* {{cite book|title=Basketball: A Biographical Dictionary|editor-last=Porter|editor-first=David L.|publisher=Greenwood Press|year=2005|isbn=9780313309526 |oclc=57243370}}
+
+==External links==
+{{Commons category}}
+*[http://www.usolympicteam.com/26_1119.htm U.S. Olympic Team bio]
+*{{FIBA profile}}
+*{{SR/Olympics profile|1=bi/sue-bird-1}}
+*{{IOC profile|sue-bird}}
+*{{webarchive |url=https://web.archive.org/web/20121208050050/http://basket.ugmk.com/en/team/sb/ |date=December 8, 2012 |title=UMMC profile}}
+*{{twitter}}
+*{{IMDB name|5566377}}
+
+{{s-start}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Erin Hamlin]]
+| title = [[List of flag bearers for the United States at the Olympics|Flagbearer]] for {{USA}}
+| years = (with [[Eddy Alvarez]])&lt;br&gt;[[2020 Summer Olympics|Tokyo 2020]]
+| after = ''Incumbent''
+}}
+{{s-end}}
+{{Seattle Storm current roster}}
+{{Navboxes|title= Awards and achievements|list1=
+{{Wade Trophy}}
+{{Naismith Player of the Year women}}
+{{Nancy Lieberman Award}}
+{{Senior CLASS Award - Women's Basketball}}
+{{ESPY Best Female College Athlete}}
+{{Big East Conference Women's Basketball Player of the Year navbox}}
+{{2000 Connecticut Huskies women's basketball navbox}}
+{{2002 Connecticut Huskies women's basketball navbox}}
+{{USBWA National Player of the Year – Women}}
+{{2002 WNBA Draft}}
+{{WNBADec}}
+{{WNBA Top 15 Team}}
+{{WNBA First Overall Picks}}
+{{WNBA assists leaders}}
+{{Seattle Storm 2004 WNBA Champions}}
+{{Seattle Storm 2010 WNBA Champions}}
+{{Seattle Storm 2018 WNBA Champions}}
+{{Seattle Storm 2020 WNBA champions}}
+{{United States Women's Basketball 2002 FIBA Champions}}
+{{United States Women Basketball Squad 2004 Summer Olympics}}
+{{United States Women Basketball Squad 2008 Summer Olympics}}
+{{United States Women's Basketball 2010 FIBA Champions}}
+{{United States Women Basketball Squad 2012 Summer Olympics}}
+{{United States Squad 2014 FIBA World Championship for Women}}
+{{United States Women Basketball Squad 2016 Summer Olympics}}
+{{United States Squad 2018 FIBA Women's Basketball World Cup}}
+{{WBC Spartak Moscow Region 2006–07 Euroleague Women champions}}
+{{WBC Spartak Moscow Region 2007–08 Euroleague Women champions}}
+{{WBC Spartak Moscow Region 2008–09 Euroleague Women champions}}
+{{WBC Spartak Moscow Region 2009–10 Euroleague Women champions}}
+{{Honda Sports Award}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bird, Sue}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:All-American college women's basketball players]]
+[[Category:American expatriate basketball people in Russia]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American women's basketball players]]
+[[Category:Association footballers' wives and girlfriends]]
+[[Category:Basketball players at the 2004 Summer Olympics]]
+[[Category:Basketball players at the 2008 Summer Olympics]]
+[[Category:Basketball players at the 2012 Summer Olympics]]
+[[Category:Basketball players at the 2016 Summer Olympics]]
+[[Category:Basketball players at the 2020 Summer Olympics]]
+[[Category:Basketball players from New York (state)]]
+[[Category:Israeli people of Russian-Jewish descent]]
+[[Category:Jewish women's basketball players]]
+[[Category:Lesbian sportswomen]]
+[[Category:LGBT basketball players]]
+[[Category:LGBT Jews]]
+[[Category:LGBT people from New York (state)]]
+[[Category:LGBT sportspeople from the United States]]
+[[Category:Medalists at the 2004 Summer Olympics]]
+[[Category:Medalists at the 2008 Summer Olympics]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Medalists at the 2016 Summer Olympics]]
+[[Category:Naturalized citizens of Israel]]
+[[Category:Olympic gold medalists for the United States in basketball]]
+[[Category:People from Syosset, New York]]
+[[Category:Point guards]]
+[[Category:Seattle Storm draft picks]]
+[[Category:Seattle Storm players]]
+[[Category:Syosset High School alumni]]
+[[Category:UConn Huskies women's basketball players]]
+[[Category:Women's National Basketball Association All-Stars]]
+[[Category:Women's National Basketball Association first overall draft picks]]</text>
+      <sha1>mbrlqbazp5mktrlhxtllefpwpydypv0</sha1>
+    </revision>
+  </page>
+</mediawiki>

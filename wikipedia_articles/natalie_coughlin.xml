@@ -1,0 +1,521 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Natalie Coughlin</title>
+    <ns>0</ns>
+    <id>907833</id>
+    <revision>
+      <id>1031766519</id>
+      <parentid>1026789108</parentid>
+      <timestamp>2021-07-03T14:24:49Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor/>
+      <comment>Removing from [[Category:Olympic swimmers of the United States]] in subcat using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49999" xml:space="preserve">{{short description|American swimmer}}
+{{Use mdy dates|date=September 2015}}
+{{Infobox swimmer
+| name           = Natalie Coughlin Hall
+| image          = Natalie Coughlin, 2018 (cropped).jpg
+| caption        = Coughlin in 2018
+| birth_name     = Natalie Anne Coughlin
+| full_name      = Natalie Anne Coughlin Hall
+| nicknames      = Nat
+| national_team  = {{USA}}
+| birth_date     = {{Birth date and age|1982|8|23|mf=y}}
+| birth_place    = [[Vallejo, California]], U.S.
+| death_date     = 
+| death_place    = 
+| height         = {{convert|5|ft|8|in|m|abbr=on}}
+| weight         = {{convert|139|lb|kg|abbr=on}} &lt;!-- per london2012.com --&gt;
+| spouse         = Ethan Hall (2009&amp;ndash;present)
+| website        = {{URL|nataliecoughlin.com|NatalieCoughlin.com}}
+| strokes        = [[Backstroke]], [[butterfly stroke|butterfly]], [[freestyle swimming|freestyle]], [[medley swimming|individual medley]]
+| club           = California Aquatics
+| collegeteam    = [[California Golden Bears|University of California, Berkeley]]
+| coach          = 
+| medaltemplates = 
+{{MedalSport | Women's swimming }}
+{{MedalCountry |{{USA }}}}
+{{MedalCompetition | International aquatics competitions }}
+{{MedalCount
+| [[Swimming at the Summer Olympics|Summer Olympics]] | 3 | 4 | 5
+| [[FINA World Aquatics Championships|World Championships (LC)]] | 8 | 7 | 5
+| [[FINA World Swimming Championships (25 m)|World Championships (SC)]] | 2 | 5 | 1
+| [[Pan Pacific Swimming Championships|Pan Pacific Championships]] | 11 | 4 | 1
+| [[Pan American Games]] | 1 | 2 | 1
+| '''Total''' | '''25''' | '''22''' | '''13'''
+}}
+{{MedalCompetition | [[Swimming at the Summer Olympics|Summer Olympics]] }}
+{{MedalGold | [[Swimming at the 2004 Summer Olympics|2004 Athens]] | [[Swimming at the 2004 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | [[Swimming at the 2008 Summer Olympics|2008 Beijing]] | [[Swimming at the 2008 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalSilver | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalBronze | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200 m medley]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalBronze | [[Swimming at the 2012 Summer Olympics|2012 London]] | [[Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalCompetition | [[FINA World Aquatics Championships|World Championships (LC)]] }}
+{{MedalGold | [[Swimming at the 2001 World Aquatics Championships|2001 Fukuoka]] | [[Swimming at the 2001 World Aquatics Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | 2001 Fukuoka | [[Swimming at the 2001 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | [[Swimming at the 2003 World Aquatics Championships|2003 Barcelona]] | [[Swimming at the 2003 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalGold | [[Swimming at the 2005 World Aquatics Championships|2005 Montreal]] | [[Swimming at the 2005 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | [[Swimming at the 2007 World Aquatics Championships|2007 Melbourne]] | [[Swimming at the 2007 World Aquatics Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | 2007 Melbourne | [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | [[Swimming at the 2011 World Aquatics Championships|2011 Shanghai]] | [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalGold | [[Swimming at the 2013 World Aquatics Championships|2013 Barcelona]] | [[Swimming at the 2013 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2001 Fukuoka | [[Swimming at the 2001 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2003 Barcelona | [[Swimming at the 2003 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2005 Montreal | [[Swimming at the 2005 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2005 Montreal | [[Swimming at the 2005 World Aquatics Championships – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalSilver | 2007 Melbourne | [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2007 Melbourne | [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2011 Shanghai | [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalBronze | 2001 Fukuoka | [[Swimming at the 2001 World Aquatics Championships – Women's 50 metre backstroke|50 m backstroke]] }}
+{{MedalBronze | 2005 Montreal | [[Swimming at the 2005 World Aquatics Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalBronze | 2005 Montreal | [[Swimming at the 2005 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalBronze | 2007 Melbourne | [[Swimming at the 2007 World Aquatics Championships – Women's 100 metre butterfly|100 m butterfly]] }}
+{{MedalBronze | 2011 Shanghai | [[Swimming at the 2011 World Aquatics Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalCompetition | [[FINA World Swimming Championships (25 m)|World Championships (SC)]] }}
+{{MedalGold | [[2010 FINA World Swimming Championships (25 m)|2010 Dubai]] | [[2010 FINA World Swimming Championships (25 m) – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | [[2014 FINA World Swimming Championships (25 m)|2014 Doha]] | [[2014 FINA World Swimming Championships (25 m) – 4 × 50 metre mixed freestyle relay|4×50 m mixed free]] }}
+{{MedalSilver | 2010 Dubai | [[2010 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2010 Dubai | [[2010 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2014 Doha | [[2014 FINA World Swimming Championships (25 m) – Women's 4 × 50 metre freestyle relay|4×50 m freestyle]] }}
+{{MedalSilver | 2014 Doha | [[2014 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2014 Doha | [[2014 FINA World Swimming Championships (25 m) – Women's 4 × 50 metre medley relay|4×50 m medley]] }}
+{{MedalBronze | 2010 Dubai | [[2010 FINA World Swimming Championships (25 m) – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalCompetition | [[Pan Pacific Swimming Championships|Pan Pacific Championships]] }}
+{{MedalGold | [[2002 Pan Pacific Swimming Championships|2002 Yokohama]] | [[2002 Pan Pacific Swimming Championships – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalGold | 2002 Yokohama | [[2002 Pan Pacific Swimming Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | 2002 Yokohama | [[2002 Pan Pacific Swimming Championships – Women's 100 metre butterfly|100 m butterfly]] }}
+{{MedalGold | 2002 Yokohama | [[2002 Pan Pacific Swimming Championships – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | [[2006 Pan Pacific Swimming Championships|2006 Victoria]] | [[2006 Pan Pacific Swimming Championships – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalGold | 2006 Victoria | [[2006 Pan Pacific Swimming Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalGold | 2006 Victoria | [[2006 Pan Pacific Swimming Championships – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]] }}
+{{MedalGold | 2006 Victoria | [[2006 Pan Pacific Swimming Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalGold | [[2010 Pan Pacific Swimming Championships|2010 Irvine]] | [[2010 Pan Pacific Swimming Championships – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalGold | 2010 Irvine | [[2010 Pan Pacific Swimming Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalGold | 2010 Irvine | [[2010 Pan Pacific Swimming Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2002 Yokohama | [[2002 Pan Pacific Swimming Championships – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalSilver | 2002 Yokohama | [[2002 Pan Pacific Swimming Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2006 Victoria | [[2006 Pan Pacific Swimming Championships – Women's 50 metre freestyle|50 m freestyle]] }}
+{{MedalSilver | 2006 Victoria | [[2006 Pan Pacific Swimming Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalBronze | 2010 Irvine | [[2010 Pan Pacific Swimming Championships – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalCompetition | [[Swimming at the Pan American Games|Pan American Games]] }}
+{{MedalGold | [[2015 Pan American Games|2015 Toronto]] | [[Swimming at the 2015 Pan American Games – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2015 Toronto | [[Swimming at the 2015 Pan American Games – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalSilver | 2015 Toronto |[[Swimming at the 2015 Pan American Games – Women's 4 × 100 metre freestyle relay|4×100 m freestyle]] }}
+{{MedalBronze | 2015 Toronto |[[Swimming at the 2015 Pan American Games – Women's 50 metre freestyle|50 m freestyle]] }}
+}}
+
+'''Natalie Anne Coughlin Hall''' (born August 23, 1982) is an American competition swimmer and twelve-time Olympic medalist. While attending the [[University of California, Berkeley]], she became the first woman ever to swim the [[World record progression 100 metres backstroke#Long course 2|100-meter backstroke]] (long course) in less than one minute—ten days before her 20th birthday in 2002.  At the [[2008 Summer Olympics]], she became the first U.S. female athlete in modern Olympic history to win six medals in one Olympiad, and the first woman ever to win a 100-meter backstroke gold in two consecutive Olympics.&lt;ref&gt;{{cite news |title=Coughlin's 6 medals most by a US woman |url=http://stats.cbc.ca/olympics/story.asp?i=20080817063823933328708&amp;%20ref=rec&amp;tm=&amp;src=OLYMPICS_DOLY_SWM |agency=Canadian Broadcasting Corporation |publisher=(The Associated Press) |date=August 17, 2008 |archive-url=https://web.archive.org/web/20110511093814/http://stats.cbc.ca/olympics/story.asp?i=20080817063823933328708&amp;%20ref=rec&amp;tm=&amp;src=OLYMPICS_DOLY_SWM |archive-date=May 11, 2011 |url-status=dead |access-date=September 7, 2010}}&lt;/ref&gt; At the [[2012 Summer Olympics]], she earned a bronze medal in the 4×100-meter freestyle relay.  
+
+Coughlin's success has earned her the [[Swimming World Swimmers of the Year|World Swimmer of the Year Award]] once and [[Swimming World Swimmers of the Year#American Swimmer of the Year|American Swimmer of the Year Award]] three times.  She has won a total of sixty medals in major international competition, twenty-five gold, twenty-two silver, and thirteen bronze spanning the Olympics, the [[FINA World Aquatics Championships|World]], the [[Pan Pacific Swimming Championships|Pan Pacific]] Championships, and the [[Pan American Games]].
+
+==Early years==
+Coughlin was born in [[Vallejo, California]], the daughter of Jim and Zennie Coughlin.&lt;ref&gt;{{Cite news|url=http://www.timesheraldonline.com/article/NH/20160813/SPORTS/160819919|title=Vallejo's Natalie Coughlin discusses her 12 Olympic medals, new role as analyst|access-date=2017-12-09|language=en}}&lt;/ref&gt; She is of Irish and one quarter Filipino ancestry.&lt;ref&gt;{{cite news |url=http://www.asiancemagazine.com/2010/07/30/olympic-gold-medalist-natalie-coughlin |title=Olympic Silver Medalist Natalie Coughlin |access-date=July 5, 2011 |archive-url=https://web.archive.org/web/20110807083425/http://www.asiancemagazine.com/2010/07/30/olympic-gold-medalist-natalie-coughlin |archive-date=August 7, 2011 |url-status=dead }}&lt;/ref&gt; Coughlin first began swimming at Vallejo Aquatics Club when she was 8 years old, where she was coached by Tuffy Williams. &lt;ref&gt;Mel Orpilla, [http://www.orpilla.com/natalie.html "Natalie Coughlin: Olympic Hero"], ''orpilla.com'', publication_date. Retrieved 1-10-19.&lt;/ref&gt;  She attended [[St. Catherine of Siena School (Vallejo, California)|St. Catherine of Siena School]] in Vallejo, for kindergarten through eighth grade, and then [[Carondelet High School]] in [[Concord, California]].  While in high school in 1998, she became the first swimmer to qualify for the Summer National in all fourteen events.&lt;ref&gt;[http://www.asianweek.com/2008/08/12/natalie-coughlin-wins-the-gold/ "Natalie Coughlin Wins the Gold!"] {{webarchive|url=https://web.archive.org/web/20080916224026/http://www.asianweek.com/2008/08/12/natalie-coughlin-wins-the-gold/ |date=September 16, 2008 }}.  AsianWeek. Retrieved on August 20, 2008.&lt;/ref&gt; Coughlin broke two individual national high school records in the 200-yard individual medley (1:58.45) and the 100-yard backstroke (52.86).  She graduated from Carondelet High School in 2000.
+
+==College career==
+Coughlin attended the [[University of California, Berkeley]], where she swam for coach [[Teri McKeever]]'s [[California Golden Bears]] swimming and diving team in [[National Collegiate Athletic Association]] (NCAA) competition from 2001 to 2003.&lt;ref name="Cal"&gt;{{cite web|archive-url=https://web.archive.org/web/20041020082629/http://calbears.collegesports.com/sports/w-swim/mtt/coughlin_natalie00.html|archive-date=October 20, 2004|title=Natalie Coughlin|publisher=University of California, Berkeley|url=http://calbears.collegesports.com/sports/w-swim/mtt/coughlin_natalie00.html|date=2003|access-date=August 4, 2017|url-status=dead|df=mdy-all}}&lt;/ref&gt;  During her three years as a Cal Bears swimmer, she won eleven individual NCAA national championships, and a twelfth NCAA relay title.  She was recognized as the NCAA Swimmer of the Year for three consecutive years, and she was a two-time recipient of the [[Honda Sports Award]] for Swimming and Diving, recognizing her as the outstanding college female swimmer in 2001–02 and 2002–03.&lt;ref&gt;Collegiate Women Sports Awards, [http://www.collegiatewomensportsawards.com/archives/swimdive  Past Honda Sports Award Winners for Swimming &amp; Diving].  Retrieved December 1, 2014.&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://pac-12.com/article/2003/04/02/natalie-coughlin-wins-honda-award-swimming|title=Natalie Coughlin Wins Honda Award for Swimming|last=ConferenceApr 2|first=Pac-12|last2=2003|website=Pac-12|language=en|access-date=2020-03-24}}&lt;/ref&gt;  ''[[Sports Illustrated]]'' magazine named her its college Female Athlete of the Year.  Coughlin was inducted into the Cal Athletic Hall of Fame in 2014.&lt;ref&gt;"[http://www.calbears.com/ViewArticle.dbml?ATCLID=209511074  Cal Athletic Hall of Fame Adds 7 New Members]," CalBears.com (May 28, 2014).  Retrieved January 13, 2015.&lt;/ref&gt; Coughlin graduated from Berkeley with a degree in psychology in the spring of 2005.&lt;ref&gt;{{citation|url=http://promise.berkeley.edu/spring_2008/balancing_act/|title=Balancing Act|work=The Promise of Berkeley|publisher=University of California, Berkeley|date=Spring 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.berkeley.edu/news/media/releases/2004/09/01_coughlin.shtml|title=Natalie Coughlin, five Olympic medals in hand, returns and learns to swim in the spotlight|date=September 1, 2004|author=Kahn, Jeffrey|access-date=August 4, 2017|archive-url=https://web.archive.org/web/20040902065721/http://www.berkeley.edu/news/media/releases/2004/09/01_coughlin.shtml|archive-date=September 2, 2004|url-status=live}}&lt;/ref&gt;
+
+==International career==
+
+===2001–2003===
+At the [[Swimming at the 2001 World Aquatics Championships|ninth World Aquatics Championships]] in Fukuoka, Japan, Coughlin won three medals—one gold, one silver, and one bronze.  She won her gold medal in the [[Swimming at the 2001 World Aquatics Championships – Women's 100 metre backstroke|100-meter backstroke]] with Diana Mocanu (Romania) taking the silver and Antje Buschschulte (Germany) taking the bronze.  Coughlin won her silver medal in the women's [[Swimming at the 2001 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100-meter medley relay]], teaming up with [[Megan Jendrick|Megan Quann]], [[Mary Descenza]], and [[Erin Phenix]]; the Australians won the gold (Calub, Jones, Thomas, Ryan).  Coughlin won her bronze medal in the [[Swimming at the 2001 World Aquatics Championships – Women's 50 metre backstroke|50-meter backstroke]]; fellow American Haley Cope won gold and Antje Buschschulte won the silver.
+
+At the [[2002 Pan Pacific Swimming Championships|ninth Pan Pacific Championships]] in Yokohama, Japan, Coughlin won six medals—four golds and two silvers.  Coughlin won one of her gold medals in the women's [[2002 Pan Pacific Swimming Championships – Women's 100 metre backstroke|100-meter backstroke]] with a time of 59.72, and another in the women's [[2002 Pan Pacific Swimming Championships – Women's 100 metre butterfly|100-meter butterfly]] with a time of 57.88.  Coughlin won her third gold medal in the women's [[2002 Pan Pacific Swimming Championships – Women's 100 metre freestyle|100-meter freestyle]] with a time of 53.99.  She won her fourth gold medal in the women's [[2002 Pan Pacific Swimming Championships – Women's 4 × 200 metre freestyle relay|4×200-meter freestyle relay]] with Elizabeth Hill, Diana Munz, and Lindsay Benko.  She won her silver medals as a member of the second-place U.S. relay teams in the [[2002 Pan Pacific Swimming Championships – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle]] and [[2002 Pan Pacific Swimming Championships – Women's 4 × 100 metre medley relay|4×100-meter medley]] events.
+
+At the [[Swimming at the 2003 World Aquatics Championships|tenth World Aquatics Championships]] in Barcelona, Spain, Coughlin won two medals, including a gold and a silver. Coughlin won her gold medal in the women's [[Swimming at the 2003 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]] and a silver medal in the [[Swimming at the 2003 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100-medley relay]].
+
+===2004 Athens Summer Olympics===
+{{see also|Swimming at the 2004 Summer Olympics}}
+
+{{MedalTableTop |name=no |header=[[Swimming at the 2004 Summer Olympics|2004 Olympics]] |medals=
+{{MedalGold | [[2004 Summer Olympics|2004 Athens]] | [[Swimming at the 2004 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalGold | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 200 metre freestyle relay|4x200 m freestyle relay]] }}
+{{MedalSilver | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre freestyle relay|4x100 m freestyle relay]] }}
+{{MedalSilver | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre medley relay|4x100 m medley relay]] }}
+{{MedalBronze | 2004 Athens | [[Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]] }}
+}}
+
+Coughlin won the gold medal at the 2004 Olympics in the women's [[Swimming at the 2004 Summer Olympics – Women's 100 metre backstroke|100-meter backstroke]] event and won a silver medal as a member of the U.S. women's [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]] team with [[Kara Lynn Joyce]], [[Amanda Weir]] and [[Jenny Thompson]].  She also broke a world record and won gold as a member of the [[Swimming at the 2004 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200-meter freestyle relay]], a silver in the [[Swimming at the 2004 Summer Olympics – Women's 4 × 100 metre medley relay|4×100-meter medley relay]], and a bronze in the [[Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle|100-meter freestyle]].&lt;ref&gt;[http://www.nbcolympics.com/athletes/athlete=542/bio/ "Natalie Coughlin Profile &amp; Bio"]. [[NBC Olympics]]. Retrieved on September 23, 2009.&lt;/ref&gt;&lt;ref name="SR"&gt;{{cite Sports-Reference}}&lt;/ref&gt;
+
+===2005–2006===
+At the [[Swimming at the 2005 World Aquatics Championships|eleventh World Aquatics Championships]] in Montreal, Quebec, Coughlin won five medals, including a gold and 2 silvers and 2 bronzes. Coughlin won a gold medal in the women's [[Swimming at the 2005 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|200 m freestyle relay]] and silver medals in the [[Swimming at the 2003 World Aquatics Championships – Women's 4 × 100 metre medley relay|100 meter medley relay]] and the [[Swimming at the 2005 World Aquatics Championships – Women's 100 metre freestyle|100 m freestyle]]. She also won bronze medals in the [[Swimming at the 2005 World Aquatics Championships – Women's 100 metre backstroke|100 m backstroke]] and the [[Swimming at the 2005 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|100m freestyle relay]].
+
+Coughlin worked as an in-studio host for [[MSNBC]] during the [[2006 Winter Olympics]] in Turin, Italy.{{cn|date=July 2019}}
+
+===2007 World Aquatics Championships===
+{{see also|Swimming at the 2007 World Aquatics Championships}}
+
+At the [[2007 World Aquatics Championships]], Coughlin won five medals: two gold, two silver, and one bronze.  In her first event, the [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]], Coughlin won a silver medal along with [[Lacey Nymeyer]], [[Amanda Weir]], and [[Kara Lynn Joyce]].&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_107_Finals_Women_4x100_Free.pdf |title=12th FINA World Championships: 4×100 m freestyle relay final |publisher=Omega Timing |access-date=September 7, 2010 |archive-url=https://web.archive.org/web/20120120123120/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_107_Finals_Women_4x100_Free.pdf |archive-date=January 20, 2012 |url-status=dead }}&lt;/ref&gt; The following day, in the [[Swimming at the 2007 World Aquatics Championships – Women's 100 metre butterfly|100-meter butterfly]], she placed third in the final with a time of 57.34, an American record.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_101_Finals_Women_100_Fly.pdf |title=12th FINA World Championships: 100 m butterfly final |publisher=Omega Timing |access-date=September 7, 2010 |archive-url=https://web.archive.org/web/20091004014415/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_101_Finals_Women_100_Fly.pdf |archive-date=October 4, 2009 |url-status=dead |df=mdy-all }}&lt;/ref&gt; In the [[Swimming at the 2007 World Aquatics Championships – Women's 100 metre breaststroke|100-meter backstroke]] final, held the following day, she broke her own world record set in 2002 with a time of 59.44.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_109_Finals_Women_100_Back.pdf |archive-url=https://web.archive.org/web/20070407113814/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_109_Finals_Women_100_Back.pdf |url-status=dead |archive-date=April 7, 2007 |title=12th FINA World Championships: 100 m backstroke final |publisher=Omega Timing |access-date=September 7, 2010 }}&lt;/ref&gt;&lt;ref&gt;{{cite magazine |title=World Championships: Keeping the String Going, Natalie Coughlin Breaks World Record in 100 Backstroke |url=http://www.swimmingworldmagazine.com/lane9/news/14345.asp |magazine=Swimming World Magazine |date=March 27, 2007 |archive-url=https://web.archive.org/web/20120825214628/http://www.swimmingworldmagazine.com/lane9/news/14345.asp |archive-date=August 25, 2012 |access-date=September 7, 2010 |url-status=dead |df=mdy-all }}&lt;/ref&gt; After a day of rest, Coughlin was back in the pool to swim the lead-off leg in the [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|4×200-meter freestyle relay]].  Swimming in lane eight, Coughlin set the American record with a time of 1:56.43, to break [[Katie Hoff]]'s one-day-old record of 1:57.09.&lt;ref&gt;{{cite magazine |title=World Championships: United States Takes Down World Record in 800 Free Relay; Natalie Coughlin Sets American Record in 200 Freestyle |url=http://www.swimmingworldmagazine.com/lane9/news/14403.asp |magazine=Swimming World Magazine |date=March 29, 2007 |archive-url=https://web.archive.org/web/20120825214634/http://www.swimmingworldmagazine.com/lane9/news/14403.asp |archive-date=August 25, 2012 |access-date=September 7, 2010 |url-status=dead |df=mdy-all }}&lt;/ref&gt; [[Dana Vollmer]], Lacey Nymeyer, and Katie Hoff each extended the lead and the final time of 7:50.09 was a world record.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_126_Finals_Women_4x200_Free.pdf |title=12th FINA World Championships: 4×200 m freestyle relay final |publisher=Omega Timing |access-date=September 7, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20091004013906/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_126_Finals_Women_4x200_Free.pdf |archive-date=October 4, 2009 |df=mdy-all }}&lt;/ref&gt; The following day, Coughlin finished in 4th place in the [[Swimming at the 2007 World Aquatics Championships – Women's 100 metre freestyle|100-meter freestyle]] despite setting the championship record in the semi-finals.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_122_Finals_Women_100_Free.pdf |title=12th FINA World Championships: 100 m freestyle final |publisher=Omega Timing |access-date=September 7, 2010 |archive-url=https://web.archive.org/web/20070406023102/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_122_Finals_Women_100_Free.pdf |archive-date=April 6, 2007 |url-status=dead |df=mdy-all }}&lt;/ref&gt; In her last event, the [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100-meter medley relay]], Coughlin won a silver medal along with [[Tara Kirk]], [[Rachel Komisarz]], and Lacey Nymeyer.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_137_Finals_Women_4x100_Medley.pdf |title=12th FINA World Championships: 4×100 m medley relay final |publisher=Omega Timing |access-date=September 7, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20070405213524/http://www.omegatiming.com/swimming/racearchives/2007/melbourne2007/F73_ResByHeat_137_Finals_Women_4x100_Medley.pdf |archive-date=April 5, 2007 |df=mdy-all }}&lt;/ref&gt;
+
+===2008 Beijing Summer Olympics===
+{{see also|Swimming at the 2008 Summer Olympics}}
+
+{{MedalTableTop |name=no |header=[[Swimming at the 2008 Summer Olympics|2008 Olympics]] |medals=
+{{MedalGold | [[2008 Summer Olympics|2008 Beijing]] | [[Swimming at the 2008 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]] }}
+{{MedalSilver | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre freestyle relay|4x100 m freestyle relay]] }}
+{{MedalSilver | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|4x100 m medley relay]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200 m IM]] }}
+{{MedalBronze | 2008 Beijing | [[Swimming at the 2008 Summer Olympics – Women's 4 × 200 metre freestyle relay|4x200 m freestyle relay]] }}
+}}
+
+In Coughlin's second Olympics appearance, at Beijing in 2008, she became the first American female athlete to win six medals in one Olympics.&lt;ref name="Aron2008_08_18"&gt;"The six medals she won are the most by an American woman in any sport, breaking the record she tied four years ago. Her career total matches the third-most by any U.S. athlete." {{cite news |url=http://stats.cbc.ca/olympics/story.asp?i=20080817063823933328708&amp;%20ref=rec&amp;tm=&amp;src=OLYMPICS_DOLY_SWM |title=Coughlin's 6 medals most by a US woman |author=Jaime Aron |date=August 17, 2008 |publisher=[[Canadian Broadcasting Corporation]] |url-status=dead |archive-url=https://web.archive.org/web/20110511093814/http://stats.cbc.ca/olympics/story.asp?i=20080817063823933328708&amp;%20ref=rec&amp;tm=&amp;src=OLYMPICS_DOLY_SWM |archive-date=May 11, 2011 |df=mdy-all }}&lt;/ref&gt; She was elected joint captain of the US women's swimming team together with five-time Olympian [[Dara Torres]] and four-time Olympian [[Amanda Beard]].&lt;ref&gt;{{cite news |url=http://latimesblogs.latimes.com/olympics_blog/2008/07/us-swim-teams-n.html |title=U.S. swim teams name captains for Beijing |work=Los Angeles Times |date=July 30, 2008 |access-date=May 19, 2010}}&lt;/ref&gt; Coughlin won the gold medal in the [[Swimming at the 2008 Summer Olympics – Women's 100 metre backstroke|100-meter backstroke]] at those Olympiads, the inaugural woman to successfully defend a gold medal standing in that event. her world records was surpassed in the semi final by [[Kirsty Coventry]], would take the silver. Standing on the medal platform, her lip was still bleeding having bitten it during the race to distract her from the pain in her legs.&lt;ref&gt;{{cite news |url=https://www.bbc.co.uk/blogs/olympics/2008/08/why_the_water_cube_is_so_fast.html |title=Why The Water Cube Is So Fast |access-date=August 12, 2008}}&lt;/ref&gt; She won a silver medal in the [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]], swimming with [[Lacey Nymeyer]], Kara Lynn Joyce and Dara Torres, and also won bronze medals in the [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200-meter individual medley]], [[Swimming at the 2008 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200-meter freestyle relay]], and the [[Swimming at the 2008 Summer Olympics – Women's 100 metre freestyle|100-meter freestyle]].  She won a silver medal in her final race in the [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|4×100-meter medley relay]] swimming with [[Rebecca Soni]], [[Christine Magnuson]], and Dara Torres.
+
+===2010 US Summer Nationals and Pan Pacific Championships===
+
+After taking an 18-month hiatus from swimming, Coughlin returned to competition at the [[2010 USA Swimming Championships|2010 Conoco Phillips Summer Nationals]]. Coughlin qualified for Pan Pacific in the 100-meter backstroke with a time of 1:00.14.&lt;ref&gt;{{Cite web |url=http://www.star-meets.org/results/Nats/2010/ |title=Archived copy |access-date=August 9, 2010 |archive-url=https://web.archive.org/web/20100807195721/http://www.star-meets.org/results/Nats/2010/ |archive-date=August 7, 2010 |url-status=dead |df=mdy-all }}&lt;/ref&gt;
+
+Before racing at the [[2010 Pan Pacific Swimming Championships|Pan Pacs]], Coughlin, along with [[Amanda Beard]], was elected co-captain of Team USA once again.  In the finals of the [[2010 Pan Pacific Swimming Championships – Women's 100 metre freestyle|100-meter freestyle]], Natalie Coughlin won the gold, making a new [[List of Pan Pacific Championships records in swimming|Pan Pacific record]] (53.67).  In the finals of the [[2010 Pan Pacific Swimming Championships – Women's 100 metre backstroke|100-meter backstroke]], Coughlin finished third (59.70) behind Australia's [[Emily Seebohm]] and Japan's [[Aya Terakawa]].  Coughlin won two more golds when starting off both the [[2010 Pan Pacific Swimming Championships – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]] and the [[2010 Pan Pacific Swimming Championships – Women's 4 × 100 metre medley relay|4×100-meter medley relay]].&lt;ref&gt;http://www.star-meets.org/results/PanPacs/2010/&lt;/ref&gt;
+
+===2011 World Aquatics Championships===
+
+At the [[Swimming at the 2011 World Aquatics Championships|14th World Aquatics Championships]] in Shanghai, China, Coughlin won three medals–one gold, one silver, and one bronze.  She won a gold medal in the women's [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100-meter medley relay]] with fellow Americans Rebecca Soni, Dana Vollmer, and Missy Franklin with a time of 3:52.36.  She won a silver medal in the women's [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]] with fellow Americans Missy Franklin, Jessica Hardy, and Dana Vollmer with a time of 3:34.47 with the Netherlands touching first with a time of 3:33.96.  She won a bronze medal in the women's [[Swimming at the 2011 World Aquatics Championships – Women's 100 metre backstroke|100-meter backstroke]], her only individual medal at these championships, with a 59.15.  Coughlin led for the entire race, when in the last couple meters, Zhao Jing and Anastasia Zueva edged her out.
+
+===2012 London Summer Olympics===
+{{See also|Swimming at the 2012 Summer Olympics}}
+
+At the [[2012 United States Olympic Trials (swimming)|2012 United States Olympic Trials]] in Omaha, Nebraska, the U.S. qualifying event for the Olympics, the 29-year-old veteran Coughlin found herself in competition with a younger generation of American swimmers.  In order to qualify for the U.S team in a given individual event, swimmers are required to finish among the top two.  In the finals of the 100-meter backstroke, she finished third behind teenagers [[Missy Franklin]] and [[Rachel Bootsma]], and finished seventh in the 100-meter butterfly.  Coughlin also competed in the 100-meter freestyle, and finished sixth, qualifying to compete as a member of the U.S. women's team in the preliminaries of the 4×100-meter freestyle relay.
+
+At the [[2012 Summer Olympics]] in London, she swam in the qualifying round of the [[Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre freestyle relay|4×100-meter freestyle relay]], and did not swim in the 4×100-meter final, but earned a bronze medal when the U.S. team placed third in the final.  It was her twelfth Olympic medal, tying the record previously set by American swimmers [[Jenny Thompson]] and [[Dara Torres]] for the most career Olympic medals won by a female U.S. athlete.&lt;ref&gt;{{cite news |title=Left off finals team, Coughlin still earns 12th medal |url=http://www.sfgate.com/sports/article/Natalie-Coughlin-garners-12th-medal-3743939.php |access-date=July 28, 2012 |newspaper=San Francisco Chronicle |date=July 28, 2012 |agency=Associated Press}}&lt;/ref&gt;
+
+===2013 World Aquatics Championships===
+At the 2013 Phillips 66 National Championships, which also served as the selection meet for the World Championships, Coughlin decided to only take up the sprint freestyles and swam the 50 and 100-meter freestyle events. Coughlin qualified for the 50-meter freestyle and the 4×100-meter freestyle relay. Coughlin finished first in the 50-meter freestyle with a 24.97, just ahead of 16-year-old [[Simone Manuel]], who swam a 25.01.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/File/Download?id=00010D020001001402FFFFFFFFFFFF02 |title=2013 Phillips 66 National Championships Women's 50m Freestyle Results |publisher=Omega Timing |access-date=July 6, 2013}}&lt;/ref&gt; With the first-place finish in the 50-meter freestyle, Coughlin ensured herself a relay spot since she had finished 5th in the 100-meter freestyle, with a time of 54.04.&lt;ref&gt;{{cite web |url=http://www.omegatiming.com/File/Download?id=00010D020001001502FFFFFFFFFFFF02 |title=2013 Phillips 66 National Championships Women's 100m Freestyle Results |publisher=Omega Timing |access-date=July 6, 2013}}&lt;/ref&gt;
+
+She won a gold medal at the event on the first night of swimming competition in the [[Swimming at the 2013 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|4×100 freestyle relay]]. She went second for team USA and swam her leg in 52.98 seconds; she was one of only 6 women in the field of 32 to break the 53-second barrier.
+
+In her final triumph, two months before her 33rd birthday in 2015, she set an American women's record of 27.51 seconds in the 50-meter backstroke.
+
+==Post-swimming career and media appearances==
+Coughlin was the spokeswoman for C20 Coconut Water.&lt;ref&gt;http://www.bevnet.com/news/2011/c2o-pure-coconut-water-recruits-11-time-medalist-swimmer-natalie-coughlin&lt;/ref&gt;
+
+One of Coughlin's favorite hobbies is cooking. During the [[2008 Summer Olympics]], she was invited to prepare a Chinese-themed dish on ''[[Today (U.S. TV program)|Today]]''. She has appeared as a judge on ''[[Iron Chef America]]''.&lt;ref&gt;Crooks, Peter. [http://www.diablomag.com/Diablo-Magazine/November-2008/Gold-Medal-Gourmet/ " Gold Medal Gourmet"] Diablo Magazine, Nov 2008.&lt;/ref&gt; She appeared on [[Food Network]]'s ''[[Chopped (TV series)|Chopped]]'' Sport Stars episode that first aired on September 3, 2013.
+
+Coughlin competed in [[Dancing with the Stars (U.S. season 9)|season 9]] of ''[[Dancing with the Stars (U.S. TV series)|Dancing with the Stars]]'' with [[Dancing with the Stars (U.S. season 1)|season 1]] professional champion, [[Alec Mazo]].&lt;ref&gt;{{cite web |url=http://pophangover.com/?p=4341 |title=Dancing with the Stars Season 9 Cast |access-date=August 17, 2009 |archive-url=https://web.archive.org/web/20090819004443/http://pophangover.com/?p=4341 |archive-date=August 19, 2009 |url-status=dead }}&lt;/ref&gt;&lt;ref&gt;{{cite news |author=Joyce Eng |title=''Dancing with the Stars'' 2009 Season 9 Cast Revealed! |url=http://www.tvguide.com/Dancing-Stars/Dancing-Stars-2009-1009007.aspx |work=TVGuide.com |date=August 17, 2009 |access-date=August 17, 2009}}&lt;/ref&gt; She was eliminated on the fifth episode.
+
+Coughlin appeared in the 2012 ''[[Sports Illustrated]]'' [[Sports Illustrated Swimsuit Issue|Swimsuit Issue]].&lt;ref&gt;{{cite news |url=http://sportsillustrated.cnn.com/2012_swimsuit/painting/natalie-coughlin/12_natalie-coughlin_1.html |work=CNN |title=Natalie Coughlin – Body Paint – 2012 Sports Illustrated Swimsuit Edition – SI.com |access-date=February 17, 2012 |archive-url=https://web.archive.org/web/20120216225542/http://sportsillustrated.cnn.com/2012_swimsuit/painting/natalie-coughlin/12_natalie-coughlin_1.html |archive-date=February 16, 2012 |url-status=dead }}&lt;/ref&gt; She has also written a book called ''Golden Girl''.
+
+In 2013, Coughlin appeared in ''[[Chopped (TV series)|Chopped]]'' where she lost in the final round to [[Danica Patrick]].&lt;ref&gt;{{cite web |url=https://swimswam.com/natalie-coughlin-falls-danica-patrick-chopped-sports-stars-final |work=swimswam.com |title=Natalie Coughlin Falls to Danica Patrick in "Chopped" Sports Stars Final |date=September 3, 2013 |access-date=June 8, 2016}}&lt;/ref&gt; While on the show she mentioned she grows a vegetable and herb garden in her backyard, as well as raising backyard chickens.
+
+Coughlin appeared on one of the covers for the 2015 ''[[ESPN The Magazine]]'' ''[[The Body Issue]]''&lt;ref&gt;{{cite web |url=http://espn.go.com/olympics/story/_/page/bodynataliecoughlin/olympic-swimmer-natalie-coughlin-shares-secrets-12-medals-espn-magazine-body-issue |title=Olympic swimmer Natalie Coughlin shares the secrets to her 12 medals – ESPN The Magazine Body Issue}}&lt;/ref&gt; and in July/August 2016, the cover of [[Self (magazine)]]'s Olympics themed issue.
+
+Also in 2015, Coughlin became a brand ambassador and investor in a frozen food company, [[Luvo Inc.]]&lt;ref&gt;'Inc.com (Posted August 10, 2015) [http://www.inc.com/zoe-henry/why-derek-jeter-russell-wilson-olympic-swimmer-invested-in-luvo.html "Why Derek Jeter, Russell Wilson, and a 12-Time Olympic Medalist Invested in This Food Startup"]. Retrieved August 10, 2015&lt;/ref&gt;
+
+==Personal life==
+In April 2009, Coughlin married Ethan Hall, the Crow Canyon Sharks swim coach.&lt;ref&gt;{{cite web |url=http://www.theswimaids.com/2009/04/29/did-paps-crash-natalie-coughlins-wedding/ |title=Did Paps Crash Natalie Coughlin's Wedding? |url-status=dead |archive-url=https://web.archive.org/web/20090716002330/http://www.theswimaids.com/2009/04/29/did-paps-crash-natalie-coughlins-wedding/ |archive-date=July 16, 2009 |df=mdy-all }}&lt;/ref&gt; The couple welcomed a daughter on October 17, 2018.&lt;ref&gt;{{cite news |title=Olympic Gold Medalist Natalie Coughlin Gives Birth To Baby Girl |url=https://www.swimmingworldmagazine.com/news/olympic-gold-medalist-natalie-coughlin-gives-birth-to-baby-girl/ |access-date=7 July 2019 |publisher=Swimming World Magazine |date=October 18, 2018}}&lt;/ref&gt; Coughlin announced May 27, 2020 via Instagram she is expecting a second child in a few months.  On October 27, 2020 she posted a picture on Instagram of her newborn son Ozzie.
+
+==Personal bests==
+
+===Long course (50 m pool)===
+
+{| class="wikitable"
+|-
+! Event
+! Time
+! Venue
+! Date
+! Notes
+|-
+| 50 m backstroke
+| '''27.51'''
+| [[Santa Clara, California|Santa Clara]]
+| June 19, 2015
+| [[List of United States records in swimming|Former NR]]
+|-
+| 100 m backstroke
+| '''58.94''' (r)
+| Beijing
+| August 17, 2008
+|
+|-
+| 200 m backstroke
+| '''2:08.53'''
+| [[Fort Lauderdale]]
+| August 16, 2002
+|
+|-
+| 50 m butterfly
+| '''26.50'''
+| [[Montreal]]
+| July 29, 2005
+|
+|-
+| 100 m butterfly
+| '''57.34'''
+| [[Melbourne]]
+| March 26, 2007
+|
+|-
+| 50 m freestyle
+| '''24.66'''
+| [[Toronto]]
+| July 17, 2015
+|
+|-
+| 100 m freestyle
+| '''53.39'''
+| Beijing
+| August 15, 2008
+|
+|-
+| 200 m freestyle
+| '''1:56.43''' (r)
+| [[Melbourne]]
+| March 29, 2007
+|
+|-
+| 200 m individual medley
+| '''2:09.77'''
+| Los Angeles
+| June 6, 2008
+|
+|}
+
+===Short course (25 m pool)===
+
+{| class="wikitable"
+|-
+! Event
+! Time
+! Venue
+! Date
+! Notes
+|-
+| 50 m backstroke
+| '''27.08'''
+| [[East Meadow]]
+| November 22, 2002
+| '''[[List of United States records in swimming|NR]]'''
+|-
+| 100 m backstroke
+| '''55.97''' (r)
+| [[Atlanta]]
+| December 16, 2011
+| '''[[List of Americas records in swimming|AM]]''', '''[[List of United States records in swimming|NR]]'''
+|-
+| 200 m backstroke
+| '''2:03.62'''
+| [[East Meadow]]
+| November 27, 2001
+|
+|-
+| 50 m butterfly
+| '''25.83'''
+| [[East Meadow]]
+| n/a
+|
+|-
+| 100 m butterfly {{ref label|a|a|a}}
+| '''56.23'''
+| [[Atlanta]]
+| December 16, 2011
+|
+|-
+| 50 m freestyle
+| '''24.31'''
+| [[Atlanta]]
+| December 17, 2011
+|
+|-
+| 100 m freestyle
+| '''51.88''' (r)
+| [[Dubai]]
+| December 18, 2010
+| '''[[List of Americas records in swimming|AM]]''', '''[[List of United States records in swimming|NR]]'''
+|-
+| 100 m individual medley
+| '''58.55'''
+| [[Viareggio]]
+| November 15, 2014
+| '''[[List of Americas records in swimming|AM]]''', '''[[List of United States records in swimming|NR]]'''
+|}
+
+:{{note label|a|a|a}} {{note label|b|b|b}} United States open record
+
+==See also==
+{{Portal|Biography|Olympics}}
+* [[List of multiple Olympic gold medalists]]
+* [[List of multiple Olympic medalists]]
+* [[List of multiple Summer Olympic medalists]]
+* [[List of multiple Olympic medalists at a single Games]]
+* [[List of Olympic medalists in swimming (women)]]
+* [[List of United States records in swimming]]
+* [[List of World Aquatics Championships medalists in swimming (women)]]
+* [[List of world records in swimming]]
+* [[World record progression 100 metres backstroke]]
+* [[World record progression 100 metres butterfly]]
+* [[World record progression 100 metres individual medley]]
+* [[World record progression 200 metres backstroke]]
+* [[World record progression 4 × 100 metres medley relay]]
+* [[World record progression 4 × 200 metres freestyle relay]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Natalie Coughlin}}
+* {{Official website}}
+* {{FINA|new_id=1000583|old_id=natalie-coughlin}}
+* {{USA Swimming|new_id=natalie-coughlin|old_id=251724d8-26e8-4b79-ac77-1f4a9d349bae}}
+* {{USOPC}}
+* {{Olympics.com}}
+* {{Olympedia}}
+
+&lt;br /&gt;
+{{s-start}}
+{{s-ach|rec}}
+{{succession box
+| before = &lt;br /&gt;[[He Cihong]]&lt;br /&gt;Hayley McGregory
+| title = [[World record progression 100 metres backstroke|Women's 100-meter backstroke&lt;br /&gt;world record-holder (long course)]]
+| years = August 13, 2002 – June 30, 2008&lt;br /&gt;June 30, 2008 – August 11, 2008
+| after = &lt;br /&gt;[[Hayley McGregory]]&lt;br /&gt;[[Kirsty Coventry]]
+}}
+{{succession box
+| before = [[Reiko Nakamura]]
+| title = [[World record progression 100 metres backstroke|Women's 100-meter backstroke&lt;br /&gt;world record-holder (short course)]]
+| years = November 29, 2001 – February 22, 2009
+| after = [[Shiho Sakai]]
+}}
+{{succession box
+| before = [[Sara Price (swimmer)|Sara Price]]
+| title = [[World record progression 200 metres backstroke|Women's 200-meter backstroke&lt;br /&gt;world record-holder (short course)]]
+| years = November 27, 2001 – February 23, 2008
+| after = &lt;br /&gt;[[Reiko Nakamura]]
+}}
+{{succession box
+| before = [[Martina Moravcová]]
+| title = [[World record progression 100 metres butterfly|Women's 100-meter butterfly&lt;br /&gt;world record-holder (short course)]]
+| years = November 22, 2002 – August 28, 2006
+| after = [[Libby Trickett]]
+}}
+{{succession box
+| before = &lt;br /&gt;[[Jenny Thompson]]
+| title = [[World record progression 100 metres medley|Women's 100-meter individual medley&lt;br /&gt;world record-holder (short course)]]
+| years = November 23, 2002 – August 10, 2009
+| after = &lt;br /&gt; [[Emily Seebohm]]
+}}
+{{s-ach|aw}}
+{{succession box
+| before = [[Inge de Bruijn]]
+| title = [[Swimming World Swimmers of the Year|''Swimming World''&lt;br /&gt;World Swimmer of the Year]]
+| years = 2002
+| after = [[Hannah Stockbauer]]
+}}
+{{succession box
+| before = [[Brooke Bennett]]&lt;br /&gt;[[Katie Hoff]]
+| title = [[Swimming World Swimmers of the Year|''Swimming World''&lt;br /&gt;American Swimmer of the Year]]
+| years = 2001 &amp; 2002&lt;br /&gt;2008
+| after = [[Amanda Beard]]&lt;br /&gt;[[Ariana Kukors]] &amp; [[Rebecca Soni]]
+}}
+{{s-end}}
+&lt;br /&gt;
+{{Navboxes
+| title=Natalie Coughlin navigation templates
+| list1=
+{{Footer Olympic Champions 100 m Backstroke Women}}
+{{Footer Olympic Champions 4x200 m Freestyle Relay Women}}
+{{Footer World LC Champions 100m Backstroke Women}}
+{{Footer World LC Champions 4x100m Freestyle Women}}
+{{Footer World LC Champions 4x200m Freestyle Women}}
+{{Footer World LC Champions 4x100m Medley Women}}
+{{Footer World SC Champions 100m Backstroke Women}}
+{{Footer Pan Pacific Champions 100m Freestyle Women}}
+{{Footer Pan Pacific Champions 100m Backstroke Women}}
+{{Footer Pan Pacific Champions 100m Butterfly Women}}
+{{Footer Pan Pacific Champions 4x100m Freestyle Women}}
+{{Footer Pan Pacific Champions 4x200m Freestyle Women}}
+{{Footer Pan Pacific Champions 4x100m Medley Women}}
+{{Footer Pan American Champions 4x100 m Medley Women}}
+{{Footer USA Swimming 2004 Summer Olympics}}
+{{Footer USA Swimming 2008 Summer Olympics}}
+{{Footer USA Swimming 2012 Summer Olympics}}
+{{Honda Sports Award}}
+{{Pac-12 Conference Swimmer of the Year navbox}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coughlin, Natalie}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:American female backstroke swimmers]]
+[[Category:American female butterfly swimmers]]
+[[Category:American female freestyle swimmers]]
+[[Category:American female medley swimmers]]
+[[Category:American people of Irish descent]]
+[[Category:American sportspeople of Filipino descent]]
+[[Category:American sportswomen]]
+[[Category:California Golden Bears women's swimmers]]
+[[Category:World record holders in swimming]]
+[[Category:Medalists at the FINA World Swimming Championships (25 m)]]
+[[Category:Medalists at the 2004 Summer Olympics]]
+[[Category:Medalists at the 2008 Summer Olympics]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Olympic bronze medalists for the United States in swimming]]
+[[Category:Olympic gold medalists for the United States in swimming]]
+[[Category:Olympic silver medalists for the United States in swimming]]
+[[Category:Participants in American reality television series]]
+[[Category:People from Concord, California]]
+[[Category:People from Lafayette, California]]
+[[Category:Sportspeople from Vallejo, California]]
+[[Category:Swimmers at the 2004 Summer Olympics]]
+[[Category:Swimmers at the 2008 Summer Olympics]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:World Aquatics Championships medalists in swimming]]
+[[Category:Swimmers at the 2015 Pan American Games]]
+[[Category:Pan American Games gold medalists for the United States]]
+[[Category:Pan American Games medalists in swimming]]
+[[Category:Medalists at the 2015 Pan American Games]]</text>
+      <sha1>orvh3l2v0gqb2s8xup91juz22cd72p3</sha1>
+    </revision>
+  </page>
+</mediawiki>

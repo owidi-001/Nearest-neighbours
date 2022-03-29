@@ -1,0 +1,21 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 17</title>
+    <id>17</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">Let's make sure that you're not only checking within a single line. 
+	      We might have an open bracket on one line [[
+	      with some text to exclude...
+	      ]] and the closing bracket on another line. 
+	      Same goes for the other types of brackets, braces, and so on that we want to skip {{
+	      skip me 
+	      }}
+	      don't skip me. 
+	     </text>
+    </revision>
+  </page>
+</mediawiki>

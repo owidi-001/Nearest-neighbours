@@ -1,0 +1,710 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Federal Bureau of Investigation</title>
+    <ns>0</ns>
+    <id>11127</id>
+    <revision>
+      <id>1035444326</id>
+      <parentid>1034523896</parentid>
+      <timestamp>2021-07-25T18:23:07Z</timestamp>
+      <contributor>
+        <username>OAbot</username>
+        <id>28481209</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:OABOT|Open access bot]]: hdl added to citation with #oabot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116756" xml:space="preserve">{{short description|Governmental agency belonging to the United States Department of Justice}}
+{{Redirect|FBI}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Use mdy dates|date=July 2018}}
+{{Infobox law enforcement agency
+| agencyname        = Federal Bureau of Investigation
+| abbreviation      = FBI
+| patch             = 
+| patchcaption      = 
+| logo              = File:US-FBI-ShadedSeal.svg
+| logocaption       = Federal Bureau of Investigation's seal
+| badge             = File:Badge of the Federal Bureau of Investigation.png
+| badgecaption      = FBI special agent badge
+| flag              = File:Flag of the Federal Bureau of Investigation.svg
+| flagcaption       = [[Symbols of the Federal Bureau of Investigation|Flag of the Federal Bureau of Investigation]]
+| imagesize         = 
+| motto             = Fidelity, Bravery, Integrity
+| formedmonthday    = July 26
+| formedyear        = 1908 (as the Bureau of Investigation)
+| employees         = ≈35,000&lt;ref&gt;{{cite web|url=https://www.fbi.gov/about/faqs/how-many-people-work-for-the-fbi|title=About: How many people work for the FBI?|publisher=fbi.gov}}&lt;/ref&gt;
+| budget            = US$9,748,829,000 ([[Fiscal year#Federal government|FY]] 2021)&lt;ref name=":0" /&gt;
+| country           = United States
+| federal           = yes
+| international     = &lt;!--NNN or {{collapsible list |title=NNN |[[country1]] . . |[[countryNNN]]}}--&gt;
+| legaljuris        = 
+| governingbody     = 
+| governingbodyscnd = 
+| constitution1     = 
+| headquarters      = [[J. Edgar Hoover Building]]&lt;br /&gt;[[Washington, D.C.]], U.S.
+| hqlocmap          = {{Coord|38.8952|-77.0251|region:US_type:landmark|display=inline,title}}
+| chief1name        = [[Christopher A. Wray]]
+| chief2name        = [[Paul Abbate]]
+| chief3name        = Jeffrey Sallet
+| chief1position    = [[Director of the Federal Bureau of Investigation|Director]]
+| chief2position    = [[Deputy Director of the Federal Bureau of Investigation|Deputy Director]]
+| chief3position    = Associate Deputy Director
+| chief4name        = Corey Ellis
+| chief4position    = Chief of Staff
+| parentagency      = [[United States Department of Justice|Department of Justice]]&lt;br&gt;[[Director of National Intelligence|Office of the Director of National Intelligence]]
+| website           = {{url|fbi.gov}}
+}}
+
+The '''Federal Bureau of Investigation''' ('''FBI''') is the domestic [[Intelligence agency|intelligence]] and [[Security agency|security]] service of the United States and its principal [[Federal law enforcement in the United States|federal law enforcement agency]]. Operating under the jurisdiction of the [[United States Department of Justice]], the FBI is also a member of the [[United States Intelligence Community|U.S. Intelligence Community]] and reports to both the [[United States Attorney General|Attorney General]] and the [[Director of National Intelligence]].&lt;ref name="intel"&gt;{{cite web |url=http://www.intelligence.gov/mission/member-agencies.html |title=Our Strength Lies in Who We Are |publisher=intelligence.gov |access-date=August 4, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140810180812/http://www.intelligence.gov/mission/member-agencies.html |archive-date=August 10, 2014}}&lt;/ref&gt; A leading U.S. [[counter-terrorism]], [[counterintelligence]], and criminal investigative organization, the FBI has [[jurisdiction]] over violations of more than 200 categories of [[Federal crime in the United States|federal crimes]].&lt;ref&gt;{{cite web |url=https://www.fbi.gov/about/faqs/how-does-the-fbi-differ-from-the-drug-enforcement-administration-dea-and-the-bureau-of-alcohol-tobacco-firearms-and-explosives-atf |title=How does the FBI differ from the Drug Enforcement Administration (DEA) and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)? |website=Federal Bureau of Investigation |access-date=November 2, 2017 |url-status=live |archive-url=https://web.archive.org/web/20170904013109/https://www.fbi.gov/about/faqs/how-does-the-fbi-differ-from-the-drug-enforcement-administration-dea-and-the-bureau-of-alcohol-tobacco-firearms-and-explosives-atf |archive-date=September 4, 2017 }}&lt;/ref&gt;&lt;ref name="quickfacts"&gt;{{cite web |url=https://www.fbi.gov/quickfacts.htm |title=Federal Bureau of Investigation – Quick Facts |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20111017083929/http://www2.fbi.gov/quickfacts.htm |archive-date=October 17, 2011}}&lt;/ref&gt;
+
+Although many of the FBI's functions are unique, its activities in support of [[national security]] are comparable to those of the British [[MI5]] and the Russian [[Federal Security Service|FSB]]. Unlike the [[Central Intelligence Agency]] (CIA), which has no law enforcement authority and is focused on intelligence collection abroad, the FBI is primarily a domestic agency, maintaining 56 [[List of FBI field offices|field offices]] in major cities throughout the United States, and more than 400 resident agencies in smaller cities and areas across the nation. At an FBI field office, a senior-level FBI officer concurrently serves as the representative of the [[Director of National Intelligence]].&lt;ref&gt;[https://www.fbi.gov/news/testimony/fbi-budget-request-for-fiscal-year-2015 Statement Before the House Appropriations Committee, Subcommittee on Commerce, Justice, Science, and Related Agencies] {{webarchive |url=https://web.archive.org/web/20160623212212/https://www.fbi.gov/news/testimony/fbi-budget-request-for-fiscal-year-2015 |date=June 23, 2016}}, Federal Bureau of Investigation, March 26, 2014&lt;/ref&gt;&lt;ref&gt;[https://www.washingtonpost.com/world/national-security/fbi-gets-a-broader-role-in-coordinating-domestic-intelligence-activities/2012/06/19/gJQAtmupoV_story.html FBI gets a broader role in coordinating domestic intelligence activities] {{webarchive |url=https://web.archive.org/web/20170716094314/https://www.washingtonpost.com/world/national-security/fbi-gets-a-broader-role-in-coordinating-domestic-intelligence-activities/2012/06/19/gJQAtmupoV_story.html |date=July 16, 2017}}, ''[[Washington Post]]'', June 19, 2012&lt;/ref&gt;
+
+Despite its domestic focus, the FBI also maintains a significant international footprint, operating 60 Legal Attache (LEGAT) offices and 15 sub-offices in [[List of diplomatic missions of the United States|U.S. embassies and consulates]] across the globe. These foreign offices exist primarily for the purpose of coordination with foreign security services and do not usually conduct unilateral operations in the host countries.&lt;ref&gt;[https://www.fbi.gov/about-us/international_operations/overview Overview of the Legal Attaché Program] {{webarchive |url=https://web.archive.org/web/20160313042943/https://www.fbi.gov/about-us/international_operations/overview |date=March 13, 2016}}, Federal Bureau of Investigation, Retrieved: March 25, 2015&lt;/ref&gt; The FBI can and does at times carry out secret activities overseas,&lt;ref&gt;[http://www.nbcnews.com/id/6973534/ns/us_news-security/t/spies-clash-fbi-joins-cia-overseas/ Spies Clash as FBI Joins CIA Overseas: Sources Talk of Communication Problem in Terrorism Role] {{webarchive |url=https://web.archive.org/web/20150418233508/http://www.nbcnews.com/id/6973534/ns/us_news-security/t/spies-clash-fbi-joins-cia-overseas/ |date=April 18, 2015}}, [[Associated Press]] via [[NBC News]], February 15, 2005&lt;/ref&gt; just as the CIA has a [[National Resources Division|limited domestic function]]; these activities generally require coordination across government agencies.
+
+The FBI was established in 1908 as the Bureau of Investigation, the BOI or BI for short. Its name was changed to the Federal Bureau of Investigation (FBI) in 1935.&lt;ref&gt;{{Cite web|url=https://www.fbi.gov/news/stories/2006/march/fbiname_022406|title=A Byte Out of History – How the FBI Got Its Name|website=FBI}}&lt;/ref&gt; The FBI headquarters is the [[J. Edgar Hoover Building]], located in [[Washington, D.C.]]
+
+==Mission, priorities and budget==
+[[File:Domestic Investigations and Operations Guide.pdf|thumb|FBI Domestic Investigations and Operations Guide (.pdf file)]]
+
+=== Mission ===
+The mission of the FBI is:&lt;blockquote&gt;Protect the American people and uphold the [[Constitution of the United States]]&lt;ref name=":0" /&gt;&lt;ref name=":2"&gt;{{Cite web|title=Mission &amp; Priorities|url=https://www.fbi.gov/about/mission|access-date=2021-01-09|website=Federal Bureau of Investigation|language=en-us}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+=== Priorities ===
+Currently, the FBI's top priorities are:&lt;ref name=":2" /&gt;
+
+* Protect the United States from [[Terrorist attacks in the United States|terrorist attacks]]
+* Protect the United States against foreign intelligence operations, espionage, and cyber operations
+*Combat significant cyber criminal activity
+* Combat public [[Political corruption|corruption]] at all levels
+* Protect [[Civil rights in the United States|civil rights]]
+* Combat transnational criminal enterprises
+* Combat major [[white-collar crime]]
+* Combat significant [[Violent crime in the United States|violent crime]]
+
+=== Budget ===
+In the fiscal year 2019, the Bureau's total budget was approximately $9.6&amp;nbsp;billion.&lt;ref name="mission"&gt;{{cite web |url=https://www.fbi.gov/about/mission|title=Mission &amp; Priorities |website=Federal Bureau of Investigation |access-date=29 July 2019 |url-status=live |archive-url=https://web.archive.org/web/20190711160508/https://www.fbi.gov/about/mission |archive-date=July 11, 2019 }}&lt;/ref&gt;
+
+In the Authorization and Budget Request to Congress for fiscal year 2021,&lt;ref&gt;{{cite web|url=https://www.justice.gov/doj/page/file/1246311/download|title=FY 2021 Authorization and Budget Request to Congress |publisher=justice.gov}}&lt;/ref&gt; the FBI asked for $9,800,724,000. Of that money, $9,748,829,000 would be used for Salaries and Expenses and $51,895,000 for Construction.&lt;ref name=":0"&gt;{{Cite web|last=|first=|date=|title=FY 2021 Authorization And Budget Request to Congress|url=https://www.justice.gov/doj/page/file/1246311/download|access-date=9 Jan 2021|website=United States Justice Department|publication-date=February 2020}}&lt;/ref&gt; The S&amp;E program saw an increase of $199,673,000.
+
+==History==
+===Background===
+In 1896, the [[National Bureau of Criminal Identification]] was founded, which provided agencies across the country with information to identify known criminals. The [[Assassination of William McKinley|1901 assassination of President]] [[William McKinley]] created a perception that the United States was under threat from [[Anarchism in the United States|anarchists]]. The Departments of Justice and [[Department of Labor|Labor]] had been keeping records on anarchists for years, but President [[Theodore Roosevelt]] wanted more power to monitor them.&lt;ref name=Weiner-ch2&gt;{{cite book|last=Weiner|first=Tim|author-link=Tim Weiner|title=Enemies a history of the FBI|year=2012|publisher=Random House|location=New York|isbn=978-0-679-64389-0|edition=1|chapter=Revolution}}&lt;/ref&gt;{{page needed|date=July 2020}}
+
+The Justice Department had been tasked with [[Interstate Commerce Act of 1887|the regulation of interstate commerce]] since 1887, though it lacked the staff to do so. It had made little effort to relieve its staff shortage until the [[Oregon land fraud scandal]] at the turn of the 20th century. President Roosevelt instructed Attorney General [[Charles Joseph Bonaparte|Charles Bonaparte]] to organize an autonomous investigative service that would report only to the [[United States Attorney General|Attorney General]].&lt;ref name=FindlayMemo1943&gt;{{cite web |last=Findlay |first=James G. |title=Memorandum for the Director: Re: Early History of the Bureau of Investigation, United States Department of Justice |url=https://www.fbi.gov/about-us/history/brief-history/docs_findlay43 |work=Historical Documents from the Bureau's Founding |publisher=Federal Bureau of Investigation |access-date=August 14, 2012 |location=Los Angeles, CA |date=November 19, 1943 |url-status=dead |archive-url=https://web.archive.org/web/20120703063000/http://www.fbi.gov/about-us/history/brief-history/docs_findlay43 |archive-date=July 3, 2012 }}&lt;/ref&gt;
+
+Bonaparte reached out to other agencies, including the [[United States Secret Service|U.S. Secret Service]], for personnel, investigators in particular. On May 27, 1908, Congress forbade this use of Treasury employees by the Justice Department, citing fears that the new agency would serve as a [[secret police]] department.&lt;ref name=AGreport1908&gt;{{cite web |last=Bonaparte |first=Charles Joseph |title=Annual Report of the Attorney General of the United States, 1908, p.7 |url=https://www.fbi.gov/about-us/history/brief-history/docs_ar1908 |work=Historical Documents from the Bureau's Founding |publisher=Federal Bureau of Investigation |access-date=August 14, 2012 |author-link=Charles Joseph Bonaparte |quote=In my last annual report I called attention to the fact that this department was obliged to call upon the Treasury Department for detective service, and had, in fact, no permanent executive force directly under its orders. Through the prohibition of its further use of the Secret Service force, contained in the Sundry Civil Appropriation Act, approved May 27, 1908, it became necessary for the department to organize a small force of special agents of its own. Although such action was involuntary on the part of this department, the consequences of the innovation have been, on the whole, moderately satisfactory. The Special Agents, placed as they are under the direct orders of the Chief Examiner, who receives from them daily reports and summarizes these each day to the Attorney General, are directly controlled by this department, and the Attorney General knows or ought to know, at all times what they are doing and at what cost. |url-status=dead |archive-url=https://web.archive.org/web/20120510200311/http://www.fbi.gov/about-us/history/brief-history/docs_ar1908 |archive-date=May 10, 2012 }}&lt;/ref&gt; Again at Roosevelt's urging, Bonaparte moved to organize a formal '''Bureau of Investigation''', which would then have its own staff of [[Special agent (United States)|special agents]].&lt;ref name=Weiner-ch2 /&gt;{{page needed|date=July 2020}}
+
+===Creation of BOI===
+The Bureau of Investigation (BOI) was created on July 26, 1908.&lt;ref&gt;{{Cite web|url=https://www.history.com/this-day-in-history/fbi-founded|title=FBI founded|website=HISTORY}}&lt;/ref&gt; Attorney General Bonaparte, using Department of Justice expense funds,&lt;ref name=Weiner-ch2 /&gt;{{page needed|date=July 2020}} hired thirty-four people, including some veterans of the Secret Service,&lt;ref name = "historicdates" /&gt;&lt;ref name="langeluttig-p9"&gt;{{cite book|title=The Department of Justice of the United States |author=Langeluttig, Albert |publisher=Johns Hopkins Press |year=1927 |pages=9–14}}&lt;/ref&gt; to work for a new investigative agency. Its first "Chief" (the title is now "Director") was [[Stanley Finch]]. Bonaparte notified the Congress of these actions in December 1908.&lt;ref name=Weiner-ch2 /&gt;{{page needed|date=July 2020}}
+
+The bureau's first official task was visiting and making surveys of the houses of prostitution in preparation for enforcing the "White Slave Traffic Act" or [[Mann Act]], passed on June 25, 1910. In 1932, the bureau was renamed the United States Bureau of Investigation.
+
+===Creation of FBI===
+The following year, 1933, the BOI was linked to the [[Bureau of Prohibition]] and rechristened the Division of Investigation (DOI); it became an independent service within the Department of Justice in 1935.&lt;ref name="historicdates"&gt;{{cite web |url=https://www.fbi.gov/about-us/intelligence/timeline |title=Timeline of FBI History |publisher=Federal Bureau of Investigation |access-date=March 20, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150316145041/http://www.fbi.gov/about-us/intelligence/timeline/ |archive-date=March 16, 2015 }}&lt;/ref&gt; In the same year, its name was officially changed from the Division of Investigation to the Federal Bureau of Investigation (FBI).
+
+===J. Edgar Hoover as FBI Director===
+[[File:Hoover-JEdgar-LOC.jpg|thumb|J. Edgar Hoover, FBI Director from 1924 to 1972]]
+
+[[J. Edgar Hoover]] served as FBI Director from 1924 to 1972, a combined 48 years with the BOI, DOI, and FBI. He was chiefly responsible for creating the Scientific Crime Detection Laboratory, or the [[FBI Laboratory]], which officially opened in 1932, as part of his work to professionalize investigations by the government. Hoover was substantially involved in most major cases and projects that the FBI handled during his tenure. But as detailed below, his proved to be a highly controversial tenure as Bureau Director, especially in its later years. After Hoover's death, Congress passed legislation that limited the tenure of future FBI Directors to ten years.
+
+Early homicide investigations of the new agency included the [[Osage Indian murders]]. During the "War on Crime" of the 1930s, FBI agents apprehended or killed a number of notorious criminals who committed kidnappings, bank robberies, and murders throughout the nation, including [[John Dillinger]], [[Baby Face Nelson|"Baby Face" Nelson]], [[Ma Barker|Kate "Ma" Barker]], [[Alvin Karpis|Alvin "Creepy" Karpis]], and [[Machine Gun Kelly|George "Machine Gun" Kelly]].
+
+Other activities of its early decades focused on the scope and influence of the white supremacist group [[Ku Klux Klan]], a group with which the FBI was evidenced to be working in the [[Viola Liuzzo]] lynching case. Earlier, through the work of [[Edwin Atherton]], the BOI claimed to have successfully apprehended an entire army of Mexican neo-revolutionaries under the leadership of General Enrique Estrada in the mid-1920s, east of San Diego, California.
+
+Hoover began using [[Telephone tapping|wiretapping]] in the 1920s during [[Prohibition in the United States|Prohibition]] to arrest bootleggers.&lt;ref name="hnn"&gt;{{cite news |title=Civil Rights: Let 'Em Wiretap! |last=Greenberg |first=David |author-link=David Greenberg (historian)|date=October 22, 2001 |publisher=History News Network |url=http://hnn.us/articles/366.html |access-date=February 15, 2011 |url-status=live |archive-url=https://web.archive.org/web/20110301212237/http://hnn.us/articles/366.html |archive-date=March 1, 2011 }}&lt;/ref&gt; In the 1927 case ''[[Olmstead v. United States]]'', in which a bootlegger was caught through telephone tapping, the [[Supreme Court of the United States|United States Supreme Court]] ruled that FBI wiretaps did not violate the [[Fourth Amendment to the United States Constitution|Fourth Amendment]] as unlawful search and seizure, as long as the FBI did not break into a person's home to complete the tapping.&lt;ref name="hnn" /&gt; After Prohibition's repeal, [[United States Congress|Congress]] passed the [[Communications Act of 1934]], which outlawed non-consensual phone tapping, but did allow bugging.&lt;ref name="hnn" /&gt; In the 1939 case ''Nardone v. United States'', the court ruled that due to the 1934 law, evidence the FBI obtained by phone tapping was inadmissible in court.&lt;ref name="hnn" /&gt; After ''[[Katz v. United States]]'' (1967) overturned ''Olmstead'', Congress passed the [[Omnibus Crime Control Act]], allowing public authorities to tap telephones during investigations, as long as they obtained warrants beforehand.&lt;ref name="hnn" /&gt;
+
+====National security====
+Beginning in the 1940s and continuing into the 1970s, the bureau investigated cases of [[espionage]] against the United States and its allies. Eight [[Nazism|Nazi]] agents who had planned [[sabotage]] operations against American targets were arrested, and six were executed (''[[Ex parte Quirin]]'') under their sentences. Also during this time, a joint US/UK code-breaking effort called "The [[Venona project|Venona Project]]"—with which the FBI was heavily involved—broke Soviet diplomatic and intelligence communications codes, allowing the US and British governments to read Soviet communications. This effort confirmed the existence of Americans working in the United States for Soviet intelligence.&lt;ref name="nsa"&gt;{{cite web |last=Benson |first=Robert L. |url=http://www.nsa.gov/publications/publi00039.cfm |title=The Venona Story |publisher=National Security Agency |access-date=June 18, 2006 |archive-url=https://web.archive.org/web/20060614231955/http://www.nsa.gov/publications/publi00039.cfm&lt;!-- Bot retrieved archive --&gt; |archive-date=June 14, 2006}}&lt;/ref&gt; Hoover was administering this project, but he failed to notify the [[Central Intelligence Agency]] (CIA) of it until 1952. Another notable case was the arrest of Soviet spy [[Vilyam Genrikhovich Fisher|Rudolf Abel]] in 1957.&lt;ref&gt;{{cite book|last1=Romerstein |first1=Herbert |last2=Breindel |first2=Eric |title=The Venona Secrets, Exposing Soviet Espionage and America's Traitors |publisher=Regnery Publishing, Inc. |year=2001 |isbn=0-89526-225-8 |page=209}}&lt;/ref&gt; The discovery of Soviet spies operating in the US allowed Hoover to pursue his longstanding obsession with the threat he perceived from the [[American Left]], ranging from [[Communist Party USA|Communist Party of the United States of America]] (CPUSA) union organizers to American liberals.
+
+====Japanese American internment====
+In 1939, the Bureau began compiling a [[FBI Index#Custodial Detention Index|custodial detention list]] with the names of those who would be taken into custody in the event of war with Axis nations. The majority of the names on the list belonged to [[Issei]] community leaders, as the FBI investigation built on an existing [[Office of Naval Intelligence|Naval Intelligence]] index that had focused on [[Japanese American]]s in Hawaii and the West Coast, but many [[Internment of German Americans|German]] and [[Internment of Italian Americans|Italian]] nationals also found their way onto the [[FBI Index]] list.&lt;ref&gt;{{cite web |last=Kashima |first=Tetsuden |url=http://encyclopedia.densho.org/Custodial_detention_/_A-B-C_list/ |title=Custodial detention / A-B-C list |publisher=Densho Encyclopedia |access-date=August 21, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141020034626/http://encyclopedia.densho.org/Custodial_detention_/_A-B-C_list/ |archive-date=October 20, 2014 }}&lt;/ref&gt; Robert Shivers, head of the Honolulu office, obtained permission from Hoover to start detaining those on the list on December 7, 1941, while bombs were still falling over [[Attack on Pearl Harbor|Pearl Harbor]].&lt;ref name=Niiya-FBI&gt;{{cite web |last=Niiya |first=Brian |url=http://encyclopedia.densho.org/Federal%20Bureau%20of%20Investigation/ |title=Federal Bureau of Investigation |publisher=Densho Encyclopledia |access-date=August 21, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141020035117/http://encyclopedia.densho.org/Federal%20Bureau%20of%20Investigation/ |archive-date=October 20, 2014 }}{{Better source needed|date=May 2019}}&lt;/ref&gt; Mass arrests and searches of homes (in most cases conducted without warrants) began a few hours after the attack, and over the next several weeks more than 5,500 Issei men were taken into FBI custody.&lt;ref&gt;{{cite web |url=http://encyclopedia.densho.org/history/ |title=About the Incarceration |publisher=Densho Encyclopedia |access-date=August 21, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140813044546/http://encyclopedia.densho.org/history/ |archive-date=August 13, 2014 }}&lt;/ref&gt; On February 19, 1942, President [[Franklin D. Roosevelt|Franklin Roosevelt]] issued [[Executive Order 9066]], authorizing the removal of Japanese Americans from the West Coast. FBI Director Hoover opposed the subsequent mass removal and confinement of Japanese Americans authorized under Executive Order 9066, but Roosevelt prevailed.&lt;ref&gt;{{cite web|url=http://encyclopedia.densho.org/J._Edgar_Hoover/|title=J. Edgar Hoover|url-status=live|archive-url=https://web.archive.org/web/20141106032500/http://encyclopedia.densho.org/J._Edgar_Hoover/|archive-date=November 6, 2014}}&lt;/ref&gt; The vast majority went along with the subsequent exclusion orders, but in a handful of cases where Japanese Americans refused to obey the new military regulations, FBI agents handled their arrests.&lt;ref name=Niiya-FBI/&gt; The Bureau continued surveillance on Japanese Americans throughout the war, conducting background checks on applicants for resettlement outside camp, and entering the camps (usually without the permission of [[War Relocation Authority]] officials) and grooming informants to monitor dissidents and "troublemakers." After the war, the FBI was assigned to protect returning Japanese Americans from attacks by hostile white communities.&lt;ref name=Niiya-FBI/&gt;
+
+====Sex deviates program====
+According to Douglas M. Charles, the FBI's "sex deviates" program began on April 10, 1950, when J. Edgar Hoover forwarded to the White House, to the U.S. Civil Service Commission, and to branches of the armed services a list of 393 alleged federal employees who had allegedly been arrested in Washington, D.C., since 1947, on charges of "sexual irregularities". On June 20, 1951, Hoover expanded the program by issuing a memo establishing a "uniform policy for the handling of the increasing number of reports and allegations concerning present and past employees of the United States Government who assertedly [sic] are sex deviates." The program was expanded to include non-government jobs. According to [[Athan Theoharis]], "In 1951 he [Hoover] had unilaterally instituted a Sex Deviates program to purge alleged homosexuals from any position in the federal government, from the lowliest clerk to the more powerful position of White house aide." On May 27, 1953, [[Executive Order 10450]] went into effect. The program was expanded further by this executive order by making all federal employment of homosexuals illegal. On July 8, 1953, the FBI forwarded to the U.S. Civil Service Commission information from the sex deviates program. In 1977–1978, 300,000 pages, collected between 1930 and the mid-1970s, in the sex deviates program were destroyed by FBI officials.&lt;ref&gt;{{Cite web|url=https://outhistory.org/exhibits/show/fbi-history/1950-1959|archive-url=https://web.archive.org/web/20171204172602/http://outhistory.org/exhibits/show/fbi-history/1950-1959|title=FBI and Homosexuality: 1950–1959 · FBI and Homosexuality Chronology · OutHistory: It's About Time|archive-date=December 4, 2017|website=outhistory.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://outhistory.org/exhibits/show/fbi-history/1970-1979|archive-url=https://web.archive.org/web/20180605032719/http://outhistory.org/exhibits/show/fbi-history/1970-1979|title=FBI and Homosexuality: 1970–1979 · FBI and Homosexuality Chronology · OutHistory: It's About Time|archive-date=June 5, 2018|website=outhistory.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://outhistory.org/exhibits/show/fbi-history/2010-2019|archive-url=https://web.archive.org/web/20171204171135/http://outhistory.org/exhibits/show/fbi-history/2010-2019|title=FBI and Homosexuality: 2010–2019 · FBI and Homosexuality Chronology · OutHistory: It's About Time|archive-date=December 4, 2017|website=outhistory.org}}&lt;/ref&gt;
+
+====Civil rights movement====
+During the 1950s and 1960s, FBI officials became increasingly concerned about the influence of civil rights leaders, whom they believed either had communist ties or were unduly influenced by communists or "[[fellow traveller]]s." In 1956, for example, Hoover sent an open letter denouncing Dr. [[T. R. M. Howard]], a civil rights leader, surgeon, and wealthy entrepreneur in Mississippi who had criticized FBI inaction in solving recent murders of [[George W. Lee]], [[Emmett Till]], and other blacks in the South.&lt;ref&gt;David T. Beito and Linda Royster Beito, ''Black Maverick: T.R.M. Howard's Fight for Civil Rights and Economic Power'' (Urbana: [[University of Illinois Press]], 2009), 148, 154–59.&lt;/ref&gt; The FBI carried out controversial [[surveillance|domestic surveillance]] in an operation it called the [[COINTELPRO]], from '''"CO'''unter-'''INTEL'''ligence '''PRO'''gram."&lt;ref name="coinpro"&gt;{{cite web |url=http://www.monitor.net/monitor/9905a/jbcointelpro.html |archive-url=https://web.archive.org/web/20000118104808/http://www.monitor.net/monitor/9905a/jbcointelpro.html |url-status=dead |archive-date=January 18, 2000 |title=A Short History of FBI COINTELPRO |publisher=Monitor.net |access-date=June 6, 2006 |last=Cassidy |first=Mike M. |date=May 26, 1999}}&lt;/ref&gt; It was to investigate and disrupt the activities of dissident political organizations within the United States, including both militant and non-violent organizations. Among its targets was the [[Southern Christian Leadership Conference]], a leading civil rights organization whose clergy leadership included the Rev. Dr. [[Martin Luther King Jr.]], who is addressed in more detail below.&lt;ref name="latimes"&gt;{{cite news|url=http://www.commondreams.org/views06/0308-27.htm |title=A Break-In to End All Break-Ins |newspaper=Los Angeles Times |access-date=June 6, 2006 |last=Jalon |first=Allan M. |date=April 8, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060620040020/http://www.commondreams.org/views06/0308-27.htm |archive-date=June 20, 2006 }}&lt;/ref&gt;
+
+[[File:Mlk-uncovered-letter.png|thumb|The "[[FBI–King suicide letter|suicide letter]]",&lt;ref name="suicide letter"&gt;{{cite news |last=Gage |first=Beverly |date=November 11, 2014 |title=What an Uncensored Letter to M.L.K. Reveals |url=https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html |newspaper=[[The New York Times]] |access-date=January 9, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150107190622/http://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html |archive-date=January 7, 2015 }}&lt;/ref&gt; mailed anonymously to King by the FBI ]]
+The FBI frequently investigated King. In the mid-1960s, King began to criticize the Bureau for giving insufficient attention to the use of terrorism by white supremacists. Hoover responded by publicly calling King the most "notorious liar" in the United States.&lt;ref&gt;Taylor Branch, Pillar of Fire: America in the King Years 1963–1965 (Simon and Schuster, 1999), p. 524-529&lt;/ref&gt; In his 1991 memoir, ''[[The Washington Post|Washington Post]]'' journalist [[Carl Rowan]] asserted that the FBI had sent at least one anonymous letter to King encouraging him to commit suicide.&lt;ref name="washingtonpost"&gt;{{cite news|url=http://www.straightdope.com/columns/030502.html|title=Was Martin Luther King, Jr. a plagiarist?|newspaper=Washington Post|access-date=June 6, 2006|author-link=Cecil Adams|last=Adams|first=Cecil M.|date=May 2, 2003|url-status=live|archive-url=http://archive.wikiwix.com/cache/20110718163413/http://www.straightdope.com/columns/030502.html|archive-date=July 18, 2011}}&lt;/ref&gt; Historian [[Taylor Branch]] documents an anonymous November 1964 "suicide package" sent by the Bureau that combined a letter to the civil rights leader telling him "You are done. There is only one way out for you." with audio recordings of King's sexual indiscretions.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=CUI6tY9RJUYC|title=Taylor Branch, Pillar of Fire: America in the King Years 1963–1965 (Simon and Schuster, 1999) p. 527-529|isbn=978-1-4165-5870-5|last1=Branch|first1=Taylor|date=April 16, 2007}}&lt;/ref&gt;
+
+In March 1971, the residential office of an FBI agent in [[Media, Pennsylvania]] was burgled by a group calling itself the [[Citizens' Commission to Investigate the FBI]]. Numerous files were taken and distributed to a range of newspapers, including ''[[The Harvard Crimson]].''&lt;ref name="'70s 2"&gt;{{cite book|title= How We Got Here: The '70s|last= Frum|first= David|author-link= David Frum|year= 2000|publisher= Basic Books|location= New York, New York|isbn= 0-465-04195-7|page= [https://archive.org/details/howwegothere70sd00frum/page/40 40]|url= https://archive.org/details/howwegothere70sd00frum/page/40}}&lt;/ref&gt; The files detailed the FBI's extensive [[COINTELPRO]] program, which included investigations into lives of ordinary citizens—including a black student group at a Pennsylvania military college and the daughter of Congressman [[Henry S. Reuss]] of [[Wisconsin]].&lt;ref name="'70s 2" /&gt; The country was "jolted" by the revelations, which included assassinations of political activists, and the actions were denounced by members of the Congress, including House Majority Leader [[Hale Boggs]].&lt;ref name="'70s 2" /&gt; The phones of some members of the Congress, including Boggs, had allegedly been tapped.&lt;ref name="'70s 2" /&gt;
+
+====Kennedy's assassination====
+When President [[John F. Kennedy]] was shot and killed, the jurisdiction fell to the local police departments until President [[Lyndon B. Johnson]] directed the FBI to take over the investigation.&lt;ref name="history_postwar"&gt;{{cite web|url=https://www.fbi.gov/libref/historic/history/postwar.htm |title=Postwar America: 1945–1960s |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106195659/http://www2.fbi.gov/libref/historic/history/postwar.htm |archive-date=January 6, 2015 }}&lt;/ref&gt; To ensure clarity about the responsibility for investigation of homicides of federal officials, the Congress passed a law that included investigations of such deaths of federal officials, especially by homicide, within FBI jurisdiction. This new law was passed in 1965.&lt;ref&gt;{{cite news |url=http://www.cnn.com/2013/11/14/us/jfk-assassination-5-things/ |title=5 things you might not know about JFK's assassination |publisher=CNN.com |access-date=November 11, 2015 |url-status=live |archive-url=https://web.archive.org/web/20151116120144/http://www.cnn.com/2013/11/14/us/jfk-assassination-5-things |archive-date=November 16, 2015 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Public Law 89-141 – Chapter 84.– PRESIDENTIAL ASSASSINATION, KIDNAPPING, AND ASSAULT|url=http://www.gpo.gov/fdsys/pkg/STATUTE-79/pdf/STATUTE-79-Pg580.pdf|access-date=September 20, 2017|url-status=live|archive-url=https://web.archive.org/web/20170922155440/https://www.gpo.gov/fdsys/pkg/STATUTE-79/pdf/STATUTE-79-Pg580.pdf|archive-date=September 22, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.law.cornell.edu/uscode/text/18/part-I/chapter-84|title=18 U.S. Code Chapter 84 – PRESIDENTIAL AND PRESIDENTIAL STAFF ASSASSINATION, KIDNAPPING, AND ASSAULT|url-status=live|archive-url=https://web.archive.org/web/20160303031714/https://www.law.cornell.edu/uscode/text/18/part-I/chapter-84|archive-date=March 3, 2016}}&lt;/ref&gt;
+
+===Organized crime===
+[[File:Donnie Brasco.jpg|thumb|An FBI surveillance photograph of [[Joseph D. Pistone]] (aka Donnie Brasco), [[Benjamin Ruggiero|Benjamin "Lefty" Ruggiero]] and [[Edgar Robb]] (aka Tony Rossi), 1980s]]
+In response to organized crime, on August 25, 1953, the FBI created the Top Hoodlum Program. The national office directed field offices to gather information on mobsters in their territories and to report it regularly to Washington for a centralized collection of intelligence on racketeers.&lt;ref&gt;[https://www.fbi.gov/page2/august07/mobintel080907.htm "Using Intel to Stop the Mob, Part 2"] {{webarchive |url=https://web.archive.org/web/20100616042610/https://www.fbi.gov/page2/august07/mobintel080907.htm |date=June 16, 2010 }}. Retrieved February 12, 2010.&lt;/ref&gt; After the [[Racketeer Influenced and Corrupt Organizations Act]], or RICO Act, took effect, the FBI began investigating the former Prohibition-organized groups, which had become fronts for crime in major cities and small towns. All of the FBI work was done undercover and from within these organizations, using the provisions provided in the RICO Act. Gradually the agency dismantled many of the groups. Although Hoover initially denied the existence of a [[National Crime Syndicate]] in the United States, the Bureau later conducted operations against known organized crime syndicates and families, including those headed by [[Sam Giancana]] and [[John Gotti]]. The RICO Act is still used today for all [[organized crime]] and any individuals who may fall under the Act's provisions.
+
+In 2003, a congressional committee called the FBI's organized crime [[informant]] program "one of the greatest failures in the history of federal law enforcement."&lt;ref name="Murphy" /&gt; The FBI allowed four innocent men to be convicted of the [[Joseph Barboza#False testimony against rivals|March 1965 gangland murder of Edward "Teddy" Deegan]] in order to protect [[Stephen Flemmi|Vincent Flemmi]], an FBI informant. Three of the men were sentenced to death (which was later reduced to life in prison), and the fourth defendant was sentenced to life in prison.&lt;ref name="Murphy"&gt;
+{{cite news
+ |url = http://www.boston.com/news/local/massachusetts/articles/2007/07/27/death_deceit_then_decades_of_silence/
+ |title = Evidence Of Injustice
+ |newspaper = Boston Globe
+ |author = Shelley Murphy
+ |date = July 27, 2007
+ |access-date = November 22, 2007
+ |url-status=live
+ |archive-url = https://web.archive.org/web/20080726051938/http://www.boston.com/news/local/massachusetts/articles/2007/07/27/death_deceit_then_decades_of_silence
+ |archive-date = July 26, 2008
+}}&lt;/ref&gt; Two of the four men died in prison after serving almost 30 years, and two others were released after serving 32 and 36 years. In July 2007, U.S. District Judge [[Nancy Gertner]] in Boston found that the Bureau had helped convict the four men using false witness accounts given by mobster [[Joseph Barboza]]. The U.S. Government was ordered to pay $100&amp;nbsp;million in damages to the four defendants.&lt;ref&gt;{{cite news
+|url=https://www.reuters.com/article/us-usa-fbi-murder-idUSN2643274020070726
+ |title= Judge awards $100 mln for unjust convictions 
+ |agency=[[Reuters]] 
+ |date=July 26, 2007 
+ |access-date=March 29, 2021 }}
+&lt;/ref&gt;
+
+===Special FBI teams===
+[[File:FBI SWAT team Watervliet Arsenal.jpg|thumb|right| FBI [[SWAT]] agents in a training exercise]]
+In 1982, the FBI formed an elite unit&lt;ref name="history_rise"&gt;{{cite web|url=https://www.fbi.gov/libref/historic/history/rise.htm |title=Rise in International Crime |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106201333/http://www2.fbi.gov/libref/historic/history/rise.htm |archive-date=January 6, 2015 }}&lt;/ref&gt; to help with problems that might arise at the [[1984 Summer Olympics]] to be held in Los Angeles, particularly [[terrorism]] and major-crime. This was a result of the [[1972 Summer Olympics]] in [[Munich|Munich, Germany]], when [[Munich massacre|terrorists murdered the Israeli athletes]]. Named the [[Hostage Rescue Team]], or HRT, it acts as a dedicated FBI [[SWAT]] team dealing primarily with counter-terrorism scenarios. Unlike the Special Agents serving on local [[FBI SWAT]] teams, HRT does not conduct investigations. Instead, HRT focuses solely on additional tactical proficiency and capabilities. Also formed in 1984 was the ''Computer Analysis and Response Team'', or CART.&lt;ref name="history_coldwarend"&gt;{{cite web|url=https://www.fbi.gov/libref/historic/history/postcold.htm |title=End of the Cold War |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106195651/http://www2.fbi.gov/libref/historic/history/postcold.htm |archive-date=January 6, 2015 }}&lt;/ref&gt;
+
+From the end of the 1980s to the early 1990s, the FBI reassigned more than 300 agents from foreign counter-intelligence duties to violent crime, and made violent crime the sixth national priority. With cuts to other well-established departments, and because terrorism was no longer considered a threat after the end of the [[Cold War]],&lt;ref name="history_coldwarend" /&gt; the FBI assisted local and state police forces in tracking fugitives who had crossed state lines, which is a federal offense. The FBI Laboratory helped develop [[DNA]] testing, continuing its pioneering role in identification that began with its fingerprinting system in 1924.
+
+===Notable efforts in the 1990s===
+[[File:Fbi egypt air 990.jpg|thumb|left|An FBI agent tags the [[cockpit voice recorder]] from [[EgyptAir Flight 990]] on the deck of the [[USNS Grapple (T-ARS-53)|USS ''Grapple'' (ARS 53)]] at the crash site on November 13, 1999.]]
+On May 1, 1992, FBI SWAT and HRT personnel in [[Los Angeles County, California]] aided local officials in securing peace within the area during the [[1992 Los Angeles riots]]. HRT operators, for instance, spent 10 days conducting vehicle-mounted patrols throughout [[Los Angeles]], before returning to Virginia.&lt;ref&gt;{{Cite web|url=https://cms.sofrep.com/wp-content/uploads/2016/01/the-unofficial-history-of-the-fbi-hostage-rescue-team.pdf|title=Anything, Anytime, Anywhere: The Unofficial History of the FBI Hostage Rescue Team, Page 10/25}}&lt;/ref&gt;
+
+Between 1993 and 1996, the FBI increased its [[counter-terrorism]] role following the first [[1993 World Trade Center bombing]] in [[New York City]], the 1995 [[Oklahoma City bombing]], and the arrest of the [[Ted Kaczynski|Unabomber]] in 1996. Technological innovation and the skills of FBI Laboratory analysts helped ensure that the three cases were successfully prosecuted.&lt;ref name="history_wired"&gt;{{cite web|url=https://www.fbi.gov/libref/historic/history/wiredworld.htm |title=Rise of a Wired World |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106195709/http://www2.fbi.gov/libref/historic/history/wiredworld.htm |archive-date=January 6, 2015 }}&lt;/ref&gt; However, Justice Department investigations into the FBI's roles in the [[Ruby Ridge]] and [[Waco siege|Waco]] incidents were found to have been obstructed by agents within the Bureau. During the [[1996 Summer Olympics]] in [[Atlanta|Atlanta, Georgia]], the FBI was criticized for its investigation of the [[Centennial Olympic Park bombing]]. It has settled a dispute with [[Richard Jewell]], who was a private security guard at the venue, along with some media organizations,&lt;ref name="leak"&gt;{{cite web|url=http://medialibel.org/cases-conflicts/tv/jewell.html |title=Richard Jewell v. NBC, and other Richard Jewell cases |publisher=Media Libel |access-date=June 6, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20060527200834/http://medialibel.org/cases-conflicts/tv/jewell.html |archive-date=May 27, 2006 }}&lt;/ref&gt; in regard to the leaking of his name during the investigation; this had briefly led to his being wrongly suspected of the bombing.
+
+After Congress passed the [[Communications Assistance for Law Enforcement Act]] (CALEA, 1994), the [[Health Insurance Portability and Accountability Act]] (HIPAA, 1996), and the [[Economic Espionage Act]] (EEA, 1996), the FBI followed suit and underwent a technological upgrade in 1998, just as it did with its CART team in 1991. Computer Investigations and Infrastructure Threat Assessment Center (CITAC) and the National Infrastructure Protection Center (NIPC) were created to deal with the increase in [[Internet]]-related problems, such as computer viruses, worms, and other malicious programs that threatened U.S. operations. With these developments, the FBI increased its electronic surveillance in public safety and national security investigations, adapting to the telecommunications advancements that changed the nature of such problems.
+
+===September 11 attacks===
+[[File:9-11 Pentagon Emergency Response 3.jpg|thumb|September 11 attacks at the Pentagon]]
+During the [[September 11 attacks|September 11, 2001, attacks]] on the [[World Trade Center (1973–2001)|World Trade Center]], FBI agent [[Leonard W. Hatton Jr.]] was killed during the rescue effort while helping the rescue personnel evacuate the occupants of the South Tower, and he stayed when it collapsed. Within months after the attacks, FBI Director [[Robert Mueller]], who had been sworn in a week before the attacks, called for a re-engineering of FBI structure and operations. He made countering every federal crime a top priority, including the prevention of terrorism, countering foreign intelligence operations, addressing cybersecurity threats, other high-tech crimes, protecting civil rights, combating public corruption, organized crime, white-collar crime, and major acts of violent crime.&lt;ref name="history_current"&gt;{{cite web|url=https://www.fbi.gov/libref/historic/history/changeman.htm |title=Change of Mandate |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106195636/http://www2.fbi.gov/libref/historic/history/changeman.htm |archive-date=January 6, 2015 }}&lt;/ref&gt;
+
+In February 2001, [[Robert Hanssen]] was caught selling information to the Russian government. It was later learned that Hanssen, who had reached a high position within the FBI, had been selling intelligence since as early as 1979. He pleaded guilty to [[espionage]] and received a [[Life imprisonment|life sentence]] in 2002, but the incident led many to question the security practices employed by the FBI. There was also a claim that Hanssen might have contributed information that led to the September 11, 2001 attacks.&lt;ref name="9_11"&gt;{{cite web|url=http://www.dailytimes.com.pk|title=Osama access to state secrets helped 9/11|publisher=Computer Crime Research Center|access-date=June 6, 2006|last=Seper|first=Jerry|archive-date=June 8, 2006|archive-url=https://web.archive.org/web/20060608124653/http://www.dailytimes.com.pk/|url-status=live}}&lt;/ref&gt;
+
+The [[9/11 Commission]]'s final report on July 22, 2004, stated that the FBI and [[Central Intelligence Agency]] (CIA) were both partially to blame for not pursuing intelligence reports that could have prevented the September 11 attacks. In its most damning assessment, the report concluded that the country had "not been well served" by either agency and listed numerous recommendations for changes within the FBI.&lt;ref name="abc"&gt;{{cite web|url=http://www.abc.net.au/am/content/2004/s1160100.htm|title=9/11 Commission finds 'deep institutional failings'|publisher=ABC Au|last=Shovelan|first=John|date=June 23, 2004|access-date=June 6, 2006|url-status=live|archive-url=https://web.archive.org/web/20060221224609/http://www.abc.net.au/am/content/2004/s1160100.htm|archive-date=February 21, 2006}}&lt;/ref&gt; While the FBI did accede to most of the recommendations, including oversight by the new [[Director of National Intelligence]], some former members of the 9/11 Commission publicly criticized the FBI in October 2005, claiming it was resisting any meaningful changes.&lt;ref name="cbsnews"&gt;{{cite news|url=http://www.cbsnews.com/stories/2005/10/06/60minutes/main923095.shtml|title=Ex-FBI Chief On Clinton's Scandals|work=CBS News|date=October 6, 2004|access-date=June 6, 2006|url-status=live|archive-url=https://web.archive.org/web/20060614142823/http://www.cbsnews.com/stories/2005/10/06/60minutes/main923095.shtml|archive-date=June 14, 2006}}&lt;/ref&gt;
+
+On July 8, 2007, ''[[The Washington Post]]'' published excerpts from [[University of California, Los Angeles|UCLA]] Professor Amy Zegart's book ''Spying Blind: The CIA, the FBI, and the Origins of 9/11.''&lt;ref name="cis"&gt;{{cite web|url=http://faculty.spa.ucla.edu/zegart/tableofcontent.asp|archive-url=https://web.archive.org/web/20071013114822/http://faculty.spa.ucla.edu/zegart/tableofcontent.asp|url-status=dead|archive-date=October 13, 2007|title=Spying Blind|publisher=Princeton University Press|access-date=July 8, 2007|last=Zegart|first=Amy|date=September 1, 2007}}&lt;/ref&gt; The ''Post'' reported, from Zegart's book, that government documents showed that both the CIA and the FBI had missed 23 potential chances to disrupt the terrorist attacks of September 11, 2001. The primary reasons for the failures included: agency cultures resistant to change and new ideas; inappropriate incentives for promotion; and a lack of cooperation between the FBI, CIA, and the rest of the [[United States Intelligence Community]]. The book blamed the FBI's decentralized structure, which prevented effective communication and cooperation among different FBI offices. The book suggested that the FBI had not evolved into an effective counter-terrorism or counter-intelligence agency, due in large part to deeply ingrained agency cultural resistance to change. For example, FBI personnel practices continued to treat all staff other than special agents as support staff, classifying [[intelligence analysis|intelligence analysts]] alongside the FBI's auto mechanics and janitors.&lt;ref name="wpz"&gt;{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2007/07/06/AR2007070602004.html|title=Our Clueless Intelligence System|newspaper=Washington Post|access-date=July 8, 2007|last=Zegart|first=Amy|date=July 8, 2007|url-status=live|archive-url=https://web.archive.org/web/20070713075345/http://www.washingtonpost.com/wp-dyn/content/article/2007/07/06/AR2007070602004.html|archive-date=July 13, 2007}}&lt;/ref&gt;
+
+===Faulty bullet analysis===
+For over 40 years, the FBI crime lab in Quantico had believed that lead alloys used in bullets had unique chemical signatures. It was analyzing the bullets with the goal of matching them chemically, not only to a single batch of ammunition coming out of a factory, but also to a single box of bullets. The [[National Academy of Sciences]] conducted an 18-month independent review of [[comparative bullet-lead analysis]]. In 2003, its National Research Council published a report whose conclusions called into question 30 years of FBI testimony. It found the analytic model used by the FBI for interpreting results was deeply flawed, and the conclusion, that bullet fragments could be matched to a box of ammunition, was so overstated that it was misleading under the rules of evidence. One year later, the FBI decided to stop conducting bullet lead analyses.&lt;ref&gt;{{cite web|title=FBI Laboratory Announces Discontinuation of Bullet Lead Examinations|url=https://www.fbi.gov/news/pressrel/press-releases/fbi-laboratory-announces-discontinuation-of-bullet-lead-examinations|website=fbi.gov|publisher=FBI National Press Office|access-date=December 6, 2014|url-status=live|archive-url=https://web.archive.org/web/20141208182140/http://www.fbi.gov/news/pressrel/press-releases/fbi-laboratory-announces-discontinuation-of-bullet-lead-examinations|archive-date=December 8, 2014}}&lt;/ref&gt;
+
+After a ''[[60 Minutes]]''/''[[Washington Post]]'' investigation in November 2007, two years later, the Bureau agreed to identify, review, and release all pertinent cases, and notify prosecutors about cases in which faulty testimony was given.&lt;ref&gt;{{cite news
+ |url = http://www.cbsnews.com/stories/2007/11/16/60minutes/main3512453.shtml
+ |title = Evidence Of Injustice
+ |work = CBS News
+ |date = November 18, 2007
+ |access-date = November 22, 2007
+ |url-status=live
+ |archive-url = https://web.archive.org/web/20071120202358/http://www.cbsnews.com/stories/2007/11/16/60minutes/main3512453.shtml
+ |archive-date = November 20, 2007
+}}&lt;/ref&gt;
+
+==Organization==
+===Organizational structure===
+[[File:FBI Field Divisions map.png|thumb|FBI field divisions map]]
+[[File:FBI organizational chart - 2014.jpg|thumb|Organization chart for the FBI as of July 15, 2014]]
+[[File:Counterterrorism Policy Directive and Policy Guide (redacted).pdf|thumb|Redacted policy guide for the Counterterrorism Division (part of the [[FBI National Security Branch|FBI&amp;nbsp;National&amp;nbsp;Security&amp;nbsp;Branch]])]]
+
+The FBI is organized into functional branches and the Office of the Director, which contains most administrative offices. An executive assistant director manages each branch. Each branch is then divided into offices and divisions, each headed by an assistant director. The various divisions are further divided into sub-branches, led by deputy assistant directors. Within these sub-branches, there are various sections headed by section chiefs. Section chiefs are ranked analogous to special agents in charge. Four of the branches report to the deputy director while two report to the associate director.
+
+The main branches of the FBI are:&lt;ref name="structure"&gt;{{Cite web|title=Leadership &amp; Structure|url=https://www.fbi.gov/about/leadership-and-structure|access-date=2021-01-08|website=Federal Bureau of Investigation|language=en-us}}&lt;/ref&gt;
+* [[FBI Intelligence Branch]]
+**Executive Assistant Director: Stephen Laycock
+* [[FBI National Security Branch]]
+**Executive Assistant Director: John Brown
+* [[FBI Criminal, Cyber, Response, and Services Branch]]
+**Executive Assistant Director: Terry Wade
+* [[FBI Science and Technology Branch]]
+**Executive Assistant Director: Darrin E. Jones
+* [[FBI Information and Technology Branch]]
+**Executive Assistant Director: Michael Gavin (Acting)
+* [[FBI Human Resources Branch]]
+**Executive Assistant Director: Jeffrey S. Sallet
+Each branch focuses on different tasks, and some focus on more than one. Here are some of the tasks that different branches are in charge of:
+
+==== [[FBI headquarters|FBI Headquarters Washington D.C.]] ====
+[[FBI National Security Branch|National Security Branch (NSB)]]&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite web|title=National Security Branch|url=https://www.fbi.gov/about/leadership-and-structure/national-security-branch|access-date=2021-01-08|website=Federal Bureau of Investigation|language=en-us}}&lt;/ref&gt;
+
+* [[FBI Counterintelligence Division|Counterintelligence Division (CD)]]
+* [[FBI Counterterrorism Division|Counterterrorism Division (CTD)]]
+* [[FBI Weapons of Mass Destruction Directorate|Weapons of Mass Destruction Directorate (WMDD)]]
+*High-Value Detainee Interrogation Group
+*Terrorist Screening Center
+
+[[FBI Intelligence Branch|Intelligence Branch (IB)]]&lt;ref name=":0" /&gt;
+
+* [[FBI Directorate of Intelligence|Directorate of Intelligence (DI)]]
+* Office of Partner Engagement (OPE)
+*Office of Private Sector
+
+[[FBI Criminal, Cyber, Response, and Services Branch|FBI Criminal, Cyber, Response, and Services Branch (CCRSB)]]&lt;ref name=":0" /&gt;&lt;ref name=":1"&gt;{{Cite web|last=|first=|date=|title=FBI Organization Chart|url=https://www.justice.gov/archive/jmd/mps/2012/manual/orgcharts/fbi.pdf|access-date=8 Jan 2021|website=United States Justice Department}}&lt;/ref&gt;
+
+* [[FBI Criminal Investigative Division|Criminal Investigation Division (CID)]]
+* [[FBI Cyber Division|Cyber Division (CyD)]]
+* [[FBI Critical Incident Response Group|Critical Incident Response Group (CIRG)]]
+* International Operation Division (IOD)
+*Victim Services Division
+
+[[FBI Science and Technology Branch|Science and Technology Branch (CTB)]]&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;&lt;ref&gt;{{Cite web|title=Science and Technology Branch|url=https://www.fbi.gov/about/leadership-and-structure/science-and-technology-branch|access-date=2021-01-08|website=Federal Bureau of Investigation|language=en-us}}&lt;/ref&gt;
+
+* [[Operational technology|Operational Technology Division (OTD)]]
+* Laboratory Division (LD)
+* [[FBI Criminal Justice Information Services Division|Criminal Justice Information Services (CJIA) Division]]
+
+==== Other Headquarter Offices ====
+[[FBI Information and Technology Branch|Information and Technology Branch (ITB)]]&lt;ref name=":0" /&gt;&lt;ref&gt;{{Cite web|title=Information Technology|url=https://www.fbi.gov/about/leadership-and-structure/information-technology|access-date=2021-01-08|website=Federal Bureau of Investigation|language=en-us}}&lt;/ref&gt;&lt;ref name=":1" /&gt;
+
+* IT Enterprise Services Division (ITESD)
+* IT Applications and Data Division (ITADD)
+* [[IT infrastructure|IT Infrastructure Division (ITID)]]
+* [[IT management|IT Management Division]]
+* [[IT Engineering|IT Engineering Division]]
+* [[IT services|IT Services Division]]
+
+[[FBI Human Resources Branch|Human Resources Branch (HRB)]]&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;
+
+* [[Training division|Training Division (TD)]]
+* [[FBI Human Resources Branch|Human Resources Division (HRD)]]
+* Security Division (SecD)
+
+Administrative and financial management support&lt;ref name=":0" /&gt;
+
+* Facilities and Logistics Services Division (FLSD)
+* Finance Division (FD)
+* Records Management Division (RMD)
+* Resource Planning Office (RPO)
+* Inspection Division (InSD)
+
+Specialized support&lt;ref name=":0" /&gt;
+
+* [[FBI Office of Public Affairs|Office of Public Affairs (OPA)]]
+* [[Office of Congressional Affairs|Office of Congressional Affairs (OCA)]]
+* [[Office of the General Counsel for the Department of the Treasury|Office of the General Counsel (OGC)]]
+* [[Equal Employment Opportunity Commission|Office of Equal Employment Opportunity Affairs (OEEOA)]]
+* [[Office of Professional Responsibility|Office of Professional Responsibility (OPR)]]
+* [[Office of the Ombudsman]]
+* Office of Integrity and Compliance (OIC)
+
+=== Office of the Director ===
+The Office of the Director serves as the central administrative organ of the FBI. The office provides staff support functions (such as finance and facilities management) to the five function branches and the various field divisions. The office is managed by the FBI associate director, who also oversees the operations of both the Information and Technology and Human Resources Branches.
+
+Senior Staff&lt;ref name="structure"/&gt;
+
+* Deputy Director
+* Associate Deputy Director
+* Chief of Staff
+
+Office of the Director&lt;ref name="structure"/&gt;
+*Finance and Facilities Division
+*Information Management Division
+*Insider Threat Office
+*Inspection Division
+*[[Federal Chief Information Officer of the United States|Office of the Chief Information Officer]]
+*[[Office of Congressional Affairs]]
+*[[Equal Employment Opportunity Commission|Office of Equal Employment Opportunity (EEO) Affairs]]
+*[[Office of the General Counsel for the Department of the Treasury|Office of the General Counsel]]
+*Office of Integrity and Compliance
+*[[Office of the Ombudsman]]
+*[[Office of Professional Responsibility]]
+*Office of Public Affairs
+*Resource Planning Office
+[[File:2008 San Diego federal Courthouse bombing.jpg|thumb|An FBI agent at a crime scene]]
+
+===Rank structure &lt;!-- Unable to verify info in this section --&gt;===
+The following is a listing of the rank structure found within the FBI (in ascending order):&lt;ref&gt;{{cite web |url=http://www.fbi.gov |title=fbi.gov |publisher=fbi.gov |access-date=March 3, 2012 |url-status=live |archive-url=https://web.archive.org/web/20110216215149/http://www.fbi.gov/ |archive-date=February 16, 2011 }}{{Failed verification|date=February 2021}}&lt;/ref&gt;
+* Field Agents
+** New Agent Trainee
+** [[Special agent|Special Agent]]
+** Senior Special Agent
+** Supervisory Special Agent
+** Assistant Special Agent-in-Charge (ASAC)
+** Special Agent-in-Charge (SAC)[[File:Mueller comey obama september 2013.jpg|thumb|[[James Comey]] speaks at the White House following his nomination by President [[Barack Obama]] to be the next director of the FBI, June 21, 2013]]
+* FBI Management
+** Deputy Assistant Director
+** Assistant Director
+** Associate Executive Assistant Director
+** Executive Assistant Director
+** Associate Deputy Director
+** Deputy Chief of Staff
+** Chief of Staff and Special Counsel to the Director
+** [[Deputy Director of the Federal Bureau of Investigation|Deputy Director]]
+** [[Director of the Federal Bureau of Investigation|Director]]
+
+==Legal authority==
+[[File:FBI Badge &amp; gun.jpg|thumb|FBI badge and service pistol, a [[Glock]] Model 22, .40 S&amp;W caliber]]
+
+The FBI's mandate is established in [[Title 28 of the United States Code]] (U.S. Code), Section 533, which authorizes the [[United States Attorney General|Attorney General]] to "appoint officials to detect and prosecute crimes against the United States."&lt;ref name="uscode"&gt;{{cite web |url=https://www.law.cornell.edu/uscode/text/28/533- |title=US CODE: Title 28,533. Investigative and other officials; appointment |publisher=Cornell Law School |access-date=February 15, 2011}}&lt;/ref&gt; Other federal statutes give the FBI the authority and responsibility to investigate specific crimes.
+
+The FBI's chief tool against [[organized crime]] is the [[Racketeer Influenced and Corrupt Organizations Act|Racketeer Influenced and Corrupt Organizations]] (RICO) Act. The FBI is also charged with the responsibility of enforcing compliance of the United States [[Civil Rights Act of 1964]] and investigating violations of the act in addition to prosecuting such violations with the [[United States Department of Justice]] (DOJ). The FBI also shares concurrent jurisdiction with the [[Drug Enforcement Administration]] (DEA) in the enforcement of the [[Controlled Substances Act]] of 1970.
+
+The [[Patriot Act|USA PATRIOT Act]] increased the powers allotted to the FBI, especially in [[Telephone tapping|wiretapping]] and monitoring of Internet activity. One of the most controversial provisions of the act is the so-called ''[[Sneak and peek warrant|sneak and peek]]'' provision, granting the FBI powers to search a house while the residents are away, and not requiring them to notify the residents for several weeks afterward. Under the PATRIOT Act's provisions, the FBI also resumed inquiring into the [[library]] records&lt;ref name="library"&gt;{{cite news |first=Bob |last=Egelko |author2=Maria Alicia Gaura |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/03/10/MN14634.DTL |title=Libraries post Patriot Act warnings: Santa Cruz branches tell patrons that FBI may spy on them |work=San Francisco Chronicle |date=March 10, 2003 |access-date=February 15, 2011 |url-status=live |archive-url=https://web.archive.org/web/20110429204950/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2003%2F03%2F10%2FMN14634.DTL |archive-date=April 29, 2011 }}&lt;/ref&gt; of those who are suspected of [[terrorism]] (something it had supposedly not done since the 1970s).
+
+In the early 1980s, Senate hearings were held to examine FBI undercover operations in the wake of the [[Abscam]] controversy, which had allegations of [[entrapment]] of elected officials. As a result, in the following years a number of guidelines were issued to constrain FBI activities.
+
+A March 2007 report by the inspector general of the Justice Department described the FBI's "widespread and serious misuse" of [[national security letter]]s, a form of [[administrative subpoena]] used to demand records and data pertaining to individuals. The report said that between 2003 and 2005, the FBI had issued more than 140,000 national security letters, many involving people with no obvious connections to terrorism.&lt;ref&gt;{{cite news|url= https://www.nytimes.com/2007/04/15/magazine/15wwlnlede.t.html|title= Who's Watching the F.B.I.?|author= Jeffrey Rosen|work= The New York Times Magazine |date= April 15, 2007|access-date= February 15, 2011|url-status=live|archive-url= https://web.archive.org/web/20110512180735/http://www.nytimes.com/2007/04/15/magazine/15wwlnlede.t.html|archive-date= May 12, 2011}}&lt;/ref&gt;
+
+Information obtained through an FBI investigation is presented to the appropriate [[United States Attorney|U.S. Attorney]] or Department of Justice official, who decides if prosecution or other action is warranted.
+
+The FBI often works in conjunction with other federal agencies, including the [[United States Coast Guard|U.S. Coast Guard]] (USCG) and [[U.S. Customs and Border Protection]] (CBP) in seaport and airport security,&lt;ref name="sea"&gt;{{cite web |url=http://www.usdoj.gov/oig/reports/FBI/a0626/final.pdf |title=The Federal Bureau of Investigation's Efforts to Protect the Nation's Seaports |publisher=U.S. Department of Justice, Office of Inspector General |date=March 2006 |access-date=February 15, 2011 |url-status=live |archive-url=https://web.archive.org/web/20091001020122/http://www.usdoj.gov/oig/reports/FBI/a0626/final.pdf |archive-date=October 1, 2009 }}&lt;/ref&gt; and the [[National Transportation Safety Board]] in investigating [[Aviation accidents and incidents|airplane crashes]] and other critical incidents. [[U.S. Immigration and Customs Enforcement|Immigration and Customs Enforcement]]’s Homeland Security Investigations (HSI) has nearly the same amount of investigative manpower as the FBI and investigates the largest range of crimes. In the wake of the [[September 11 attacks]], then-Attorney General Ashcroft assigned the FBI as the designated lead organization in terrorism investigations after the creation of the [[U.S. Department of Homeland Security]]. HSI and the FBI are both integral members of the [[Joint Terrorism Task Force]].
+
+===Indian reservations===
+[[File:FBI Director Visits North Dakota Indian Reservation (27474029651).jpg|thumb|FBI Director [[James Comey]] visiting the [[Fort Berthold Indian Reservation]] in [[North Dakota]] in June 2016.]]
+
+The federal government has the primary responsibility for investigating&lt;ref&gt;[https://www.fbi.gov/hq/cid/indian/background.htm "Indian Country Crime"] {{webarchive |url=https://web.archive.org/web/20100808010744/https://www.fbi.gov/hq/cid/indian/background.htm |date=August 8, 2010 }} FBI website, accessed August 10, 2010&lt;/ref&gt; and prosecuting serious crime on [[Indian reservation]]s.&lt;ref&gt;{{cite web |url=http://www.usccr.gov/pubs/sac/sd0300/ch2.htm |title=Native Americans in South Dakota: An Erosion of Confidence in the Justice System |publisher=Usccr.gov |access-date=March 3, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120306001408/http://www.usccr.gov/pubs/sac/sd0300/ch2.htm |archive-date=March 6, 2012 }}&lt;/ref&gt;
+
+{{quote|&lt;poem&gt;There are 565 federally recognized American Indian Tribes in the United States, and the FBI has federal law enforcement responsibility on nearly 200 Indian reservations. This federal jurisdiction is shared concurrently with the [[Bureau of Indian Affairs]], Office of Justice Services (BIA-OJS).
+
+Located within the FBI's Criminal Investigative Division, the Indian Country Crimes Unit (ICCU) is responsible for developing and implementing strategies, programs, and policies to address identified crime problems in Indian Country (IC) for which the FBI has responsibility.&lt;/poem&gt;|Overview, Indian Country Crime&lt;ref&gt;{{cite web|url=https://www.fbi.gov/about-us/investigate/vc_majorthefts/indian/ic_overview |title=Overview, Indian Country Crime |publisher=Federal Bureau of Investigation |access-date=October 26, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130120172843/http://www.fbi.gov/about-us/investigate/vc_majorthefts/indian/ic_overview |archive-date=January 20, 2013 }}&lt;/ref&gt;}}
+
+The FBI does not specifically list crimes in Native American land as one of its priorities.&lt;ref&gt;[https://www.fbi.gov/priorities/priorities.htm FBI "Facts and Figures"] {{webarchive |url=https://web.archive.org/web/20100922070926/https://www.fbi.gov/priorities/priorities.htm |date=September 22, 2010 }} See prominently displayed list of priorities, accessed August 10, 2010&lt;/ref&gt; &lt;!-- and most federal prosecutors.--&gt; Often serious crimes have been either poorly investigated or prosecution has been declined. Tribal courts can impose sentences of up to three years, under certain restrictions.&lt;ref&gt;[http://www.denverpost.com/frontpage/ci_15373276? Michael Riley, "Expansion of tribal courts' authority passes Senate"] {{webarchive|url=https://web.archive.org/web/20160304043343/http://www.denverpost.com/frontpage/ci_15373276 |date=March 4, 2016 }}, ''[[The Denver Post]]''. Posted: 25 June 2010 01:00:00&amp;nbsp;am MDT Updated: 25 June 2010 02:13:47&amp;nbsp;am MDT. Accessed June 25, 2010.&lt;/ref&gt;&lt;ref&gt;[http://www.denverpost.com/ci_15636761 Michael Riley, "President Obama signs tribal-justice changes"] {{webarchive |url=https://web.archive.org/web/20160304082720/http://www.denverpost.com/ci_15636761 |date=March 4, 2016 }}, ''[[The Denver Post]]'', Posted: 30 July 2010 01:00:00&amp;nbsp;am MDT, Updated: 30 July 2010 06:00:20&amp;nbsp;am MDT, accessed July 30, 2010.&lt;/ref&gt;
+
+==Infrastructure==
+[[File:Fbi headquarters.jpg|thumb|The [[J. Edgar Hoover Building]], FBI Headquarters]]
+[[File:Fbi mobile command center 2.jpg|thumb|FBI Mobile Command Center, [[List of FBI field offices|Washington Field Office]]]]
+
+The FBI is headquartered at the [[J. Edgar Hoover Building]] in [[Washington, D.C.]], with 56 field offices&lt;ref name="organization"&gt;{{cite web|url=https://www.fbi.gov/contact/fo/fo.htm |title=Federal Bureau of Investigation – Field Divisions |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20090815093807/http://www.fbi.gov/contact/fo/fo.htm |archive-date=August 15, 2009 }}&lt;/ref&gt; in major cities across the United States. The FBI also maintains over 400 resident agencies across the United States, as well as over 50 legal attachés at United States [[Diplomatic mission|embassies]] and [[Consul (representative)|consulates]]. Many specialized FBI functions are located at facilities in [[Quantico, Virginia]], as well as a "data campus" in [[Clarksburg, West Virginia]], where 96&amp;nbsp;million sets of fingerprints "from across the United States are stored, along with others collected by American authorities from prisoners in [[Saudi Arabia]] and [[Yemen]], [[Iraq]] and [[Afghanistan]]."&lt;ref name=WaPo&gt;[[Dana Priest|Priest, Dana]] and [[William Arkin|Arkin, William]] (December 2010) [http://projects.washingtonpost.com/top-secret-america/articles/monitoring-america/3/ Monitoring America] {{webarchive |url=https://web.archive.org/web/20101222220450/http://projects.washingtonpost.com/top-secret-america/articles/monitoring-america/3/ |date=December 22, 2010 }}, ''[[Washington Post]]''&lt;/ref&gt; The FBI is in process of moving its Records Management Division, which processes [[Freedom of Information Act (United States)|Freedom of Information Act]] (FOIA) requests, to [[Winchester, Virginia]].&lt;ref&gt;{{cite news|url=http://www.winchesterstar.com/TheWinchesterStar/060726/Area_fbi.asp |archive-url=https://archive.today/20070223124348/http://www.winchesterstar.com/TheWinchesterStar/060726/Area_fbi.asp |url-status=dead |archive-date=February 23, 2007 |title=One of the biggest things the FBI has ever done |publisher=The Winchester Star |date=July 26, 2006 |author=Reid, Sarah A.}}&lt;/ref&gt;
+
+According to ''[[The Washington Post]]'', the FBI "is building a vast repository controlled by people who work in a top-secret vault on the fourth floor of the J. Edgar Hoover Building in [[Washington, D.C.|Washington]]. This one stores the profiles of tens of thousands of Americans and legal residents who are not accused of any crime. What they have done is appear to be acting suspiciously to a town sheriff, a traffic cop or even a neighbor."&lt;ref name=WaPo/&gt;
+
+The [[FBI Laboratory]], established with the formation of the BOI,&lt;ref name="labhistory"&gt;{{cite web|url=https://www.fbi.gov/hq/lab/labhome.htm |title=FBI Laboratory History |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150103052300/http://www2.fbi.gov/hq/lab/labhome.htm |archive-date=January 3, 2015 }}&lt;/ref&gt; did not appear in the J. Edgar Hoover Building until its completion in 1974. The lab serves as the primary lab for most DNA, biological, and physical work. Public tours of FBI headquarters ran through the FBI laboratory workspace before the move to the J. Edgar Hoover Building. The services the lab conducts include ''Chemistry'', ''Combined DNA Index System'' (CODIS), ''Computer Analysis and Response'', ''DNA Analysis'', ''Evidence Response'', ''Explosives'', ''Firearms and Tool marks'', ''Forensic Audio'', ''Forensic Video'', ''Image Analysis'', ''Forensic Science Research'', ''Forensic Science Training'', ''Hazardous Materials Response'', ''Investigative and Prospective Graphics'', ''Latent Prints'', ''Materials Analysis'', ''Questioned Documents'', ''Racketeering Records'', ''Special Photographic Analysis'', ''Structural Design'', and ''Trace Evidence''.&lt;ref name="labwork"&gt;{{cite web |url=https://www.fbi.gov/hq/lab/org/labchart.htm |title=FBI Laboratory Services |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20071016191555/http://www.fbi.gov/hq/lab/org/labchart.htm |archive-date=October 16, 2007 }}&lt;/ref&gt; The services of the FBI Laboratory are used by many state, local, and international agencies free of charge. The lab also maintains a second lab at the FBI Academy.
+
+The [[FBI Academy]], located in [[Quantico, Virginia]], is home to the communications and computer laboratory the FBI utilizes. It is also where new agents are sent for training to become FBI Special Agents. Going through the 21-week course is required for every Special Agent.&lt;ref name="school"&gt;{{cite web|url=http://www.fbijobs.gov/113.asp |title=Special Agent Career Path Program |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20070702114822/http://www.fbijobs.gov/113.asp |archive-date=July 2, 2007 }}&lt;/ref&gt; First opened for use in 1972, the facility is located on {{convert|385|acre|ha|abbr=off}} of woodland. The Academy trains state and local law enforcement agencies, which are invited to the law enforcement training center. The FBI units that reside at Quantico are the ''Field and Police Training Unit'', ''Firearms Training Unit'', ''Forensic Science Research and Training Center'', ''Technology Services Unit'' (TSU), ''Investigative Training Unit'', ''Law Enforcement Communication Unit'', ''Leadership and Management Science Units'' (LSMU), ''Physical Training Unit'', ''New Agents' Training Unit'' (NATU), ''Practical Applications Unit'' (PAU), the ''Investigative Computer Training Unit'' and the "College of Analytical Studies."
+[[File:FBI Academy.jpg|thumb|The [[FBI Academy]], located in [[Quantico, Virginia]]]]
+
+In 2000, the FBI began the Trilogy project to upgrade its outdated [[information technology]] (IT) infrastructure. This project, originally scheduled to take three years and cost around $380&amp;nbsp;million, ended up over budget and behind schedule.&lt;ref name="vcf"&gt;{{cite web |url=http://iml.jou.ufl.edu/newszine/Archive/020905/tech/2.htm |title=Lawmakers criticize FBI director's expensive project |publisher=Newszine |access-date=June 6, 2006 |last=Sherman |first=Mark |url-status=dead |archive-url=https://web.archive.org/web/20060830160336/http://iml.jou.ufl.edu/newszine/Archive/020905/tech/2.htm |archive-date=August 30, 2006 }}&lt;/ref&gt; Efforts to deploy modern computers and networking equipment were generally successful, but attempts to develop new investigation software, outsourced to [[Science Applications International Corporation]] (SAIC), were not. [[Virtual Case File]], or VCF, as the software was known, was plagued by poorly defined goals, and repeated changes in management.&lt;ref name="vcf2"&gt;{{cite web |url=http://www.washingtontechnology.com/news/1_1/industry/25335-1.html |title=SAIC rejects Trilogy criticism |publisher=Washington Technology |access-date=June 6, 2006 |last=Gerin |first=Roseanne |date=January 14, 2005 |url-status=dead |archive-url=https://web.archive.org/web/20081202010045/http://www.washingtontechnology.com/news/1_1/industry/25335-1.html |archive-date=December 2, 2008}}&lt;/ref&gt; In January 2005, more than two years after the software was originally planned for completion, the FBI officially abandoned the project. At least $100&amp;nbsp;million (and much more by some estimates) was spent on the project, which never became operational. The FBI has been forced to continue using its decade-old Automated Case Support system, which [[information technology|IT]] experts consider woefully inadequate. In March 2005, the FBI announced it was beginning a new, more ambitious software project, code-named Sentinel, which they expected to complete by 2009.&lt;ref name="sentinel"&gt;{{cite web |url=http://www.fcw.com/article89707-07-27-05-Web |title=Senators seek to fast track FBI's Sentinel |publisher=FCW.Com |access-date=June 6, 2006 |last=Arnone |first=Michael |date=June 25, 2005 |url-status=dead |archive-url=https://web.archive.org/web/20061025013430/http://www.fcw.com/article89707-07-27-05-Web |archive-date=October 25, 2006 }}&lt;/ref&gt;
+
+[[File:FBI Field Office in Chelsea Massachusetts.jpg|thumb|left|The FBI Field Office in [[Chelsea, Massachusetts]]]]
+[[Carnivore (software)|Carnivore]] was an electronic eavesdropping software system implemented by the FBI during the Clinton administration; it was designed to monitor email and electronic communications. After prolonged negative coverage in the press, the FBI changed the name of its system from "Carnivore" to "DCS1000." DCS is reported to stand for "Digital Collection System"; the system has the same functions as before. The [[Associated Press]] reported in mid-January 2005 that the FBI essentially abandoned the use of Carnivore in 2001, in favor of commercially available software, such as NarusInsight.
+
+The [[FBI Criminal Justice Information Services Division|Criminal Justice Information Services]] (CJIS) Division&lt;ref name="cjis"&gt;{{cite web|url=https://www.fbi.gov/hq/cjisd/about.htm |title=The CJIS Mission |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20080916145313/http://www.fbi.gov/hq/cjisd/about.htm |archive-date=September 16, 2008 }}&lt;/ref&gt; is located in [[Clarksburg, West Virginia]]. Organized beginning in 1991, the office opened in 1995 as the youngest agency division. The complex is the length of three football fields. It provides a main repository for information in various data systems. Under the roof of the CJIS are the programs for the ''National Crime Information Center'' (NCIC), ''Uniform Crime Reporting'' (UCR), ''Fingerprint Identification'', ''Integrated Automated Fingerprint Identification System'' (IAFIS), ''NCIC 2000'', and the ''National Incident-Based Reporting System'' (NIBRS). Many state and local agencies use these data systems as a source for their own investigations and contribute to the database using secure communications. FBI provides these tools of sophisticated identification and information services to local, state, federal, and international law enforcement agencies.
+
+The FBI heads the [[National Virtual Translation Center]], which provides "timely and accurate translations of foreign intelligence for all elements of the [[United States Intelligence Community|Intelligence Community]]."&lt;ref name="Virtual Translators and FBI"&gt;{{cite web|url=https://www.fbi.gov/news/stories/2006/november/nvtc110106|title=Lost in Translation? Not at the National Virtual Translation Center|publisher=Federal Bureau of Investigation|url-status=live|archive-url=https://web.archive.org/web/20160313041804/https://www.fbi.gov/news/stories/2006/november/nvtc110106/|archive-date=March 13, 2016}}&lt;/ref&gt;
+
+In June 2021, the FBI held a groundbreaking for its planned FBI Innovation Center, set to be built in [[Huntsville, Alabama]]. The Innovation Center is to be part of a large, college-like campus costing a total of $1.3 billion in [[Redstone Arsenal]] and will act as a center for [[cyber threat intelligence]], [[Analytics|data analytics]], and emerging threat training.&lt;ref&gt;{{cite news |last=Gattis |first=Paul |date=June 29, 2021 |title=FBI Director Christopher Wray visits Huntsville for celebration at $1.3 billion campus |url=https://www.al.com/news/2021/06/fbi-director-christopher-wray-visits-huntsville-for-celebration-at-13-billion-campus.html |work=al.com |access-date=June 30, 2021}}&lt;/ref&gt;
+
+==Personnel==
+[[File:FBI Evidence Response Team.jpg|thumb|right|An FBI Evidence Response Team{{clarify|date=May 2020}}]]
+[[File:Potential Agents on the FBI Fireing Range.jpg|thumb|right|Agents in training on the [[FBI Academy]] firing range]]
+
+{{as of|2009|December|31}}, the FBI had a total of 33,852 employees. That includes 13,412 special agents and 20,420 support professionals, such as intelligence analysts, language specialists, scientists, information technology specialists, and other professionals.&lt;ref&gt;{{cite web|url=https://www.fbi.gov/quickfacts.htm |title=Federal Bureau of Investigation – About Us – Quick Facts |url-status=dead |archive-url=https://web.archive.org/web/20111017083929/http://www2.fbi.gov/quickfacts.htm |archive-date=October 17, 2011 }}&lt;/ref&gt;
+
+The [[Officer Down Memorial Page]] provides the biographies of 69 FBI agents who have died in the line of duty from 1925 to July 2017.&lt;ref&gt;{{cite web|url=http://www.odmp.org/agency/1251-united-states-department-of-justice---federal-bureau-of-investigation-u.s.-government|title=United States Department of Justice – Federal Bureau of Investigation Washington, DC|author=[[The Officer Down Memorial Page]]|url-status=live|archive-url=https://web.archive.org/web/20100822004917/http://www.odmp.org/agency/1251-united-states-department-of-justice---federal-bureau-of-investigation-u.s.-government|archive-date=August 22, 2010}}&lt;/ref&gt;
+
+===Hiring process===
+To apply to become an FBI agent, one must be between the ages of 23 and 37, unless one is a preference-eligible [[veteran]], in which case one may apply after age 37.&lt;ref&gt;Due to the decision in ''Robert P. Isabella v. Department of State and Office of Personnel Management'', 2008 M.S.P.B. 146. In 2009, the Office of Personnel Management issued implementation guidance on the Isabella decision ([http://www.chcoc.gov/Transmittals/TransmittalDetails.aspx?TransmittalID=2484 CHCOC] {{webarchive|url=https://web.archive.org/web/20120808110540/http://www.chcoc.gov/Transmittals/TransmittalDetails.aspx?TransmittalID=2484 |date=August 8, 2012 }}. Chcoc.gov. Retrieved on July 23, 2013).&lt;/ref&gt; The applicant must also hold U.S. citizenship, be of high moral character, have a clean record, and hold at least a four-year [[bachelor's degree]]. At least three years of professional work experience prior to application is also required. All FBI employees require a Top Secret (TS) [[security clearance]], and in many instances, employees need a TS/SCI ([[Classified information in the United States#Top Secret|'''T'''op '''S'''ecret]]/[[Collateral clearance|'''S'''ensitive '''C'''ompartmented '''I'''nformation]]) clearance.&lt;ref name="tssci"&gt;{{cite web|url=http://www.fbijobs.gov/5.asp |title=Federal Bureau of Investigation Jobs |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20070702114028/http://www.fbijobs.gov/5.asp |archive-date=July 2, 2007 }}&lt;/ref&gt; To obtain a security clearance, all potential FBI personnel must pass a series of [[Single Scope Background Investigation]]s (SSBI), which are conducted by the [[United States Office of Personnel Management|Office of Personnel Management]].&lt;ref name="opm"&gt;{{cite web |url=http://www.usdoj.gov/oig/reports/OBD/e0510/back.htm#12 |title=Review of the Security and Emergency Planning Staff's Management of Background Investigations |publisher=U.S. Department of Justice, Office of Inspector General |date=September 2005 |url-status=live |archive-url=https://web.archive.org/web/20060816072405/http://www.usdoj.gov/oig/reports/OBD/e0510/back.htm#12 |archive-date=August 16, 2006 }}&lt;/ref&gt; Special agent candidates also have to pass a Physical Fitness Test (PFT), which includes a 300-meter run, one-minute sit-ups, maximum push-ups, and a {{convert|1.5|mi|km|1|adj=on}} run. Personnel must pass a [[polygraph]] test with questions including possible drug use.&lt;ref name="FAQ-FBI Jobs"&gt;{{cite web|url=https://www.fbijobs.gov/61.asp |title=FAQ-FBI Jobs |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20121018235309/https://www.fbijobs.gov/61.asp |archive-date=October 18, 2012 }}&lt;/ref&gt; Applicants who fail polygraphs may not gain employment with the FBI.&lt;ref&gt;Taylor, Marisa. "[http://www.mcclatchydc.com/2013/05/20/191539/fbi-turns-away-many-applicants.html FBI turns away many applicants who fail lie-detector tests] {{webarchive|url=https://web.archive.org/web/20130709164951/http://www.mcclatchydc.com/2013/05/20/191539/fbi-turns-away-many-applicants.html |date=2013-07-09 }}." ''[[The McClatchy Company]]''. May 20, 2013. Retrieved on July 25, 2013.&lt;/ref&gt; Up until 1975, the FBI had a minimum height requirement of {{convert|5|ft|7|in|cm}}.&lt;ref&gt;{{Cite news|url=http://jfk.hood.edu/Collection/White%20Materials/White%20Assassination%20Clippings%20Folders/Security%20Folders/Security-FBI/Item%200844.pdf|title=FBI to Allow Agents to Be Short|date=June 25, 1975|work=San Francisco Chronicle/Associated Press|archive-url=https://web.archive.org/web/20161020144123/http://jfk.hood.edu/Collection/White%20Materials/White%20Assassination%20Clippings%20Folders/Security%20Folders/Security-FBI/Item%200844.pdf|archive-date=October 20, 2016|url-status=live}}&lt;/ref&gt;
+
+===BOI and FBI directors===
+{{Main|Director of the Federal Bureau of Investigation}}
+[[Director of the Federal Bureau of Investigation|FBI Directors]] are [[List of positions filled by presidential appointment with Senate confirmation|appointed]] (nominated) by the [[President of the United States]] and must be confirmed by the [[United States Senate]] to serve a term of office of ten years, subject to resignation or removal by the President at his/her discretion before their term ends. Additional terms are allowed following the same procedure
+
+[[J. Edgar Hoover]], appointed by President [[Calvin Coolidge]] in 1924, was by far the longest-serving director, serving until his death in 1972. In 1968, Congress passed legislation, as part of the ''Omnibus Crime Control and Safe Streets Act'' of 1968, requiring Senate confirmation of appointments of future Directors.&lt;ref&gt;''Omnibus Crime Control and Safe Streets Act'' {{USPL|90|351}}, June 19, 1968, {{USStat|82|197}}, sec.1101&lt;/ref&gt; As the incumbent, this legislation did not apply to Hoover. The last FBI Director was [[Andrew McCabe]]. The current FBI Director is [[Christopher A. Wray]] appointed by President [[Donald Trump]].
+
+The FBI director is responsible for the day-to-day operations at the FBI. Along with the [[Deputy Director of the Federal Bureau of Investigation|Deputy Director]], the director makes sure cases and operations are handled correctly. The director also is in charge of making sure the leadership in any one of the FBI [[List of FBI field offices|field offices]] is manned with qualified agents. Before the [[Intelligence Reform and Terrorism Prevention Act]] was passed in the wake of the September 11 attacks, the FBI director would directly brief the [[President of the United States]] on any issues that arise from within the FBI. Since then, the director now reports to the [[Director of National Intelligence]] (DNI), who in turn reports to the President.
+
+==Firearms==
+[[File:Glock22inOliveDrab.jpg|thumb|A Glock 22 pistol in .40 S&amp;W caliber]]
+Upon qualification, an FBI special agent is issued a full-size [[Glock 22]] or compact Glock 23 [[semi-automatic pistol]], both of which are chambered in the [[.40 S&amp;W]] [[Cartridge (firearms)|cartridge]]. In May 1997, the FBI officially adopted the Glock, in .40 S&amp;W, for general agent use, and first issued it to New Agent Class 98-1 in October 1997. At present, the Glock 23 "FG&amp;R" (finger groove and rail; either 3rd generation or "Gen4") is the issue sidearm.&lt;ref&gt;{{cite web|url=https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|title=A History of FBI Handguns|date=August 22, 2011|first=Bill|last=Vanderpool|publisher=[[National Rifle Association]]|website=American Rifleman|url-status=live|archive-url=https://web.archive.org/web/20170201125956/https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|archive-date=February 1, 2017}}&lt;/ref&gt; New agents are issued firearms, on which they must qualify, on successful completion of their training at the [[FBI Academy]]. The Glock 26 (subcompact 9mm Parabellum), Glock 23 and Glock 27 (.40 S&amp;W compact and subcompact, respectively) are authorized as secondary weapons. Special agents are also authorized to purchase and qualify with the [[Glock 21]] in [[.45 ACP]].&lt;ref&gt;{{cite web|url=https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|title=A History of FBI Handguns|date=August 22, 2011|first=Bill|last=Vanderpool|publisher=[[National Rifle Association]]|website=American Rifleman|quote=The only personally owned handguns now on the approved list are the Glock 21 (full-size .45 ACP), the Glock 26 (sub-compact 9 mm) and the 27 (sub-compact .40 S&amp;W).|url-status=live|archive-url=https://web.archive.org/web/20170201125956/https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|archive-date=February 1, 2017}}&lt;/ref&gt;
+
+Special agents of the FBI [[Hostage Rescue Team]] (HRT) and [[FBI Special Weapons and Tactics Teams|regional SWAT teams]] are issued the [[Springfield Armory, Inc.|Springfield Armory]] [[M1911 pistol|Professional Model 1911]] pistol in .45 ACP.&lt;ref&gt;{{cite web|url=https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|title=A History of FBI Handguns|date=August 22, 2011|first=Bill|last=Vanderpool|publisher=[[National Rifle Association]]|website=American Rifleman|quote=Also in the ’80s, HRT adopted the Browning Hi-Power. The first Hi-Powers were customized by Wayne Novak and later ones by the FBI gunsmiths at Quantico. They were popular with the "super SWAT" guys, and several hesitated to give them up when they were replaced by .45 ACP single-action pistols, the first ones built by Les Baer, which used high-capacity Para Ordnance frames. Later, Springfield Armory’s "Bureau Model" replaced the Baer guns. Field SWAT teams were also issued .45s, and most still use them.|url-status=live|archive-url=https://web.archive.org/web/20170201125956/https://www.americanrifleman.org/articles/2011/8/22/a-history-of-fbi-handguns/|archive-date=February 1, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.springfield-armory.com/press-releases/springfield-armory-announces-new-1911-trp-tactical-response-pistol/|title=OPERATOR®, TACTICAL GRAY CONFIGURATION ADDS NEW COLOR AND ADJUSTABLE COMBAT SIGHTS|publisher=Springfield Armory|date=January 19, 2017|quote=Originally developed as a consumer-friendly option for the FBI contract Professional Model 1911, the TRP™ family provides high-end custom shop features in a production class pistol.|url-status=live|archive-url=https://web.archive.org/web/20170924045035/http://www.springfield-armory.com/press-releases/springfield-armory-announces-new-1911-trp-tactical-response-pistol/|archive-date=September 24, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.springfield-armory.com/ro-elite-series/|title=RO® ELITE SERIES|publisher=Springfield Armory|quote=Every new RO Elite series pistol is clad in the same Black-T® treatment specified on Springfield Armory 1911s built for the FBI’s regional SWAT and Hostage Rescue Teams.|url-status=live|archive-url=https://web.archive.org/web/20170923201851/http://www.springfield-armory.com/ro-elite-series/|archive-date=September 23, 2017}}&lt;/ref&gt;
+
+In June 2016, the FBI awarded [[Glock Ges.m.b.H.|Glock]] a contract for new handguns. Unlike the currently issued .40 S&amp;W chambered Glock pistols, the new Glocks will be chambered for 9mm Parabellum. The contract is for the full-size Glock 17M and the compact Glock 19M. The "M" means the Glocks have been modified to meet government standards specified by a 2015 government [[request for proposal]].&lt;ref&gt;{{cite web|url=https://money.cnn.com/2016/06/30/news/companies/glock-gun-contract-fbi/index.html|title=Glock wins $85 million FBI contract|first=Aaron|last=Smith|date=June 30, 2016|publisher=CNN|url-status=live|archive-url=https://web.archive.org/web/20160910235104/https://money.cnn.com/2016/06/30/news/companies/glock-gun-contract-fbi/index.html|archive-date=September 10, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bluesheepdog.com/2016/06/30/f-b-awards-glock-new-handgun-contract/|title=F.B.I. Awards Glock New Duty Pistol Contract!|date=June 30, 2016|publisher=Blue Sheepdog|url-status=live|archive-url=https://web.archive.org/web/20170306035028/http://www.bluesheepdog.com/2016/06/30/f-b-awards-glock-new-handgun-contract/|archive-date=March 6, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.guns.com/2016/06/30/fbi-goes-back-to-9mm-with-glock/|title=FBI goes back to 9mm with Glock|first=Daniel|last=Terrill|date=June 30, 2016|publisher=Guns.com|url-status=live|archive-url=https://web.archive.org/web/20170306035926/http://www.guns.com/2016/06/30/fbi-goes-back-to-9mm-with-glock/|archive-date=March 6, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.outdoorhub.com/news/2016/07/01/fbi-chooses-9mm-glocks-new-service-pistols/|title=FBI Chooses 9mm Glocks for New Service Pistols|publisher=Outdoor Hub|url-status=live|archive-url=https://web.archive.org/web/20170306041028/http://www.outdoorhub.com/news/2016/07/01/fbi-chooses-9mm-glocks-new-service-pistols/|archive-date=March 6, 2017}}&lt;/ref&gt;
+
+==Publications==
+[[File:FBI_Seeking_Information_Capitol_Violence_Poster.jpg|thumb|Publication following the [[2021 storming of the United States Capitol]]]]
+The ''[[FBI Law Enforcement Bulletin]]'' is published monthly by the FBI Law Enforcement Communication Unit,&lt;ref name="lecu"&gt;{{cite web |url=https://www.fbi.gov/hq/td/academy/lecu/lecu.htm |title=Law Enforcement Communication Unit |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20090417000819/http://www.fbi.gov/hq/td/academy/lecu/lecu.htm |archive-date=April 17, 2009 }}&lt;/ref&gt; with articles of interest to state and local [[Law enforcement agency|law enforcement]] personnel. First published in 1932 as ''Fugitives Wanted by Police'',&lt;ref name="history_newdeal"&gt;{{cite web |url=https://www.fbi.gov/libref/historic/history/newdeal.htm |title=History of the FBI, The New Deal: 1933 – Late 1930s |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20150106195646/http://www2.fbi.gov/libref/historic/history/newdeal.htm |archive-date=January 6, 2015 }}&lt;/ref&gt; the ''FBI Law Bulletin'' covers topics including law enforcement technology and issues, such as [[crime mapping]] and [[use of force]], as well as recent [[criminal justice]] research, and [[Violent Criminal Apprehension Program|ViCAP]] alerts, on wanted suspects and key cases.
+
+The FBI also publishes some reports for both law enforcement personnel as well as regular citizens covering topics including law enforcement, [[terrorism]], [[Computer crime|cybercrime]], [[white-collar crime]], [[violent crime]], and statistics.&lt;ref name="pubs"&gt;{{cite web |url=https://www.fbi.gov/publications.htm |title=Federal Bureau of Investigation – Reports &amp; Publications |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20160326222038/https://www2.fbi.gov/publications.htm |archive-date=March 26, 2016 }}&lt;/ref&gt; However, the vast majority of [[Federal government of the United States|federal government]] publications covering these topics are published by the [[Office of Justice Programs]] agencies of the [[United States Department of Justice]], and disseminated through the [[National Criminal Justice Reference Service]].
+
+===Crime statistics===
+During the 1920s the FBI began issuing crime reports by gathering numbers from local police departments.&lt;ref name="'70s"&gt;{{cite book |title=How We Got Here: The '70s |last=Frum |first=David |author-link=David Frum |year=2000 |publisher=Basic Books |location=New York, NY |isbn=0-465-04195-7 |page=[https://archive.org/details/howwegothere70sd00frum/page/12 12] |url=https://archive.org/details/howwegothere70sd00frum/page/12}}&lt;/ref&gt; Due to limitations of this system that were discovered during the 1960s and 1970s—victims often simply did not report crimes to the police in the first place—the [[United States Department of Justice|Department of Justice]] developed an alternative method of tallying crime, the victimization survey.&lt;ref name="'70s" /&gt;
+
+====Uniform Crime Reports====
+{{Main|Uniform Crime Reports}}
+The Uniform Crime Reports (UCR) compile data from over 17,000 law enforcement agencies across the country. They provide detailed data regarding the volume of crimes to include arrest, clearance (or closing a case), and law enforcement officer information. The UCR focuses its data collection on violent crimes, hate crimes, and property crimes.&lt;ref name="pubs" /&gt; Created in the 1920s, the UCR system has not proven to be as ''uniform'' as its name implies. The UCR data only reflect the most serious offense in the case of connected crimes and has a very restrictive definition of rape. Since about 93% of the data submitted to the FBI is in this format, the UCR stands out as the publication of choice as most states require law enforcement agencies to submit this data.
+
+Preliminary Annual ''Uniform Crime Report'' for 2006 was released on June 4, 2006. The report shows violent crime offenses rose 1.3%, but the number of property crime offenses decreased 2.9% compared to 2005.&lt;ref name="publications_ucr2006"&gt;{{cite web|url=https://www.fbi.gov/ucr/06prelim/index.html |title=Preliminary Crime Statistics for 2006 |publisher=Federal Bureau of Investigation |url-status=dead |archive-url=https://web.archive.org/web/20100411123900/http://www.fbi.gov/ucr/06prelim/index.html |archive-date=April 11, 2010 }}&lt;/ref&gt;
+
+====National Incident-Based Reporting System====
+{{Main|National Incident-Based Reporting System}}
+The National Incident-Based Reporting System (NIBRS) [[crime statistics]] system aims to address limitations inherent in UCR data. The system is used by law enforcement agencies in the United States for collecting and reporting data on crimes. Local, state, and federal agencies generate NIBRS data from their records management systems. Data is collected on every incident and arrest in the Group A offense category. The Group A offenses are 46 specific crimes grouped in 22 offense categories. Specific facts about these offenses are gathered and reported in the NIBRS system. In addition to the Group A offenses, eleven Group B offenses are reported with only the arrest information. The NIBRS system is in greater detail than the summary-based UCR system. {{as of|2004|df=US}}, 5,271 law enforcement agencies submitted NIBRS data. That amount represents 20% of the United States population and 16% of the crime statistics data collected by the FBI.
+
+==eGuardian==
+eGuardian is the name of an FBI system, launched in January 2009, to share tips about possible terror threats with local police agencies. The program aims to get law enforcement at all levels sharing data quickly about suspicious activity and people.&lt;ref&gt;{{cite web|url=http://www.cbsnews.com/stories/2009/01/13/national/main4719968.shtml|title=FBI Launches Tip-Sharing For Inauguration|work=[[CBS News]]|date=January 13, 2009|access-date=January 13, 2009|url-status=live|archive-url=https://web.archive.org/web/20090125020820/http://www.cbsnews.com/stories/2009/01/13/national/main4719968.shtml|archive-date=January 25, 2009}}&lt;/ref&gt;
+
+eGuardian enables near real-time sharing and tracking of terror information and suspicious activities with local, state, tribal, and federal agencies. The eGuardian system is a spin-off of a similar but classified tool called Guardian that has been used inside the FBI, and shared with vetted partners since 2005.&lt;ref&gt;{{cite web|url=http://www.nationalterroralert.com/updates/2009/01/13/e-guardian-fbi-shares-threat-info-with-local-police-agencies/|title=eGuardian – FBI Shares Threat Info With Local Police Agencies|publisher=National Terror Alert Response Center|date=January 13, 2009|access-date=January 13, 2009|url-status=live|archive-url=https://web.archive.org/web/20100114174943/http://www.nationalterroralert.com/updates/2009/01/13/e-guardian-fbi-shares-threat-info-with-local-police-agencies/|archive-date=January 14, 2010}}&lt;/ref&gt;
+
+==Controversies==
+{{main|List of FBI controversies}}
+Throughout its history, the FBI has been the subject of many controversies, both at home and abroad. 
+
+'''[[Latin America]]''' - For decades during the [[Cold War]], the FBI placed agents to monitor the governments of [[Caribbean]] and Latin American nations.&lt;ref&gt;{{Cite web|date=2014-05-13|title=Che Guevara and the FBI: U.S. Political Police Dossier on the Latin American Revolutionary by Michael Ratner — Reviews, Discussion, Bookclubs, Lists|url=https://web.archive.org/web/20140513014007/http://www.goodreads.com/book/show/473884.Che_Guevara_and_the_FBI|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+'''[[Surveillance|Domestic surveillance]]''' - In 1985, it was found that the FBI had made use of [[surveillance devices]] on numerous American citizens between 1940 and 1960.&lt;ref&gt;{{Cite journal|last=Agur|first=Colin|date=November 2013|title=Negotiated Order: The Fourth Amendment, Telephone Surveillance, and Social Interactions, 1878–1968|url=http://dx.doi.org/10.7560/ic48402|journal=Information &amp; Culture|volume=48|issue=4|pages=419–447|doi=10.7560/ic48402|issn=2164-8034|hdl=11299/182084|hdl-access=free}}&lt;/ref&gt;
+
+'''[[List of FBI controversies#Files on Puerto Rican independence advocates|Files on Puerto Rican independence advocates]]''' - [[Member of Congress|Congressman]] [[Luis Gutiérrez|Luiz Gutierrez]] revealed that [[Pedro Albizu Campos]] and his [[Puerto Rican Nationalist Party|Nationalist]] political party had been watched for a decade-long period in the 1930s.&lt;ref&gt;{{Cite web|date=2017-02-23|title=New Light on Old F.B.I. Fight; Decades of Surveillance of Puerto Rican Groups - The New York Times|url=https://web.archive.org/web/20170223121153/http://www.nytimes.com/2003/11/28/nyregion/new-light-on-old-fbi-fight-decades-of-surveillance-of-puerto-rican-groups.html|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+'''Covert operations on political groups''' - Political groups deemed disruptive have been investigated and discredited by the FBI in the aim of "protecting [[national security]], preventing [[violence]], and maintaining the existing [[Social order|social]] and [[Political system|political order]]."&lt;ref&gt;{{Cite web|date=2013-11-04|title=U.S. Senate Select Committee on Intelligence|url=https://web.archive.org/web/20131104062808/http://www.intelligence.senate.gov/churchcommittee.html|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+[[List of FBI controversies#Files on U.S. citizens|'''Files on U.S. citizens''']] - The Bureau kept files on certain individuals for varying reasons and lengths of time, notably, [[FBI files on Elvis Presley|Elvis Presley]], [[Frank Sinatra]], [[John Denver]].
+
+'''[[Robert Hanssen]]''' - In what is described by the US [[United States Department of Justice|Department of Justice (DOJ)]] as "[[Robert Hanssen|possibly the worst intelligence disaster in U.S. history]].",&lt;ref&gt;{{Cite web|title=A Review of FBI Security Programs|url=https://fas.org/irp/agency/doj/fbi/websterreport.html|access-date=2021-07-20|website=fas.org}}&lt;/ref&gt; Hanssen managed to evade the FBI as he simultaneously sold thousands of classified American documents to [[Soviet Union|Soviet]] [[GRU|intelligence operatives]].
+
+'''[[Stoneman Douglas High School shooting]]''' - A statement from the FBI confirmed that it had failed to act on a tip warning of the possibility of the shooting over a month prior to its occurrence, which may have prevented the tragedy outright.&lt;ref&gt;{{Cite web|date=2018-02-17|title=FBI Statement on the Shooting in Parkland, Florida — FBI|url=https://web.archive.org/web/20180217004949/https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-the-shooting-in-parkland-florida|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+'''Internal investigations of shootings''' - A professor of [[criminal justice]] at the [[University of Nebraska Omaha]] suggested that FBI internal reports found a questionably high number of [[Shooting|weapon discharges]] by its agents to be justified.
+
+[[Whitey Bulger|'''The Whitey Bulger case''']] - The FBI was, and continues to be, criticized for its handling of [[Boston]] criminal Whitney Bulger. As a result of Bulger acting as an [[informant]], the agency turned a blind eye to his activities as an exchange.&lt;ref&gt;{{Cite web|date=2013-12-18|title=James 'Whitey' Bulger Got Away With Murder, Thanks to the FBI {{!}} TIME.com|url=https://web.archive.org/web/20131218093737/http://ideas.time.com/2013/08/12/the-fbi-kept-whitey-bulger-free-for-decades/|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+[[Associated Press|'''Associated Press (AP) impersonation case''']] - A Bureau agent, masquerading as an AP [[journalist]], placed [[Spyware|surveillance software]] in the [[personal computer]] of a minor. This resulted in a series of conflicts between the news agency and the FBI.&lt;ref&gt;{{Cite web|date=2017-12-24|title=Associated Press sues after FBI impersonates journalist in sting operation - LA Times|url=https://web.archive.org/web/20171224101449/http://www.latimes.com/nation/la-na-associated-press-lawsuit-20150827-story.html|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|date=2017-12-24|title=AP demands FBI never again impersonate journalist|url=https://web.archive.org/web/20171224101310/https://apnews.com/920b9db9559442a18dcd05037e3093c4|access-date=2021-07-20|website=web.archive.org}}&lt;/ref&gt;
+
+'''FBI surveillance since 2010''' - In the years since 2010, it has been uncovered by various [[civil liberties]] groups (such as the [[American Civil Liberties Union|American Civil Liberties Union [ACLU]]]) that the FBI earmarked disproportionate resources for the surveillance of [[Left-wing politics|left-leaning]] movements and political organizations.&lt;ref&gt;{{Cite web|title=Still Spying on Dissent.pdf|url=https://drive.google.com/file/d/1z-i_XCoZub8ISKEe5DzjoMh0bPS5u1Xm/view?usp=embed_facebook|access-date=2021-07-20|website=Google Docs}}&lt;/ref&gt; The FBI has also committed several breaches of the [[First Amendment to the United States Constitution|First Amendment]] in this time.&lt;ref&gt;{{Cite web|last=SperiOctober 22, 2019|first=Alice SperiAlice|last2=P.m|first2=4:03|title=The FBI’s Long History of Treating Political Dissent as Terrorism|url=https://theintercept.com/2019/10/22/terrorism-fbi-political-dissent/|access-date=2021-07-20|website=The Intercept|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|date=2020-12-26|title=US non-profit sues FBI to learn about phone hacking capability|url=https://www.thexyz.com/blog/us-non-profit-sues-fbi-to-learn-about-phone-hacking-capability/|access-date=2021-07-20|website=Thexyz Blog|language=en-CA}}&lt;/ref&gt;'''[[Viola Liuzzo]]''' - [[Gary Thomas Rowe]], an FBI informant who at the time was also an active member of the [[Ku Klux Klan]], assisted in the murder of Viola Liuzzo (a Caucasian civil rights activist) in 1965, and afterwards, [[Defamation|defamatory]] rumours were spread by the Bureau about the victim.&lt;ref&gt;{{Cite book|last=May|first=Gary|url=http://dx.doi.org/10.12987/yale/9780300106350.001.0001|title=The Informant|date=2005-05-11|publisher=Yale University Press|isbn=978-0-300-10635-0}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=WebCite query result|url=https://www.webcitation.org/5uKqS0VOK?url=http://www.washingtonpost.com/wp-dyn/content/article/2005/06/30/AR2005063001422_pf.html|access-date=2021-07-20|website=www.webcitation.org}}&lt;/ref&gt;
+
+==Media portrayal==
+{{Main|FBI portrayal in media}}
+[[File:Gillian Anderson &amp; David Duchovny (9344570889).jpg|thumb|right|upright=0.9|The popular TV series ''[[The X-Files]]'' depicts the fictional FBI Special Agents [[Dana Scully]] ([[Gillian Anderson]]) and [[Fox Mulder]] ([[David Duchovny]]) who investigate [[paranormal]] phenomena.]]
+The FBI has been frequently depicted in popular media since the 1930s. The bureau has participated to varying degrees, which has ranged from direct involvement in the creative process of film or TV series development, to providing consultation on operations and closed cases.&lt;ref&gt;{{cite book |last=Powers |first=Richard Gid |title=G-Men: Hoover's FBI in American Popular Culture |publisher=Southern Illinois University Press |year=1983 |location=Carbondale, IL |isbn=0-8093-1096-1 |url=https://archive.org/details/gmenhooversfbiin00powe }}&lt;/ref&gt; A few of the notable portrayals of the FBI on television are the series ''[[The X-Files]]'', which started in 1993 and concluded its eleventh season in early 2018, and concerned investigations into [[paranormal]] phenomena by five fictional Special Agents, and the fictional [[Counter Terrorist Unit]] (CTU) agency in the TV drama ''[[24 (TV series)|24]]'', which is patterned after the [[FBI Counterterrorism Division]]. The 1991 movie ''[[Point Break (1991 film)|Point Break]]'' depicts an undercover FBI agent who infiltrated a gang of bank robbers. The 1997 movie ''[[Donnie Brasco (film)|Donnie Brasco]]'' is based on the true story of undercover FBI agent [[Joseph D. Pistone]] infiltrating the Mafia. The 2015 TV series ''[[Quantico (TV series)|Quantico]]'', titled after the location of the Bureau's training facility, deals with Probationary and Special Agents, not all of whom, within the show's format, may be fully reliable or even trustworthy.
+
+==Notable FBI personnel==
+{{div col|colwidth=20em}}
+* [[Edwin Atherton]]
+* [[Ed Bethune]]
+* [[James Comey]]
+* [[Alaska P. Davidson]]
+* [[Sibel Edmonds]]
+* [[James R. Fitzgerald]]
+* [[Mark Felt|W. Mark Felt]]
+* [[Robert Hanssen]]
+* [[J. Edgar Hoover]]
+* [[Lon Horiuchi]]
+* [[John McClurg]]
+* [[Richard Miller (agent)|Richard Miller]]
+* [[Robert Mueller]]
+* [[Eric O'Neill]]
+* [[John P. O'Neill]]
+* [[Joseph D. Pistone]]
+* [[Melvin Purvis]]
+* [[Coleen Rowley]]
+* [[Ali Soufan]]
+* [[Sue Thomas (agent)|Sue Thomas]]
+* [[Clyde Tolson]]
+* [[Frederic Whitehurst]]
+{{div col end}}
+
+==See also==
+{{portal|United States}}
+* [[Bureau of Alcohol, Tobacco, Firearms and Explosives]] (ATF)
+* [[Diplomatic Security Service]] (DSS)
+* [[Law enforcement in the United States]]
+* [[List of United States state and local law enforcement agencies]]
+* [[State bureau of investigation]]
+* [[United States Marshals Service]] (USMS)
+
+===Additional links===
+* [[FBI Honorary Medals]]
+* [[FBI Victims Identification Project]]
+* [[History of espionage]]
+* [[Inspector]]
+* [[Society of Former Special Agents of the Federal Bureau of Investigation]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book
+ | last = Charles
+ | first = Douglas M.
+ | year = 2007
+ | title = J. Edgar Hoover and the Anti-interventionists: FBI Political Surveillance and the Rise of the Domestic Security State, 1939–1945
+  | publisher = The [[Ohio State University Press]]
+ | location = Columbus, Ohio
+ | isbn = 978-0-8142-1061-1
+}}
+* Graves, Melissa. "FBI Historiography: From Leader to Organisation" in Christopher R. Moran, Christopher J. Murphy, eds. '' Intelligence Studies in Britain and the US: Historiography since 1945'' (Edinburgh UP, 2013) pp.&amp;nbsp;129–145. [https://www.jstor.org/stable/10.3366/j.ctt3fgsh7.14 online]
+* [[Rhodri Jeffreys-Jones|Jeffreys-Jones, Rhodri]]. ''The FBI: A History'' (Yale University Press, 2007).
+* [[Rhodri Jeffreys-Jones|Jeffreys-Jones, Rhodri]].  "The Historiography of the FBI," in Loch Johnson, ed., ''A Handbook of Intelligence'' (Routledge, 2006). pp.&amp;nbsp;39–51.
+* [[Rhodri Jeffreys-Jones|Jeffreys-Jones, Rhodri]].  "Forcing Out Unwanted FBI Directors: A Brief, Messy History", ''Vox,'' (23 May 2017). [https://www.vox.com/the-big-idea/2017/5/23/15680508/firing-fbi-directors-comey-trump-hoover-sessions online]
+* [[Rhodri Jeffreys-Jones|Jeffreys-Jones, Rhodri]].  "A brief history of the FBI’s meddling in US politics" ''Vox,'' (5 November 2016) [http://www.vox.com/the-big-idea/2016/11/5/13533838/history-fbi-meddling-politics-comey online]
+* {{cite book
+ | last = Kessler
+ | first = Ronald
+ | author-link = Ronald Kessler
+ | year = 1993
+ | title = The FBI: Inside the World's Most Powerful Law Enforcement Agency
+ | publisher = Pocket Books Publications
+ | isbn = 978-0-671-78657-1
+ | url = https://archive.org/details/fbiinsideworl00kess
+ }}
+* {{cite book
+ | last = Powers
+ | first = Richard Gid
+ | year = 1983
+ | title = G-Men, Hoover's FBI in American Popular Culture
+ | publisher = [[Southern Illinois University Press]]
+ | isbn = 978-0-8093-1096-8
+ | url = https://archive.org/details/gmenhooversfbiin00powe
+ }}
+* {{cite book
+ | last = Sullivan
+ | first = William
+ | year = 1979
+ | title = The Bureau: My Thirty Years in Hoover's FBI
+ | url = https://archive.org/details/bureaumythirtyye00sull
+ | url-access = registration
+ | publisher = Norton
+ | isbn = 978-0-393-01236-1
+}}
+* {{cite book
+ | last = Theoharis
+ | first = Athan G.
+ | author-link = Athan Theoharis
+ | author2 = John Stuart Cox
+ | year = 1988
+ | title = The Boss: J. Edgar Hoover and the Great American Inquisition
+ | publisher = [[Temple University Press]]
+ | isbn = 978-0-87722-532-4
+ | url = https://archive.org/details/bossjedgarhoover00theo
+ }}
+* {{cite book
+ | last = Theoharis
+ | first = Athan G.
+ |author2=Tony G. Poveda |author3=Susan Rosenfeld |author4=Richard Gid Powers
+ | year = 2000
+ | title = The FBI: A Comprehensive Reference Guide
+ | publisher = Checkmark Books
+ | isbn = 978-0-8160-4228-9
+}}
+* {{cite book
+ | last = Theoharis
+ | first = Athan G.
+ | year = 2004
+ | title = The FBI and American Democracy: A Brief Critical History
+ | publisher = University Press
+ | location = Kansas
+ | isbn = 978-0-7006-1345-8
+}}
+* {{cite book
+ | last = Thomas
+ | first = William H., Jr.
+ | year = 2008
+ | title = Unsafe for Democracy: World War I and the U.S. Justice Department's Covert Campaign to Suppress Dissent
+ | publisher = University of Wisconsin Press
+ | location = Madison
+ | isbn = 978-0-299-22890-3
+}}
+* {{cite book
+ | editor-last = Tonry
+ | editor-first = Michael
+ | year = 2000
+ | title = The Handbook of Crime &amp; Punishment
+ | publisher = [[Oxford University Press]]
+ | isbn = 978-0-19-514060-6
+}}
+* {{cite book
+ | last = Trahair
+ | first = Richard C. S.
+ | year = 2004
+ | title = Encyclopedia of Cold War Espionage, Spies, and Secret Operations
+ | publisher = Greenwood Press
+ | location = Ballentine
+ | isbn = 978-0-313-31955-6
+}}
+* {{cite web |last1=Vanderpool |first1=Bill |url=http://www.americanrifleman.org/articles/history-of-fbi-handguns/ |title=A History of FBI Handguns |date=August 22, 2011 |website=[[American Rifleman]] |access-date=April 3, 2014}}
+* {{cite book
+ | last = Weiner
+ | first = Tim
+ | author-link = Tim Weiner
+ | year = 2012
+ | title = Enemies. A History of the FBI
+ | publisher = Random House
+ | isbn = 978-1-4000-6748-0
+}}
+* {{cite journal
+ | last = Williams
+ | first = David
+ | s2cid = 155600905
+ | year = 1981
+ | journal = [[Journal of American History]]
+ | title = The Bureau of Investigation and its Critics, 1919–1921: the Origins of Federal Political Surveillance
+  | volume = 68
+ | pages = 560–579
+ | doi = 10.2307/1901939
+ | issue = 3
+ | publisher = Organization of American Historians
+ | jstor = 1901939
+}}
+* [https://web.archive.org/web/20131228203624/http://www.fbi.gov/news/stories/2013/december/the-year-in-review-part-1 FBI—The Year in Review, Part 1], [https://web.archive.org/web/20160306135959/https://www.fbi.gov/news/stories/2013/december/the-year-in-review-part-2 Part 2] (2013)
+* [http://www.aarclibrary.org/publib/church/reports/vol6/contents.htm Church Committee Report], Vol. 6, "Federal Bureau of Investigation." 1975 congressional inquiry into American intelligence operations.
+{{refend}}
+
+==External links==
+{{Commons|Federal Bureau of Investigation}}
+* [https://fas.org/irp/agency/doj/fbi/index.html Federal Bureau of Investigation] from the [[Federation of American Scientists]]
+* [http://vault.fbi.gov/ The Vault], FBI electronic reading room (launched April 2011)
+* {{Gutenberg author | id=United+States.+Federal+Bureau+of+Investigation | name=Federal Bureau of Investigation}}
+* {{Librivox author |id=1787}}
+* [https://archive.org/details/nsia-fbi-files FBI Collection] at [[Internet Archive]], files on over 1,100 subjects
+* William H. Thomas, Jr.: [https://encyclopedia.1914-1918-online.net/article/bureau_of_investigation/ Bureau of Investigation], in: [https://encyclopedia.1914-1918-online.net/home.html/ 1914-1918-online. International Encyclopedia of the First World War].
+*[https://www.c-span.org/organization/?4551/Federal-Bureau-Investigation FBI coverage at C-SPAN]
+
+{{FBI}}
+{{DOJ agencies}}
+{{Federal law enforcement agencies of the United States}}
+{{Intelligence agencies of USA}}
+{{Patriot Act}}
+{{United States topics}}
+{{Domestic national intelligence agencies}}
+{{North America topic|Law enforcement in}}
+{{Authority control}}
+
+{{DEFAULTSORT:Federal Bureau Of Investigation}}
+[[Category:Federal Bureau of Investigation]]
+[[Category:Federal law enforcement agencies of the United States]]
+[[Category:Law enforcement in the United States]]
+[[Category:United States Department of Justice agencies]]
+[[Category:United States intelligence agencies]]
+[[Category:Government agencies established in 1908]]
+[[Category:1908 establishments in Washington, D.C.]]
+[[Category:1908 establishments in the United States]]
+[[Category:Anti-communist organizations in the United States]]</text>
+      <sha1>05jnptr5134vcwyyh61p638fygw0ara</sha1>
+    </revision>
+  </page>
+</mediawiki>

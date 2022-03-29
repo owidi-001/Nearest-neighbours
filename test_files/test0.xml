@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 0</title>
+    <id>0</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text>this file has a basic text tag with no formatting basic text with no formatting and no punctuation or uppercase</text>
+    </revision>
+  </page>
+</mediawiki>

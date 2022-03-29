@@ -1,0 +1,554 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jane Austen</title>
+    <ns>0</ns>
+    <id>15782</id>
+    <revision>
+      <id>1034811062</id>
+      <parentid>1034810987</parentid>
+      <timestamp>2021-07-21T23:44:37Z</timestamp>
+      <contributor>
+        <username>Sevilledade</username>
+        <id>5188193</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100249" xml:space="preserve">{{distinguish|Jane G. Austin}}
+{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Short description|English novelist}}
+{{good article}}
+{{Use British English|date=January 2019}}
+{{Use dmy dates|date=July 2020}}
+&lt;!-- Please do not change this image to the 1870 portrait, painted after Austen's death (see talk page)--Thanks --&gt;
+{{Infobox writer &lt;!-- For more information see [[:Template:Infobox Writer/doc]]. --&gt;
+| name          = Jane Austen
+| image         = CassandraAusten-JaneAusten(c.1810) hires.jpg
+| image_upright = .91
+| alt           = Watercolour-and-pencil portrait of Jane Austen
+| caption       = Portrait, {{circa|1810}}{{efn|The original is unsigned, but was believed by the family to have been made by Cassandra and remained in the family with the one signed sketch by Cassandra until 1920. The original sketch, according to relatives who knew Jane Austen well, was not a good likeness.&lt;ref&gt;Kirkham (2005), 68–72.&lt;/ref&gt;}}
+| pseudonym     =
+| birth_name    =
+| birth_date    = {{Birth date|df=y|1775|12|16}}
+| birth_place   = [[Steventon, Hampshire|Steventon]] Rectory, [[Hampshire]], England
+| death_date    = {{Death date and age|df=y|1817|7|18|1775|12|16}}
+| death_place   = [[Winchester]], Hampshire, England
+| resting_place = [[Winchester Cathedral]], Hampshire, England
+| occupation    =
+| nationality   =
+| citizenship   =
+| education     = [[Reading Abbey Girls' School]]
+| alma_mater    =
+| period        = 1787 to 1809–11
+| genre         =
+| subject       =
+| movement      =
+| notableworks  =
+| spouse        =
+| partner       =
+| children      =
+| relatives     = See [[Jane Austen's family and ancestry|family and ancestry]]
+| awards        =
+| signature     = Jane Austen signature from her will.svg
+| signature_alt = Signature from Austen's 1817 will
+}}
+'''Jane Austen''' ({{IPAc-en|ˈ|ɒ|s|t|ɪ|n|,_|ˈ|ɔː|s|-}}; 16 December 1775&amp;nbsp;– 18 July 1817) was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British [[landed gentry]] at the end of the 18th century. Austen's plots often explore the dependence of women on marriage in the pursuit of favourable social standing and economic security. Her works critique the [[sentimental novel|novels of sensibility]] of the second half of the 18th century and are part of the transition to 19th-century [[literary realism]].&lt;ref&gt;Grundy (2014), 195–197&lt;/ref&gt;{{efn|Oliver MacDonagh says that ''Sense and Sensibility'' "may well be the first English realistic novel" based on its detailed and accurate portrayal of what he calls "getting and spending" in an English gentry family.&lt;ref name="MacDonagh 1991, 65, 136–137"&gt;MacDonagh (1991), 65, 136–137.&lt;/ref&gt;}} Her use of biting irony, along with her realism, humour, and social commentary, have long earned her acclaim among critics, scholars, and popular audiences alike.&lt;ref&gt;{{Cite book|last=Looser|first=Devoney|title=The Making of Jane Austen|location=Baltimore, MD|publisher=Johns Hopkins University Press|year=2017|page=2|isbn=978-1-4214-2282-4}}&lt;/ref&gt;
+
+With the publication of ''[[Sense and Sensibility]]'' (1811),  ''[[Pride and Prejudice (novel)|Pride and Prejudice]]'' (1813), ''[[Mansfield Park]]'' (1814) and ''[[Emma (novel)|Emma]]'' (1816), she achieved success as a published writer. She wrote two other novels, ''[[Northanger Abbey]]'' and ''[[Persuasion (novel)|Persuasion]]'', both published posthumously in 1818, and began another, eventually titled ''[[Sanditon]]'', but died before its completion. She also left behind three volumes of juvenile writings in manuscript, the short [[epistolary novel]] ''[[Lady Susan]]'', and another unfinished novel, ''[[The Watsons]]''. Her six full-length novels have rarely been out of print, although they were published anonymously and brought her moderate success and little fame during her lifetime.
+
+A significant transition in her posthumous reputation occurred in 1833, when her novels were republished in [[Richard Bentley (publisher)|Richard Bentley]]'s Standard Novels series, illustrated by Ferdinand Pickering, and sold as a set.&lt;ref&gt;{{Cite book|last=Looser|first=Devoney|title=The Making of Jane Austen|location=Baltimore, MD|publisher=Johns Hopkins University Press|year=2017|isbn=978-1-4214-2282-4}}&lt;/ref&gt; They gradually gained wider acclaim and popular readership. In 1869, fifty-two years after her death, her nephew's publication of ''[[A Memoir of Jane Austen]]'' introduced a compelling version of her writing career and supposedly uneventful life to an eager audience.
+
+Austen has inspired many critical essays and literary anthologies. Her novels have inspired many films, from 1940's ''[[Pride and Prejudice (1940 film)|Pride and Prejudice]]'' to more recent productions like ''[[Sense and Sensibility (film)|Sense and Sensibility]]'' (1995), ''[[Emma (1996 theatrical film)|Emma]]'' (1996), ''[[Mansfield Park (1999 film)|Mansfield Park]]'' (1999), ''[[Pride &amp; Prejudice (2005 film)|Pride &amp; Prejudice]]'' (2005), ''[[Love &amp; Friendship]]'' (2016), and [[Emma (2020 film)|''Emma'']] (2020).{{refn|name=Period|group=lower-alpha|The title of the film has a [[full stop|period]] attached to signify it being a [[period piece]].&lt;ref&gt;{{cite web|url=https://www.radiotimes.com/news/film/2020-02-14/emma-title-full-stop-period/|title=Emma. director Autumn de Wilde explains the film's unusual punctuation|website=Radio Times}}&lt;/ref&gt;}} Her novels have also inspired many TV adaptations, most notably ''[[Pride and Prejudice (1995 TV series)|Pride &amp; Prejudice]]'' (1995), starring [[Jennifer Ehle]] and [[Colin Firth]].
+
+==Biographical sources==
+[[File:Letter from Jane Austen to her sister Cassandra, 1799 June 11. Page 4 (NLA).tiff|thumb|upright=.91|Last page of letter from Austen to her sister, Cassandra, 11 June 1799]]
+There is little biographical information about Jane Austen's life except the few letters that survived and the biographical notes her family members wrote.&lt;ref name=Fergus(2005)3ff&gt;Fergus (2005), 3–4&lt;/ref&gt; During her lifetime, Austen may have written as many as 3,000 letters, but only 161 survived.&lt;ref&gt;Le Faye (2005), 33&lt;/ref&gt; Many of the letters were written to Austen's older sister [[Cassandra Austen|Cassandra]], who in 1843 burned the greater part of them and cut pieces out of those she kept. Ostensibly, Cassandra destroyed or censored her sister's letters to prevent their falling into the hands of relatives and ensuring that "younger nieces did not read any of Jane Austen's sometimes acid or forthright comments on neighbours or family members".&lt;ref&gt;Le Faye (2004), 270; Nokes (1998), 1; Le Faye (2005), 33&lt;/ref&gt;{{efn| Important details about the Austen family were almost certainly elided by intention, such as mention of Austen's brother George, whose undiagnosed developmental challenges led the family to send him away from home; the two brothers sent away to the navy at an early age; or mention of the sisters' wealthy Aunt Leigh-Perrot, arrested and tried on charges of larceny.&lt;ref name="Nokes 1998 1 2 Fergus 2005 3 4"&gt;Nokes (1998), 1–2; Fergus (2005), 3–4&lt;/ref&gt;}} Cassandra believed that in the interest of tact and Jane's penchant for forthrightness, these details should be destroyed. The paucity of record of Austen's life leaves modern biographers little with which to work.&lt;ref name="Nokes 1998 1 2 Fergus 2005 3 4"/&gt;
+
+The situation was compounded as successive generations of the family expunged and sanitised the already opaque details of Austen's biography. The heirs of Jane's brother, Admiral [[Francis Austen]], destroyed more letters; details were excised from the "Biographical Notice" her brother wrote in 1818; and family details continued to be omitted or embellished in her nephew's ''[[A Memoir of Jane Austen]]'', published in 1869, and in William and Richard Arthur Austen-Leigh's biography ''Jane Austen: Her Life and Letters'', published in 1913.&lt;ref&gt;Nokes (1998), 2–4; Fergus (2005), 3–4; Le Faye (2004), 279&lt;/ref&gt; The legend the family and relatives created reflects their biases in favour of "good quiet Aunt Jane", portraying a woman whose domestic situation was happy and whose family was the mainstay of her life.&lt;ref name=Fergus(2005)3ff/&gt; Austen scholar Jan Fergus explains that modern biographies tend to include details excised from the letters and family biographical materials, but that the challenge is to avoid the polarising view that Austen experienced periods of deep unhappiness and was "an embittered, disappointed woman trapped in a thoroughly unpleasant family".&lt;ref&gt;Fergus (2005), 4&lt;/ref&gt;
+{{clear}}
+
+==Life==
+{{further|Timeline of Jane Austen}}
+
+===Family===
+[[File:Chawton Church, Steventon, Hampshire.jpg|thumb|upright=1.20|[[Steventon, Hampshire|Steventon]] Church, as depicted in ''[[A Memoir of Jane Austen]]''&lt;ref name="Le Faye 2004 20"&gt;Le Faye (2004), 20&lt;/ref&gt;]]
+
+Jane Austen was born in [[Steventon, Hampshire]], on 16 December 1775. She was born a month later than her parents expected; her father wrote of her arrival in a letter that her mother "certainly expected to have been brought to bed a month ago". He added that her arrival was particularly welcome as "a future companion to her sister".&lt;ref&gt;Le Faye (2004), 27; Nokes (1998), 51&lt;/ref&gt; The winter of 1776 was particularly harsh and it was not until 5 April that she was baptised at the local church with the single name Jane.&lt;ref&gt;Le Faye (2004), 27&lt;/ref&gt;
+
+For much of Jane's life, her father, [[George Austen (clergyman)|George Austen]] (1731–1805), served as the [[Rector (ecclesiastical)|rector]] of the [[Church of England|Anglican]] parishes at Steventon and at nearby [[Deane, Hampshire|Deane]].&lt;ref&gt;Todd (2015), 2&lt;/ref&gt;{{efn|Irene Collins estimates that when George Austen took up his duties as rector in 1764, Steventon comprised no more than about thirty families.&lt;ref&gt;Collins (1994), 86&lt;/ref&gt;}} He came from an old, respected, and wealthy family of wool merchants. Over the centuries as each generation of [[primogeniture|eldest sons]] received inheritances, their wealth was divided, and George's branch of the family fell into poverty. He and his two sisters were orphaned as children and had to be taken in by relatives. His sister Philadelphia went to India to find a husband and George entered [[St John's College, Oxford]] on a fellowship, where he most likely met Cassandra Leigh (1739–1827).&lt;ref&gt;Le Faye (2004), 3–5, 11&lt;/ref&gt; She came from the prominent [[Baron Leigh|Leigh]] family; her father was rector at [[All Souls College, Oxford]], where she grew up among the gentry. Her eldest brother James inherited a fortune and large estate from his great-aunt Perrot, with the only condition that he [[Name change#Historical usage|change his name]] to Leigh-Perrot.&lt;ref&gt;Le Faye (2004), 8; Nokes (1998), 51&lt;/ref&gt;
+
+George and Cassandra exchanged [[Miniature portrait|miniatures]] in 1763 and probably were engaged around that time.&lt;ref&gt;Le Faye (2004), 11&lt;/ref&gt; George received the [[Benefice|living]] for the Steventon parish from the wealthy husband of his second cousin, Thomas Knight, who owned Steventon and its associated farms, one of which the Austen family rented to live in.&lt;ref&gt;Le Faye (2004), 6&lt;/ref&gt; Two months after Cassandra's father died, they married on 26 April 1764 at [[Church of St Swithin, Bath|St Swithin's Church]] in [[Bath, Somerset|Bath]], by licence, in a simple ceremony. They left for Hampshire the same day.&lt;ref&gt;Le Faye (2004), 11; Nokes (1998), 24, 26&lt;/ref&gt;
+
+Their income was modest, with George's small ''per annum'' living; Cassandra brought to the marriage the expectation of a small inheritance at the time of her mother's death.&lt;ref&gt;Le Faye (2004), 12; Nokes (1998), 24&lt;/ref&gt; The Austens took up temporary residence at the nearby Deane rectory until Steventon, a 16th-century house in disrepair, underwent necessary renovations. Cassandra gave birth to three children while living at Deane: [[James Austen|James]] in 1765, George in 1766, and [[Edward Austen Knight|Edward]] in 1767.&lt;ref&gt;Le Faye (2004), 11, 18, 19; Nokes (1998), 36&lt;/ref&gt; Her custom was to keep an infant at home for several months and then place it with Elizabeth Littlewood, a woman living nearby to [[Wet nurse|nurse]] and raise for twelve to eighteen months.&lt;ref&gt;Le Faye (2004), 19&lt;/ref&gt;
+{{clear}}
+
+===Steventon===
+[[File:SteventonRectory.jpg|thumb|[[Steventon, Hampshire|Steventon]] rectory, as depicted in ''[[A Memoir of Jane Austen]]'', was in a valley and surrounded by meadows.&lt;ref name="Le Faye 2004 20"/&gt;]]
+
+In 1768, the family finally took up residence in Steventon. [[Henry Thomas Austen|Henry]] was the first child to be born there, in 1771.&lt;ref&gt;Nokes (1998), 37; Le Faye (2004), 25&lt;/ref&gt; At about this time, Cassandra could no longer ignore the signs that little George was developmentally disabled. He was subject to seizures, may have been deaf and mute, and she chose to send him out to be fostered.&lt;ref&gt;Le Faye (2004), 22&lt;/ref&gt; In 1773, Cassandra was born, followed by [[Francis Austen|Francis]] in 1774, and Jane in 1775.&lt;!-- don't forget Charles?? source? --&gt;&lt;ref&gt;Nokes (1998), 37; Le Faye (2004), 24–27&lt;/ref&gt;
+
+According to Honan, the atmosphere of the Austen home was an "open, amused, easy intellectual" one, where the ideas of those with whom the Austens might disagree politically or socially were considered and discussed.&lt;ref&gt;Honan (1987), 211–212&lt;/ref&gt; The family relied on the patronage of their kin and hosted visits from numerous family members.&lt;ref name = "Todd4"&gt;Todd (2015), 4&lt;/ref&gt; Cassandra Austen spent the summer of 1770 in London with George's sister, Philadelphia, and her daughter [[Eliza de Feuillide|Eliza]], accompanied by his other sister, Mrs Walter and her daughter Philly.&lt;ref&gt;Nokes (1998), 39; Le Faye (2004), 22–23&lt;/ref&gt;{{efn|Philadelphia had returned from India in 1765 and taken up residence in London; when her husband returned to India to replenish their income, she stayed in England.  He died in India in 1775, with Philadelphia unaware until the news reached her a year later, fortuitously as George and Cassandra were visiting. See Le Faye, 29–36}} Philadelphia and Eliza Hancock were, according to Le Faye, "the bright comets flashing into an otherwise placid solar system of clerical life in rural [[Hampshire]], and the news of their foreign travels and fashionable London life, together with their sudden descents upon the Steventon household in between times, all helped to widen Jane's youthful horizon and influence her later life and works."&lt;ref&gt;Le Faye (2004), 29&lt;/ref&gt;
+
+Cassandra Austen's cousin Thomas Leigh visited a number of times in the 1770s and 1780s, inviting young Cassie to visit them in [[Bath, Somerset|Bath]] in 1781. The first mention of Jane occurs in family documents on her return,  "...&amp;nbsp;and almost home they were when they met Jane &amp; Charles, the two little ones of the family, who had to go as far as New Down to meet the [[chaise]], &amp; have the pleasure of riding home in it."&lt;ref&gt;Le Faye (2004), 46&lt;/ref&gt; Le Faye writes that "Mr Austen's predictions for his younger daughter were fully justified. Never were sisters more to each other than Cassandra and Jane; while in a particularly affectionate family, there seems to have been a special link between Cassandra and Edward on the one hand, and between Henry and Jane on the other."&lt;ref&gt;Le Faye (2004), 26&lt;/ref&gt;
+
+From 1773 until 1796, George Austen supplemented his income by farming and by teaching three or four boys at a time, who boarded at his home.&lt;ref&gt;Honan (1987), 14, 17–18; Collins (1994), 54.&lt;/ref&gt; The Reverend Austen had an annual income of £200 from his two livings.&lt;ref name="Irvine 2005 p.2"&gt;Irvine (2005) p.2&lt;/ref&gt; This was a very modest income at the time; by comparison, a skilled worker like a blacksmith or a carpenter could make about £100 annually while the typical annual income of a gentry family was between £1,000 and £5,000.&lt;ref name="Irvine 2005 p.2"/&gt;
+
+During this period of her life, Austen attended church regularly, socialised with friends and neighbours,{{efn|For social conventions among the gentry generally, see Collins (1994), 105}} and read novels—often of her own composition—aloud to her family in the evenings. Socialising with the neighbours often meant dancing, either impromptu in someone's home after supper or at the balls held regularly at the [[assembly rooms]] in the town hall.&lt;ref&gt;Tomalin (1997), 101–103, 120–123, 144; Honan (1987), 119.&lt;/ref&gt; Her brother Henry later said that "Jane was fond of dancing, and excelled in it".&lt;ref&gt;Quoted in Tomalin (1997), 102; see also Honan (1987), 84&lt;/ref&gt;
+
+===Education===
+[[File:CassandraAustenSilhouette.png|thumb|Silhouette of [[Cassandra Austen]], Jane's sister and closest friend]]
+
+In 1783, Austen and her sister Cassandra were sent to [[Oxford]] to be educated by Mrs Ann Cawley who took them with her to [[Southampton]] when she moved there later in the year. In the autumn both girls were sent home when they caught [[typhus]] and Austen nearly died.&lt;ref&gt;Le Faye (2004), 47–49; Collins (1994), 35, 133.&lt;/ref&gt; Austen was from then home educated, until she attended boarding school in [[Reading, Berkshire|Reading]] with her sister from early in 1785 at the [[Reading Abbey Girls' School]], ruled by Mrs La Tournelle, who possessed a cork leg and a passion for theatre.&lt;ref&gt;Todd (2015), 3&lt;/ref&gt; The school curriculum probably included some French, spelling, needlework, dancing and music and, perhaps, drama. The sisters returned home before December 1786 because the school fees for the two girls were too high for the Austen family.&lt;ref&gt;Tomalin (1997), 9–10, 26, 33–38, 42–43; Le Faye (2004), 52; Collins (1994), 133–134&lt;/ref&gt; After 1786, Austen "never again lived anywhere beyond the bounds of her immediate family environment".&lt;ref&gt;Le Faye (2004), 52&lt;/ref&gt;
+
+The remainder of her education came from reading, guided by her father and brothers James and Henry.&lt;ref&gt;Grundy (2014), 192–193; Tomalin (1997), 28–29, 33–43, 66–67; Honan (1987), 31–34; Lascelles (1966), 7–8&lt;/ref&gt; [[Irene Collins]] believes that Austen "used some of the same school books as the boys" her father tutored.&lt;ref&gt;Collins (1994), 42&lt;/ref&gt; Austen apparently had unfettered access both to her father's library and that of a family friend, [[Warren Hastings]]. Together these collections amounted to a large and varied library.  Her father was also tolerant of Austen's sometimes risqué experiments in writing, and provided both sisters with expensive paper and other materials for their writing and drawing.&lt;ref&gt;Honan (1987), 66–68; Collins (1994), 43&lt;/ref&gt;
+
+Private theatricals were an essential part of Austen's education. From her early childhood, the family and friends staged a series of plays in the [[rectory]] barn, including [[Richard Brinsley Sheridan|Richard Sheridan]]'s ''[[The Rivals]]'' (1775) and [[David Garrick]]'s ''[[Bon Ton (play)|Bon Ton]]''. Austen's eldest brother James wrote the prologues and epilogues and she probably joined in these activities, first as a spectator and later as a participant.&lt;ref&gt;Le Faye (2014), xvi–xvii; Tucker (1986), 1–2; Byrne (2002), 1–39; Gay (2002), ix, 1; Tomalin (1997), 31–32, 40–42, 55–57, 62–63; Honan (1987), 35, 47–52, 423–424, n. 20.&lt;/ref&gt;&lt;!-- check all these refs --&gt; Most of the plays were comedies, which suggests how Austen's satirical gifts were cultivated.&lt;ref&gt;Honan (1987), 53–54; Lascelles (1966), 106–107; Litz (1965), 14–17.&lt;/ref&gt;&lt;!-- check all these refs --&gt; At the age of 12, she tried her own hand at dramatic writing; she wrote three short plays during her teenage years.&lt;ref&gt;Tucker (1986), 2&lt;/ref&gt;
+
+===Juvenilia (1787–1793)===
+
+From the age of eleven, and perhaps earlier, Austen wrote poems and stories for her own and her family's amusement.&lt;ref&gt;Le Faye (2004), 66; Litz (1986), 48; Honan (1987), 61–62, 70; Lascelles (1966), 4; Todd (2015), 4&lt;/ref&gt; In these works, the details of daily life are exaggerated, common plot devices are parodied, and the "stories are full of anarchic fantasies of female power, licence, illicit behaviour, and general high spirits", according to [[Janet Todd]].&lt;ref&gt;Todd (2015), 4–5&lt;/ref&gt; Containing work written between 1787 and 1793, Austen compiled [[Foul papers|fair copies]] of twenty-nine early works into three bound notebooks, now referred to as the ''[[Juvenilia (Austen)|Juvenilia]]''.&lt;ref&gt;{{cite news |title=Jane Austen's juvenilia |url=https://www.bl.uk/romantics-and-victorians/articles/jane-austens-juvenilia |access-date=26 August 2020 |agency=British Library}}&lt;/ref&gt; She called the three notebooks "Volume the First", "Volume the Second" and "Volume the Third", and they preserve 90,000 words she wrote during those years.&lt;ref&gt;Southam (1986), 244&lt;/ref&gt; The ''Juvenilia'' are often, according to scholar Richard Jenkyns, "boisterous" and "anarchic"; he compares them to the work of 18th-century novelist [[Laurence Sterne]].&lt;ref&gt;Jenkyns (2004), 31&lt;/ref&gt;
+
+[[File:CassandraAusten-HenryIV.jpg|thumb|Portrait of [[Henry IV of England|Henry IV]]. Declaredly written by "a partial, prejudiced, &amp; ignorant Historian", ''[[The History of England (Austen)|The History of England]]'' was illustrated by Austen's sister, Cassandra (c.&amp;nbsp;1790).]]
+
+Among these works are a satirical novel in letters titled ''[[Love and Freindship]]'' {{sic}}&lt;!-- well-known misspelling; do not alter --&gt;, written at age fourteen in 1790,&lt;ref&gt;Todd (2015), 5; Southam (1986), 252&lt;/ref&gt; in which she mocked popular [[sentimental novel|novels of sensibility]].&lt;ref&gt;Litz (1965), 21; Tomalin (1997), 47; Honan (1987), 73–74; Southam (1986), 248–249&lt;/ref&gt; The next year she wrote ''[[The History of England (Austen)|The History of England]]'', a manuscript of thirty-four pages accompanied by thirteen watercolour miniatures by her sister, Cassandra. Austen's ''History'' parodied popular historical writing, particularly [[Oliver Goldsmith]]'s ''History of England'' (1764).&lt;ref&gt;Honan (1987), 75&lt;/ref&gt; Honan speculates that not long after writing ''Love and Freindship''{{sic}}, Austen decided to "write for profit, to make stories her central effort", that is, to become a professional writer. When she was around eighteen years old, Austen began to write longer, more sophisticated works.&lt;ref name="Honan, 93"&gt;Honan (1987), 93&lt;/ref&gt;
+
+In August 1792, aged seventeen, Austen started writing ''Catharine or the Bower'', which presaged her mature work, especially ''Northanger Abbey''; it was left unfinished and the story picked up in ''[[Lady Susan]]'', which Todd describes as less prefiguring than ''Catharine''.&lt;ref&gt;Todd (2015), 5; Southam (1986), 245, 253&lt;/ref&gt; A year later, she began, but abandoned a short play, later titled ''Sir Charles Grandison or the happy Man, a comedy in 6 acts'', which she returned to and completed around 1800. This was a short parody of various school textbook abridgements of Austen's favourite contemporary novel, ''[[The History of Sir Charles Grandison]]'' (1753), by [[Samuel Richardson]].&lt;ref&gt;Southam (1986), 187–189&lt;/ref&gt;
+{{external media| float = left| video1 = [https://www.c-span.org/video/?95776-1/jane-austen-life Presentation by Claire Tomalin on ''Jane Austen: A Life'', 23 November 1997], [[C-SPAN]]}}
+
+When Austen became an aunt for the first time at age eighteen, she sent new-born niece Fanny-Catherine Austen-Knight "five short pieces of ... the Juvenilia now known collectively as 'Scraps' .., purporting to be her 'Opinions and Admonitions on the conduct of Young Women{{' "}}. For niece Jane-Anna-Elizabeth Austen (also born in 1793) Jane Austen wrote "two more 'Miscellanious [sic] Morsels', dedicating them to [Anna] on 2 June 1793, 'convinced that if you seriously attend to them, You will derive from them very important Instructions, with regard to your Conduct in Life.{{' "}}&lt;ref name="Le Faye 1993"&gt;{{cite book |last1=Austen-Leigh |first1=William |last2=Austen-Leigh |first2=Richard Arthur |last3=Le Faye |first3=Dierdre |title=Jane Austen: A Family History |date=1993 |publisher=The British Library |location=London |isbn=978-0-7123-0312-5 |pages=76–77}}&lt;/ref&gt; There is manuscript evidence that Austen continued to work on these pieces as late as 1811 (when she was 36), and that her niece and nephew, Anna and James Edward Austen, made further additions as late as 1814.&lt;ref&gt;Sutherland (2005), 14; Doody (2014) 87–89&lt;/ref&gt;
+
+Between 1793 and 1795 (aged eighteen to twenty) Austen wrote ''[[Lady Susan]]'', a short [[epistolary novel]], usually described as her most ambitious and sophisticated early work.&lt;ref&gt;Honan (1987), 101–102; Tomalin (1997), 82–83&lt;/ref&gt; It is unlike any of Austen's other works. Austen biographer [[Claire Tomalin]] describes the novella's heroine as a sexual predator who uses her intelligence and charm to manipulate, betray and abuse her lovers, friends and family. Tomalin writes:
+
+&lt;blockquote style="border-left: 3px solid #ccc;"&gt;Told in letters, it is as neatly plotted as a play, and as cynical in tone as any of the most outrageous of the [[Restoration comedy|Restoration dramatists]] who may have provided some of her inspiration&amp;nbsp;... It stands alone in Austen's work as a study of an adult woman whose intelligence and force of character are greater than those of anyone she encounters.&lt;ref&gt;Tomalin (1997), 83–84; see also Sutherland (2005), 15&lt;/ref&gt;&lt;/blockquote&gt;
+
+According to Janet Todd, the model for the title character may have been [[Eliza de Feuillide]], who inspired Austen with stories of her glamorous life and various adventures.  Eliza's French husband was guillotined in 1794; she married Jane's brother Henry Austen in 1797.&lt;ref name = "Todd4"/&gt;
+
+===Tom Lefroy===
+[[File:Thomas Langlois Lefroy.jpg|thumb|[[Thomas Langlois Lefroy]], [[Lord Chief Justice of Ireland]], by [[William Henry Mote|W. H. Mote]] (1855); in old age, Lefroy admitted that he had been in love with Austen: "It was boyish love."&lt;ref&gt;Tomalin (1997), 118.&lt;/ref&gt; ]]
+
+When Austen was twenty, [[Thomas Langlois Lefroy|Tom Lefroy]], a neighbour, visited Steventon from December 1795 to January 1796. He had just finished a university degree and was moving to London for training as a [[barrister]]. Lefroy and Austen would have been introduced at a ball or other neighbourhood social gathering, and it is clear from Austen's letters to Cassandra that they spent considerable time together: "I am almost afraid to tell you how my Irish friend and I behaved. Imagine to yourself everything most profligate and shocking in the way of dancing and sitting down together."&lt;ref&gt;Quoted in Le Faye (2004), 92.&lt;/ref&gt;
+
+Austen wrote in her first surviving letter to her sister Cassandra that Lefroy was a "very gentlemanlike, good-looking, pleasant young man".&lt;ref name = "halperin721"&gt;Halperin (1985), 721&lt;/ref&gt; Five days later in another letter, Austen wrote that she expected an "offer" from her "friend" and that "I shall refuse him, however, unless he promises to give away his white coat", going on to write "I will confide myself in the future to Mr Tom Lefroy, for whom I don't give a sixpence" and refuse all others.&lt;ref name = "halperin721"/&gt; The next day, Austen wrote: "The day will come on which I flirt my last with Tom Lefroy and when you receive this it will be all over. My tears flow as I write at this melancholy idea".&lt;ref name = "halperin721"/&gt;
+
+Halperin cautioned that Austen often satirised popular sentimental romantic fiction in her letters, and some of the statements about Lefroy may have been ironic. However, it is clear that Austen was genuinely attracted to Lefroy and subsequently none of her other suitors ever quite measured up to him.&lt;ref name = "halperin721"/&gt; The Lefroy family intervened and sent him away at the end of January. Marriage was impractical as both Lefroy and Austen must have known. Neither had any money, and he was dependent on a great-uncle in Ireland to finance his education and establish his legal career. If Tom Lefroy later visited Hampshire, he was carefully kept away from the Austens, and Jane Austen never saw him again.&lt;ref&gt;Le Faye (2014), xviii; Fergus (2005), 7–8; Tomalin (1997), 112–120, 159; Honan (1987), 105–111.&lt;/ref&gt; In November 1798, Lefroy was still on Austen's mind as she wrote to her sister she had tea with one of his relatives, wanted desperately to ask about him, but could not bring herself to raise the subject.&lt;ref name = "halperin722"&gt;Halperin (1985), 722&lt;/ref&gt;
+
+===Early manuscripts (1796–1798)===
+After finishing ''Lady Susan'', Austen began her first full-length novel ''Elinor and Marianne''. Her sister remembered that it was read to the family "before 1796" and was told through a series of letters. Without surviving original manuscripts, there is no way to know how much of the original draft survived in the novel published anonymously in 1811 as ''[[Sense and Sensibility]]''.&lt;ref&gt;Sutherland (2005), 16–18; LeFaye (2014), xviii; Tomalin (1997), 107, 120, 154, 208.&lt;/ref&gt;
+
+Austen began a second novel, ''First Impressions'' (later published as ''[[Pride and Prejudice (novel)|Pride and Prejudice]]''), in 1796. She completed the initial draft in August 1797, aged 21; as with all of her novels, Austen read the work aloud to her family as she was working on it and it became an "established favourite".&lt;ref&gt;Le Faye (2004), 100, 114.&lt;/ref&gt; At this time, her father made the first attempt to publish one of her novels. In November 1797, George Austen wrote to [[Thomas Cadell (publisher)|Thomas Cadell]], an established publisher in London, to ask if he would consider publishing ''First Impressions''. Cadell returned Mr. Austen's letter, marking it "Declined by Return of Post". Austen may not have known of her father's efforts.&lt;ref&gt;Le Faye (2004), 104; Sutherland (2005), 17, 21; quotations from Tomalin (1997), 120–122.&lt;/ref&gt; Following the completion of ''First Impressions'', Austen returned to ''Elinor and Marianne'' and from November 1797 until mid-1798, revised it heavily; she eliminated the [[Epistolary novel|epistolary]] format in favour of [[Third-person narrative|third-person narration]] and produced something close to ''Sense and Sensibility''.&lt;ref&gt;Le Faye (2014), xviii–xiv; Fergus (2005), 7; Sutherland (2005), 16–18, 21; Tomalin (1997), 120–121; Honan (1987), 122–124.&lt;/ref&gt; In 1797, Austen met her cousin (and future sister-in-law), [[Eliza de Feuillide]], a French aristocrat whose first husband the Comte de Feuillide had been guillotined, causing her to flee to Britain, where she married Henry Austen.&lt;ref name="King page 2"&gt;King, Noel "Jane Austen in France"  ''Nineteenth-Century Fiction'', Vol. 8, No. 1, June 1953 p. 2.&lt;/ref&gt; The description of the execution of the Comte de Feuillide related by his widow left Austen with an intense horror of the [[French Revolution]] that lasted for the rest of her life.&lt;ref name="King page 2"/&gt;
+
+During the middle of 1798, after finishing revisions of ''Elinor and Marianne'', Austen began writing a third novel with the working title ''Susan''—later ''[[Northanger Abbey]]''—a satire on the popular [[Gothic fiction|Gothic novel]].&lt;ref&gt;Litz (1965), 59–60.&lt;/ref&gt; Austen completed her work about a year later. In early 1803, Henry Austen offered ''Susan'' to Benjamin Crosby, a London publisher, who paid £10 for the copyright. Crosby promised early publication and went so far as to advertise the book publicly as being "in the press", but did nothing more.&lt;ref&gt;Tomalin (1997), 182.&lt;/ref&gt; The manuscript remained in Crosby's hands, unpublished, until Austen repurchased the copyright from him in 1816.&lt;ref&gt;Le Faye (2014), xx–xxi, xxvi; Fergus (2005), 8–9; Sutherland (2005), 16, 18–19, 20–22; Tomalin (1997), 199, 254.&lt;/ref&gt;
+{{clear}}
+
+===Bath and Southampton===
+[[File:4 Sydney Place.jpg|thumb|left|upright|Austen's house, 4 Sydney Place, [[Bath, Somerset]]]]
+
+In December 1800 George Austen unexpectedly announced his decision to retire from the ministry, leave Steventon, and move the family to 4, Sydney Place in [[Bath, Somerset|Bath]].&lt;ref&gt;{{cite web|url=http://www.seekingjaneausten.com/bath.html|title=Bath|first=susan|last=hubbard|website=seekingjaneausten.com}}&lt;/ref&gt; While retirement and travel were good for the elder Austens, Jane Austen was shocked to be told she was moving from the only home she had ever known.&lt;ref&gt;Collins (1994), 8–9.&lt;/ref&gt; An indication of her state of mind is her lack of productivity as a writer during the time she lived at Bath. She was able to make some revisions to ''Susan'', and she began and then abandoned a new novel, ''[[The Watsons]]'', but there was nothing like the productivity of the years 1795–1799.&lt;ref&gt;Sutherland (2005), 21.&lt;/ref&gt; Tomalin suggests this reflects a deep depression disabling her as a writer, but Honan disagrees, arguing Austen wrote or revised her manuscripts throughout her creative life, except for a few months after her father died.&lt;ref&gt;Le Faye (2014) xx–xxii; Fergus (2005), 8; Sutherland (2005), 15, 20–22; Tomalin (1997), 168–175; Honan (1987), 215.&lt;/ref&gt;{{efn| Doody agrees with Tomalin; see Doody, "Jane Austen, that disconcerting child", in Alexander and McMaster 2005, 105.}} It is often claimed that Austen was unhappy in Bath, which caused her to lose interest in writing, but it is just as possible that Austen's social life in Bath prevented her from spending much time writing novels.&lt;ref name="Irvine, 2005 4"&gt;Irvine, 2005 4.&lt;/ref&gt; The critic Robert Irvine argued that if Austen spent more time writing novels when she was in the countryside, it might just have been because she had more spare time as opposed to being more happy in the countryside as is often argued.&lt;ref name="Irvine, 2005 4"/&gt; Furthermore, Austen frequently both moved and travelled over southern England during this period, which was hardly a conducive environment for writing a long novel.&lt;ref name="Irvine, 2005 4"/&gt; Austen sold the rights to publish ''Susan'' to a publisher Crosby &amp; Company, who paid her £10.&lt;ref name="Irvine, 2005 3"&gt;Irvine, 2005 3.&lt;/ref&gt; The Crosby &amp; Company advertised ''Susan'', but never published it.&lt;ref name="Irvine, 2005 3"/&gt;
+
+[[File:Godmersham Hall - geograph.org.uk - 407850.jpg|thumb|right|250px|Austen was a regular visitor to her brother [[Edward Austen Knight|Edward]]'s home, [[Godmersham Park]] in [[Kent]], between 1798 and 1813. The house is regarded as an influence on her works.&lt;ref&gt;{{cite news |title=Godmersham, Jane Austen's second home |url=https://www.pressreader.com/uk/kentish-express-ashford-district/20130606/282278137880255 |access-date=31 August 2020 |agency=Press Reader}}&lt;/ref&gt;]]
+The years from 1801 to 1804 are something of a blank space for Austen scholars as Cassandra destroyed all of her letters from her sister in this period for unknown reasons.&lt;ref name = "halperin729"&gt;Halperin (1985), 729&lt;/ref&gt; In December 1802 Austen received her only known proposal of marriage. She and her sister visited Alethea and Catherine Bigg, old friends who lived near [[Basingstoke]]. Their younger brother, Harris Bigg-Wither, had recently finished his education at Oxford and was also at home. Bigg-Wither proposed and Austen accepted. As described by Caroline Austen, Jane's niece, and Reginald Bigg-Wither, a descendant, Harris was not attractive—he was a large, plain-looking man who spoke little, stuttered when he did speak, was aggressive in conversation, and almost completely tactless. However, Austen had known him since both were young and the marriage offered many practical advantages to Austen and her family. He was the heir to extensive family estates located in the area where the sisters had grown up. With these resources, Austen could provide her parents a comfortable old age, give Cassandra a permanent home and, perhaps, assist her brothers in their careers. By the next morning, Austen realised she had made a mistake and withdrew her acceptance.&lt;ref&gt;Le Faye (2014), xxi; Fergus (2005), 7–8; Tomalin (1997), 178–181; Honan (1987), 189–198.&lt;/ref&gt; No contemporary letters or diaries describe how Austen felt about this proposal.&lt;ref&gt;Le Faye (2005), 51.&lt;/ref&gt; Irvine described Bigg-Wither as a somebody who "...seems to have been a man very hard to like, let alone love".&lt;ref&gt;Irvine (2005), 3&lt;/ref&gt;
+
+In 1814, Austen wrote a letter to her niece, Fanny Knight, who had asked for advice about a serious relationship, telling her that "having written so much on one side of the question, I shall now turn around &amp; entreat you not to commit yourself farther, &amp; not to think of accepting him unless you really do like him. Anything is to be preferred or endured rather than marrying without Affection".&lt;ref&gt;Letter dated 18–20 November 1814, in Le Faye (1995), 278–282.&lt;/ref&gt; The English scholar Douglas Bush wrote that Austen had "had a very high ideal of the love that should unite a husband and wife&amp;nbsp;... All of her heroines&amp;nbsp;... know in proportion to their maturity, the meaning of ardent love".&lt;ref name = "halperin732"&gt;Halperin (1985), 732&lt;/ref&gt; A possible autobiographical element in ''Sense and Sensibility'' occurs when [[Elinor Dashwood]] contemplates that "the worse and most irremediable of all evils, a connection for life" with an unsuitable man.&lt;ref name = "halperin732"/&gt;{{efn|Elinor Dashwood's original quote from chapter 29, page 159, of ''Sense and Sensibility'' is: "the ''worst'' and most irremediable of all evils, a connection, for life, with an ''unprincipled'' man."}}
+
+[[File:JaneAustenCassandraWatercolour.jpg|thumb|left|Watercolour of Jane Austen by her sister, [[Cassandra Austen|Cassandra]], 1804.&lt;ref&gt;Kirkham (2005), 68–72; Auerbach (2004), 19.&lt;/ref&gt;]]
+In 1804, while living in Bath, Austen started, but did not complete, her novel ''The Watsons''. The story centres on an invalid and impoverished clergyman and his four unmarried daughters. Sutherland describes the novel as "a study in the harsh economic realities of dependent women's lives".&lt;ref&gt;Sutherland (2005), 15, 21.&lt;/ref&gt; Honan suggests, and Tomalin agrees, that Austen chose to stop work on the novel after her father died on 21 January 1805 and her personal circumstances resembled those of her characters too closely for her comfort.&lt;ref&gt;Le Faye (2014) xxii; Tomalin (1997), 182–184; Honan (1987), 203–205.&lt;/ref&gt;
+
+Her father's relatively sudden death left Jane, Cassandra, and their mother in a precarious financial situation. Edward, James, Henry, and Francis Austen (known as Frank) pledged to make annual contributions to support their mother and sisters.&lt;ref&gt;Honan (1987), 213–214.&lt;/ref&gt; For the next four years, the family's living arrangements reflected their financial insecurity. They spent part of the time in rented quarters in Bath before leaving the city in June 1805 for a family visit to Steventon and [[Godmersham Park|Godmersham]]. They moved for the autumn months to the newly fashionable seaside resort of [[Worthing]], on the [[Sussex Coast|Sussex coast]], where they resided at Stanford Cottage.{{efn|Austen's observations of early Worthing probably helped inspire her final, but unfinished novel, ''[[Sanditon]]'', the story of an up-and-coming seaside resort in Sussex.}} It was here that Austen is thought to have written her fair copy of ''Lady Susan'' and added its "Conclusion". In 1806 the family moved to [[Southampton]], where they shared a house with Frank Austen and his new wife. A large part of this time they spent visiting various branches of the family.&lt;ref&gt;Tomalin (1997), 194–206.&lt;/ref&gt;
+
+On 5 April 1809, about three months before the family's move to [[Chawton]], Austen wrote an angry letter to Richard Crosby, offering him a new manuscript of ''Susan'' if needed to secure the immediate publication of the novel, and requesting the return of the original so she could find another publisher. Crosby replied that he had not agreed to publish the book by any particular time, or at all, and that Austen could repurchase the manuscript for the £10 he had paid her and find another publisher. She did not have the resources to buy the copyright back at that time,&lt;ref&gt;Tomalin (1997), 207.&lt;/ref&gt; but was able to purchase it in 1816.&lt;ref&gt;Le Faye (2014), xx–xxi, xxvi; Fergus (2005), 8–9; Sutherland (2005), 16, 18–19, 20–22; Tomalin (1997), 182, 199, 254.&lt;/ref&gt;
+{{clear}}
+
+===Chawton===
+[[File:Jane Austen house museum 7.jpg|thumb|upright=1.2|Cottage in [[Chawton]], Hampshire where Austen lived during her last eight years of life, now [[Jane Austen's House Museum]]]]
+
+Around early 1809 Austen's brother Edward offered his mother and sisters a more settled life—the use of a large cottage in [[Chawton]] village{{efn|Chawton had a population of 417 at the census of 1811.&lt;ref&gt;Collins (1994), 89.&lt;/ref&gt;}} that was part of Edward's nearby estate, [[Chawton House]]. Jane, Cassandra and their mother moved into [[Chawton Cottage|Chawton cottage]] on 7 July 1809.&lt;ref&gt;Le Faye (2014), xxii; Tomalin (1997), 194–206; Honan (1987), 237–245; MacDonagh (1991), 49.&lt;/ref&gt; Life was quieter in Chawton than it had been since the family's move to Bath in 1800. The Austens did not socialise with [[gentry]] and entertained only when family visited. Her niece Anna described the family's life in Chawton as "a very quiet life, according to our ideas, but they were great readers, and besides the housekeeping our aunts occupied themselves in working with the poor and in teaching some girl or boy to read or write."&lt;ref&gt;{{cite book|last1=Grey|first1=J. David|last2=Litz|first2=A. Waton|last3=Southam|first3=B. C.|last4=Bok|first4=H.Abigail|title=The Jane Austen companion|url=https://archive.org/details/janeaustencompan00grey|url-access=registration|date=1986|publisher=Macmillan|page=[https://archive.org/details/janeaustencompan00grey/page/38 38]}}&lt;/ref&gt;&lt;!-- reformat ref to be consistent - needs chapter title --&gt;
+
+==Published author==
+{{further|Styles and themes of Jane Austen}}
+Like many women authors at the time, Austen published her books anonymously.&lt;ref name="Irvine, 2005 15"&gt;Irvine, 2005 15.&lt;/ref&gt; At the time, the ideal roles for a woman were as wife and mother, and writing for women was regarded at best as a secondary form of activity; a woman who wished to be a full-time writer was felt to be degrading her femininity, so books by women were usually published anonymously in order to maintain the conceit that the female writer was only publishing as a sort of part-time job, and was not seeking to become a "literary lioness" (i.e a celebrity).&lt;ref&gt;Irvine, 2005 10–15.&lt;/ref&gt;
+
+During her time at Chawton, Jane Austen published four generally well-received novels. Through her brother Henry, the publisher [[Thomas Egerton (publisher)|Thomas Egerton]] agreed to publish ''[[Sense and Sensibility]]'', which, like all of Jane Austen's novels except ''Pride and Prejudice'', was published "on commission", that is, at the author's financial risk. When publishing on commission, publishers would advance the costs of publication, repay themselves as books were sold and then charge a 10% commission for each book sold, paying the rest to the author. If a novel did not recover its costs through sales, the author was responsible for them.&lt;ref&gt;Fergus (2014), 6; Raven (2005), 198; Honan (1987), 285–286.&lt;/ref&gt; The alternative to selling via commission was by selling the copyright, where an author received a one-time payment from the publisher for the manuscript, which occurred with ''Pride and Prejudice''.&lt;ref name="Irvine, 2005 13"&gt;Irvine, 2005 13.&lt;/ref&gt; Austen's experience with ''Susan'' (the manuscript that became ''Northanger Abbey'') where she sold the copyright to the publisher Crosby &amp; Sons for £10, who did not publish the book, forcing her to buy back the copyright in order to get her work published, left Austen leery of this method of publishing.&lt;ref name="Irvine, 2005 15"/&gt; The final alternative, of selling by subscription, where a group of people would agree to buy a book in advance, was not an option for Austen as only authors who were well known or had an influential aristocratic patron who would recommend an up-coming book to their friends, could sell by subscription.&lt;ref name="Irvine, 2005 13"/&gt;  ''Sense and Sensibility'' appeared in October 1811, and was described as being written "By a Lady".&lt;ref name="Irvine, 2005 15"/&gt; As it was sold on commission, Egerton used expensive paper and set the price at 15 shillings.&lt;ref name="Irvine, 2005 15"/&gt;
+
+[[File:SenseAndSensibilityTitlePage.jpg|left|upright=.85|thumb|First edition title page from ''[[Sense and Sensibility]]'', Austen's first published novel (1811)]]
+Reviews were favourable and the novel became fashionable among young aristocratic opinion-makers;&lt;ref name="Honan 1987, 289–290"&gt;Honan (1987), 289–290.&lt;/ref&gt; the edition sold out by mid-1813. Austen's novels were published in larger editions than was normal for this period. The small size of the novel-reading public and the large costs associated with hand production (particularly the cost of handmade paper) meant that most novels were published in editions of 500 copies or less to reduce the risks to the publisher and the novelist. Even some of the most successful titles during this period were issued in editions of not more than 750 or 800 copies and later reprinted if demand continued. Austen's novels were published in larger editions, ranging from about 750 copies of ''Sense and Sensibility'' to about 2,000 copies of ''Emma''. It is not clear whether the decision to print more copies than usual of Austen's novels was driven by the publishers or the author. Since all but one of Austen's books were originally published "on commission", the risks of overproduction were largely hers (or Cassandra's after her death) and publishers may have been more willing to produce larger editions than was normal practice when their own funds were at risk. Editions of popular works of non-fiction were often much larger.&lt;ref&gt;For more information and a discussion of the economics of book publishing during this period, see Fergus (2014), 6–7, and Raven (2005), 196–203.&lt;/ref&gt;
+
+Austen made £140 from ''Sense and Sensibility'',&lt;ref&gt;Irvine (2005) p.15&lt;/ref&gt; which provided her with some financial and psychological independence.&lt;ref&gt;Honan (1987), 290, Tomalin (1997), 218.&lt;/ref&gt; After the success of ''Sense and Sensibility'', all of Austen's subsequent books were billed as written "By the author of ''Sense and Sensibility''" and Austen's name never appeared on her books during her lifetime.&lt;ref name="Irvine, 2005 15"/&gt; Egerton then published ''[[Pride and Prejudice (novel)|Pride and Prejudice]]'', a revision of ''First Impressions'', in January 1813. Austen sold the copyright to ''Pride and Prejudice'' to Egerton for £110.&lt;ref name="Irvine, 2005 15"/&gt; To maximise profits, he used cheap paper and set the price at 18 shillings.&lt;ref name="Irvine, 2005 15"/&gt; He advertised the book widely and it was an immediate success, garnering three favourable reviews and selling well. Had Austen sold ''Pride and Prejudice'' on commission, she would have made a profit of £475, or twice her father's annual income.&lt;ref name="Irvine, 2005 15"/&gt; By October 1813 Egerton was able to begin selling a second edition.&lt;ref&gt;Sutherland (2005), 16–17, 21; Le Faye (2014) xxii–xxiii; Fergus (2014), 10–11; Tomalin (1997), 210–212, 216–220; Honan (1987), 287.&lt;/ref&gt; ''[[Mansfield Park]]'' was published by Egerton in May 1814. While ''Mansfield Park'' was ignored by reviewers, it was very popular with readers. All copies were sold within six months, and Austen's earnings on this novel were larger than for any of her other novels.&lt;ref&gt;Le Faye (2014), xxiii; Fergus (1997), 22–24; Sutherland (2005), 18–19; Tomalin (1997), 236, 240–241, 315, n. 5.&lt;/ref&gt;
+
+Unknown to Austen, her novels were translated into French and published in cheaply produced, pirated editions in France.&lt;ref&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 pp. 1–2.&lt;/ref&gt; The literary critic Noel King asserted rather stupidly in 1953 that given the prevailing rage in France at the time for lush romantic fantasies, it was remarkable that her novels with the emphasis on everyday English life had any sort of a market in France.&lt;ref&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 p. 2.&lt;/ref&gt; However, King cautioned that Austen's chief translator in France, Madame [[Isabelle de Montolieu]], had only the most rudimentary knowledge of English, and her translations were more of "imitations" than translations proper, as Montolieu depended upon assistants to provide a summary, which she then translated into an embellished French that often radically altered Austen's plots and characters.&lt;ref&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 pp. 5–6.&lt;/ref&gt; The first of the Austen novels to be published that credited her as the author was in France, when ''Persuasion'' was published in 1821 as ''La Famille Elliot ou L'Ancienne Inclination''.&lt;ref&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 page 5.&lt;/ref&gt;
+
+Austen learned that the [[George IV of the United Kingdom|Prince Regent]] admired her novels and kept a set at each of his residences.{{efn|The Prince Regent's admiration was by no means reciprocated. In a letter of 16 February 1813 to her friend Martha Lloyd, Austen says (referring to the Prince's wife, whom he treated notoriously badly) "I hate her Husband".&lt;ref&gt;Le Faye (1995), 207–208.&lt;/ref&gt;}} In November 1815, the Prince Regent's librarian [[James Stanier Clarke]] invited Austen to visit the Prince's London residence and hinted Austen should dedicate the forthcoming ''[[Emma (novel)|Emma]]'' to the Prince. Though Austen disliked the Prince Regent, she could scarcely refuse the request.&lt;ref&gt;Austen letter to James Stannier Clarke, 15 November 1815; Clarke letter to Austen, 16 November 1815; Austen letter to John Murray, 23 November 1815, in Le Faye (1995), 296–298.&lt;/ref&gt; Austen disapproved of the Prince Regent on the account of his womanising, gambling, drinking, spendthrift ways and generally disreputable behaviour.&lt;ref name = "halperin734"&gt;Halperin (1985), 734&lt;/ref&gt; She later wrote ''[[Plan of a Novel, according to Hints from Various Quarters]]'', a satiric outline of the "perfect novel" based on the librarian's many suggestions for a future Austen novel.&lt;ref&gt;Litz (1965), 164–165; Honan (1987), 367–369, describes the episode in detail.&lt;/ref&gt; Austen was greatly annoyed by Clarke's often pompous literary advice, and the ''Plan of A Novel'' parodying Clarke was intended as her revenge for all of the unwanted letters she had received from the royal librarian.&lt;ref name = "halperin734"/&gt;
+
+In mid-1815 Austen moved her work from Egerton to [[John Murray (publishing house)|John Murray]], a better known London publisher,{{efn|John Murray also published the work of Walter Scott and Lord Byron. In a letter to Cassandra dated 17/18 October 1816, Austen comments that "Mr. Murray's Letter is come; he is a Rogue of course, but a civil one."&lt;ref&gt;Honan (1987), 364–365; Le Faye (1995) 291.&lt;/ref&gt;}} who published ''Emma'' in December 1815 and a second edition of ''Mansfield Park'' in February 1816. ''Emma'' sold well, but the new edition of ''Mansfield Park'' did poorly, and this failure offset most of the income from ''Emma''. These were the last of Austen's novels to be published during her lifetime.&lt;ref&gt;Le Faye (2014), xxv–xxvi; Sutherland (2005), 16–21; Fergus (2014), 12–13, 16–17, n.29, 31, n.33; Fergus (2005), 10; Tomalin (1997), 256.&lt;/ref&gt;
+
+While Murray prepared ''Emma'' for publication, Austen began ''The Elliots'', later published as ''[[Persuasion (novel)|Persuasion]]''. She completed her first draft in July 1816. In addition, shortly after the publication of ''Emma'', Henry Austen repurchased the copyright for ''Susan'' from Crosby. Austen was forced to postpone publishing either of these completed novels by family financial troubles. Henry Austen's bank failed in March 1816, depriving him of all of his assets, leaving him deeply in debt and costing Edward, James, and Frank Austen large sums. Henry and Frank could no longer afford the contributions they had made to support their mother and sisters.&lt;ref&gt;Le Faye (2014), xx, xxvi; Fergus (2014), 15; Tomalin (1997), 252–254.&lt;/ref&gt;
+
+===Illness and death===
+
+[[File:Jane Austen's House - geograph.org.uk - 1314316.jpg|thumb|left|upright|8 College Street in Winchester where Austen lived her last days and died]]
+
+Austen was feeling unwell by early 1816, but ignored the warning signs. By the middle of that year, her decline was unmistakable, and she began a slow, irregular deterioration.&lt;ref&gt;Honan (1987), 378–379, 385–395&lt;/ref&gt; The majority of biographers rely on [[Zachary Cope]]'s 1964 [[retrospective diagnosis]] and list her cause of death as [[Addison's disease]], although her final illness has also been described as resulting from [[Hodgkin's lymphoma]].&lt;ref&gt;For detailed information concerning the retrospective diagnosis, its uncertainties and related controversies, see Honan (1987), 391–392; Le Faye (2004), 236; Grey&lt;!-- , "Life of Jane Austen," in Grey --&gt; (1986), 282; Wiltshire, ''Jane Austen and the Body'', 221.&lt;/ref&gt;{{efn|Claire Tomalin prefers a diagnosis of a lymphoma such as Hodgkin's disease.&lt;ref&gt;Tomalin (1997), Appendix I, 283–284; see also A. Upfal, [http://mh.bmj.com/cgi/content/full/31/1/3 "Jane Austen's lifelong health problems and final illness: New evidence points to a fatal Hodgkin's disease and excludes the widely accepted Addison's"], ''Medical Humanities'', 31(1),| 2005, 3–11. {{doi|10.1136/jmh.2004.000193}}&lt;/ref&gt;}} When her uncle died and left his entire fortune to his wife, effectively disinheriting his relatives, she suffered a relapse, writing, "I am ashamed to say that the shock of my Uncle's Will brought on a relapse&amp;nbsp;... but a weak Body must excuse weak Nerves".&lt;ref name = "Todd13"/&gt;
+
+She continued to work in spite of her illness. Dissatisfied with the ending of ''The Elliots'', she rewrote the final two chapters, which she finished on 6 August 1816.{{efn|The manuscript of the revised final chapters of ''Persuasion'' is the only surviving manuscript for any of her published novels in her own handwriting.&lt;ref&gt;Tomalin (1997), 255.&lt;/ref&gt; Cassandra and Henry Austen chose the final titles and the title page is dated 1818.}} In January 1817, Austen began ''The Brothers'' (titled ''[[Sanditon]]'' when published in 1925), and completed twelve chapters before stopping work in mid-March 1817, probably due to illness.&lt;ref&gt;Tomalin (1997), 261.&lt;/ref&gt; Todd describes ''Sanditon''{{'}}s heroine, Diana Parker, as an "energetic invalid". In the novel, Austen mocked hypochondriacs and though she describes the heroine as "bilious", five days after abandoning the novel she wrote of herself that she was turning "every wrong colour" and living "chiefly on the sofa".&lt;ref name = "Todd13"&gt;Todd (2015), 13&lt;/ref&gt; She put down her pen on 18 March 1817, making a note of it.&lt;ref name = "Todd13"/&gt;
+
+{{multiple image|align=right
+ | footer    = [[Winchester Cathedral]], where Austen is buried, and her memorial gravestone in the nave of the Cathedral
+ | width     =
+ | image1    = Winchester Cathedral view 1.jpg
+ | width1    = 159
+ | image2    = wincath-11S7-9687.jpg
+ | width2    = 145
+}}
+Austen made light of her condition, describing it as "bile" and [[rheumatism]]. As her illness progressed, she experienced difficulty walking and lacked energy; by mid-April she was confined to bed. In May, Cassandra and Henry brought her to [[Winchester]] for treatment, by which time she suffered agonising pain and welcomed death.&lt;ref name = "Todd13"/&gt; Austen died in Winchester on 18 July 1817 at the age of 41. Henry, through his clerical connections, arranged for his sister to be buried in the north aisle of the [[nave]] of [[Winchester Cathedral]]. The epitaph composed by her brother James praises Austen's personal qualities, expresses hope for her salvation and mentions the "extraordinary endowments of her mind", but does not explicitly mention her achievements as a writer.&lt;ref&gt;Le Faye (2014), xxv–xxvi; Fergus (1997), 26–27; Tomalin (1997), 254–271; Honan (1987), 385–405.&lt;/ref&gt;
+
+==Posthumous publication==
+In the months after Austen's death in July 1817, Cassandra, Henry Austen and Murray arranged for the publication of ''Persuasion'' and ''Northanger Abbey'' as a set.{{efn|Honan points to "the odd fact that most of [Austen's] reviewers sound like Mr. Collins" as evidence that contemporary critics felt that works oriented toward the interests and concerns of women were intrinsically less important and less worthy of critical notice than works (mostly non-fiction) oriented towards men.&lt;ref&gt;Honan (1987), 317.&lt;/ref&gt;}} Henry Austen contributed a ''Biographical Note'' dated December 1817, which for the first time identified his sister as the author of the novels. Tomalin describes it as "a loving and polished eulogy".&lt;ref&gt;Tomalin (1997), 272.&lt;/ref&gt; Sales were good for a year—only 321 copies remained unsold at the end of 1818.&lt;ref&gt;Tomalin (1997), 321, n.1 and 3; Gilson (1986), 136–137.&lt;/ref&gt;
+
+Although Austen's six novels were out of print in England in the 1820s, they were still being read through copies housed in private libraries and circulating libraries. Austen had early admirers. The first piece of what might now be called [[fan fiction]] (or [[real person fiction]]) using her as a character appeared in 1823 in a letter to the editor in ''The Lady's Magazine''.&lt;ref&gt;{{cite journal |last=Looser |first=Devoney |author-link=Devoney Looser |title=Fan fiction or fan fact? An unknown pen portrait of Jane Austen |journal=TLS |date=13 December 2019 |pages=14–15 |url=https://www.the-tls.co.uk/articles/fan-fiction-or-fan-fact/}}&lt;/ref&gt; It refers to Austen's genius and suggests that aspiring authors were envious of her powers.&lt;ref&gt;{{cite journal |last=Looser |first=Devoney |title=Genius expressed in the nose The earliest known piece of Jane Austen-inspired fan fiction |journal=TLS |date=13 December 2019 |url=https://www.the-tls.co.uk/articles/genius-expressed-in-the-nose/}}&lt;/ref&gt;
+
+In 1832 [[Richard Bentley (publisher)|Richard Bentley]] purchased the remaining copyrights to all of her novels, and over the following winter published five illustrated volumes as part of his ''Standard Novels'' series. In October 1833, Bentley released the first collected edition of her works. Since then, Austen's novels have been continuously in print.&lt;ref&gt;Gilson (1986), 137; Gilson (2005), 127; Southam (1986), 102.&lt;/ref&gt;
+
+==Genre and style==
+{{main|Styles and themes of Jane Austen}}
+Austen's works critique the [[sentimental novel]]s of the second half of the 18th century and are part of the transition to 19th-century literary realism.&lt;ref&gt;Litz (1965), 3–14; Grundy (2014), 195–197; Waldron (2005), 83, 89–90; Duffy (1986), 93–94.&lt;/ref&gt;{{efn|Oliver MacDonagh says that ''Sense and Sensibility'' "may well be the first English realistic novel" based on its detailed and accurate portrayal of what he calls "getting and spending" in an English gentry family.&lt;ref name="MacDonagh 1991, 65, 136–137"/&gt;}}  The earliest English novelists, [[Samuel Richardson|Richardson]], [[Henry Fielding]] and [[Tobias Smollett]], were followed by the school of sentimentalists and [[Romanticism in literature|romantics]] such as [[Walter Scott]], [[Horace Walpole]], [[Clara Reeve]], [[Ann Radcliffe]], and [[Oliver Goldsmith]], whose style and genre Austen rejected, returning the novel on a "slender thread" to the tradition of Richardson and Fielding for a "realistic study of manners".&lt;ref&gt;Grundy (2014), 196&lt;/ref&gt; In the mid-20th century, literary critics [[F. R. Leavis]] and [[Ian Watt]] placed her in the tradition of Richardson and Fielding; both believe that she used their tradition of  "irony, realism and satire to form an author superior to both".&lt;ref&gt;Todd (2015), 21&lt;/ref&gt;
+
+Walter Scott noted Austen's "resistance to the trashy sensationalism of much of modern fiction—'the ephemeral productions which supply the regular demand of watering places and circulating libraries'".&lt;ref name = "Keymer21"&gt;Keymer (2014), 21&lt;/ref&gt; Yet her rejection of these genres is complex, as evidenced by ''Northanger Abbey'' and ''Emma''.&lt;ref name = "Keymer21"/&gt; Similar to [[William Wordsworth]], who excoriated the modern frantic novel in the "Preface" to his ''[[Lyrical Ballads]]'' (1800), Austen distances herself from escapist novels; the discipline and innovation she demonstrates is similar to his, and she shows "that rhetorically less is artistically more."&lt;ref name="Keymer21"/&gt; She eschewed popular Gothic fiction, stories of terror in which a heroine typically was stranded in a remote location, a castle or abbey (32 novels between 1784 and 1818 contain the word "abbey" in their title). Yet in ''Northanger Abbey'' she alludes to the trope, with the heroine, Catherine, anticipating a move to a remote locale. Rather than full-scale rejection or parody, Austen transforms the genre, juxtaposing reality, with descriptions of elegant rooms and modern comforts, against the heroine's "novel-fueled" desires.&lt;ref&gt;Keymer (2014), 24–25&lt;/ref&gt; Nor does she completely denigrate Gothic fiction: instead she transforms settings and situations, such that the heroine is still imprisoned, yet her imprisonment is mundane and real—regulated manners and the strict rules of the ballroom.&lt;ref name="Keymer29"&gt;Keymer (2014), 29&lt;/ref&gt; In ''Sense and Sensibility'' Austen presents characters who are more complex than in staple sentimental fiction, according to critic Keymer, who notes that although it is a parody of popular sentimental fiction, "[[Marianne Dashwood|Marianne]] in her sentimental histrionics responds to the calculating world&amp;nbsp;... with a quite justifiable scream of female distress."&lt;ref name = "Keymer32"&gt;Keymer (2014), 32&lt;/ref&gt;
+
+{{quote box
+ | width=250px
+ | bgcolor= #FFFFF0
+ | salign=right
+ | quote = The hair was curled, and the maid sent away, and Emma sat down to think and be miserable. It was a wretched business, indeed! Such an overthrow of everything she had been wishing for! Such a development of every thing most unwelcome!
+ | source = — example of [[free indirect speech]], Jane Austen,  ''[[Emma (novel)|Emma]]''&lt;ref&gt;qtd. in Lodge (1986), 175&lt;/ref&gt;
+ | style = padding:1.25em
+ | fontsize=90%
+}}
+Richardson's ''[[Pamela; or, Virtue Rewarded|Pamela]]'', the prototype for the sentimental novel, is a [[Didacticism|didactic]] love story with a happy ending, written at a time women were beginning to have the right to choose husbands and yet were restricted by social conventions.&lt;ref&gt;Lodge (1986), 165&lt;/ref&gt; Austen attempted Richardson's epistolary style, but found the flexibility of narrative more conducive to her realism, a realism in which each conversation and gesture carries a weight of significance. The narrative style utilises [[free indirect speech]]—she was the first English novelist to do so extensively—through which she had the ability to present a character's thoughts directly to the reader and yet still retain narrative control. The style allows an author to vary discourse between the narrator's voice and values and those of the characters.&lt;ref&gt;Lodge (1986), 171–175&lt;/ref&gt;
+
+Austen had a natural ear for speech and dialogue, according to scholar [[Mary Lascelles]]: "Few novelists can be more scrupulous than Jane Austen as to the phrasing and thoughts of their characters."&lt;ref&gt;Lascelles (1966) 101&lt;/ref&gt; Techniques such as fragmentary speech suggest a character's traits and their tone; "syntax and phrasing rather than vocabulary" is utilised to indicate social variants.&lt;ref&gt;Lascelles (1966), 96, 101&lt;/ref&gt; Dialogue reveals a character's mood—frustration, anger, happiness—each treated differently and often through varying patterns of sentence structures. When [[Elizabeth Bennet]] rejects [[Mr. Darcy|Darcy]], her stilted speech and the convoluted sentence structure reveals that he has wounded her:&lt;ref&gt;Baker (2014), 177&lt;/ref&gt;
+
+&lt;blockquote style="border-left: 3px solid #ccc;"&gt;
+From the very beginning, from the first moment I may almost say, of my acquaintance with you, your manners impressing me with the fullest belief of your arrogance, your conceit, and your selfish disdain of the feelings of others, were such as to form that the groundwork of disapprobation, on which succeeding events have built so immovable a dislike. And I had not known you a month before I felt that you were the last man in the world whom I could ever be prevailed on to marry.&lt;ref&gt;qtd in Baker (2014), 177&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Austen's plots highlight women's traditional dependence on marriage to secure social standing and economic security.&lt;ref&gt;MacDonagh (1991), 66–75; Collins (1994), 160–161.&lt;/ref&gt; As an art form, the 18th-century novel lacked the seriousness of its equivalents from the 19th century, when novels were treated as "the natural vehicle for discussion and ventilation of what mattered in life".&lt;ref&gt;Bayley (1986), 24&lt;/ref&gt;  Rather than delving too deeply into the psyche of her characters, Austen enjoys them and imbues them with humour, according to critic John Bayley. He believes that the well-spring of her wit and irony is her own attitude that comedy "is the saving grace of life".&lt;ref name="Bayley26ff"&gt;Bayley (1986), 25–26&lt;/ref&gt; Part of Austen's fame rests on the historical and literary significance that she was the first woman to write great comic novels. [[Samuel Johnson]]'s influence is evident, in that she follows his advice to write "a representation of life as may excite mirth".&lt;ref name = "Polhemus"&gt;Polhemus (1986), 60&lt;/ref&gt;
+
+Her humour comes from her modesty and lack of superiority, allowing her most successful characters, such as Elizabeth Bennet, to transcend the trivialities of life, which the more foolish characters are overly absorbed in.&lt;ref name="Bayley26ff"/&gt; Austen used comedy to explore the individualism of women's lives and gender relations, and she appears to have used it to find the goodness in life, often fusing it with "ethical sensibility", creating artistic tension. Critic Robert Polhemus writes,  "To appreciate the drama and achievement of Austen, we need to realize how deep was her passion for both reverence and ridicule&amp;nbsp;... and her comic imagination reveals both the harmonies and the telling contradictions of her mind and vision as she tries to reconcile her satirical bias with her sense of the good."&lt;ref name = "Polhemus"/&gt;
+
+==Reception==
+{{main|Reception history of Jane Austen|Janeite|Jane Austen in popular culture}}
+
+===Contemporaneous responses===
+[[File:New-Monthly-Magazine-1816-25-p66-novels-inc-Austen-Emma-detail.jpg|thumb|upright=1.14|In 1816 the editors of ''[[The New Monthly Magazine]]'' noted ''[[Emma (novel)|Emma]]'s'' publication, but chose not to review it.{{Cref2|K}}]]
+As Austen's works were published anonymously, they brought her little personal renown. They were fashionable among opinion-makers, but were rarely reviewed.&lt;ref name="Honan 1987, 289–290"/&gt; Most of the reviews were short and on balance favourable, although superficial and cautious,&lt;ref&gt;Fergus (2014), 10; Honan (1987), 287–289, 316–317, 372–373.&lt;/ref&gt;&lt;ref name=SouthamVol1p1&gt;Southam (1968), 1.&lt;/ref&gt; most often focused on the moral lessons of the novels.&lt;ref&gt;Waldron (2005), 83–91.&lt;/ref&gt;
+
+Sir [[Walter Scott]], a leading novelist of the day, anonymously wrote a review of ''Emma'' 1815, using it to defend the then-disreputable genre of the novel and praising Austen's realism, "the art of copying from nature as she really exists in the common walks of life, and presenting to the reader, instead of the splendid scenes from an imaginary world, a correct and striking representation of that which is daily taking place around him".&lt;ref&gt;Scott (1968), 58; Waldron (2005), 86; Duffy (1986), 94–96.&lt;/ref&gt; The other important early review was attributed to [[Richard Whately]] in 1821. However, Whately denied having authored the review, which drew favourable comparisons between Austen and such acknowledged greats as [[Homer]] and [[William Shakespeare|Shakespeare]], and praised the dramatic qualities of her narrative. Scott and Whately set the tone for almost all subsequent 19th-century Austen criticism.&lt;ref&gt;Waldron (2005), 89–90; Duffy (1986), 97; Watt (1963), 4–5.&lt;/ref&gt;
+
+===19th century===
+[[File:Pickering - Greatbatch - Jane Austen - Pride and Prejudice - She then told him what Mr. Darcy had voluntarily done for Lydia.jpg|thumb|upright=.80|left|One of the first two published illustrations of ''[[Pride and Prejudice]]'', from the [[Richard Bentley (publisher)|Richard Bentley]] edition.&lt;ref&gt;Gilson (2005), 127.&lt;/ref&gt; Caption reads: "She then told him [Mr Bennett] what Mr Darcy had voluntarily done for Lydia. He heard her with astonishment."]]
+
+Because Austen's novels did not conform to [[Romanticism|Romantic]] and [[Victorian literature|Victorian]] expectations that "powerful emotion [be] authenticated by an egregious display of sound and colour in the writing",&lt;ref&gt;Duffy (1986), 98–99; MacDonagh (1991), 146; Watt (1963), 3–4.&lt;/ref&gt; &lt;!-- which critic said this? (Awadewit) Not Duffy, and I don't have Watt or MacDonagh handy right now to check. Let's note for later (Simmaren) --&gt;&lt;!-- this needs checking. VE --&gt; 19th-century critics and audiences preferred the works of [[Charles Dickens]] and [[George Eliot]].&lt;ref&gt;Southam (1968), 1; Southam (1987), 2.&lt;/ref&gt; Though the Romantic Scott was positive, Austen's work did not match the prevailing aesthetic values of the Romantic zeitgeist.&lt;ref name="Litz, A pages 669"&gt;Litz, A. Walton "Recollecting Jane Austen" pp. 669–682 from ''Critical Inquiry'', Vol. 1, No. 3, March 1975 p. 672.&lt;/ref&gt; Her novels were republished in Britain from the 1830s and sold steadily, but they were not best-sellers.&lt;ref&gt;Johnson (2014), 232; Gilson (2005), 127.&lt;/ref&gt;
+
+The first French critic who paid notice to Austen was [[Philarète Chasles]] in an 1842 essay, dismissing her in two sentences as a boring, imitative writer with no substance.&lt;ref name="auto"&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 p. 23.&lt;/ref&gt; Austen was almost completely ignored in France until 1878,&lt;ref name="auto" /&gt; when the French critic Léon Boucher published the essay ''Le Roman Classique en Angleterre'', in which he called Austen a "genius", the first French author to do so.&lt;ref name="auto1"&gt;King, Noel "Jane Austen in France" from ''Nineteenth-Century Fiction'' pp. 1–28, Vol. 8, No. 1, June 1953 p. 24.&lt;/ref&gt; The first accurate translation of Austen into French occurred in 1899 when [[Félix Fénéon]] translated ''Northanger Abbey'' as ''Catherine Moreland''.&lt;ref name="auto1" /&gt;
+
+In Britain, Austen gradually grew in the estimation of the literati. Philosopher and literary critic [[George Henry Lewes]] published a series of enthusiastic articles in the 1840s and 1850s.&lt;ref&gt;Southam (1968), 152; Southam (1987), 20–21.&lt;/ref&gt; Later in the century, novelist [[Henry James]] referred to Austen several times with approval, and on one occasion ranked her with Shakespeare, [[Miguel de Cervantes|Cervantes]], and Henry Fielding as among "the fine painters of life".&lt;ref&gt;Southam (1987), 70.&lt;/ref&gt;
+
+The publication of James Edward Austen-Leigh's ''[[A Memoir of Jane Austen]]'' in 1869 introduced Austen to a wider public as "dear aunt Jane", the respectable maiden aunt. Publication of the ''Memoir'' spurred the reissue of Austen's novels—the first popular editions were released in 1883 and fancy illustrated editions and collectors' sets quickly followed.&lt;ref&gt;Southam (1987), 58–62.&lt;/ref&gt; Author and critic [[Leslie Stephen]] described the popular mania that started to develop for Austen in the 1880s as "Austenolatry". Around the start of the 20th century, an intellectual clique of ''[[Janeite]]s'' reacted against the popularisation of Austen, distinguishing their deeper appreciation from the vulgar enthusiasm of the masses.
+
+In response, [[Henry James]] decried "a beguiled infatuation" with Austen, a rising tide of public interest that exceeded Austen's "intrinsic merit and interest".&lt;ref&gt;Southam (1987), 46–47, 230 (for the quote from James); Johnson (2014), 234.&lt;/ref&gt; The American literary critic [[A. Walton Litz]] noted that the "anti-Janites" in the 19th and 20th centuries comprised a formidable literary squad of [[Mark Twain]], Henry James, [[Charlotte Brontë]], [[D.H. Lawrence]] and [[Kingsley Amis]], but in "every case the adverse judgement merely reveals the special limitations or eccentricities of the critic, leaving Jane Austen relatively untouched".&lt;ref&gt;Litz, A. Walton "Recollecting Jane Austen" pp. 669–682 from ''Critical Inquiry'', Vol. 1, No. 3, March 1975 p. 670.&lt;/ref&gt;
+
+===Modern===
+[[File:Jane Austen, from A Memoir of Jane Austen (1870).jpg|thumb|right|Depiction of Austen from ''[[A Memoir of Jane Austen]]'' (1871) written by her nephew James Edward Austen-Leigh, and based on the sketch by Cassandra. All subsequent portraits of Austen are generally based on this, including on the reverse of the [[Bank of England £10 note]] introduced in September 2017.]]
+
+Austen's works have attracted legions of scholars. The first dissertation on Austen was published in 1883, by George Pellew, a student at Harvard University.&lt;ref&gt;Devoney Looser, The Making of Jane Austen (Baltimore, MD: Johns Hopkins University Press, 2017), 185–196.&lt;/ref&gt; Another early academic analysis came from a 1911 essay by Oxford Shakespearean scholar [[A. C. Bradley]],&lt;ref&gt;Trott (2005), 92.&lt;/ref&gt; who grouped Austen's novels into "early" and "late" works, a distinction still used by scholars today.&lt;ref&gt;Southam (1987), 79.&lt;/ref&gt; The first academic book devoted to Austen in France was ''Jane Austen'' by Paul and Kate Rague (1914), who set out to explain why French critics and readers should take Austen seriously.&lt;ref name="auto1"/&gt; The same year, Léonie Villard published ''Jane Austen, Sa Vie et Ses Oeuvres'', originally her PhD thesis, the first serious academic study of Austen in France.&lt;ref name="auto1"/&gt; In 1923, R.W. Chapman published the first scholarly edition of Austen's collected works, which was also the first scholarly edition of any English novelist. The Chapman text has remained the basis for all subsequent published editions of Austen's works.&lt;ref&gt;Southam (1987), 99–100; see also Watt (1963), 10–11; Gilson (2005), 149–50; Johnson (2014), 239.&lt;/ref&gt;
+
+With the publication in 1939 of Mary Lascelles' ''Jane Austen and Her Art'', the academic study of Austen took hold.&lt;ref&gt;Southam (1987), 107–109, 124.&lt;/ref&gt; Lascelles analyzed the books Austen read and their influence on her work, and closely examined Austen's style and "narrative art". Concern arose that academics were obscuring the appreciation of Austen with increasingly esoteric theories, a debate that has continued since.&lt;ref&gt;Southam (1986), 108; Watt (1963), 10–11; Stovel (2014), 248; Southam (1987), 127&lt;/ref&gt;
+
+The period since World War II has seen a diversity of critical approaches to Austen, including [[feminist theory]], and perhaps most controversially, [[postcolonialism|postcolonial theory]].&lt;ref&gt;{{Cite book|last=Said, Edward W.|title=Culture and imperialism|year=1994|isbn=0-679-75054-1|edition=1st Vintage books|location=New York|oclc=29600508}}&lt;/ref&gt; The divide has widened between the popular appreciation of Austen, particularly by modern [[Janeite]]s, and academic judgements.&lt;ref&gt;Rajan (2005), 101–110&lt;/ref&gt; In 1994, literary critic [[Harold Bloom]] placed Austen among the [[The Western Canon: The Books and School of the Ages|greatest Western writers of all time]].&lt;ref&gt;{{cite book |last=Bloom |first=Harold |author-link=Harold Bloom |year=1994 |title=The Western Canon: The Books and School of the Ages |page=[https://archive.org/details/westerncanonbook00bloorich/page/2 2] |location=New York |publisher=Harcourt Brace |isbn=0-15-195747-9 |url=https://archive.org/details/westerncanonbook00bloorich/page/226}}&lt;/ref&gt;
+
+In the People's Republic of China after 1949, writings of Austen were regarded as too frivolous,&lt;ref&gt;Zhu Hong "Nineteenth-Century British Fiction in New China: A Brief Report" pp. 207–213 from ''Nineteenth-Century Fiction'', Volume 37, No. 2. September 1982 p. 210.&lt;/ref&gt; and thus during the Chinese [[Cultural Revolution]] of 1966–69, Austen was banned as a "British bourgeois imperialist".&lt;ref&gt;Zhu Hong "Nineteenth-Century British Fiction in New China: A Brief Report" pp. 207–213 from ''Nineteenth-Century Fiction'', Volume 37, No. 2. September 1982 p. 212.&lt;/ref&gt; In the late 1970s, when Austen's works was re-published in China, her popularity with readers confounded the authorities who had trouble understanding that people generally read books for enjoyment, not political edification.&lt;ref&gt;Zhu Hong "Nineteenth-Century British Fiction in New China: A Brief Report" pp. 207–213 from ''Nineteenth-Century Fiction'', Volume 37, No. 2. September 1982 p. 213.&lt;/ref&gt;
+
+In a typical modern debate, the conservative American professor Gene Koppel, to the indignation of his liberal literature students, mentioned that Austen and her family were "Tories of the deepest dye", i.e. Conservatives in opposition to the liberal Whigs. Although several feminist authors such as Claudia Johnson and Mollie Sandock claimed Austen for their own cause, Koppel argued that different people react to a work of literature in different subjective ways, as explained by the philosopher [[Hans-Georg Gadamer]]. Thus competing interpretations of Austen's work can be equally valid, provided they are grounded in textual and historical analysis: it is equally possible to see Austen as a feminist critiquing Regency society and as a conservative upholding its values.&lt;ref name="Koppel"&gt;{{cite web|last=Koppel|first=Gene|date=2 November 1989|title=Pride and Prejudice: Conservative or Liberal Novel—Or Both? (A Gadamerian Approach)|url=http://www.jasna.org/persuasions/printed/number11/koppel.htm|access-date=25 October 2016}}&lt;/ref&gt;
+
+===Adaptations===
+{{main|Jane Austen in popular culture}}
+Austen's novels have resulted in sequels, prequels and adaptations of almost every type, from [[Softcore pornography|soft-core pornography]] to fantasy. From the 19th century, her family members published conclusions to her incomplete novels, and by 2000 there were over 100 printed adaptations.&lt;ref&gt;Lynch (2005), 160–162.&lt;/ref&gt; The first dramatic adaptation of Austen was published in 1895, Rosina Filippi's ''Duologues and Scenes from the Novels of Jane Austen: Arranged and Adapted for Drawing-Room Performance'', and Filippi was also responsible for the first professional stage adaptation, ''The Bennets'' (1901).&lt;ref&gt;Devoney Looser, The Making of Jane Austen (Baltimore, MD: Johns Hopkins University Press, 2017), 85.&lt;/ref&gt; The first film adaptation was the [[Pride and Prejudice (1940 film)|1940 MGM production of ''Pride and Prejudice'']] starring [[Laurence Olivier]] and [[Greer Garson]].&lt;ref&gt;Brownstein (2001), 13.&lt;/ref&gt; BBC television dramatisations since the 1970s have attempted to adhere meticulously to Austen's plots, characterisations and settings.&lt;ref&gt;Troost (2007), 79.&lt;/ref&gt; The British critic Robert Irvine noted that in American film adaptations of Austen's novels, starting with the 1940 version of ''Pride and Prejudice'', class is subtly downplayed, and the society of Regency England depicted by Austen that is grounded in a hierarchy based upon the ownership of land and the antiquity of the family name is one that Americans cannot embrace in its entirety.&lt;ref&gt;Irvine, Robert ''Jane Austen'', London: Routledge, 2005 pp. 158–159&lt;/ref&gt;
+
+From 1995 many Austen adaptations appeared, with [[Ang Lee]]'s [[Sense and Sensibility (film)|film of ''Sense and Sensibility'']], for which screenwriter and star [[Emma Thompson]] won an [[Academy Award]], and the BBC's immensely popular TV mini-series ''[[Pride and Prejudice (1995 TV series)|Pride and Prejudice]]'', starring [[Jennifer Ehle]] and [[Colin Firth]].&lt;ref&gt;Troost (2007), 82–84.&lt;/ref&gt; A 2005 British production of [[Pride &amp; Prejudice (2005 film)|''Pride and Prejudice'']], directed by [[Joe Wright]] and starring [[Keira Knightley]] and [[Matthew Macfadyen]],&lt;ref&gt;Carol Kopp, [http://www.cbsnews.com/stories/2006/02/15/oscar/main1321171.shtml "The Nominees: Keira Knightley"], CBS News, 20 October 2008.&lt;/ref&gt; was followed in 2007 by [[ITV (TV network)|ITV]]'s ''[[Mansfield Park (2007 film)|Mansfield Park]]'', ''[[Northanger Abbey (2007 film)|Northanger Abbey]]'' and ''[[Persuasion (2007 film)|Persuasion]]'',&lt;ref&gt;Julia Day, [https://www.theguardian.com/media/2005/nov/10/broadcasting.ITV "ITV falls in love with Jane Austen"], ''The Guardian'', 10 November 2005.&lt;/ref&gt; and in 2016 by ''[[Love &amp; Friendship]]'' starring [[Kate Beckinsale]] as Lady Susan, a film version of ''Lady Susan'', that borrowed the title of Austen's ''[[Love and {{Not a typo|Freindship}}]]'' [sic].&lt;ref&gt;Alonso Duralde, Alonso, [http://www.thewrap.com/love-friendship-review-whit-stillman-kate-beckinsale-chloe-sevigny-jane-austen/ "'Love &amp; Friendship' Sundance Review: Whit Stillman Does Jane Austen—But Hasn't He Always?"], ''The Wrap'', 25 January 2016.&lt;/ref&gt;
+
+== Honours ==
+[[File:Jane Austen Achievement.png|thumb|Austen's arms:Or, a chevron gules between three lions' gambs erect erased sable armed of the second.&lt;ref&gt;{{cite web|url=https://www.heraldica.org/topics/famous/writers.htm |title=An Armory of Famous Writers |publisher=Heraldica |accessdate=19 April 2021}}&lt;/ref&gt;]]
+Austen is on the [[Bank of England £10 note|£10 note]] which was introduced in 2017, replacing [[Charles Darwin]].&lt;ref&gt;{{cite web|url=https://www.abc.net.au/news/2017-09-14/jane-austen-is-now-on-the-10-pound-note/8947154|title=Jane Austen is now on Britain's 10 pound note|date=14 September 2017|website=ABC News|language=en-AU|access-date=4 December 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.theguardian.com/business/2017/jul/18/jane-austen-banknote-unveiled-with-strange-choice-of-quotation|title=Jane Austen banknote unveiled – with strange choice of quotation|last=Morris|first=Steven|date=18 July 2017|work=The Guardian|access-date=4 December 2019|language=en-GB|issn=0261-3077}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.telegraph.co.uk/money/consumer-affairs/new-10-note-spot-worth-thousands/|title=New £10 note: how to spot if yours is worth thousands|last=Suter|first=Laura|date=13 September 2017|work=The Telegraph|access-date=4 December 2019|language=en-GB|issn=0307-1235}}&lt;/ref&gt;
+
+==List of works==
+{{col-begin}}
+'''Novels'''
+* ''[[Sense and Sensibility]]'' (1811)
+* ''[[Pride and Prejudice (novel)|Pride and Prejudice]]'' (1813)
+* ''[[Mansfield Park]]'' (1814)
+* ''[[Emma (novel)|Emma]]'' (1815)
+* ''[[Northanger Abbey]]'' (1818, posthumous)
+* ''[[Persuasion (novel)|Persuasion]]'' (1818, posthumous)
+* ''[[Lady Susan]]'' (1871, posthumous)
+
+'''Unfinished fiction'''
+* ''[[The Watsons]]'' (1804)
+* ''[[Sanditon]]'' (1817)
+
+'''Other works'''
+* ''Sir Charles Grandison'' ([[The History of Sir Charles Grandison|adapted]] play) (1793, 1800){{efn|The full title of this short play is ''Sir Charles Grandison or The happy Man, a Comedy in 6 acts''. For more information see Southam (1986), 187–189.}}
+* ''[[Plan of a Novel, according to Hints from Various Quarters|Plan of a Novel]]'' (1815)
+* Poems (1796–1817)
+* Prayers (1796–1817)
+* Letters (1796–1817)
+
+{{col-begin}}
+{{col-break}}
+'''Juvenilia—Volume the First''' (1787–1793){{efn|This list of the juvenilia is taken from ''The Works of Jane Austen''. Vol VI. 1954. Ed. R.W. Chapman and B.C. Southam. Oxford: Oxford University Press, 1988, as supplemented by additional research reflected in Margaret Anne Doody and Douglas Murray, eds. ''Catharine and Other Writings''. Oxford: Oxford University Press, 1993.}}
+* Frederic &amp; Elfrida
+* Jack &amp; Alice
+* Edgar &amp; Emma
+* Henry and Eliza
+* The Adventures of Mr. Harley
+* Sir William Mountague
+* Memoirs of Mr. Clifford
+* [[The Beautifull Cassandra]]&lt;!-- Sic—yes, "beautifull" is supposed to have two l's --&gt;
+* Amelia Webster
+* The Visit
+* The Mystery
+* The Three Sisters
+* A Fragment
+* A beautiful description
+* The generous Curate
+* Ode to Pity
+
+{{col-break}}
+
+'''Juvenilia—Volume the Second''' (1787–1793)
+* [[Love and Freindship]]&lt;!-- Sic—yes, it's supposed to be "Freindship" in the title, please don't change the spelling. --&gt;
+* Lesley Castle
+* [[The History of England (Austen)|The History of England]]
+* A Collection of Letters
+* The female philosopher
+* The first Act of a Comedy
+* A Letter from a Young Lady
+* A Tour through Wales
+* A Tale
+
+'''Juvenilia—Volume the Third''' (1787–1793)
+* Evelyn
+* [[Catharine, or The Bower]]
+{{col-end}}
+
+=={{anchor|Gallery}}Family trees==
+{{Wide image|William Austen family tree two generations.svg|700px|alt=Family tree of William Austen, Jane Austen's paternal grandfather, showing descendants for two generations|Austen, her parents and her siblings}}
+{{Wide image|Jane Austen nephews and nieces.svg|700px|alt=Family tree of Rev. George Austen, Jane Austen's father, showing Jane's married brothers and their descendants|Her siblings, nieces and nephews}}
+
+==See also==
+{{portal|Novels|Literature}}
+* [[Jane Austen's family and ancestry]]
+{{clear}}
+
+==References==
+
+===Notes===
+{{notelist|notes=}}
+
+===Citations===
+{{Reflist}}
+
+===Sources===
+{{refbegin|30em}}
+* Alexander, Christine and Juliet McMaster, eds. ''The Child Writer from Austen to Woolf''. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-81293-3}}.
+* Auerbach, Emily. ''Searching for Jane Austen''. Madison: University of Wisconsin Press, 2004. {{ISBN|0-299-20184-8}}
+* Austen, Jane. ''Catharine and Other Writings''. Ed. Margaret Anne Doody and Douglas Murray. Oxford: Oxford University Press, 1993. {{ISBN|0-19-282823-1}}.
+* Austen, Jane. ''[[The History of England (Austen)|The History of England]]''. Ed. [[David Starkey]]. Icon Books, HarperCollins Publishers, 2006. {{ISBN|0-06-135195-4}}.
+* Austen, Henry Thomas. "Biographical Notice of the Author". ''Northanger Abbey and Persuasion''. London: John Murray, 1817.
+* Austen-Leigh, James Edward. ''[[A Memoir of Jane Austen]]''. 1926. Ed. R.W. Chapman. Oxford: Oxford University Press, 1967.
+* Austen-Leigh, William and Richard Arthur Austen-Leigh. ''Jane Austen: Her Life and Letters, A Family Record''. London: Smith, Elder &amp; Co., 1913.
+* Bayley, John. "Characterization in Jane Austen".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan Publishing Company, 1986. {{ISBN|0-02-545540-0}}. 24–34
+* Baker, Amy. "Caught in the Act of Greatness: Jane Austen's Characterization Of Elizabeth And Darcy By Sentence Structure In ''Pride and Prejudice''". ''Explicator'', Vol. 72, Issue 3, 2014. 169–178
+* Brownstein, Rachel M. "Out of the Drawing Room, Onto the Lawn". ''Jane Austen in Hollywood''. Eds. Linda Troost and Sayre Greenfield. Lexington: University Press of Kentucky, 2001 {{ISBN|0-8131-9006-1}}. 13–21.
+* Butler, Marilyn. "History, Politics and Religion".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan Publishing Company, 1986. {{ISBN|0-02-545540-0}}. 190–208
+* [[Paula Byrne|Byrne, Paula]]. ''Jane Austen and the Theatre''. London and New York: Continuum, 2002. {{ISBN|978-1-84725-047-6}}.
+* Cartmell, Deborah and Whelehan, Imelda, eds. ''The Cambridge Companion to Literature on Screen''. Cambridge: Cambridge University Press, 2007. {{ISBN|978-0-521-84962-3}}.
+* Collins, Irene. ''Jane Austen and the Clergy''. London: The Hambledon Press, 1994. {{ISBN|1-85285-114-7}}.
+* Copeland, Edward and Juliet McMaster, eds. ''The Cambridge Companion to Jane Austen''. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}.
+* Doody, Margaret Anne. "The Early Short Fiction".  ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. 72–86.
+* Duffy, Joseph. "Criticism, 1814–1870".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan Publishing Company, 1986. {{ISBN|0-02-545540-0}}. 93–101
+* Fergus, Jan. "Biography". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 3–11
+* Fergus, Jan. "The Professional Woman Writer". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. 1–20.
+* Gay, Penny. ''Jane Austen and the Theatre''. Cambridge: Cambridge University Press, 2002. {{ISBN|0-521-65213-8}}.
+* Gilson, David. "Letter publishing history". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 121–159
+* Gilson, David. "Editions and Publishing History".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 135–139
+* Grey, J. David. ''The Jane Austen Companion''. New York: Macmillan Publishing Company, 1986. {{ISBN|0-02-545540-0}}.
+* Grundy, Isobel. "Jane Austen and literary traditions". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014.  {{ISBN|978-0-521-74650-2}}. 192–214
+* Halperin, John. "Jane Austen's Lovers".  ''SEL: Studies in English Literature 1500–1900'' Vol. 25, No. 4, Autumn, 1985. 719–720
+* Harding, D.W., "Regulated Hatred: An Aspect of the Work of Jane Austen". ''Jane Austen: A Collection of Critical Essays''. Ed. Ian Watt. Englewood Cliffs, NJ: Prentice-Hall, 1963.
+* [[Park Honan|Honan, Park]]. ''Jane Austen: A Life''. New York: St. Martin's Press, 1987. {{ISBN|0-312-01451-1}}.
+* Irvine, Robert ''Jane Austen''. London: Routledge, 2005. {{ISBN|0-415-31435-6}}
+* Jenkyns, Richard. ''A Fine Brush on Ivory: An Appreciation of Jane Austen''. Oxford: Oxford University Press, 2004. {{ISBN|0-19-927661-7}}.
+* Johnson, Claudia. "Austen cults and cultures". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. 232–247.
+* Kelly, Gary. "Education and accomplishments". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 252–259
+* Keymer, Thomas. "''Northanger Abbey'' and ''Sense and Sensibility''". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. 21–38
+* Kirkham, Margaret. "Portraits". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 68–82
+* [[Mary Lascelles|Lascelles, Mary]]. ''Jane Austen and Her Art''. Oxford: Oxford University Press, 1966 [1939].
+* Leavis, F.R. ''The Great Tradition: George Eliot, Henry James, Joseph Conrad''. London: Chatto &amp; Windus, 1960.
+* [[Deirdre Le Faye|Le Faye, Deirdre]], ed. ''Jane Austen's Letters''. Oxford: Oxford University Press, 1995. {{ISBN|0-19-283297-2}}.
+* Le Faye, Deirdre. "Chronology of Jane Austen's Life". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. xv–xxvi
+* Le Faye, Deirdre. ''Jane Austen: The World of Her Novels''. New York: Harry N. Abrams, 2002. {{ISBN|0-8109-3285-7}}.
+* Le Faye, Deirdre. ''Jane Austen: A Family Record''. Second Edition. Cambridge: Cambridge University Press, 2004. {{ISBN|0-521-53417-8}}.
+* Le Faye, Deirdre. "Letters". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 33–40
+* Le Faye, "Memoirs and Biographies". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 51–58
+* Litz, A. Walton. ''Jane Austen: A Study of Her Development''. New York: Oxford University Press, 1965.
+* Litz, A. Walton.  "Chronology of Composition".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 47–62
+* Lodge, David.  "Jane Austen's Novels: Form and Structure".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 165–179
+* Looser, Devoney. ''The Making of Jane Austen''. Baltimore, MD: Johns Hopkins University Press, 2017. {{ISBN|1-4214-2282-4}}.
+* Lynch, Deirdre Shauna. "Sequels". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 160–169
+* MacDonagh, Oliver. ''Jane Austen: Real and Imagined Worlds''. New Haven: Yale University Press, 1991. {{ISBN|0-300-05084-4}}.
+* McMaster, Juliet. "Education".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan Publishing Company, 1986. {{ISBN|0-02-545540-0}}. 140–142
+* Miller, D.A. ''Jane Austen, or The Secret of Style''. Princeton: Princeton University Press, 2003. {{ISBN|0-691-12387-X}}.
+* [[David Nokes|Nokes, David]]. ''Jane Austen: A Life''. Berkeley: University of California Press, 1998. {{ISBN|0-520-21606-7}}.
+* Page, Norman. ''The Language of Jane Austen''. Oxford: Blackwell, 1972. {{ISBN|0-631-08280-8}}.
+* Polhemus, Robert M.  "Jane Austen's Comedy".  ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 60–71
+* Raven, James. "Book Production". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 194–203
+* Raven, James. ''The Business of Books: Booksellers and the English Book Trade''. New Haven: Yale University Press, 2007. {{ISBN|0-300-12261-6}}.
+* Rajan, Rajeswari. "Critical Responses, Recent". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 101–10.
+* [[Walter Scott|Scott, Walter]]. "Walter Scott, an unsigned review of ''Emma'', ''Quarterly Review''". ''Jane Austen: The Critical Heritage, 1812–1870''. Ed. B.C. Southam. London: Routledge and Kegan Paul, 1968. {{ISBN|0-7100-2942-X}}. 58–69.
+* Southam, B.C. "Grandison". ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 187–189
+* Southam, B.C. "Criticism, 1870–1940". ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 102–109
+* Southam, B.C., ed. ''Jane Austen: The Critical Heritage, 1812–1870''. Vol. 1. London: Routledge and Kegan Paul, 1968. {{ISBN|0-7100-2942-X}}.
+* Southam, B.C., ed. ''Jane Austen: The Critical Heritage, 1870–1940''. Vol. 2. London: Routledge and Kegan Paul, 1987. {{ISBN|0-7102-0189-3}}.
+* Southam, B.C. "Juvenilia". ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 244–255
+* Stovel, Bruce. "Further reading". ''The Cambridge Companion to Jane Austen''. Eds. Edward Copeland and Juliet McMaster. Cambridge: Cambridge University Press, 2014. {{ISBN|978-0-521-74650-2}}. 248–266.
+* Sutherland, Kathryn. "Chronology of composition and publication". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 12–22
+* [[Janet Todd|Todd, Janet]], ed. ''Jane Austen in Context''. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}.
+* Todd, Janet. ''The Cambridge Introduction to Jane Austen''. Cambridge: Cambridge University Press, 2015. {{ISBN|978-1-107-49470-1}}.
+* [[Claire Tomalin|Tomalin, Claire]]. ''Jane Austen: A Life''. New York: Alfred A. Knopf, 1997. {{ISBN|0-679-44628-1}}.
+* Troost, Linda. "The Nineteenth-Century Novel on Film". ''The Cambridge Companion to Literature on Screen''. Eds. Deborah Cartmell and Imelda Whelehan. Cambridge: Cambridge University Press, 2007. {{ISBN|978-0-521-84962-3}}. 75–89
+* Trott, Nicola. "Critical Responess, 1830–1970", ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 92–100
+* Tucker, George Holbert. "Amateur Theatricals at Steventon". ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 1–4
+* Tucker, George Holbert. "Jane Austen's Family". ''The Jane Austen Companion''. Ed. J. David Grey. New York: Macmillan, 1986. {{ISBN|0-02-545540-0}}. 143–153
+* Waldron, Mary. "Critical Response, early". ''Jane Austen in Context''. Ed. Janet Todd. Cambridge: Cambridge University Press, 2005. {{ISBN|0-521-82644-6}}. 83–91
+* [[Ian Watt|Watt, Ian]]. "Introduction". ''Jane Austen: A Collection of Critical Essays''.  Ed. Ian Watt. Englewood Cliffs, NJ: Prentice Hall, 1963.&lt;!-- page numbers? --&gt;
+* Watt, Ian, ed. ''Jane Austen: A Collection of Critical Essays''. Englewood Cliffs, NJ: Prentice Hall, 1963.
+* Wiltshire, John. ''Jane Austen and the Body: The Picture of Health''. Cambridge: Cambridge University Press, 1992. {{ISBN|0-521-41476-8}}.
+{{refend}}
+
+==Further reading==
+{{Library resources box|by=yes|onlinebooks=yes|viaf=102333412}}
+{{refbegin}}
+* [[Susan Gubar|Gubar, Susan]] and Sandra Gilbert. ''[[The Madwoman in the Attic]]: The Woman Writer and the Nineteenth Century Literary Imagination''. New Haven: Yale University Press, 1984 [1979]. {{ISBN|0-300-02596-3}}.
+{{refend}}
+{{clear}}
+
+==External links==
+{{Sister project links |wikt=no |commons=Jane Austen |commonscat=yes |n=no |q=Jane Austen |s=Author:Jane Austen |b=no |v=no |d=Q36322}}
+{{Refbegin}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/jane-austen}}
+* {{Gutenberg author |id=Austen,+Jane | name=Jane Austen}}
+* {{Internet Archive author |sname=Jane Austen}}
+* {{Librivox author |id=155}}
+* [http://www.janeausten.ac.uk/index.html Jane Austen's Fiction Manuscripts Digital Edition], a [[digital archive]] from the University of Oxford
+* [https://www.gutenberg.org/ebooks/17797 ''A Memoir of Jane Austen''] by James Edward Austen-Leigh
+* [http://www.bl.uk/people/jane-austen Jane Austen] at the [[British Library]]
+* [https://web.archive.org/web/20190628045056/https://en.wikipedia.org/wiki/Portal:Jane_Austen Portal:Jane Austen], the old Wikipedia portal at the [[Internet Archive]]
+{{Refend}}
+
+===Museums===
+{{Refbegin}}
+* [http://www.jane-austens-house-museum.org.uk/ Jane Austen's House Museum] in [[Chawton]]
+* [http://www.janeausten.co.uk The Jane Austen Centre] in [[Bath, Somerset|Bath]]
+{{Refend}}
+
+===Fan sites and societies===
+{{Refbegin}}
+* [http://www.pemberley.com The Republic of Pemberley]
+* [https://web.archive.org/web/20051124033438/http://www.jasa.net.au/index.html The Jane Austen Society of Australia]
+* [http://www.jasna.org The Jane Austen Society of North America]
+* [http://www.janeaustensociety.org.uk/ The Jane Austen Society of the United Kingdom]
+{{Refend}}
+
+{{Jane Austen |state=expanded}}
+{{Navboxes
+|title = Associated subjects
+|list1=
+{{Pride and Prejudice}}
+{{Sense and Sensibility}}
+{{Mansfield Park}}
+{{Emma}}
+{{Persuasion}}
+{{Northanger Abbey}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Austen, Jane}}
+[[Category:Jane Austen| ]]
+[[Category:1775 births]]
+[[Category:1817 deaths]]
+[[Category:18th-century English novelists]]
+[[Category:19th-century English novelists]]
+[[Category:18th-century English women writers]]
+[[Category:18th-century English writers]]
+[[Category:19th-century English women writers]]
+[[Category:Austen family]]
+[[Category:Burials at Winchester Cathedral]]
+[[Category:Culture in Bath, Somerset]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:English Anglicans]]
+[[Category:English romantic fiction writers]]
+[[Category:History of Bath, Somerset]]
+[[Category:History of Winchester]]
+[[Category:Tuberculosis deaths in England]]
+[[Category:People from Steventon, Hampshire]]
+[[Category:People from Chawton]]
+[[Category:People from Winchester]]
+[[Category:English women novelists]]
+[[Category:Self-published authors]]
+[[Category:Women of the Regency era]]
+[[Category:Writers of Gothic fiction]]
+[[Category:Women romantic fiction writers]]
+[[Category:Christian writers]]
+[[Category:People from Deane, Hampshire]]</text>
+      <sha1>t8g1bviqzn9bfe53scgaaie2sa4zvf5</sha1>
+    </revision>
+  </page>
+</mediawiki>

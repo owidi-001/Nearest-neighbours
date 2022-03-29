@@ -1,0 +1,13 @@
+<mediawiki>
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+  </siteinfo>
+  <page>
+    <title>Test 11</title>
+    <id>11</id>
+    <revision>
+      <format>text/x-wiki</format>
+      <text bytes="100">Now it's time for angle brackets!<skip me!></skip me too>Include me.</text>
+    </revision>
+  </page>
+</mediawiki>

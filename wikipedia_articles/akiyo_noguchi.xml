@@ -1,0 +1,407 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Akiyo Noguchi</title>
+    <ns>0</ns>
+    <id>54677852</id>
+    <revision>
+      <id>1031375063</id>
+      <parentid>1031246291</parentid>
+      <timestamp>2021-07-01T07:51:58Z</timestamp>
+      <contributor>
+        <username>OdinFK</username>
+        <id>7397101</id>
+      </contributor>
+      <comment>/* Biography */ qualification for the olympics, retirement, final world cup</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15581" xml:space="preserve">{{short description|Japanese climber}}
+{{Infobox climber
+| image            = File:Boulder Worldcup Vienna 29-05-2010a semifinals092 Akiyo Noguchi.jpg
+| image_size       =
+| caption          = Noguchi at the World Cup in [[Vienna]], 2010.
+| name             = Akiyo Noguchi
+| nationality      = Japan
+| birth_date       = {{Birth date and age|1989|05|30}}
+| birth_place      = Japan
+| death_date       = &lt;!-- if applicable use {{death date and age|yyyy|mm|dd|yyyy|mm|dd}} --&gt;
+| death_place      = 
+| residence        =
+| education        =
+| occupation       = Professional [[Climbing competition|sport climber]]
+| height           = 165 cm
+| weight           = 49 kg
+| typeofclimber    = [[Bouldering]], [[Lead climbing]]
+| highestgrade     = 
+| highestredpoint  = {{Climbing grade|8c+}}
+| highestonsight   =
+| highestboulder   = {{Boulder grade|8A+}}
+| knownfor         = Winning the bouldering World Cup 4 times
+| firstascents     = 
+| namedroutes      = 
+| majorascents     = 
+| website          = http://akiyonoguchi.com
+| updated          = April 28, 2019
+|medaltemplates = {{MedalCount
+| [[IFSC Climbing World Cup|World Cup]] | 21 | 24 | 23
+| [[IFSC Climbing World Championships|World Championship]] | - | 4 | 3
+| [[Asian Games]]  | 1 | - | -
+}}
+{{Medal|Competition|[[Climbing World Cup|World Cup]]}}
+{{Medal|Second|2008|Bouldering}}
+{{Medal|Winner|2008|Combined}}
+{{Medal|Winner|2009|Bouldering}}
+{{Medal|Winner|2009|Combined}}
+{{Medal|Winner|2010|Bouldering}}
+{{Medal|Second|2011|Bouldering}}
+{{Medal|Second|2012|Bouldering}}
+{{Medal|Second|2013|Bouldering}}
+{{Medal|Winner|2014|Bouldering}}
+{{Medal|Winner|2014|Combined}}
+{{Medal|Winner|2015|Bouldering}}
+{{Medal|Second|2015|Combined}}
+{{Medal|Second|2016|Combined}}
+{{Medal|Third |2017|Bouldering}}
+{{Medal|Second|2018|Bouldering}}
+{{Medal|Winner|2018|Bouldering}}
+{{Medal|Second|2018|Combined}}
+{{Medal|Second|2019|Bouldering}}
+{{Medal|Second|2019|Combined}}
+{{Medal|Competition|[[Climbing World Championships|World Championships]]}}
+{{Medal|Bronze|2005|Lead}}
+{{Medal|Silver|2007|Bouldering}}
+{{Medal|Bronze|2014|Bouldering}}
+{{Medal|Bronze|2016|Bouldering}}
+{{Medal|Silver|2018|Bouldering}}
+{{Medal|Silver|2019|Bouldering}}
+{{Medal|Silver|2019|Combined}}
+{{MedalCompetition | [[Sport climbing at the 2018 Asian Games|Asian Games]]}}
+{{MedalGold | [[Sport climbing at the 2018 Asian Games|2018]] | [[Sport climbing at the 2018 Asian Games – Women's combined|Combined]]}}
+|show-medals = yes
+}}
+{{Nihongo|'''Akiyo Noguchi'''|野口 啓代|Noguchi Akiyo|born May 30, 1989}} is a Japanese professional [[rock climbing|rock climber]], [[sport climbing|sport climber]] and [[bouldering|boulderer]]. She participates in both bouldering and lead climbing competitions. She is known for winning the [[IFSC Climbing World Cup]] in Bouldering four times. In her home country, she won [[Climbing Japan Cup|Bouldering Japan Cup]] nine times consecutively from 2005 to 2014, which no other Japanese athlete has been able to match.
+
+== Biography ==
+Noguchi grew up on a cattle farm in the [[Ibaraki Prefecture]]. From a young age she would climb on buildings, trees and sometimes even on the cows. In 2000, when she was 11 years old, she tried a real climbing wall for the first time, during a holiday trip to [[Guam]]. Back at home she immediately joined a local climbing gym. Her father later built her a climbing wall in an old cattle barn on the farm.&lt;ref&gt;{{cite web| archive-url=https://web.archive.org/web/20190715141524/https://gripped.com/profiles/indoor-weekly-akiyo-noguchi-on-cows-and-olympics/| url=https://gripped.com/profiles/indoor-weekly-akiyo-noguchi-on-cows-and-olympics/ | title=Indoor Weekly: Akiyo Noguchi on Cows and Olympics| publisher=Gripped | archive-date=Jul 15, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web| archive-url=https://web.archive.org/web/20190715141921/https://www.hakuhodo-global.com/news/akiyo-noguchi-explains-2020-olympic-event-sports-climbing.html | url=https://www.hakuhodo-global.com/news/akiyo-noguchi-explains-2020-olympic-event-sports-climbing.html | archive-date=Jul 15, 2019 | publisher=hakuhodo-global.com | title=Akiyo Noguchi explains 2020 Olympic event sports climbing}}&lt;/ref&gt;&lt;ref&gt;{{cite web| archive-url=https://web.archive.org/web/20190715143628/https://www.owndays.com/hk/en/bbods/owndaysmeets/201402/ | url=https://www.owndays.com/hk/en/bbods/owndaysmeets/201402/ | archive-date=Jul 15, 2019 | title=Owndays meets #3 Akiyo Noguchi}}&lt;/ref&gt;
+
+In 2007, she started competing in the Bouldering World Cups, reaching the podium three times. In 2009, she won the World Cup in bouldering, over the previous year's champion [[Anna Stöhr]].&lt;ref&gt;{{cite web|url=http://www.planetmountain.com/News/shownews1.lasso?l=1&amp;keyid=36811|title=Coppa del Mondo Boulder 2009: Fischhuber e Noghuchi al top, Moroni è terzo|editor=planetmountain.com|date=June 16, 2009|access-date=April 29, 2012}}&lt;/ref&gt; Noguchi repeated as champion in 2010, 2014 and 2015.&lt;ref name="IFSC Worldcups" /&gt; In the 2011, 2012 and 2013 bouldering events at the World Cup she placed second.&lt;ref name="IFSC Worldcups" /&gt; She has also won the combined climbling title at the World Cup three times.&lt;ref name="IFSC Worldcups" /&gt;
+
+Noguchi was also awarded the [[Rock Master|La Sportiva Competition Award]] in 2010, "for her victories and the positive spirit she exudes during competitions".&lt;ref&gt;{{cite web|url=http://www.arco2011.it/index.php/2010/07/18/arco-rock-legend-2010-a-manolo-ondra-e-noguchi/|title=Arco Rock Legend 2010 a Manolo, Ondra e Noguchi|editor=arco2011.it|author=Vinicio Stefanello|date=July 18, 2010|access-date=December 22, 2011}}&lt;/ref&gt;
+
+In 2019 Akiyo Noguchi won a silver medal in the combined competition at the [[2019 IFSC Climbing World Championships|climbing World Championship]] which qualified her for the [[Sport climbing at the 2020 Summer Olympics|2020 Summer Olympics]]. Noguchi had contemplated retirement from competition climbing as early as 2016, but when it was announced that climbing would become an Olympic sport in 2020 for the first time she decided to try and qualify for Olympics in her home country.&lt;ref&gt;{{cite web | title = The Tokyo Olympics will be Akiyo Noguchi’s First … and Last | publisher = climbing.com | date = June 19, 2021 | accessdate = July 1, 2021 | last = Clarke | first = Owen | url = https://www.climbing.com/competition/olympics/tokyo-olympics-will-be-akiyo-noguchis-first-last/}}&lt;/ref&gt; Noguchi attended her final [[IFSC Climbing World Cup]] in Innsbruck in June 2021, finishing a career of 169 World Cups and 75 podium places.&lt;ref&gt;{{cite web | title = Second Gold of the Week for Garnbret, three boulder medals for Team Japan, and a farewell to Noguchi | publisher = IFSC | date = June 26, 2021 | accessdate = July 1, 2021 | url = https://www.ifsc-climbing.org/index.php/news/535-second-gold-of-the-week-for-garnbret-three-boulder-medals-for-team-japan-and-a-farewell-to-noguchi}}&lt;/ref&gt;
+
+[[File:BW 2012-08-26 Akiyo Noguchi JPN 0799b.JPG|thumb|Noguchi at the World Cup in [[Munich]], 2012.]]
+
+== Rankings ==
+{{See also|Best IFSC results|Akiyo Noguchi in the Climbing World Cup}}
+
+=== Climbing World Cup ===
+{| class="wikitable" style="text-align: center"
+! style="background: #b0e0e6" |
+! style="background: #b0e0e6" | 2005
+! style="background: #b0e0e6" | 2006
+! style="background: #b0e0e6" | 2007
+! style="background: #b0e0e6" | 2008
+! style="background: #b0e0e6" | 2009
+! style="background: #b0e0e6" | 2010
+! style="background: #b0e0e6" | 2011
+! style="background: #b0e0e6" | 2012
+! style="background: #b0e0e6" | 2013
+! style="background: #b0e0e6" | 2014
+! style="background: #b0e0e6" | 2015
+! style="background: #b0e0e6" | 2016
+! style="background: #b0e0e6" | 2017
+! style="background: #b0e0e6" | 2018
+! style="background: #b0e0e6" | 2019
+|-
+| align="left" | Lead
+| 42
+| 21
+| 24
+| 5
+| 11
+| 8
+| 20
+| 13
+| 7
+| 10
+| 30
+| 17
+| 15
+| 8
+| 9
+|-
+| align="left" | Bouldering
+| -
+| -
+| 6
+| style="background: silver" | 2
+| style="background: gold" | 1
+| style="background: gold" | 1
+| style="background: silver" | 2
+| style="background: silver" | 2
+| style="background: silver" | 2
+| style="background: gold" | 1
+| style="background: gold" | 1
+| 4
+| style="background: #cc9966" | 3
+| style="background: silver" | 2
+| style="background: silver" | 2
+|-
+| align="left" | Combined
+| -
+| -
+| 5
+| style="background: gold" | 1
+| style="background: gold" | 1
+| style="background: silver" | 2
+| style="background: #cc9966" | 3
+| style="background: #cc9966" | 3
+| style="background: silver" | 2
+| style="background: gold" | 1
+| style="background: silver" | 2
+| style="background: silver" | 2
+| 6
+| style="background: silver" | 2
+| style="background: silver" | 2
+|}
+&lt;ref name="IFSC Worldcups" /&gt;
+
+=== Climbing World Championships ===
+{| class="wikitable" style="text-align: center"
+! style="background: #b0e0e6" |
+! style="background: #b0e0e6" | 2005
+! style="background: #b0e0e6" | [[2007 IFSC Climbing World Championships|2007]]
+! style="background: #b0e0e6" | [[2009 IFSC Climbing World Championships|2009]]
+! style="background: #b0e0e6" | [[2011 IFSC Climbing World Championships|2011]]
+! style="background: #b0e0e6" | [[2012 IFSC Climbing World Championships|2012]]
+! style="background: #b0e0e6" | [[2014 IFSC Climbing World Championships|2014]]
+! style="background: #b0e0e6" | [[2016 IFSC Climbing World Championships|2016]]
+! style="background: #b0e0e6" | [[2018 IFSC Climbing World Championships|2018]]
+! style="background: #b0e0e6" | [[2019 IFSC Climbing World Championships|2019]]
+|-
+| align="left" | Lead
+| style="background: #cc9966" | 3
+| 11
+| 8
+| -
+| -
+| 9
+| -
+| 8
+| 5
+|-
+| align="left" | Bouldering
+| 21
+| style="background: silver" | 2
+| 5
+| 5
+| 6
+| style="background: #cc9966" | 3
+| style="background: #cc9966" | 3
+| style="background: silver" | 2
+| style="background: silver" | 2
+|-
+| align="left" | Speed
+| -
+| -
+| 31
+| -
+| -
+| -
+| -
+| 47
+| 34
+|-
+| align="left" | Combined
+| -
+| -
+| 31
+| -
+| -
+| -
+| -
+| 4
+| style="background: silver"| 2
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+[[File:Boulder Worldcup Vienna 29-05-2010b final14 Akiyo Noguchi.jpg|thumb|Noguchi at the World Cup in [[Vienna]], 2010.]]
+
+== Number of medals in the Climbing World Cup ==
+=== Lead ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "55" | Season
+! width = "55" style="background: gold;" | Gold
+! width = "55" style="background: silver;"| Silver
+! width = "55" style="background: #cc9966;"| Bronze
+! width = "55" | Total
+|-
+| 2008 ||  ||  ||1 || 1
+|-
+| 2009 ||  ||1 ||  || 1
+|-
+| 2010 ||  ||  ||2 || 2
+|-
+| 2011 ||  ||  ||  || 0
+|-
+| 2012 ||  ||  ||  || 0
+|-
+| 2013 ||  ||1 ||  || 1
+|-
+| 2014 ||  ||  ||1 || 1
+|-
+| 2015 ||  ||  ||  || 0
+|-
+| 2016 ||  ||1 ||  || 1
+|-
+| 2017 ||  ||  ||  || 0
+|-
+| 2018 ||  ||  ||1 || 1
+|-
+| 2019 ||  || 1 ||  || 1
+|-
+| 2021 ||  ||  || 1 || 1
+|-
+| '''Total''' || '''0''' || '''4''' || '''6''' || '''10'''
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+=== Bouldering ===
+{| class="wikitable" style="text-align:center;"
+|-
+! width = "55" | Season
+! width = "55" style="background: gold;" | Gold
+! width = "55" style="background: silver;"| Silver
+! width = "55" style="background: #cc9966;"| Bronze
+! width = "55" | Total
+|-
+| 2007 ||  ||2 ||1 || 3
+|-
+| 2008 ||1 ||1 ||1 || 3
+|-
+| 2009 ||3 ||1 ||1 || 5
+|-
+| 2010 ||2 ||1 ||1 || 4
+|-
+| 2011 ||4 ||1 ||  || 5
+|-
+| 2012 ||3 ||  ||  || 3
+|-
+| 2013 ||  ||3 ||2 || 5
+|-
+| 2014 ||4 ||1 ||2 || 7
+|-
+| 2015 ||1 ||3 ||  || 4
+|-
+| 2016 ||  ||1 ||2 || 3
+|-
+| 2017 ||  ||2 ||3 || 5
+|-
+| 2018 ||3 ||  ||4 || 7
+|-
+| 2019 ||  ||4 ||  || 4
+|-
+| '''Total''' || '''21''' || '''20''' || '''17''' || '''58'''
+|}
+&lt;ref name="IFSC profile" /&gt;
+
+== Rock climbing ==
+=== [[Redpoint (climbing)|Redpointed]] routes ===
+{{climbing grade|8B}}:
+:* ''Liquid Finger'' - Joyama ([[Japan|JPN]]) - December 12, 2008
+
+{{climbing grade|8C+}}:
+:* ''Mind Control'' - Oliana ([[Spain|SPN]]) - December 10, 2013
+
+=== [[Bouldering|Boulder problems]] ===
+{{Boulder grade|8A+}}
+* ''Aguni'' - Mizugaki ([[Japan|JPN]]) - November 2014.&lt;ref&gt;{{cite web|url=https://www.epictv.com/media/podcast/akiyo-noguchi-crimps-to-glory-on-aguni-v12-%7C-epictv-climbing-daily-ep-383/600745 |title=Akiyo Noguchi Crimps To Glory On 'Aguni' V12 {{!}} EpicTV Climbing Daily, Ep. 383}}&lt;/ref&gt;
+
+* ''A Maze of Death'' - Bishop ([[California|CAL]]) - 2016.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=8-LpZTk3zVM |title=Rock Trip 2016 in Bishop}}&lt;/ref&gt;
+
+{{Boulder grade|8A}}
+* ''Monsterman SD'' - Jyougasaki ([[Japan|JPN]]) - February 2010.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=8-LpZTk3zVM|title=Monsterman SD|editor=youtube}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.up-climbing.com/en/boulder/news/8a-al-femminile---noguchi-e-matthes|title=Two female 8A – Noguchi and Matthes|editor=up-climbing.com|date=February 9, 2010|access-date=December 22, 2011}}&lt;/ref&gt;
+
+* ''Evilution Direct'' - Bishop ([[California|CAL]]) - 2016.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=8-LpZTk3zVM |title=Rock Trip 2016 in Bishop}}&lt;/ref&gt;
+
+== Media ==
+Akiyo Noguchi is world renowned for her incredible technique and mobility. [[:de:Udo_Neumann|Udo Neumann]], a German climbing coach, published a video of some of her best performances throughout her career, analyzing the qualities that have allowed her to excel in climbing. This video, entitled "Factors Deciding Bouldering Comps - the Art of Akiyo Noguchi,"&lt;ref&gt;{{Citation|last=udini|title=Factors Deciding Boulder Comps - the Art of Akiyo Noguchi|url=https://www.youtube.com/watch?v=NS7ZdBS-jW0|access-date=2019-02-07}}&lt;/ref&gt; emphasizes her adaptability, which enables her to come up with unique solutions to the problems she encounters. Furthermore, her mobility allows her to do moves that elude her fellow competitors.&lt;ref&gt;{{Citation|last=OnBouldering|title=A jaw-dropping move by Akiyo Noguchi {{!}} Sunday Sends|url=https://www.youtube.com/watch?v=FfdkpjvsPDM|access-date=2019-02-07}}&lt;/ref&gt; She has also gained fame on social medias, such as Instagram, where she has over 100 thousand followers.&lt;ref&gt;{{Cite web|url=https://www.instagram.com/noguchi_akiyo/|title=NoguchiAkiyo / 野口啓代 / のぐちあきよ (@noguchi_akiyo) • Instagram photos and videos|website=www.instagram.com|language=en|access-date=2019-02-07}}&lt;/ref&gt;
+
+== See also ==
+* [[Akiyo Noguchi in the Climbing World Cup]]
+* [[IFSC Climbing World Cup]]
+* [[IFSC Climbing World Championships]]
+* [[IFSC Climbing Asian Championships]]
+
+==References==
+{{Reflist|refs=
+&lt;ref name="IFSC Worldcups"&gt;{{cite web|url=https://www.ifsc-climbing.org/index.php/world-competition/ranking|title=World Cup Rankings|editor=[[International Federation of Sport Climbing|IFSC]]|date=August 20, 2019|access-date=August 20, 2019}}&lt;/ref&gt;
+&lt;ref name="IFSC profile"&gt;{{cite web|url=https://www.ifsc-climbing.org/index.php/component/ifsc/?view=athlete&amp;id=6326|title=Noguchi's profile and rankings|editor=[[International Federation of Sport Climbing|IFSC]]|date=August 20, 2019|access-date=August 20, 2019}}&lt;/ref&gt;
+}}
+
+== External links ==
+{{Commons category}}
+{{Climber links
+ | website = http://akiyonoguchi.com
+ | ifsc = 6326
+ | 8a   = 23316
+ | climbing = 
+ | instagram = noguchi_akiyo
+ | facebook = noguchiakiyo530
+}}
+*[https://www.jma-climbing.org/athlete/profile/akiyo-noguchi/ JMSC profile]
+
+{{Portal bar|Climbing|Japan}}
+{{DEFAULTSORT:Noguchi, Akiyo}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Japanese rock climbers]]
+[[Category:Asian Games medalists in sport climbing]]
+[[Category:Sport climbers at the 2018 Asian Games]]
+[[Category:Asian Games gold medalists for Japan]]
+[[Category:Medalists at the 2018 Asian Games]]
+[[Category:Competitors at the 2017 World Games]]</text>
+      <sha1>j6921w6r6p81b7vfnjdoop70db6j79k</sha1>
+    </revision>
+  </page>
+</mediawiki>
